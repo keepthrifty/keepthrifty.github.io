@@ -1,14 +1,15 @@
+<script type="text/javascript" src="js/docready.js"></script>
+
 <header class="site-header">
   <div class="row">
     <div class="navbar-fixed">
       <nav>
         <div class="nav-wrapper">
           <div class="col s12">
-            <a class="brand-logo left" href="{{ site.baseurl }}/">{{ site.title }}</a>
-            <ul class="right">
-              <li><a class="nav-button" id="nav-log-in" href="http://www.keepthrifty.com/log_in">Log in</a></li>
-            </ul>
+            <a class="brand-logo" href="{{ site.baseurl }}/">{{ site.title }}</a>
+            <a href="#" data-activates="side-nav" class="button-collapse"><i class="material-icons">menu</i></a>
             <ul class="right hide-on-med-and-down">
+              <li><a class="nav-button" id="nav-log-in" href="http://www.keepthrifty.com/log_in">Log in</a></li>
               {% for my_page in site.pages %}
                 <li>
                   {% if my_page.title %}
@@ -18,6 +19,7 @@
               {% endfor %}
             </ul>
             <ul class="side-nav center", id="side-nav">
+              <li><a class="nav-button" id="nav-log-in" href="http://www.keepthrifty.com/log_in">Log in</a></li>
               {% for my_page in site.pages %}
                 <li>
                   {% if my_page.title %}
