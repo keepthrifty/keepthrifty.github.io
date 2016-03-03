@@ -1,11 +1,11 @@
 
 .post-card {
   &.newest-post {
-    @extend .col, .s12, .m12, .l8, .offset-l2;
+    @extend .col, .s12, .m12, .l10;
   }
 
   &.other-post {
-    @extend .col, .s12, .m12, .l6;
+    @extend .col, .s12, .m12, .l5;
   }
 
   img.post-index {
