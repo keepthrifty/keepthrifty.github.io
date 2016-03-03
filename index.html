@@ -2,18 +2,31 @@
 layout: default
 ---
 
-<div class="container">
-  <div class="row">
-    <ul>
-      {% for post in site.posts %}
-      <li>
+{% for post in site.posts %}
+  {% if forloop.first %}
+  <div class="post-card newest-post">
+  {% else %}
+  <div class="post-card other-post">
+  {% endif %}
+    <div class="card">
+      <div class="card-image">
+        <img src="{{ post.image }}" class="post-index">
+        <span class="card-title">{{ post.title }}</span>
+      </div>
+      <div class="card-date">
         <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-      {% endfor %}
-    </ul>
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+      </div>
+      <div class="card-content">
+        {{ post.excerpt }}
+        <br \>
+        <a class="read-btn" href="{{ post.url | prepend: site.baseurl }}">Read more <i class="material-icons right">arrow_forward</i></a>
+        <br \><br \>
+      </div>
+    </div>
   </div>
+{% endfor %}
+
+
+<div class="col s12 m12 l12">
+  <p class="col rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>

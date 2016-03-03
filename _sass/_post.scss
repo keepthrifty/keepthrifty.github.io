@@ -1,3 +1,38 @@
+
+.post-card {
+  &.newest-post {
+    @extend .col, .s12, .m12, .l8, .offset-l2;
+  }
+
+  &.other-post {
+    @extend .col, .s12, .m12, .l6;
+  }
+
+  img.post-index {
+    object-fit: cover;
+    height: 400px;
+  }
+
+  .card-date {
+    background-color: $primary-color;
+    color: white;
+    position: absolute;
+    padding: 10px;
+    top: -5px;
+    left: -5px;
+  }
+
+  .card-content {
+    p {
+      @extend .flow-text;
+    }
+    a.read-btn {
+      @extend .btn;
+      @extend .right;
+    }
+  }
+}
+
 img.post-header {
   width: 100%;
   height: auto;
