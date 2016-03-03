@@ -21,8 +21,14 @@ img.post-header {
 
   .post-content {
 
+    img {
+      @extend .center;
+      width: 100%;
+      height: auto;
+    }
+
     blockquote {
-      color: color("grey", "lighten-1");
+      color: color("grey", "base");
     }
 
     p, li {
