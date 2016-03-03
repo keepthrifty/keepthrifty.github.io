@@ -1,0 +1,61 @@
+img.post-header {
+  width: 100%;
+  height: auto;
+}
+
+.post-text {
+  @extend .col, .s10, .offset-s1;
+  position: relative;
+  background-color: white;
+
+  .post-meta {
+    padding: 10px;
+    margin-top: -30px;
+    background-color: $primary-color;
+    color: white;
+  }
+
+  .post-title {
+    font-size: 2.5rem;
+  }
+
+  .post-content {
+
+    blockquote {
+      color: color("grey", "lighten-1");
+    }
+
+    p, li {
+      @extend .flow-text;
+    }
+
+    h1 {
+      font-size: 2rem;
+    }
+    h2 {
+      font-size: 1.8rem;
+    }
+    h3 {
+      font-size: 1.6rem;
+    }
+    h4 {
+      font-size: 1.4rem;
+    }
+    h5 {
+      font-size: 1.2rem;
+    }
+    h6 {
+      font-size: 1.0rem;
+    }
+
+    ul {
+      list-style-type: disc;
+
+      margin-left: 20px;
+
+      li {
+        list-style-type: disc;
+      }
+    }
+  }
+}
