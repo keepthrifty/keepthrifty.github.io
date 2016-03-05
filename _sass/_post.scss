@@ -1,11 +1,11 @@
 
 .post-card {
   &.newest-post {
-    @extend .col, .s12, .m12, .l10;
+    @extend .col, .s12, .m12, .l12;
   }
 
   &.other-post {
-    @extend .col, .s12, .m12, .l5;
+    @extend .col, .s12, .m12, .l6;
   }
 
   img.post-index {
@@ -61,6 +61,11 @@ img.post-header {
       @extend .center;
       width: 100%;
       height: auto;
+    }
+
+    .image-caption {
+      @extend .center-align;
+      color: color("grey", "base");
     }
 
     blockquote {
