@@ -138,4 +138,4 @@ Head to [https://www.keepthrifty.com/product][thrifty] to try it out!
 [tim-ferriss]: http://fourhourworkweek.com/blog/
 [thrifty]: https://www.keepthrifty.com/product
 
-[paydown-chart]: /img/mortgage-paydown-chart.png "Mortgage paydown chart"
+[paydown-chart]: {{site.url}}/img/mortgage-paydown-chart.png "Mortgage paydown chart"

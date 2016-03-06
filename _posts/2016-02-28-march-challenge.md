@@ -115,4 +115,4 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [thrifty]: https://www.keepthrifty.com/product
 [tweet-link]: http://twitter.com/home/?status=@chris_durheim%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20KeepThrifty%20Experiment!
 
-[household-care-summary]: /img/household-care-feb-summary.png
+[household-care-summary]: {{site.url}}/img/household-care-feb-summary.png
