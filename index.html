@@ -17,7 +17,7 @@ layout: default
         <span>{{ post.date | date: "%b %-d, %Y" }}</span>
       </div>
       <div class="card-content">
-        <p>{{ post.excerpt | strip_html }}</p>
+        {{ post.excerpt }}
         <br \>
         <a class="read-btn" href="{{ post.url | prepend: site.baseurl }}">Read more <i class="material-icons right">arrow_forward</i></a>
         <br \><br \>
