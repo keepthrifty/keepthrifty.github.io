@@ -16,9 +16,16 @@ comments: true
       {% endfor %}
     </header>
 
-
     <div class="post-content" itemprop="articleBody">
       {{ content }}
+    </div>
+  </div>
+
+  <div class="post-wrap-up">
+    <div class="subscribe-card">
+      <div class="row">
+        {% include subscribe_form.html %}
+      </div>
     </div>
   </div>
 

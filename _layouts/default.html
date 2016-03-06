@@ -11,7 +11,11 @@
     {% include header.html %}
 
     <main>
+      {% if page.no_container %}
+      <div>
+      {% else %}
       <div class="container">
+      {% endif %}
         <div class="row">
           {{ content }}
         </div>

@@ -1,31 +1,37 @@
 ---
 layout: default
+no_container: true
 ---
-
-{% for post in site.posts %}
-  {% if forloop.first %}
-  <div class="post-card newest-post">
-  {% else %}
-  <div class="post-card other-post">
-  {% endif %}
-    <div class="card">
-      <div class="card-image">
-        <img src="{{site.url}}/{{ post.image }}" class="post-index">
-        <span class="card-title">{{ post.title }}</span>
-      </div>
-      <div class="card-date">
-        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-      </div>
-      <div class="card-content">
-        <p>{{ post.excerpt | strip_html }}</p>
-        <br \>
-        <a class="read-btn" href="{{ post.url | prepend: site.baseurl }}">Read more <i class="material-icons right">arrow_forward</i></a>
-        <br \><br \>
+<div class="main-body">
+  <h1 class="flow-text">Latest Posts</h1>
+  {% for post in site.posts %}
+    {% if forloop.first %}
+    <div class="post-card newest-post">
+    {% else %}
+    <div class="post-card other-post">
+    {% endif %}
+      <div class="card">
+        <div class="card-image">
+          <img src="{{site.url}}/{{ post.image }}" class="post-index">
+          <span class="card-title">{{ post.title }}</span>
+        </div>
+        <div class="card-date">
+          <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+        </div>
+        <div class="card-content">
+          <p>{{ post.excerpt | strip_html }}</p>
+          <br \>
+          <a class="read-btn" href="{{ post.url | prepend: site.baseurl }}">Read more <i class="material-icons right">arrow_forward</i></a>
+          <br \><br \>
+        </div>
       </div>
     </div>
-  </div>
-{% endfor %}
+  {% endfor %}
+</div>
 
+<div class="side-bar">
+  {% include subscribe_form.html %}
+</div>
 
 <div class="col s12 m12 l12">
   <p class="col rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

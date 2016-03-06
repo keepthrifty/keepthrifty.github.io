@@ -5,7 +5,7 @@
   }
 
   &.other-post {
-    @extend .col, .s12, .m12, .l6;
+    @extend .col, .s12, .m12, .l12;
   }
 
   img.post-index {
@@ -109,5 +109,12 @@ img.post-header {
         list-style-type: disc;
       }
     }
+  }
+}
+
+.post-wrap-up {
+  @extend .col, .s10, .offset-s1;
+  .subscribe-card {
+    @extend .card-panel, .hoverable;
   }
 }

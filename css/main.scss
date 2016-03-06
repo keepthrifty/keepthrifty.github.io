@@ -40,7 +40,8 @@ $secondary-color: color("blue", "accent-4") !default;
         "slider",
         "carousel",
 
-        "post"
+        "post",
+        "sidebar"
 ;
 
 body {
@@ -51,4 +52,8 @@ body {
 
 main {
   flex: 1 0 auto;
+}
+
+.main-body {
+  @extend .col, .s12, .m8, .l9;
 }
