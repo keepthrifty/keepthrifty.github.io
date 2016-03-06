@@ -102,7 +102,7 @@ Will all of these changes add up to $155 a month? We know from January that itâ€
 
 # Your Turn #
 
-Are you ready to join the challenge? Share your thoughts in the comments below or tweet me with your goals, plan, or progress!
+Are you ready to join the challenge? Share your thoughts in the comments below or [tweet me][tweet-link] with your goals, plan, or progress!
 
 [keepthrifty-experiment]: {% post_url 2016-01-01-one-word-resolution %}
 [cleaning-out-wallet]: http://www.mrmoneymustache.com/2013/12/30/are-you-cleaning-out-your-own-wallet/

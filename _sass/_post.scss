@@ -1,4 +1,4 @@
-
+// For #index rendering of posts w/ summaries
 .post-card {
   &.newest-post {
     @extend .col, .s12, .m12, .l12;
@@ -32,6 +32,8 @@
     }
   }
 }
+
+// For individual post views
 
 img.post-header {
   width: 100%;
@@ -83,6 +85,7 @@ img.post-header {
     }
     h2 {
       font-size: 1.8rem;
+      color: color("grey", "darken-2");
     }
     h3 {
       font-size: 1.6rem;
