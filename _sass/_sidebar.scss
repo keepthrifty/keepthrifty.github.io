@@ -1,3 +1,17 @@
 .side-bar {
-  @extend .col, .s12, .m4, .l3;
+  @extend .col, .s12, .m12, .l3;
+
+  .side-bar-segment {
+    @extend .col, .s6, .m6, .l12;
+
+    img.icon {
+      @media #{$small-and-down} {
+        height: 2rem;
+      }
+      @media #{$medium-and-up} {
+        height: 4rem;
+      }
+      width: auto;
+    }
+  }
 }

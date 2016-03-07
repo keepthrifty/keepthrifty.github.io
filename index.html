@@ -2,6 +2,18 @@
 layout: default
 no_container: true
 ---
+
+<div class="side-bar">
+  <div class="row">
+    <div class="side-bar-segment">
+      {% include subscribe_form.html %}
+    </div>
+    <div class="side-bar-segment">
+      {% include thrifty.html %}
+    </div>
+  </div>
+</div>
+
 <div class="main-body">
   <h1 class="flow-text">Latest Posts</h1>
   {% for post in site.posts %}
@@ -27,10 +39,6 @@ no_container: true
       </div>
     </div>
   {% endfor %}
-</div>
-
-<div class="side-bar">
-  {% include subscribe_form.html %}
 </div>
 
 <div class="col s12 m12 l12">
