@@ -15,24 +15,30 @@ no_container: true
 </div>
 
 <div class="main-body">
-  <h1 class="flow-text">Latest Posts</h1>
+  <h1 class="flow-text">
+    Latest Posts
+    <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="right">
+      <i class="material-icons small grey-text text-lighten-1">rss_feed</i>
+    </a>
+  </h1>
   {% for post in site.posts %}
     {% if forloop.first %}
     <div class="post-card newest-post">
     {% else %}
     <div class="post-card other-post">
     {% endif %}
-      <a href="{{ post.url | prepend: site.baseurl }}">
       <div class="card">
-        <div class="card-image">
-          <img src="{{ post.image }}" class="post-index">
-        </div>
-        <div class="card-date">
-          <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-        </div>
-        <div class="card-read-btn">
-          <span class="read-btn" href="{{ post.url | prepend: site.baseurl }}">Read more <i class="material-icons right">arrow_forward</i></span>
-        </div>
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <div class="card-image">
+            <img src="{{ post.image }}" class="post-index">
+          </div>
+          <div class="card-date">
+            <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+          </div>
+          <div class="card-read-btn">
+            <i class="material-icons large">arrow_forward</i>
+          </div>
+        </a>
         <div class="card-content">
           <br />
           <div class="card-title">
@@ -41,11 +47,6 @@ no_container: true
           <p>{{ post.excerpt | strip_html }}</p>
         </div>
       </div>
-      </a>
     </div>
   {% endfor %}
-</div>
-
-<div class="col s12 m12 l12">
-  <p class="col rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>

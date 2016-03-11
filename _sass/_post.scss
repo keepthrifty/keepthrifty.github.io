@@ -1,5 +1,6 @@
 // For #index rendering of posts w/ summaries
 .post-card {
+  margin-bottom: 20px;
   &.newest-post {
     @extend .col, .s12, .m12, .l12;
   }
@@ -18,17 +19,32 @@
     color: white;
     position: absolute;
     padding: 10px;
-    top: -5px;
-    left: -5px;
+    top: -10px;
+    left: -10px;
   }
 
   .card-read-btn {
-    .read-btn {
-      @extend .btn;
+    position: relative;
+
+    i.material-icons {
+      @extend .circle;
       @extend .right;
-      position: relative;
-      top: -18px;
       right: 18px;
+      position: relative;
+      top: -2rem;
+
+
+      width: 4rem;
+      height: 4rem;
+      overflow: hidden;
+      display: inline-block;
+      vertical-align: middle;
+
+      font-size: 2rem;
+      line-height: 4rem;
+      color: #fff;
+      background-color: $secondary-color;
+      text-align: center;
     }
   }
 
