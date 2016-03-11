@@ -22,14 +22,27 @@
     left: -5px;
   }
 
-  .card-content {
-    p {
-      @extend .flow-text;
-    }
+  .card-read-btn {
     a.read-btn {
       @extend .btn;
       @extend .right;
+      position: relative;
+      top: -18px;
+      right: 18px;
     }
+  }
+
+  .card-content {
+    .card-title {
+      font-size: 2.0rem;
+      line-height: 2.5rem;
+      margin-bottom: 1rem;
+      font-weight: bolder;
+    }
+    p {
+      @extend .flow-text;
+    }
+
   }
 }
 

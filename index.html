@@ -25,16 +25,19 @@ no_container: true
       <div class="card">
         <div class="card-image">
           <img src="{{ post.image }}" class="post-index">
-          <span class="card-title">{{ post.title }}</span>
         </div>
         <div class="card-date">
           <span>{{ post.date | date: "%b %-d, %Y" }}</span>
         </div>
-        <div class="card-content">
-          <p>{{ post.excerpt | strip_html }}</p>
-          <br \>
+        <div class="card-read-btn">
           <a class="read-btn" href="{{ post.url | prepend: site.baseurl }}">Read more <i class="material-icons right">arrow_forward</i></a>
-          <br \><br \>
+        </div>
+        <div class="card-content">
+          <br />
+          <div class="card-title">
+            {{ post.title }}
+          </div>
+          <p>{{ post.excerpt | strip_html }}</p>
         </div>
       </div>
     </div>
