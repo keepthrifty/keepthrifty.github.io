@@ -2,7 +2,12 @@
   @extend .col, .s12, .m12, .l3;
 
   .side-bar-segment {
-    @extend .col, .s12, .m6, .l12;
+    @extend .col, .s6, .m6, .l12;
+
+    .side-bar-content {
+      @extend .card-panel;
+      @extend .col;
+    }
 
     img.icon {
       @media #{$small-and-down} {

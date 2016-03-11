@@ -149,4 +149,8 @@ img.post-header {
   .subscribe-card {
     @extend .card-panel, .hoverable;
   }
+
+  .post-wrap-up-segment {
+    @extend .col, .s10, .offset-s1;
+  }
 }
