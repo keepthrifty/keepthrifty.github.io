@@ -1,57 +1,39 @@
 ---
-layout: default
+layout: page
 no_container: true
 ---
-
-<div class="side-bar">
-  <div class="row">
-    <div class="side-bar-segment">
-      <div class="side-bar-content">
-        {% include subscribe_form.html %}
-      </div>
-    </div>
-    <div class="side-bar-segment">
-      <div class="side-bar-content">
-        {% include thrifty.html %}
+<h1 class="flow-text">
+  Latest Posts
+  <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="right">
+    <i class="material-icons small grey-text text-lighten-1">rss_feed</i>
+  </a>
+</h1>
+{% for post in site.posts %}
+  {% if forloop.first %}
+  <div class="post-card newest-post">
+  {% else %}
+  <div class="post-card other-post">
+  {% endif %}
+    <div class="card">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <div class="card-image">
+          <img src="{{ post.image }}" class="post-index">
+        </div>
+        <div class="card-date">
+          <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+        </div>
+        <div class="card-read-btn">
+          <i class="material-icons large">arrow_forward</i>
+        </div>
+      </a>
+      <div class="card-content">
+        <div class="card-title">
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+          </a>
+        </div>
+        <p>{{ post.excerpt | strip_html }}</p>
       </div>
     </div>
   </div>
-</div>
-
-<div class="main-body">
-  <h1 class="flow-text">
-    Latest Posts
-    <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="right">
-      <i class="material-icons small grey-text text-lighten-1">rss_feed</i>
-    </a>
-  </h1>
-  {% for post in site.posts %}
-    {% if forloop.first %}
-    <div class="post-card newest-post">
-    {% else %}
-    <div class="post-card other-post">
-    {% endif %}
-      <div class="card">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <div class="card-image">
-            <img src="{{ post.image }}" class="post-index">
-          </div>
-          <div class="card-date">
-            <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-          </div>
-          <div class="card-read-btn">
-            <i class="material-icons large">arrow_forward</i>
-          </div>
-        </a>
-        <div class="card-content">
-          <div class="card-title">
-            <a href="{{ post.url | prepend: site.baseurl }}">
-              {{ post.title }}
-            </a>
-          </div>
-          <p>{{ post.excerpt | strip_html }}</p>
-        </div>
-      </div>
-    </div>
-  {% endfor %}
-</div>
+{% endfor %}

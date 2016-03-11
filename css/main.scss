@@ -58,4 +58,8 @@ main {
 
 .main-body {
   @extend .col, .s12, .m12, .l9;
+
+  p {
+    @extend .flow-text;
+  }
 }
