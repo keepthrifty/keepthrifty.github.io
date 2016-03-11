@@ -40,9 +40,10 @@ no_container: true
           </div>
         </a>
         <div class="card-content">
-          <br />
           <div class="card-title">
-            {{ post.title }}
+            <a href="{{ post.url | prepend: site.baseurl }}">
+              {{ post.title }}
+            </a>
           </div>
           <p>{{ post.excerpt | strip_html }}</p>
         </div>

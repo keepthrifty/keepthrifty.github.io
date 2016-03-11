@@ -2,7 +2,7 @@
   @extend .col, .s12, .m12, .l3;
 
   .side-bar-segment {
-    @extend .col, .s6, .m6, .l12;
+    @extend .col, .s12, .m6, .l12;
 
     img.icon {
       @media #{$small-and-down} {
