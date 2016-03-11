@@ -4,7 +4,9 @@ comments: true
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  {% if page.image %}<img src="{{ page.image }}" class="post-header" />{% endif %}
+  <div class="post-header">
+    {% if page.image %}<img src="{{ page.image }}" class="post-header-image" />{% endif %}
+  </div>
 
   <div class="post-text">
     <header class="post-info">

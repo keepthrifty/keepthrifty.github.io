@@ -64,10 +64,16 @@
 }
 
 // For individual post views
+.post-header {
+  @extend .center;
 
-img.post-header {
-  width: 100%;
-  height: auto;
+  img.post-header-image {
+    width: 100%;
+    height: auto;
+    max-height: 60vh;
+    object-fit: cover;
+    object-position: center center;
+  }
 }
 
 .post-text {
