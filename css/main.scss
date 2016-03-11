@@ -10,6 +10,8 @@ $primary-color: color("light-green", "darken-3") !default;
 
 $secondary-color: color("blue", "accent-4") !default;
 
+$off-white: rgba(255, 255, 255, 0.87) !default;
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "prefixer",

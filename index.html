@@ -22,6 +22,7 @@ no_container: true
     {% else %}
     <div class="post-card other-post">
     {% endif %}
+      <a href="{{ post.url | prepend: site.baseurl }}">
       <div class="card">
         <div class="card-image">
           <img src="{{ post.image }}" class="post-index">
@@ -30,7 +31,7 @@ no_container: true
           <span>{{ post.date | date: "%b %-d, %Y" }}</span>
         </div>
         <div class="card-read-btn">
-          <a class="read-btn" href="{{ post.url | prepend: site.baseurl }}">Read more <i class="material-icons right">arrow_forward</i></a>
+          <span class="read-btn" href="{{ post.url | prepend: site.baseurl }}">Read more <i class="material-icons right">arrow_forward</i></span>
         </div>
         <div class="card-content">
           <br />
@@ -40,6 +41,7 @@ no_container: true
           <p>{{ post.excerpt | strip_html }}</p>
         </div>
       </div>
+      </a>
     </div>
   {% endfor %}
 </div>
