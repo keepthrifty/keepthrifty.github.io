@@ -1,20 +1,24 @@
 ---
 layout: default
-no_container: true
 ---
-
 <div class="side-bar">
   <div class="row">
     <div class="side-bar-segment">
       <div class="side-bar-content">
-        {% include subscribe_form.html %}
+        {% include subscribe.html %}
       </div>
     </div>
-    <div class="side-bar-segment">
+    <div class="side-bar-segment hide-on-small-only">
+      <div class="side-bar-content">
+        {% include about.html %}
+      </div>
+    </div>
+    <div class="side-bar-segment hide-on-small-only">
       <div class="side-bar-content">
         {% include thrifty.html %}
       </div>
     </div>
+
   </div>
 </div>
 

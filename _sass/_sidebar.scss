@@ -2,7 +2,7 @@
   @extend .col, .s12, .m12, .l3;
 
   .side-bar-segment {
-    @extend .col, .s6, .m6, .l12;
+    @extend .col, .s12, .m4, .l12;
 
     .side-bar-content {
       @extend .card-panel;
@@ -17,6 +17,8 @@
         height: 4rem;
       }
       width: auto;
+      padding-right: 10px;
+      padding-left: 10px;
     }
   }
 }
