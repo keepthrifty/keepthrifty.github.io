@@ -2,7 +2,13 @@
   @extend .col, .s12, .m12, .l3;
 
   .side-bar-segment {
-    @extend .col, .s12, .m4, .l12;
+    &.normal {
+      @extend .col, .s12, .m6, .l12;
+    }
+
+    &.big {
+      @extend .col, .s12, .m12, .l12;
+    }
 
     .side-bar-content {
       @extend .card-panel;
