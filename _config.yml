@@ -17,3 +17,6 @@ twitter_username: chris_durheim
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
