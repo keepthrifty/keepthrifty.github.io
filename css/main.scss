@@ -63,3 +63,8 @@ main {
     @extend .flow-text;
   }
 }
+
+.page-image {
+  @extend .left;
+  padding-right: 10px;
+}
