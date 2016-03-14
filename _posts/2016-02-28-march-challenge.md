@@ -114,7 +114,7 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [hankybooks]: http://hankybook.com/
 [light-bulb-showdown]: http://www.thesimpledollar.com/the-light-bulb-showdown-leds-vs-cfls-vs-incandescent-bulbs-whats-the-best-deal-now-and-in-the-future/
 [save-big-on-diapers]: http://thethriftycouple.com/2014/01/13/8-tips-to-save-big-money-on-diapers/
-[thrifty]: https://www.keepthrifty.com/product
+[thrifty]: http://tools.keepthrifty.com/
 [tweet-link]: http://twitter.com/home/?status=@chris_durheim%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20KeepThrifty%20Experiment!
 
 [household-care-chart]: {{site.url}}/img/household-care-feb.png

@@ -59,4 +59,4 @@ Are you ready? Look forward to the first challenge coming out on Sunday, Februar
 [challenge-everything]: http://www.madfientist.com/budgets-are-sexy-interview/
 [budgets-are-sexy]: http://www.budgetsaresexy.com/challenge-everything/
 [tweet-your-plan]: https://twitter.com/intent/tweet?text=I%27m%20going%20to%20Keep%20Thrifty%20this%20month!%20@chris_durheim
-[thrifty]: https://www.keepthrifty.com/product
+[thrifty]: https://tools.keepthrifty.com/

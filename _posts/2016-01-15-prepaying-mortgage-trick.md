@@ -122,7 +122,7 @@ Just click the link below, sign in to Google and confirm you want to create your
 If you want help staying disciplined and keeping a continuous focus on minimizing your spending, I created a tool to help you do just that.
 
 Track all your spending purchase-by-purchase so you know where your money is going. Then pick a category to improve on and watch your progress. Are you ready to get Thrifty?
-Head to [https://www.keepthrifty.com/product][thrifty] to try it out!
+Head to [http://tools.keepthrifty.com/][thrifty] to try it out!
 
 [one-third-mortgage-free]: http://fivethirtyeight.com/datalab/how-many-homeowners-have-paid-off-their-mortgages/
 [average-age-first-time-home]: http://nationalmortgageprofessional.com/news/55433/zillow-average-first-time-homebuyer-33-years-age
@@ -136,6 +136,6 @@ Head to [https://www.keepthrifty.com/product][thrifty] to try it out!
 [art-of-simple]: http://theartofsimple.net/
 [becoming-minimalist]: http://www.becomingminimalist.com/
 [tim-ferriss]: http://fourhourworkweek.com/blog/
-[thrifty]: https://www.keepthrifty.com/product
+[thrifty]: http://tools.keepthrifty.com/
 
 [paydown-chart]: {{site.url}}/img/mortgage-paydown-chart.png "Mortgage paydown chart"
