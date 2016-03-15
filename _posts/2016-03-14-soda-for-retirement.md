@@ -112,9 +112,9 @@ If a $30/month reduction now can benefit $102,000 at retirement, what would happ
 
 This post isn't really about soda - it's about the big power of small changes in your financial habits.
 
-With that in mind, I ask you this:
+Knowing what kind of impact small changes can have on long-term finances, here's the question for you:
 
-_What is one recurring expense that you could really live without now that you know what kind of impact it can have on your long-term finances?_
+_What is one recurring expense that you could really live without?_
 
 [Tweet me][tweet-me], comment below, or email me at chris (at) keepthrifty.com - I'd love to hear from you and cheer you on!
 
