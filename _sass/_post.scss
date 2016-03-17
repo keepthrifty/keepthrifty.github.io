@@ -150,6 +150,25 @@
   }
 }
 
+.post-navigation {
+  @extend .col, .s12;
+
+  .previous-post {
+    @extend .col, .s6;
+    a {
+      @extend .left;
+      @extend .left-align;
+    }
+  }
+  .next-post {
+    @extend .col, .s6;
+    a {
+      @extend .right;
+      @extend .right-align;
+    }
+  }
+}
+
 .post-wrap-up {
   @extend .col, .s10, .offset-s1;
   .subscribe-card {
