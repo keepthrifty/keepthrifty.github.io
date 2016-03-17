@@ -68,3 +68,8 @@ main {
   @extend .left;
   padding-right: 10px;
 }
+
+.nav-button {
+  @extend .btn;
+  @extend .white-text;
+}
