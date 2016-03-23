@@ -108,7 +108,7 @@ I paid $6,000 for the ring in 2006 and sold it for just $1,900 in 2016. For thos
 * Think about your long-term goals as a couple first - the important thing is the commitment itself, not the price tag on the ring. What other goals could you achieve together by agreeing to spend less on the engagement ring?
 * Rings from a fancy store carry the same marketing/branding premium as clothes from a fancy store or furniture from a fancy store; I probably could have gotten the same ring elsewhere for significantly less.
 
-I don't regret buying this ring for my wife as it was a part of our journey to where we are today. That said, I really happy with our decision to sell it and use that money for something that aligns with our current goals.
+I don't regret buying this ring for my wife as it was a part of our journey to where we are today. That said, I'm really happy with our decision to sell it and use that money for something that aligns with our current goals.
 
 # What's your real dream?
 
