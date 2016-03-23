@@ -89,7 +89,7 @@ I married a minimalist badass who can see the path to her goals more clearly tha
 
 # Where the money is going #
 
-By selling the ring, we have more money to do the remodeling necessary to sell our house. When we sell our house, we'll downsize into something smaller and will hopefully be able to purchase that house without mortgage-free.
+By selling the ring, we have more money to do the remodeling necessary to sell our house. When we sell our house, we'll downsize into something smaller and will hopefully be able to purchase that house mortgage-free.
 
 By having no mortgage and saving on electricity, property tax, insurance, and all the expenses that are proportional to the size of your house, our financial needs become much smaller.
 
