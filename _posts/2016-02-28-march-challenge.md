@@ -106,7 +106,7 @@ Will all of these changes add up to $155 a month? We know from January that itâ€
 
 Are you ready to join the challenge? Share your thoughts in the comments below or [tweet me][tweet-link] with your goals, plan, or progress!
 
-[keepthrifty-experiment]: {% post_url 2016-01-01-one-word-resolution %}
+[keepthrifty-experiment]: {% post_url 2016-02-22-keepthrifty-experiment %}
 [cleaning-out-wallet]: http://www.mrmoneymustache.com/2013/12/30/are-you-cleaning-out-your-own-wallet/
 [google-baking-soda-vinegar]: https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=cleaning%20with%20baking%20soda%20and%20vinegar
 [zero-waste-bathroom]: http://www.zerowastehome.com/2010/01/zero-waste-bathroom.html
