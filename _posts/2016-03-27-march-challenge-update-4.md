@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 4 Results"
-date:   2016-03-27 18:30:00 -0500
+date:   2016-03-27 15:30:00 -0500
 author: Chris Durheim
 author_email: chris@keepthrifty.com
 image: /img/makeup-brush.jpg
