@@ -26,6 +26,6 @@ You asked and I delivered - here's the full list of KeepThrifty posts in one spo
 	      {% endif %}
 	    {% endunless %}
 
-	    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	    <li><a class="flow-text" href="{{ post.url }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
