@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "KeepThrifty Experiment April 2016 — Challenge: Grocery"
-date:   2016-03-28 07:00:00 -0500
+date:   2016-03-28 08:00:00 -0500
 author: Chris Durheim
 author_email: chris@keepthrifty.com
 image: /img/grocery-bananas.jpg
