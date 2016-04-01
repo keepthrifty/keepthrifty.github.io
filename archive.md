@@ -14,18 +14,21 @@ no_container: true
 
 You asked and I delivered - here's the full list of KeepThrifty posts in one spot so you can make sure you don't miss any morsels.
 
-<ul>
-	  {% for post in site.posts %}
-	    {% unless post.next %}
-	      <h3 class="flow-text">{{ post.date | date: '%B %Y' }}</h3>
-	    {% else %}
-	      {% capture year %}{{ post.date | date: '%B %Y' }}{% endcapture %}
-	      {% capture nyear %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
-	      {% if year != nyear %}
-	        <h3 class="flow-text">{{ post.date | date: '%B %Y' }}</h3>
-	      {% endif %}
-	    {% endunless %}
-
-	    <li><a class="flow-text" href="{{ post.url }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+<div class="container">
+  <div class="collection with-header">
+    {% for post in site.posts %}
+      {% unless post.next %}
+        <h3 class="collection-header">{{ post.date | date: '%B %Y' }}</h3>
+      {% else %}
+        {% capture year %}{{ post.date | date: '%B %Y' }}{% endcapture %}
+        {% capture nyear %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
+        {% if year != nyear %}
+          <h3 class="collection-header">{{ post.date | date: '%B %Y' }}</h3>
+        {% endif %}
+      {% endunless %}
+      <a class="collection-item" href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    {% endfor %}
+  </div>
+</div>

@@ -73,3 +73,24 @@ main {
   @extend .btn;
   @extend .white-text;
 }
+
+ul.post-list {
+  li {
+    list-style-type: disc;
+    margin-left: 2rem;
+  }
+}
+
+.collection {
+  &.with-header {
+    .collection-header {
+      @extend .flow-text;
+      color: white;
+      background-color: $primary-color;
+      margin-bottom: 0px;
+      margin-top: 0px;
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+    }
+  }
+}
