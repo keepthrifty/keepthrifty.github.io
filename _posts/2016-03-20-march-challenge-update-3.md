@@ -5,6 +5,7 @@ date:   2016-03-20 8:30:00 -0600
 author: Chris Durheim
 author_email: chris@keepthrifty.com
 image: /img/coffee-jars.jpg
+category: challenge
 ---
 
 We're through week three of the [March challenge][march-challenge-post] and lookin' good!

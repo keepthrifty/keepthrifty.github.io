@@ -5,6 +5,7 @@ date:   2016-03-28 08:00:00 -0500
 author: Chris Durheim
 author_email: chris@keepthrifty.com
 image: /img/grocery-bananas.jpg
+category: challenge
 ---
 
 > The [KeepThrifty Experiment][keepthrifty-experiment] is a challenge to help you sustainably reduce your spending by targeting one new category each month. Over the course of a year, you’ll find the difference between your income and expenses growing — leaving you with more money to put toward your goals.

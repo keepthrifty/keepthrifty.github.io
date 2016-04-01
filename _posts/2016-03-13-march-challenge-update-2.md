@@ -5,6 +5,7 @@ date:   2016-03-13 06:00:00 -0600
 author: Chris Durheim
 author_email: chris@keepthrifty.com
 image: /img/jars.jpg
+category: challenge
 ---
 
 Results for the second week of the [March challenge][march-challenge-post] are in.

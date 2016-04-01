@@ -5,6 +5,7 @@ date:   2016-03-27 15:30:00 -0500
 author: Chris Durheim
 author_email: chris@keepthrifty.com
 image: /img/makeup-brush.jpg
+category: challenge
 ---
 
 Week 4 of the March challenge is in the books - how's your month going?

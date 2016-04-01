@@ -5,6 +5,7 @@ date:   2016-02-28 06:00:00 -0600
 author: Chris Durheim
 author_email: chris@keepthrifty.com
 image: /img/laundromat-jump.jpg
+category: challenge
 ---
 
 > The KeepThrifty Experiment is a challenge to help you sustainably reduce your spending by targeting one new category each month. Over the course of a year, you’ll find the difference between your income and expenses growing — leaving you with more money to put toward your goals.
