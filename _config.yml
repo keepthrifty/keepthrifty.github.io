@@ -22,6 +22,9 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/pg:num/"
 
+# Category definitions
+page_categories: [mortgages]
+
 gems:
   - jekyll-sitemap
   - jekyll-paginate
