@@ -7,7 +7,68 @@ author_email: chris@keepthrifty.com
 image: /img/old-bank.jpg
 ---
 
-We bought our house almost right at the peak of the housing bubble in 2007. At the time, our mortgage terms were pretty amazing - 6.625% for a 30-year fixed mortgage was much better than the double-digit rates of the early 80's.
+When we first bought our house in 2007, we committed to pay $450,000 total between down payment and our 30 years of mortgage payments. Given that the purchase price of our house was $220,000, I knew this was a huge opportunity for optimizing.
+
+> For this article, I'll be looking at fixed mortgages (30 and 15-year) only. Adjustable or interest-only mortgages are a whole different beast that are best avoided (in my opinion) :)
+
+# How does $220,000 turn into $450,000? #
+
+For our home purchase, we paid down 20%, leaving us with a $175,900 mortgage. At 6.625% for a 30-year fixed mortgage, the total interest paid is $229,570. That's right - the total interest is _more_ than the actual purchase price of the house.
+
+Such is the nature of buying things you don't have the money for.
+
+> A side note: this is at 6.625% which was some of the best rates seen in the US. In the 80's, rates climbed into the ___teens___. If my mortgage had been at 14%, the total interest would have been $575,000!
+
+## Total cost: $449,450 ##
+
+Here's the breakdown of how we get to $449,450:
+
+- Down Payment: $43,980
+- Mortgage: $405,470
+  - Principal payments: $175,900
+  - Interest payments: $229,570
+
+The only flexible piece here is the interest payments. The down payment and principal payments cover the purchase price; the interest is the price I pay for the right to buy my home before I can pay for the whole thing.
+
+# Methods to drop your total cost #
+
+Based on this, there are really only a couple ways to drop your total mortgage cost - getting a lower rate, making additional principal payments, or a shorter loan. Here's how each works:
+
+## Refinancing with a lower rate ##
+
+Refinancing is working with a bank to "re-do" your mortgage. If interest rates have dropped this can significantly reduce your total interest payments as a lower rate means less interest payment every month.
+
+That said, re-doing your mortgage doesn't just reset your rate, it also resets your payment calendar. That is, if you are 10 years into a 30 year mortgage when you re-finance you reset the clock and have another 30 years of mortgage payments ahead of you.
+
+One other caveat here is that refinancing isn't free - you have to pay fees to get a new loan and this can be hundreds or thousands of dollars.
+
+In general, our philosophy has been that refinancing makes sense if there's a significant enough drop in the interest rate. To offset the calendar reset, we then look at applying prepayments:
+
+## Making additional principal payments (prepaying) ##
+
+Every month you make a mortgage payment, the bank divides your payment into two buckets:
+
+- Interest payment (the cost of having the loan)
+- Principal payment (reducing the amount of money you still owe the bank)
+
+When you first get your loan, the amount you pay each month to the bank is fixed based on a formula. Each month, your money divides into the two buckets predictably:
+
+    Interest Portion = Outstanding Principal * Mortgage Rate / 12
+    Toward Principal = Total Payment - Interest Portion
+
+For our original mortgage, we had a payment of $1126.31 per month. In the first month, that works out to:
+
+    Interest Portion = $175,900 * 6.625% / 12 = $971.11
+    Toward Principal = $1126.31 - $971.11 = $155.19
+
+With our first payment, we drop our outstanding mortgage by $155.19 to $175,744.81; then the next month looks like this:
+
+    Interest Portion = $175,744.81 * 6.625% / 12 = $970.26
+    Toward Principal = $1126.31 - $970.26 = $156.05
+
+## Refinancing with a shorter loan ##
+
+# Our moves #
 
 # Pathway to purchase #
 

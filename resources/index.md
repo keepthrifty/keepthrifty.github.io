@@ -16,7 +16,7 @@ Personal finance is a broad term that covers a lot of areas and each area has a 
       {% if page.categories contains category %}
         <p>
           <a href="{{ page.url }}">
-            {{page.title}} - {{page.categories}}
+            {{page.title}}
           </a>
         </p>
       {% endif %}
