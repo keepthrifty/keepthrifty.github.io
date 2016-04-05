@@ -94,10 +94,3 @@ ul.post-list {
     }
   }
 }
-
-code {
-  @extend .center;
-  @extend .grey, .lighten-3;
-
-  padding: 2rem;
-}

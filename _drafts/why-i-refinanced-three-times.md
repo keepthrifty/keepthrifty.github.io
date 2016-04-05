@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Why I refinanced 3 times on the same house
-date:   2016-04-01 15:30:00 -0500
 author: Chris Durheim
 author_email: chris@keepthrifty.com
 image: /img/old-bank.jpg
@@ -46,25 +45,7 @@ In general, our philosophy has been that refinancing makes sense if there's a si
 
 ## Making additional principal payments (prepaying) ##
 
-Every month you make a mortgage payment, the bank divides your payment into two buckets:
 
-- Interest payment (the cost of having the loan)
-- Principal payment (reducing the amount of money you still owe the bank)
-
-When you first get your loan, the amount you pay each month to the bank is fixed based on a formula. Each month, your money divides into the two buckets predictably:
-
-    Interest Portion = Outstanding Principal * Mortgage Rate / 12
-    Toward Principal = Total Payment - Interest Portion
-
-For our original mortgage, we had a payment of $1126.31 per month. In the first month, that works out to:
-
-    Interest Portion = $175,900 * 6.625% / 12 = $971.11
-    Toward Principal = $1126.31 - $971.11 = $155.19
-
-With our first payment, we drop our outstanding mortgage by $155.19 to $175,744.81; then the next month looks like this:
-
-    Interest Portion = $175,744.81 * 6.625% / 12 = $970.26
-    Toward Principal = $1126.31 - $970.26 = $156.05
 
 ## Refinancing with a shorter loan ##
 

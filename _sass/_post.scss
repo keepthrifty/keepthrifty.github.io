@@ -148,6 +148,13 @@
       }
     }
   }
+
+  a.anchor:target {
+    padding-top: 6rem;
+  }
+  a.anchor {
+    color: inherit;
+  }
 }
 
 .post-navigation {
