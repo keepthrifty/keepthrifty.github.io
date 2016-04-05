@@ -9,12 +9,15 @@ image: /img/calculator.jpg
 
 If you're going to commit to paying hundreds of thousands of dollars on something, shouldn't you understand the math involved?
 
-If you know how to break down your mortgage payments into their parts (principal and interest), you can probably skip this post. We'll get to more advanced concepts in another post :)
+I've been wanting to write a post about our "mortgage journey" and how we're on-track to save $160,000 on our mortgage through some powerful tactics.
 
-This post will give you the basics of the math behind mortgages. As a case example, we'll use the first mortgage we got on our house so you can see the numbers in action.
+As I got started on that one, I realized that I didn't have a resource to point readers to in case they weren't comfortable with the math behind mortgage principal and interest.
 
-> This post focuses on "standard" fixed mortgages; there are other flavors out there, but those go beyond "Mortgage Math 101".
-> I recommend sticking with fixed mortgages unless you understand the math behind the others and really know what you're getting yourself into.
+So, this post is the fix to that - this should help you understand the math behind mortgages so you can be a savvy consumer :)
+
+As a case example, we'll use the first mortgage we got on our house so you can see the numbers in action.
+
+__Disclaimer:__ _If you are either super comfortable with the math behind mortgages or have absolutely no interest in understanding how principal and interest are calculated, feel free to skip this post and keep an eye out for the next one :)_
 
 # What is a mortgage? #
 
@@ -78,7 +81,15 @@ _Our loan amount was $175,900 ($219,900 - $44,000)_
 
 ## Interest Rate ##
 
-Interest is the money the bank charges you for the right to have the loan. You can calculate your interest using the interest rate. You can see how to do this later in the post.
+Interest is the money the bank charges you for the right to have the loan.
+
+Interest is commonly expressed as an annual interest rate usually in increments of 0.125% (an eighth of a percent).
+
+The rate stated on mortgages is usually an annual "non-compounding" rate.
+
+That said, most mortgage calculations are done on a monthly basis (i.e. for a monthly payment), so you'll sometimes see this get divided by 12 to get a monthly rate.
+
+> Note: if your mortgage is quoted with an "APR", this is NOT the annual non-compounding rate; see if you can find the non-compounded rate in the documentation (typically something just a bit lower than the stated APR).
 
 _Our interest rate was 6.625%_
 
@@ -90,7 +101,9 @@ Mortgages come in lots of flavors, but the three major types are:
 - __ARM (Adjustable Rate Mortgage)__: typically expressed in terms like "5/1" or "10/1", the interest rate is locked in for the first 5 years or 10 years (respectively) and then is updated each 1 year after that
 - __Interest only__: you pay only for the interest in your normal payments - you don't pay down the amount you owe. Buyer beware - that means you don't own any more of your home after 1 year of payments than you did at the start!
 
-_Our mortgage was a fixed mortgage_
+ARMs and Interest only mortgages are well beyond "Mortgage Math 101" and carry different risks, so let's leave them for another day.
+
+_Thankfully, our mortgage was a fixed mortgage_
 
 ## Term ##
 
@@ -128,6 +141,8 @@ The money is divided based on these formulas:
 >
 > Toward Principal = Total Payment - Interest Portion
 
+This interest portion is where you see the annual rate get converted into a monthly rate by dividing by 12 as we talked about in the interest section above.
+
 ### Example - Our First Payment ###
 
 For our original mortgage, we had a payment of $1126.31 per month. In the first month, that works out to:
@@ -148,7 +163,7 @@ With our first payment, we dropped our outstanding mortgage by $155.20 to $175,7
 >
 > Toward Principal = $1126.31 - $970.26 = $156.05
 
-Note that the amount going toward principal is a bit higher in the second month.
+Note that the amount going toward principal is a bit higher in the second month - from $155.20 to $156.05.
 
 Over the life of your loan, the proportion of each payment applied to principal (the good stuff) increases every month.
 
@@ -168,7 +183,7 @@ To take a peek, here's a Google Drive spreadsheet with the amortization table fo
 
 If you go into the calculator, you'll notice one important number summarized near the top - "Total Interest + Principal".
 
-This number shows how much total money you'll pay over the life of the loan when you include all of the principal an interest payments.
+This number shows how much total money you'll pay over the life of the loan when you include all of the principal and interest payments.
 
 As you can see, for a roughly $176,000 loan, you're paying $405,000. Sure, it's spread out over 30 years, but that's quite the mark-up!
 
@@ -180,9 +195,15 @@ One thing I glossed over was how to calculate the monthly payment.
 
 Admittedly, that was on purpose; the actual mathematical formula is a bit gnarly and I didn't want to scare anyone off.
 
-The good news is that Microsoft Excel, Google Drive, and other spreadsheet software hide the details and let you just plug the numbers in.
+Here are three ways you can figure out what your mortgage payment is (in order from easiest to most complex):
 
-In spreadsheet formulas, you can get the payment by doing this:
+### Google it ###
+
+Thankfully, there are lots of free mortgage payment calculators online. Google's got a nice easy one [here][google-mortgage-calculator]
+
+### Spreadsheet formula ###
+
+Microsoft Excel, Google Drive, and other spreadsheet software give an easy formula to use compute a monthly mortgage payment:
 
 =PMT(r / 12, N * 12, -P)
 
@@ -196,7 +217,7 @@ So, in our case, that's:
 
 =PMT(6.625% / 12, 30 * 12, -175900)
 
-If you're not comfortable in spreadsheets, there are lots of free mortgage payment calculators online. Google's got a nice easy one [here][google-mortgage-calculator]
+### Manual calculation ###
 
 If you're a glutton for punishment, you can pull out a calculator and do the math manually with this formula (substitute the same as above).
 
@@ -212,11 +233,11 @@ At this point, you should have a good understanding of where the numbers in your
 
 More specifically, you should understand how to figure out your monthly payment and how that payment gets broken down into principal and interest.
 
-Now that we've laid the foundation, you should be all set up for my next post where  I'll show some methods you can use to reduce your total cost once you've already got a mortgage signed.
+Now that we've laid the foundation, you should be all set up for my next post where  I'll show how we are on-track to save $160,000 on our mortgage through applying some cool tactics.
 
-Thanks for following along; I hope this article helped clear up some of the questions you've had on mortgages.
+If you've got any questions, feel free to [tweet][tweet-me], comment below, or e-mail me at chris (at) keepthrifty (dot) com.
 
-If not, or if anything is unclear, feel free to [tweet][tweet-me], comment below, or e-mail me at chris (at) keepthrifty (dot) com.
+Stay tuned!
 
 [one-third-mortgage-free]: http://fivethirtyeight.com/datalab/how-many-homeowners-have-paid-off-their-mortgages/
 [amortization-calculator]: https://docs.google.com/spreadsheets/d/1Odx9YVPxD-dE2Q90hBeQYqGnvYkYuKLWRm_skWrZOOk/edit?usp=sharing
