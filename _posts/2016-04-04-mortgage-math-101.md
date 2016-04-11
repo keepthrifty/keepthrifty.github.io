@@ -233,7 +233,7 @@ At this point, you should have a good understanding of where the numbers in your
 
 More specifically, you should understand how to figure out your monthly payment and how that payment gets broken down into principal and interest.
 
-Now that we've laid the foundation, you should be all set up for my next post where  I'll show how we are on-track to save $160,000 on our mortgage through applying some cool tactics.
+Now that we've laid the foundation, you should be all set up for my next post where I'll show how we are on-track to [save $160,000 on our mortgage][save-on-mortgage] through applying some cool tactics.
 
 If you've got any questions, feel free to [tweet][tweet-me], comment below, or e-mail me at chris (at) keepthrifty (dot) com.
 
@@ -243,6 +243,7 @@ Stay tuned!
 [amortization-calculator]: https://docs.google.com/spreadsheets/d/1Odx9YVPxD-dE2Q90hBeQYqGnvYkYuKLWRm_skWrZOOk/edit?usp=sharing
 [google-mortgage-calculator]: https://www.google.com/#safe=active&q=mortgage+payment+calculator
 [tweet-me]: http://www.twitter.com/chris_durheim
+[save-on-mortgage]: {% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
 
 [mortgage-formula]: /img/monthly-payment.jpg
 [amortization-table]: /img/amortization-table.png
