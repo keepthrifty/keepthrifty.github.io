@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 2 Results"
-date:   2016-03-13 06:00:00 -0600
+date:   2016-03-13
 author: Chris Durheim
 author_email: chris@keepthrifty.com
 image: /img/jars.jpg
 category: challenge
+redirect_from:
+  - /challenge/2016/03/13/update-2.html
 ---
 
 Results for the second week of the [March challenge][march-challenge-post] are in.
@@ -26,8 +28,8 @@ Still going strong here - the glass spice jar is an investment in our continuing
 
 Hope you're on track as well. Find me on [twitter][twitter-profile] and let me know how you're doing!
 
-[march-challenge-post]: {% post_url 2016-02-28-march-challenge %}
-[last-week-post]: {% post_url 2016-03-06-march-challenge-update-1 %}
+[march-challenge-post]: /challenge/2016-03-household-care/
+[last-week-post]: /challenge/2016-03-household-care/update-1.html
 [twitter-profile]: http://www.twitter.com/chris_durheim
 
 [march-week-2-summary]: /img/march-2016-w2-summary.png

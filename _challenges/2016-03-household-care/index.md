@@ -1,14 +1,24 @@
 ---
 layout: post
 title:  "KeepThrifty Experiment March 2016 — Challenge: Household Care"
-date:   2016-02-28 06:00:00 -0600
+date:   2016-02-28
+timeline: March 2016
 author: Chris Durheim
 author_email: chris@keepthrifty.com
 image: /img/laundromat-jump.jpg
 category: challenge
+redirect_from:
+  - /challenge/2016/02/28/march-challenge.html
 ---
 
-> The KeepThrifty Experiment is a challenge to help you sustainably reduce your spending by targeting one new category each month. Over the course of a year, you’ll find the difference between your income and expenses growing — leaving you with more money to put toward your goals.
+> The March challenge is over! Here's the full set of update/results posts:
+>
+>   - [Week 1 update][week-1-update]
+>   - [Week 2 update][week-2-update]
+>   - [Week 3 update][week-3-update]
+>   - [Week 4 update][week-4-update]
+>   - [Final results][final-results]
+
 
 Thrifters,
 
@@ -120,3 +130,9 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 
 [household-care-chart]: {{site.url}}/img/household-care-feb.png
 [household-care-summary]: {{site.url}}/img/household-care-feb-summary.png
+
+[week-1-update]: /challenges/2016-03-household-care/update-1.html
+[week-2-update]: /challenges/2016-03-household-care/update-2.html
+[week-3-update]: /challenges/2016-03-household-care/update-3.html
+[week-4-update]: /challenges/2016-03-household-care/update-4.html
+[final-results]: /challenges/2016-03-household-care/update-5.html

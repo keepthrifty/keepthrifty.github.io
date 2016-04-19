@@ -1,14 +1,19 @@
 ---
 layout: post
 title:  "KeepThrifty Experiment April 2016 — Challenge: Grocery"
-date:   2016-03-28 08:00:00 -0500
+date:   2016-03-28
+timeline: April 2016
 author: Chris Durheim
 author_email: chris@keepthrifty.com
 image: /img/grocery-bananas.jpg
 category: challenge
+redirect_from:
+  - /challenge/2016/03/28/april-challenge.html
 ---
 
-> The [KeepThrifty Experiment][keepthrifty-experiment] is a challenge to help you sustainably reduce your spending by targeting one new category each month. Over the course of a year, you’ll find the difference between your income and expenses growing — leaving you with more money to put toward your goals.
+> The April challenge is in progress. Here are the updates so far:
+>
+>   - [Mid-month update][mid-month-update]
 
 Thrifters,
 
@@ -106,7 +111,7 @@ One hitch this month is the fact that we grocery shop on Saturdays and this mont
 Are you ready to join the challenge? Share your thoughts in the comments below or [tweet me][tweet-link] with your goals, plan, or progress!
 
 [keepthrifty-experiment]: {% post_url 2016-02-22-keepthrifty-experiment %}
-[march-2016-challenge]: {% post_url 2016-02-28-march-challenge %}
+[march-2016-challenge]: /challenge/2016-03-household-care/
 [soylent]: https://www.soylent.com/
 [killing-1000-grocery-bill]: http://www.mrmoneymustache.com/2012/03/29/killing-your-1000-grocery-bill/
 [moneysmart-family]: http://www.moneysmartfamily.com/groceries
@@ -121,3 +126,5 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 
 [challenge-chart]: /img/groceries-mar.png
 [challenge-summary]: /img/groceries-mar-summary.png
+
+[mid-month-update]: /challenges/2016-04-grocery/update-1.html

@@ -2,11 +2,15 @@
 .post-card {
   margin-bottom: 20px;
   &.newest-post {
-    @extend .col, .s12, .m12, .l12;
+    @extend .col, .s12, .m12, .l10, .offset-l1;
   }
 
   &.other-post {
-    @extend .col, .s12, .m12, .l12;
+    @extend .col, .s12, .m12, .l10, .offset-l1;
+  }
+
+  &.challenge-post {
+    @extend .col, .s12, .m12, .l10, .offset-l1;
   }
 
   img.post-index {

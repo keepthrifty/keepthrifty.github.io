@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  April 2016 Challenge (Grocery) - Mid-month Results
+date:   2016-04-17
 author: Chris Durheim
 author_email: chris@keepthrifty.com
 image: /img/box-of-food.jpg
 category: challenge
+redirect_from:
+  - /challenge/2016/04/17/april-challenge-update-1.html
 ---
 
 We're just over halfway through the month of April and it's time for an update on how we're doing on [this month's challenge][april-challenge-post] - bringing down our grocery spending.
@@ -61,7 +64,7 @@ If you're not (like me), don't get down; keep working on it - small improvements
 
 Find me on [twitter][twitter-profile] and let me know how you're doing so far this month!
 
-[april-challenge-post]: {% post_url 2016-03-28-april-challenge %}
+[april-challenge-post]: /challenge/2016-04-grocery/
 
 [twitter-profile]: http://www.twitter.com/chris_durheim
 

@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 4 Results"
-date:   2016-03-27 15:30:00 -0500
+date:   2016-03-27
 author: Chris Durheim
 author_email: chris@keepthrifty.com
 image: /img/makeup-brush.jpg
 category: challenge
+redirect_from:
+  - /challenge/2016/03/27/update-4.html
 ---
 
 Week 4 of the March challenge is in the books - how's your month going?
@@ -32,8 +34,8 @@ Unexpected expenses are bound to come up, so it's important to leave a little wi
 
 Are you keeping on-track? Find me on [twitter][twitter-profile] and let me know how you're doing!
 
-[march-challenge-post]: {% post_url 2016-02-28-march-challenge %}
-[last-week-post]: {% post_url 2016-03-20-march-challenge-update-3 %}
+[march-challenge-post]: /challenge/2016-03-household-care/
+[last-week-post]: /challenge/2016-03-household-care/update-3.html
 [twitter-profile]: http://www.twitter.com/chris_durheim
 
 [march-week-4-summary]: /img/march-2016-w4-summary.png

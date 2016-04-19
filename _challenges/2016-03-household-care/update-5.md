@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Final Results"
+date:   2016-04-03
 author: Chris Durheim
 author_email: chris@keepthrifty.com
 image: /img/kitchen-sink.jpg
 category: challenge
+redirect_from:
+  - /challenge/2016/04/03/update-5.html
 ---
 
 Now that March is officially over, the final results are in.
@@ -38,9 +41,9 @@ Perfection is the enemy of good - make sure you're continuously improving; as lo
 
 Find me on [twitter][twitter-profile] and let me know how you did this month!
 
-[march-challenge-post]: {% post_url 2016-02-28-march-challenge %}
-[last-week-post]: {% post_url 2016-03-27-march-challenge-update-4 %}
-[salad-in-a-jar-post]: {% post_url 2016-03-20-march-challenge-update-3 %}
+[march-challenge-post]: /challenge/2016-03-household-care/
+[last-week-post]: /challenge/2016-03-household-care/update-4.html
+[salad-in-a-jar-post]: /challenge/2016-03-household-care/update-3.html
 [twitter-profile]: http://www.twitter.com/chris_durheim
 
 [march-final-summary]: /img/march-2016-final-summary.png

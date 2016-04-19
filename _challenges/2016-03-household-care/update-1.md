@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 1 Results"
-date:   2016-03-06 06:00:00 -0600
+date:   2016-03-06
 author: Chris Durheim
 author_email: chris@keepthrifty.com
 image: /img/washing-fork.jpg
 category: challenge
+redirect_from:
+  - /challenge/2016/03/06/update-1.html
 ---
 
 Results for the first week of the [March challenge][march-challenge-post] are in.
@@ -25,6 +27,6 @@ Overall, this should represent the bulk of our spending for the month with the e
 
 How is everything looking on your end? Hopefully you're making progress toward your goal. Keep focused, keep connected and, as always, keep thrifty!
 
-[march-challenge-post]: {% post_url 2016-02-28-march-challenge %}
+[march-challenge-post]: /challenge/2016-03-household-care/
 
 [march-week-1-summary]: /img/march-2016-w1-summary.png
