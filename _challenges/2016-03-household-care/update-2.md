@@ -7,7 +7,7 @@ author_email: chris@keepthrifty.com
 image: /img/jars.jpg
 category: challenge
 redirect_from:
-  - /challenge/2016/03/13/update-2.html
+  - /challenge/2016/03/13/march-challenge-update-2.html
 ---
 
 Results for the second week of the [March challenge][march-challenge-post] are in.

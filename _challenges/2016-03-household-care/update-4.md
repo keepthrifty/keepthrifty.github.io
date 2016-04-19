@@ -7,7 +7,7 @@ author_email: chris@keepthrifty.com
 image: /img/makeup-brush.jpg
 category: challenge
 redirect_from:
-  - /challenge/2016/03/27/update-4.html
+  - /challenge/2016/03/27/march-challenge-update-4.html
 ---
 
 Week 4 of the March challenge is in the books - how's your month going?

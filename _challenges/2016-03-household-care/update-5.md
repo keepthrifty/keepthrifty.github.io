@@ -7,7 +7,7 @@ author_email: chris@keepthrifty.com
 image: /img/kitchen-sink.jpg
 category: challenge
 redirect_from:
-  - /challenge/2016/04/03/update-5.html
+  - /challenge/2016/04/03/march-challenge-update-5.html
 ---
 
 Now that March is officially over, the final results are in.

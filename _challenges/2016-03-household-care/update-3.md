@@ -7,7 +7,7 @@ author_email: chris@keepthrifty.com
 image: /img/coffee-jars.jpg
 category: challenge
 redirect_from:
-  - /challenge/2016/03/20/update-3.html
+  - /challenge/2016/03/20/march-challenge-update-3.html
 ---
 
 We're through week three of the [March challenge][march-challenge-post] and lookin' good!
