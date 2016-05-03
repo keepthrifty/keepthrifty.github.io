@@ -10,6 +10,15 @@ redirect_from:
   - /challenge/2016/04/03/march-challenge-update-5.html
 ---
 
+> The March challenge is over! Here's the full set of update/results posts:
+>
+>   - [Challenge post][challenge-post]
+>   - [Week 1 update][week-1-update]
+>   - [Week 2 update][week-2-update]
+>   - [Week 3 update][week-3-update]
+>   - [Week 4 update][week-4-update]
+>   - Final results
+
 Now that March is officially over, the final results are in.
 
 ![March week 5 results - $94.00 total][march-final-summary]
@@ -47,3 +56,10 @@ Find me on [twitter][twitter-profile] and let me know how you did this month!
 [twitter-profile]: http://www.twitter.com/chris_durheim
 
 [march-final-summary]: /img/march-2016-final-summary.png
+
+[challenge-post]: /challenges/2016-03-household-care/
+[week-1-update]: /challenges/2016-03-household-care/update-1.html
+[week-2-update]: /challenges/2016-03-household-care/update-2.html
+[week-3-update]: /challenges/2016-03-household-care/update-3.html
+[week-4-update]: /challenges/2016-03-household-care/update-4.html
+[final-results]: /challenges/2016-03-household-care/update-5.html

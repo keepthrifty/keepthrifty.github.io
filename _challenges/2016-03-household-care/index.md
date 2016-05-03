@@ -13,6 +13,7 @@ redirect_from:
 
 > The March challenge is over! Here's the full set of update/results posts:
 >
+>   - Challenge post
 >   - [Week 1 update][week-1-update]
 >   - [Week 2 update][week-2-update]
 >   - [Week 3 update][week-3-update]
@@ -131,6 +132,7 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [household-care-chart]: {{site.url}}/img/household-care-feb.png
 [household-care-summary]: {{site.url}}/img/household-care-feb-summary.png
 
+[challenge-post]: /challenges/2016-03-household-care/
 [week-1-update]: /challenges/2016-03-household-care/update-1.html
 [week-2-update]: /challenges/2016-03-household-care/update-2.html
 [week-3-update]: /challenges/2016-03-household-care/update-3.html

@@ -10,6 +10,16 @@ redirect_from:
   - /challenge/2016/03/20/march-challenge-update-3.html
 ---
 
+> The March challenge is over! Here's the full set of update/results posts:
+>
+>   - [Challenge post][challenge-post]
+>   - [Week 1 update][week-1-update]
+>   - [Week 2 update][week-2-update]
+>   - Week 3 update
+>   - [Week 4 update][week-4-update]
+>   - [Final results][final-results]
+
+
 We're through week three of the [March challenge][march-challenge-post] and lookin' good!
 
 ![March week 3 results - $63.83 total][march-week-3-summary]
@@ -42,3 +52,10 @@ Hope you are keeping on track as well. Find me on [twitter][twitter-profile] and
 [march-week-3-summary]: /img/march-2016-w3-summary.png
 
 [salad-in-a-jar]: /img/salad-in-a-jar.jpg
+
+[challenge-post]: /challenges/2016-03-household-care/
+[week-1-update]: /challenges/2016-03-household-care/update-1.html
+[week-2-update]: /challenges/2016-03-household-care/update-2.html
+[week-3-update]: /challenges/2016-03-household-care/update-3.html
+[week-4-update]: /challenges/2016-03-household-care/update-4.html
+[final-results]: /challenges/2016-03-household-care/update-5.html

@@ -10,6 +10,12 @@ redirect_from:
   - /challenge/2016/04/17/april-challenge-update-1.html
 ---
 
+> The April challenge is over! Here's the full set of update/results posts:
+>
+>   - [Challenge post][april-challenge-post]
+>   - Mid-month update
+>   - [Final results][final-results-post]
+
 We're just over halfway through the month of April and it's time for an update on how we're doing on [this month's challenge][april-challenge-post] - bringing down our grocery spending.
 
 ![April mid-month results - $837.61 total][april-2016-mid-month]
@@ -64,8 +70,10 @@ If you're not (like me), don't get down; keep working on it - small improvements
 
 Find me on [twitter][twitter-profile] and let me know how you're doing so far this month!
 
-[april-challenge-post]: /challenge/2016-04-grocery/
+[april-challenge-post]: /challenges/2016-04-grocery/
 
 [twitter-profile]: http://www.twitter.com/chris_durheim
 
 [april-2016-mid-month]: /img/april-2016-mid-month.png
+
+[final-results-post]: /challenges/2016-04-grocery/update-2.html

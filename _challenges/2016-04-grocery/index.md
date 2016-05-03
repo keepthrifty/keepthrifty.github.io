@@ -11,9 +11,11 @@ redirect_from:
   - /challenge/2016/03/28/april-challenge.html
 ---
 
-> The April challenge is in progress. Here are the updates so far:
+> The April challenge is over! Here's the full set of update/results posts:
 >
+>   - Challenge post
 >   - [Mid-month update][mid-month-update]
+>   - [Final results][final-results-post]
 
 Thrifters,
 
@@ -128,3 +130,4 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [challenge-summary]: /img/groceries-mar-summary.png
 
 [mid-month-update]: /challenges/2016-04-grocery/update-1.html
+[final-results-post]: /challenges/2016-04-grocery/update-2.html
