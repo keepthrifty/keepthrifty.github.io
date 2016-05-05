@@ -2,7 +2,7 @@
 layout: post
 title:  "How to have a Thrifty Valentine's Day"
 date:   2016-02-13 06:00:00 -0600
-author: Chris Durheim
+author: Chris
 author_email: chris@keepthrifty.com
 image: /img/valentines.jpg
 ---

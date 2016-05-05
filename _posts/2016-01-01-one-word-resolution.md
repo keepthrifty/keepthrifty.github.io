@@ -2,7 +2,7 @@
 layout: post
 title:  "My One-Word Resolution for 2016 - Thrifty"
 date:   2016-01-01 06:00:00 -0600
-author: Chris Durheim
+author: Chris
 author_email: chris@keepthrifty.com
 image: /img/rock_climbing.jpg
 ---

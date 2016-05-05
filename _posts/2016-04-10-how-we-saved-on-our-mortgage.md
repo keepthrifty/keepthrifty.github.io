@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How we saved $160,000 on our mortgage
-author: Chris Durheim
+author: Chris
 author_email: chris@keepthrifty.com
 categories: [mortgages]
 image: /img/old-bank.jpg
@@ -191,7 +191,7 @@ Our mortgage is the last piece of that and as you can see we've been working har
 What's your financial journey look like? Drop me a note in the comments below or [tweet me][tweet-me] with your thoughts.
 
 [mortgage-math-101]: {% post_url 2016-04-04-mortgage-math-101 %}
-[tweet-me]: http://www.twitter.com/chris_durheim
+[tweet-me]: http://www.twitter.com/keepthrifty
 
 [original-vs-refinance]: /img/original-vs-refinance.png
 [original-vs-15-yr]: /img/original-vs-15-yr.png

@@ -2,7 +2,7 @@
 layout: post
 title: What We All (Hopefully) Learned from 2007 via "The Big Short"
 date:   2016-04-27 21:30:00 -0500
-author: Chris Durheim
+author: Chris
 author_email: chris@keepthrifty.com
 image: /img/the-big-short.jpg
 ---

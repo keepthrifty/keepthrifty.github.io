@@ -2,7 +2,7 @@
 layout: post
 title:  "How kicking my soda habit is fueling my retirement"
 date:   2016-03-14 12:00:00 -0600
-author: Chris Durheim
+author: Chris
 author_email: chris@keepthrifty.com
 image: /img/soda-cans.jpg
 ---
@@ -120,7 +120,7 @@ _What is one recurring expense that you could really live without?_
 
 [coffee-lb-to-tablespoons]: http://leverheadcoffee.com/faq-about-coffee?id=86
 [four-percent-rule]: http://www.budgetsaresexy.com/2016/02/magical-number-needed-to-retire/
-[tweet-me]: https://twitter.com/intent/tweet?text=%40chris_durheim%20I%27m%20filling%20my%20retirement%20savings%20by%20cutting%20___%20https%3A%2F%2Fwww.keepthrifty.com%2F2016%2F03%2F14%2Fsoda-for-retirement.html&source=clicktotweet&related=clicktotweet
+[tweet-me]: https://twitter.com/intent/tweet?text=%40keepthrifty%20I%27m%20filling%20my%20retirement%20savings%20by%20cutting%20___%20https%3A%2F%2Fwww.keepthrifty.com%2F2016%2F03%2F14%2Fsoda-for-retirement.html&source=clicktotweet&related=clicktotweet
 
 [coffee-cup]: /img/coffee-cup.jpg
 [coffee-vs-dew]: /img/coffee-vs-dew.jpg

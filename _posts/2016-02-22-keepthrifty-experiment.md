@@ -2,7 +2,7 @@
 layout: post
 title:  "The KeepThrifty Experiment - Keep Thrifty, Live Better"
 date:   2016-02-22 06:00:00 -0600
-author: Chris Durheim
+author: Chris
 author_email: chris@keepthrifty.com
 image: /img/arches_panorama.jpg
 ---
@@ -60,5 +60,5 @@ Are you ready? Check out the [challenge page here][challenge-page].
 
 [challenge-everything]: http://www.madfientist.com/budgets-are-sexy-interview/
 [budgets-are-sexy]: http://www.budgetsaresexy.com/challenge-everything/
-[tweet-your-plan]: https://twitter.com/intent/tweet?text=I%27m%20going%20to%20Keep%20Thrifty%20this%20month!%20@chris_durheim
+[tweet-your-plan]: https://twitter.com/intent/tweet?text=I%27m%20going%20to%20Keep%20Thrifty%20this%20month!%20@keepthrifty
 [thrifty]: https://tools.keepthrifty.com/

@@ -26,5 +26,5 @@ Keep in touch and as always, Keep Thrifty!
 -Chris
 
 [thrifty-link]: http://tools.keepthrifty.com
-[twitter-link]: http://www.twitter.com/chris_durheim
+[twitter-link]: http://www.twitter.com/keepthrifty
 [google-plus-link]: https://plus.google.com/u/0/+ChrisDurheim

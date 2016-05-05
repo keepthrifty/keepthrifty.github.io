@@ -2,7 +2,7 @@
 layout: post
 title:  "The Real Root of All Evil"
 date:   2016-01-30 06:00:00 -0600
-author: Chris Durheim
+author: Chris
 author_email: chris@keepthrifty.com
 image: /img/tree.jpg
 ---

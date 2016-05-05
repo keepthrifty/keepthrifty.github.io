@@ -2,7 +2,7 @@
 layout: post
 title:  "KeepThrifty Experiment May 2016 — Challenge: Food"
 timeline: May 2016
-author: Chris Durheim
+author: Chris
 author_email: chris@keepthrifty.com
 image: /img/happy-pancake.jpg
 category: challenge
@@ -117,7 +117,7 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [the-simple-dollar-link]: http://www.thesimpledollar.com/15-strategies-for-saving-money-at-a-restaurant/
 
 [thrifty-link]: http://tools.keepthrifty.com/
-[tweet-link]: http://twitter.com/home/?status=@chris_durheim%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20KeepThrifty%20Experiment!
+[tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20KeepThrifty%20Experiment!
 
 [usda-cost]: http://www.cnpp.usda.gov/sites/default/files/CostofFoodFeb2016.pdf
 

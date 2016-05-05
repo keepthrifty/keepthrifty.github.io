@@ -2,7 +2,7 @@
 layout: post
 title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 3 Results"
 date:   2016-03-20
-author: Chris Durheim
+author: Chris
 author_email: chris@keepthrifty.com
 image: /img/coffee-jars.jpg
 category: challenge
@@ -47,7 +47,7 @@ Hope you are keeping on track as well. Find me on [twitter][twitter-profile] and
 [march-challenge-post]: /challenge/2016-03-household-care/
 [last-week-post]: /challenge/2016-03-household-care/update-2.html
 [salad-in-a-jar-video]: https://www.youtube.com/watch?v=RRemVme-3wU
-[twitter-profile]: http://www.twitter.com/chris_durheim
+[twitter-profile]: http://www.twitter.com/keepthrifty
 
 [march-week-3-summary]: /img/march-2016-w3-summary.png
 

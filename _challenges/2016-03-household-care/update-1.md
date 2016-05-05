@@ -2,7 +2,7 @@
 layout: post
 title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 1 Results"
 date:   2016-03-06
-author: Chris Durheim
+author: Chris
 author_email: chris@keepthrifty.com
 image: /img/washing-fork.jpg
 category: challenge

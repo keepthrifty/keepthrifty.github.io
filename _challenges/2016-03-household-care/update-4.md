@@ -2,7 +2,7 @@
 layout: post
 title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 4 Results"
 date:   2016-03-27
-author: Chris Durheim
+author: Chris
 author_email: chris@keepthrifty.com
 image: /img/makeup-brush.jpg
 category: challenge
@@ -46,7 +46,7 @@ Are you keeping on-track? Find me on [twitter][twitter-profile] and let me know 
 
 [march-challenge-post]: /challenge/2016-03-household-care/
 [last-week-post]: /challenge/2016-03-household-care/update-3.html
-[twitter-profile]: http://www.twitter.com/chris_durheim
+[twitter-profile]: http://www.twitter.com/keepthrifty
 
 [march-week-4-summary]: /img/march-2016-w4-summary.png
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "What I Learned from Living with Less"
 date:   2016-01-20 06:00:00 -0600
-author: Chris Durheim
+author: Chris
 author_email: chris@keepthrifty.com
 image: /img/jumper.jpg
 ---

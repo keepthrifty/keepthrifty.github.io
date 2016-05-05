@@ -2,7 +2,7 @@
 layout: post
 title: After 7 years of marriage, my wife sold her engagement ring
 date:   2016-03-23 15:30:00 -0500
-author: Chris Durheim
+author: Chris
 author_email: chris@keepthrifty.com
 image: /img/wedding-carriage.jpg
 
@@ -119,7 +119,7 @@ These trade-offs are everywhere and can be a big accelerator for getting to wher
 [Tweet me][tweet-me] with your goals or put them in the comments below with ideas of what you could give up to get closer to them.
 
 [the-hope-effect]: http://www.hopeeffect.com
-[tweet-me]: http://www.twitter.com/chris_durheim
+[tweet-me]: http://www.twitter.com/keepthrifty
 [thrifty-tool]: http://tools.keepthrifty.com
 
 [usa-map]: /img/usa-map.jpg

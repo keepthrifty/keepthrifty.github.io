@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Trick Yourself into Paying Off Your 30-year Mortgage in 12.4 years and Saving $68,000"
 date:   2016-01-15 06:00:00 -0600
-author: Chris Durheim
+author: Chris
 author_email: chris@keepthrifty.com
 image: /img/usa_house.jpg
 ---

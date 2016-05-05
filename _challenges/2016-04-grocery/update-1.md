@@ -2,7 +2,7 @@
 layout: post
 title:  April 2016 Challenge (Grocery) - Mid-month Results
 date:   2016-04-17
-author: Chris Durheim
+author: Chris
 author_email: chris@keepthrifty.com
 image: /img/box-of-food.jpg
 category: challenge
@@ -72,7 +72,7 @@ Find me on [twitter][twitter-profile] and let me know how you're doing so far th
 
 [april-challenge-post]: /challenges/2016-04-grocery/
 
-[twitter-profile]: http://www.twitter.com/chris_durheim
+[twitter-profile]: http://www.twitter.com/keepthrifty
 
 [april-2016-mid-month]: /img/april-2016-mid-month.png
 
