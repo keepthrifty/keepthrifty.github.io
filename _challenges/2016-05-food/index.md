@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "KeepThrifty Experiment May 2016 — Challenge: Food"
+date:   2016-05-01
 timeline: May 2016
 author: Chris
 author_email: chris@keepthrifty.com
