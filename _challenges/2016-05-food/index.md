@@ -9,6 +9,11 @@ image: /img/happy-pancake.jpg
 category: challenge
 ---
 
+> The May challenge is in progress! Here's the set of posts so far:
+>
+>   - Challenge post
+>   - [Mid-month update][mid-month-update]
+
 Thrifters,
 
 [Last month's challenge][april-challenge-post] didn't turn out so hot - we went over our target grocery spending by over $200.
@@ -123,6 +128,7 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [usda-cost]: http://www.cnpp.usda.gov/sites/default/files/CostofFoodFeb2016.pdf
 
 [april-challenge-post]: /challenges/2016-04-grocery/
+[mid-month-update]: /challenges/2016-05-food/update-1.html
 
 [papa-jimmys]: http://www.papajimmys.com
 [chocolate-shoppe]: http://www.chocolateshoppeicecream.com/
