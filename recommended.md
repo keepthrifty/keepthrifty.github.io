@@ -50,7 +50,7 @@ On the path to financial freedom, we all invariably find tools and products that
 [one-L-jar]: http://amzn.to/1TGtPOv
 [half-L-jar]: http://amzn.to/1QZy2es
 
-[zero-waste-home]: zerowastehome.com
+[zero-waste-home]: http://www.zerowastehome.com
 
 [worm-composter]: http://amzn.to/1Xi5ja1
 [worms]: http://amzn.to/1X2LFAD
