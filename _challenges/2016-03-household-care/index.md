@@ -80,17 +80,17 @@ Looking at the details, our last 6 months of household care has included a laund
 * soap, shampoo, conditioner, deodorant
 * laundry detergent
 * personal care items
-* hankybooks
+* [hankybooks][hankybooks]
 * hair brush and comb
 * Norfolk pine houseplant (our new Christmas tree)
 * wine glasses, cutting board
 * furnace filters
 * ant traps
-* worm composter (and worms)
+* [worm composter][worm-composter] (and [worms][worms])
 * batteries
 * notecards, chalk
 * candles
-* glass jars (for buying bulk food)
+* [glass jars][two-L-jars] (for buying bulk food)
 * light bulbs, christmas lights
 * bandaids
 
@@ -123,7 +123,7 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [google-baking-soda-vinegar]: https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=cleaning%20with%20baking%20soda%20and%20vinegar
 [zero-waste-bathroom]: http://www.zerowastehome.com/2010/01/zero-waste-bathroom.html
 [mrs-money-mustache-lady]: http://www.mrmoneymustache.com/2011/06/05/mrs-money-mustache-eliminating-lady-temptations/
-[hankybooks]: http://hankybook.com/
+[hankybooks]: http://amzn.to/25aQ3Um
 [light-bulb-showdown]: http://www.thesimpledollar.com/the-light-bulb-showdown-leds-vs-cfls-vs-incandescent-bulbs-whats-the-best-deal-now-and-in-the-future/
 [save-big-on-diapers]: http://thethriftycouple.com/2014/01/13/8-tips-to-save-big-money-on-diapers/
 [thrifty]: http://tools.keepthrifty.com/
@@ -138,3 +138,8 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [week-3-update]: /challenges/2016-03-household-care/update-3.html
 [week-4-update]: /challenges/2016-03-household-care/update-4.html
 [final-results]: /challenges/2016-03-household-care/update-5.html
+
+[worm-composter]: http://amzn.to/1Xi5ja1
+[worms]: http://amzn.to/1X2LFAD
+
+[two-L-jars]: http://amzn.to/1UXuUaO

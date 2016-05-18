@@ -16,7 +16,7 @@ In the past 2 years, my wife and I have tried some “non-conventional” things
 * jettisoned all the dressers from our house
 * scaled back our wardrobes to the point that all I have is 5 button-down shirts, 2 pairs of jeans, 2 pairs of dress pants, undershirts, underwear, socks, a hoodie, and one suit
 * stopped using our dishwasher and cut our dinnerware, cookware, and silverware by more than half
-* brought 500 worms into our house where they lived in the kitchen for a few months before being moved to a longer-term home in the basement (worm composting, people — it’s a thing)
+* brought [500 worms][worms] into our house where they lived in the kitchen for a few months before being moved to a longer-term home in the basement ([worm composting][worm-composter], people — it’s a thing)
 * and, most recently, sold our Prius and didn’t replace it with another vehicle
 
 # Why would I do all of this to myself? #
@@ -65,7 +65,7 @@ Grit and confidence are key traits to a meaningful life but you have to work to 
 
 I can’t state it any better than this story: [Confidence is a result of action][confidence-action].
 
-We bought a worm composter in an effort to reduce our outbound garbage and recycling. If we can return the nutrients in our food scraps and paper to plants that feed us, it seems like we’re making the whole system a bit more efficient.
+We bought a [worm composter][worm-composter] in an effort to reduce our outbound garbage and recycling. If we can return the nutrients in our food scraps and paper to plants that feed us, it seems like we’re making the whole system a bit more efficient.
 
 That said, I’ve spent a fair amount of time researching how to do worm composting and learning from our mistakes. Now that we’ve been in it for months, I feel good about what we’re accomplishing even though the whole process was a bit daunting.
 
@@ -101,3 +101,6 @@ You’re capable of a lot more than you give yourself credit for and you make as
 As you go through, I hope you’ll share your story, successes, and lessons learned — I’d love to hear them.
 
 [confidence-action]: http://medium.com/higher-thoughts/confidence-is-a-result-of-action-not-a-prerequisite-d77ae94f69d6
+
+[worm-composter]: http://amzn.to/1Xi5ja1
+[worms]: http://amzn.to/1X2LFAD

@@ -9,7 +9,7 @@ image: /img/the-big-short.jpg
 
 Those who do not learn from history are doomed to repeat it. Have we learned from what happened in 2007 so we don't end up there again?
 
-If you haven't yet watched "The Big Short", you really should stop reading this post right now and go reserve it from your local library, from a movie kiosk, or queue it up on Netflix.
+If you haven't yet watched "The Big Short", you really should stop reading this post right now and go reserve it from your local library, from a movie kiosk, or queue it up on Netflix or [Amazon][amazon-big-short].
 
 Seriously...I mean that - bookmark this page, go get it and then come back when you're done.  I'll wait.
 
@@ -129,3 +129,5 @@ _I encourage you to share them in the comments section below so others can learn
 [bankrate-rates]: http://www.bankrate.com/finance/mortgage-rates-history-0112.aspx
 
 [schmidt-picture]: /img/the-big-short-schmidt.jpg
+
+[amazon-big-short]: http://amzn.to/25aPSsk

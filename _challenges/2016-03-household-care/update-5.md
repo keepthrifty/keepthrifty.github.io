@@ -27,7 +27,7 @@ With a grand total of $94.00, We finished out the month under our goal of $100!
 
 Since [last week][last-week-post], we've added $20.69 to our household care total for March:
 
-* 2 more mason jars
+* 2 more [mason jars][mason-jars]
 * Pull-ups
 * 2 rolls toilet paper
 * Vinegar (for cleaning)
@@ -63,3 +63,5 @@ Find me on [twitter][twitter-profile] and let me know how you did this month!
 [week-3-update]: /challenges/2016-03-household-care/update-3.html
 [week-4-update]: /challenges/2016-03-household-care/update-4.html
 [final-results]: /challenges/2016-03-household-care/update-5.html
+
+[mason-jars]: http://amzn.to/203TlSw
