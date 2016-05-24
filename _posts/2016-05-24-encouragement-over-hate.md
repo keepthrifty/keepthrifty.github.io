@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Encouragement Over Hate
+title: 7 Quotes to Help Keep the Course
 date:   2016-05-24 00:30:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
