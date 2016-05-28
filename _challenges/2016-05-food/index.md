@@ -9,10 +9,11 @@ image: /img/happy-pancake.jpg
 category: challenge
 ---
 
-> The May challenge is in progress! Here's the set of posts so far:
+> The May challenge is over! Here's the full set of update/results posts:
 >
 >   - Challenge post
 >   - [Mid-month update][mid-month-update]
+>   - [Final results][final-results]
 
 Thrifters,
 
@@ -129,6 +130,7 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 
 [april-challenge-post]: /challenges/2016-04-grocery/
 [mid-month-update]: /challenges/2016-05-food/update-1.html
+[final-results]: /challenges/2016-05-food/update-2.html
 
 [papa-jimmys]: http://www.papajimmys.com
 [chocolate-shoppe]: http://www.chocolateshoppeicecream.com/

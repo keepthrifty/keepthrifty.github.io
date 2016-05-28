@@ -8,10 +8,11 @@ image: /img/pasta.jpg
 category: challenge
 ---
 
-> The May challenge is in progress! Here's the set of posts so far:
+> The May challenge is over! Here's the full set of update/results posts:
 >
 >   - [Challenge post][may-challenge-post]
 >   - Mid-month update
+>   - [Final results][final-results]
 
 We're just over halfway through the month of May and it's time for an update on how we're doing on [this month's challenge][may-challenge-post] - tackling our total spending on food.
 
@@ -62,6 +63,7 @@ Stay tuned :)
 Find me on [twitter][twitter-profile] and let me know how you're doing so far this month!
 
 [may-challenge-post]: /challenges/2016-05-food/
+[final-results]: /challenges/2016-05-food/update-2.html
 
 [twitter-profile]: http://www.twitter.com/keepthrifty
 
