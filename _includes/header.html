@@ -2,6 +2,7 @@
 
 <header class="site-header">
   <div class="row">
+    {% include challenge_dd.html %}
     <nav>
       <div class="nav-wrapper">
         <div class="col s12">
@@ -14,11 +15,8 @@
             <li {% if page.url == "/about/" %} class="active" {% endif %}>
               <a class="nav-link" href="/about/">About</a>
             </li>
-            <li {% if page.url == "/archive/" %} class="active" {% endif %}>
-              <a class="nav-link" href="/archive/">Archive</a>
-            </li>
             <li {% if page.url == "/challenges/" %} class="active" {% endif %}>
-              <a class="nav-link" href="/challenges/">Challenges</a>
+              <a class="dropdown-button" href="#!" data-activates="challenge-dropdown" data-beloworigin="true">Challenges<i class="material-icons right">arrow_drop_down</i></a>
             </li>
             <li {% if page.url == "/recommended/" %} class="active" {% endif %}>
               <a class="nav-link" href="/recommended/">Recommended</a>
@@ -37,7 +35,7 @@
             <li {% if page.url == "/about/" %} class="active" {% endif %}>
               <a class="nav-link" href="/about/">About</a>
             </li>
-            <li {% if page.url == "/archive/" %} class="active" {% endif %}>
+            <li {% if page.url == "/about/" %} class="active" {% endif %}>
               <a class="nav-link" href="/archive/">Archive</a>
             </li>
             <li {% if page.url == "/challenges/" %} class="active" {% endif %}>

@@ -3,7 +3,7 @@
 
   .side-bar-segment {
     &.normal {
-      @extend .col, .s12, .m6, .l12;
+      @extend .col, .s12, .m12, .l12;
     }
 
     &.big {
