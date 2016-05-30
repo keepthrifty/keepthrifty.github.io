@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  KeepThrifty Challenge - Entertainment (June 2016)
-date:   2016-05-28
+date:   2016-05-29
 timeline: June 2016
 author: Chris
 author_email: chris@keepthrifty.com
@@ -38,9 +38,7 @@ As always, keep the following guidance in mind:
 
 # Helpful Resources & Ideas for Saving #
 
-## Tips from Me ##
-
-### The Library ###
+## The Library ##
 
 There's a magical place that will literally give you stuff for free. All you have to do is agree to bring it back in a reasonable time and they'll give it to you absolutely free.
 
@@ -54,7 +52,7 @@ The biggest leap about using the library is that you probably will have to ditch
 
 A bit of patience is a good thing to develop, so use your library as a way to build your character and protect your wallet :)
 
-### Selling Your Information ###
+## Selling Your Information ##
 
 If you own an Android phone, I really recommend downloading the [Google Opinion Rewards][google-opinion-rewards] app.
 
@@ -62,9 +60,11 @@ In the most transparent terms, you fill out surveys and basically sell your info
 
 While you can't convert to cash, credits in the play store are good for apps, movies, music, games, and books.
 
-In the two years I've been using the app, I've earned $54. It's not mind-blowing, but it means that I haven't ever paid for an app on my phone (despite having some good ones) and I've gotten quite a few movies and books for free.
+In the two years I've been using the app, I've earned $54 for probably about an hour's worth of time total.
 
-### Free in Your Town ###
+It's not mind-blowing, but it means that I haven't ever paid for an app on my phone (despite having some good ones) and I've gotten quite a few movies and books for free.
+
+## Free in Your Town ##
 
 One thing that has really helped in keeping our entertainment spending down is taking the time to research the free things offered in our area.
 

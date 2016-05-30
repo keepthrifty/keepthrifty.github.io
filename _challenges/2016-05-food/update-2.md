@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  May 2016 Challenge (Food) - Final Results
-date:   2016-05-28
+date:   2016-05-29
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/grilling-out.jpg
@@ -33,7 +33,7 @@ Knowing what we get from each place (and looking at the individual expenses as n
 
 We ended up dropping our spending on treats (which is typically ice cream from the local gas station) by getting popsicles as a part of our groceries.
 
-We still ate out more than we would ideally, but overall I'm pleased with how the month turned out.
+We still ate out more than we would ideally, but I'm pretty pleased with how the month turned out.
 
 So while I was a bit over/under on each of the categories, overall we ended up __beating our plan by $33__!
 
