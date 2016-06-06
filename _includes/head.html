@@ -16,4 +16,12 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="shortcut icon" type="image/png" href="/img/favicon.png">
 
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@keepthrifty" />
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+  {% if page.image %}
+    <meta name="twitter:image" content="{{ page.image }}" />
+  {% endif %}
+
 </head>
