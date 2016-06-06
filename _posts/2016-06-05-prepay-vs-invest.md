@@ -5,7 +5,7 @@ date:   2016-06-05 19:30:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
 categories: [mortgages]
-image: /img/cheers.jpg
+image: {{ site.url }}/img/cheers.jpg
 ---
 
 We had a toast-worthy moment last week - our outstanding mortgage balance finally came under the $100,000 mark; we're officially in a 5-digit mortgage!
@@ -134,5 +134,5 @@ Thrift on, rockstars!
 [twitter-link]: http://www.twitter.com/keepthrifty
 [tweet-quote]: https://twitter.com/intent/tweet?text=%22Before%20you%20make%20any%20major%20financial%20decision%2C%20do%20the%20math%20and%20know%20your%20mentality%22%20https%3A%2F%2Fwww.keepthrifty.com%2Fmortgages%2F2016%2F06%2F05%2Fprepay-vs-invest.html%20via%20%40keepthrifty&source=clicktotweet&related=clicktotweet
 
-[mortgage-balance]: /img/june-2016-mortgage.png
-[prepay-vs-invest-chart]: /img/prepay-vs-invest-chart.png
+[mortgage-balance]: {{ site.url }}/img/june-2016-mortgage.png
+[prepay-vs-invest-chart]: {{ site.url }}/img/prepay-vs-invest-chart.png

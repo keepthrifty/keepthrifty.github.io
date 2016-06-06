@@ -4,7 +4,7 @@ title:  "The KeepThrifty Experiment - Keep Thrifty, Live Better"
 date:   2016-02-22 06:00:00 -0600
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/arches_panorama.jpg
+image: {{ site.url }}/img/arches_panorama.jpg
 ---
 My wife and I had some intense financial discussions this weekend.
 

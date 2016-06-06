@@ -4,7 +4,7 @@ title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 3
 date:   2016-03-20
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/coffee-jars.jpg
+image: {{ site.url }}/img/coffee-jars.jpg
 category: challenge
 redirect_from:
   - /challenge/2016/03/20/march-challenge-update-3.html
@@ -49,9 +49,9 @@ Hope you are keeping on track as well. Find me on [twitter][twitter-profile] and
 [salad-in-a-jar-video]: https://www.youtube.com/watch?v=RRemVme-3wU
 [twitter-profile]: http://www.twitter.com/keepthrifty
 
-[march-week-3-summary]: /img/march-2016-w3-summary.png
+[march-week-3-summary]: {{ site.url }}/img/march-2016-w3-summary.png
 
-[salad-in-a-jar]: /img/salad-in-a-jar.jpg
+[salad-in-a-jar]: {{ site.url }}/img/salad-in-a-jar.jpg
 
 [challenge-post]: /challenges/2016-03-household-care/
 [week-1-update]: /challenges/2016-03-household-care/update-1.html

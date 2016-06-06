@@ -4,7 +4,7 @@ title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 2
 date:   2016-03-13
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/jars.jpg
+image: {{ site.url }}/img/jars.jpg
 category: challenge
 redirect_from:
   - /challenge/2016/03/13/march-challenge-update-2.html
@@ -42,7 +42,7 @@ Hope you're on track as well. Find me on [twitter][twitter-profile] and let me k
 [last-week-post]: /challenge/2016-03-household-care/update-1.html
 [twitter-profile]: http://www.twitter.com/keepthrifty
 
-[march-week-2-summary]: /img/march-2016-w2-summary.png
+[march-week-2-summary]: {{ site.url }}/img/march-2016-w2-summary.png
 
 [challenge-post]: /challenges/2016-03-household-care/
 [week-1-update]: /challenges/2016-03-household-care/update-1.html

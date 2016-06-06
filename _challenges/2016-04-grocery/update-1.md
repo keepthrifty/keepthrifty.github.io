@@ -4,7 +4,7 @@ title:  April 2016 Challenge (Grocery) - Mid-month Results
 date:   2016-04-17
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/box-of-food.jpg
+image: {{ site.url }}/img/box-of-food.jpg
 category: challenge
 redirect_from:
   - /challenge/2016/04/17/april-challenge-update-1.html
@@ -74,6 +74,6 @@ Find me on [twitter][twitter-profile] and let me know how you're doing so far th
 
 [twitter-profile]: http://www.twitter.com/keepthrifty
 
-[april-2016-mid-month]: /img/april-2016-mid-month.png
+[april-2016-mid-month]: {{ site.url }}/img/april-2016-mid-month.png
 
 [final-results-post]: /challenges/2016-04-grocery/update-2.html

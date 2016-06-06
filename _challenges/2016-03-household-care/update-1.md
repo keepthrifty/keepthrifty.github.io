@@ -4,7 +4,7 @@ title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 1
 date:   2016-03-06
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/washing-fork.jpg
+image: {{ site.url }}/img/washing-fork.jpg
 category: challenge
 redirect_from:
   - /challenge/2016/03/06/march-challenge-update-1.html
@@ -39,7 +39,7 @@ How is everything looking on your end? Hopefully you're making progress toward y
 
 [march-challenge-post]: /challenge/2016-03-household-care/
 
-[march-week-1-summary]: /img/march-2016-w1-summary.png
+[march-week-1-summary]: {{ site.url }}/img/march-2016-w1-summary.png
 
 [challenge-post]: /challenges/2016-03-household-care/
 [week-1-update]: /challenges/2016-03-household-care/update-1.html

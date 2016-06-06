@@ -4,7 +4,7 @@ title:  "How kicking my soda habit is fueling my retirement"
 date:   2016-03-14 12:00:00 -0600
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/soda-cans.jpg
+image: {{ site.url }}/img/soda-cans.jpg
 ---
 
 I used to __love__ Diet Mountain Dew. That might not even be a strong enough statement - I was pretty much addicted to it. It was my source of caffeine and one of those self-indulgent "treats" I convinced myself I needed.
@@ -122,9 +122,9 @@ _What is one recurring expense that you could really live without?_
 [four-percent-rule]: http://www.budgetsaresexy.com/2016/02/magical-number-needed-to-retire/
 [tweet-me]: https://twitter.com/intent/tweet?text=%40keepthrifty%20I%27m%20filling%20my%20retirement%20savings%20by%20cutting%20___%20https%3A%2F%2Fwww.keepthrifty.com%2F2016%2F03%2F14%2Fsoda-for-retirement.html&source=clicktotweet&related=clicktotweet
 
-[coffee-cup]: /img/coffee-cup.jpg
-[coffee-vs-dew]: /img/coffee-vs-dew.jpg
-[stop-the-music]: /img/stop-the-music.jpg
+[coffee-cup]: {{ site.url }}/img/coffee-cup.jpg
+[coffee-vs-dew]: {{ site.url }}/img/coffee-vs-dew.jpg
+[stop-the-music]: {{ site.url }}/img/stop-the-music.jpg
 
 [ham-beach-80350]: http://amzn.to/203QIju
 [french-press]: http://amzn.to/25aQ4b0

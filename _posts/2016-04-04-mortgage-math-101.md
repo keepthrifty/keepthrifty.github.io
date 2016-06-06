@@ -4,7 +4,7 @@ title: Mortgage Math 101
 author: Chris
 author_email: chris@keepthrifty.com
 categories: [mortgages]
-image: /img/calculator.jpg
+image: {{ site.url }}/img/calculator.jpg
 ---
 
 If you're going to commit to paying hundreds of thousands of dollars on something, shouldn't you understand the math involved?
@@ -245,5 +245,5 @@ Stay tuned!
 [tweet-me]: http://www.twitter.com/keepthrifty
 [save-on-mortgage]: {% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
 
-[mortgage-formula]: /img/monthly-payment.jpg
-[amortization-table]: /img/amortization-table.png
+[mortgage-formula]: {{ site.url }}/img/monthly-payment.jpg
+[amortization-table]: {{ site.url }}/img/amortization-table.png

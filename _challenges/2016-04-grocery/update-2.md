@@ -4,7 +4,7 @@ title:  April 2016 Challenge (Grocery) - Final Results
 date:   2016-05-01
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/strawberries.jpg
+image: {{ site.url }}/img/strawberries.jpg
 category: challenge
 ---
 
@@ -48,8 +48,8 @@ Find me on [twitter][twitter-profile] and let me know how your challenges are go
 
 [twitter-profile]: http://www.twitter.com/keepthrifty
 
-[april-2016-final]: /img/april-2016-final.png
-[april-2016-grocery-chart]: /img/april-2016-grocery-chart.png
+[april-2016-final]: {{ site.url }}/img/april-2016-final.png
+[april-2016-grocery-chart]: {{ site.url }}/img/april-2016-grocery-chart.png
 
 [mid-month-update]: /challenges/2016-04-grocery/update-1.html
 

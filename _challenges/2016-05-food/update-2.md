@@ -4,7 +4,7 @@ title:  May 2016 Challenge (Food) - Final Results
 date:   2016-05-29
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/grilling-out.jpg
+image: {{ site.url }}/img/grilling-out.jpg
 category: challenge
 ---
 
@@ -72,5 +72,5 @@ Find me on [twitter][twitter-profile] and let me know how your challenges are go
 
 [frugalwoods-2]: http://www.frugalwoods.com/2014/07/14/breakfast-the-hidden-destroyer/
 
-[may-2016-final-eating-out]: /img/may-2016-final-update-eating-out.png
-[may-2016-final-grocery]: /img/may-2016-final-update-grocery.png
+[may-2016-final-eating-out]: {{ site.url }}/img/may-2016-final-update-eating-out.png
+[may-2016-final-grocery]: {{ site.url }}/img/may-2016-final-update-grocery.png

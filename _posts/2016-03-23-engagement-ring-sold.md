@@ -4,7 +4,7 @@ title: After 7 years of marriage, my wife sold her engagement ring
 date:   2016-03-23 15:30:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/wedding-carriage.jpg
+image: {{ site.url }}/img/wedding-carriage.jpg
 
 excerpt_separator: <!--end-excerpt-->
 ---
@@ -122,4 +122,4 @@ These trade-offs are everywhere and can be a big accelerator for getting to wher
 [tweet-me]: http://www.twitter.com/keepthrifty
 [thrifty-tool]: http://tools.keepthrifty.com
 
-[usa-map]: /img/usa-map.jpg
+[usa-map]: {{ site.url }}/img/usa-map.jpg
