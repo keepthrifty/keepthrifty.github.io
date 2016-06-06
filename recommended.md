@@ -4,7 +4,7 @@ title: Recommended Products and Services
 timeline: May 2016
 date:   2016-05-11
 author: Chris
-image: {{ site.url }}/img/recommended.jpg
+image: /img/recommended.jpg
 permalink: /recommended/
 ---
 

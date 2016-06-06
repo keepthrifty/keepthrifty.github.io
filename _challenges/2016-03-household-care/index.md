@@ -5,7 +5,7 @@ date:   2016-02-28
 timeline: March 2016
 author: Chris
 author_email: chris@keepthrifty.com
-image: {{ site.url }}/img/laundromat-jump.jpg
+image: /img/laundromat-jump.jpg
 category: challenge
 redirect_from:
   - /challenge/2016/02/28/march-challenge.html
@@ -129,8 +129,8 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [thrifty]: http://tools.keepthrifty.com/
 [tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20KeepThrifty%20Experiment!
 
-[household-care-chart]: {{site.url}}{{ site.url }}/img/household-care-feb.png
-[household-care-summary]: {{site.url}}{{ site.url }}/img/household-care-feb-summary.png
+[household-care-chart]: {{site.url}}/img/household-care-feb.png
+[household-care-summary]: {{site.url}}/img/household-care-feb-summary.png
 
 [challenge-post]: /challenges/2016-03-household-care/
 [week-1-update]: /challenges/2016-03-household-care/update-1.html

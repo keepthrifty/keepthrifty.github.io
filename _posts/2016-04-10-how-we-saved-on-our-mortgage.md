@@ -4,7 +4,7 @@ title: How we saved $160,000 on our mortgage
 author: Chris
 author_email: chris@keepthrifty.com
 categories: [mortgages]
-image: {{ site.url }}/img/old-bank.jpg
+image: /img/old-bank.jpg
 ---
 
 We bought our house in 2007 at a purchase price of $219,900. While I was pleased with the price, we had huge sticker shock when we figured out the total between our down payment and thirty years of mortgage payments was going to be __$450,000__!
@@ -193,13 +193,13 @@ What's your financial journey look like? Drop me a note in the comments below or
 [mortgage-math-101]: {% post_url 2016-04-04-mortgage-math-101 %}
 [tweet-me]: http://www.twitter.com/keepthrifty
 
-[original-vs-refinance]: {{ site.url }}/img/original-vs-refinance.png
-[original-vs-15-yr]: {{ site.url }}/img/original-vs-15-yr.png
+[original-vs-refinance]: /img/original-vs-refinance.png
+[original-vs-15-yr]: /img/original-vs-15-yr.png
 
-[original-vs-refi-1]: {{ site.url }}/img/mortgage-refi1.png
-[refi1-vs-refi-2]: {{ site.url }}/img/mortgage-refi2.png
-[refi2-vs-refi-3]: {{ site.url }}/img/mortgage-refi3.png
-[refi3-vs-current-plan]: {{ site.url }}/img/mortgage-current-plan.png
-[total-picture]: {{ site.url }}/img/mortgage-total-picture.png
+[original-vs-refi-1]: /img/mortgage-refi1.png
+[refi1-vs-refi-2]: /img/mortgage-refi2.png
+[refi2-vs-refi-3]: /img/mortgage-refi3.png
+[refi3-vs-current-plan]: /img/mortgage-current-plan.png
+[total-picture]: /img/mortgage-total-picture.png
 
-[bam]: {{ site.url }}/img/bam.jpg
+[bam]: /img/bam.jpg

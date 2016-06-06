@@ -4,7 +4,7 @@ title:  "What I Learned from Living with Less"
 date:   2016-01-20 06:00:00 -0600
 author: Chris
 author_email: chris@keepthrifty.com
-image: {{ site.url }}/img/jumper.jpg
+image: /img/jumper.jpg
 ---
 
 To an outside observer, it might look I’m going through a midlife crisis.

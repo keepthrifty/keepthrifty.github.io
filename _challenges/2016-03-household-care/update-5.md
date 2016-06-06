@@ -4,7 +4,7 @@ title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Final 
 date:   2016-04-03
 author: Chris
 author_email: chris@keepthrifty.com
-image: {{ site.url }}/img/kitchen-sink.jpg
+image: /img/kitchen-sink.jpg
 category: challenge
 redirect_from:
   - /challenge/2016/04/03/march-challenge-update-5.html
@@ -55,7 +55,7 @@ Find me on [twitter][twitter-profile] and let me know how you did this month!
 [salad-in-a-jar-post]: /challenge/2016-03-household-care/update-3.html
 [twitter-profile]: http://www.twitter.com/keepthrifty
 
-[march-final-summary]: {{ site.url }}/img/march-2016-final-summary.png
+[march-final-summary]: /img/march-2016-final-summary.png
 
 [challenge-post]: /challenges/2016-03-household-care/
 [week-1-update]: /challenges/2016-03-household-care/update-1.html

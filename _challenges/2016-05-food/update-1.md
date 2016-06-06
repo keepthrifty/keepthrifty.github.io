@@ -4,7 +4,7 @@ title:  May 2016 Challenge (Food) - Mid-month Update
 date:   2016-05-16
 author: Chris
 author_email: chris@keepthrifty.com
-image: {{ site.url }}/img/pasta.jpg
+image: /img/pasta.jpg
 category: challenge
 ---
 
@@ -69,7 +69,7 @@ Find me on [twitter][twitter-profile] and let me know how you're doing so far th
 
 [thrifty-link]: http://tools.keepthrifty.com
 
-[may-2016-mid-month-eating-out]: {{ site.url }}/img/may-2016-mid-month-update-eating-out.png
-[may-2016-mid-month-grocery]: {{ site.url }}/img/may-2016-mid-month-update-grocery.png
-[may-2016-mid-month-eating-out-detail]: {{ site.url }}/img/may-2016-mid-month-update-eating-out-detail.png
-[may-2016-mid-month-grocery-detail]: {{ site.url }}/img/may-2016-mid-month-update-grocery-detail.png
+[may-2016-mid-month-eating-out]: /img/may-2016-mid-month-update-eating-out.png
+[may-2016-mid-month-grocery]: /img/may-2016-mid-month-update-grocery.png
+[may-2016-mid-month-eating-out-detail]: /img/may-2016-mid-month-update-eating-out-detail.png
+[may-2016-mid-month-grocery-detail]: /img/may-2016-mid-month-update-grocery-detail.png

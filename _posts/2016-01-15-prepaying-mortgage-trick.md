@@ -4,7 +4,7 @@ title:  "How to Trick Yourself into Paying Off Your 30-year Mortgage in 12.4 yea
 date:   2016-01-15 06:00:00 -0600
 author: Chris
 author_email: chris@keepthrifty.com
-image: {{ site.url }}/img/usa_house.jpg
+image: /img/usa_house.jpg
 ---
 
 Home ownership is a beautiful thing. There’s amazing freedom in knowing you own your space and that you don’t have any monthly obligations on your home other than utilities and property tax.
@@ -138,4 +138,4 @@ Head to [http://tools.keepthrifty.com/][thrifty] to try it out!
 [tim-ferriss]: http://fourhourworkweek.com/blog/
 [thrifty]: http://tools.keepthrifty.com/
 
-[paydown-chart]: {{site.url}}{{ site.url }}/img/mortgage-paydown-chart.png "Mortgage paydown chart"
+[paydown-chart]: {{site.url}}/img/mortgage-paydown-chart.png "Mortgage paydown chart"

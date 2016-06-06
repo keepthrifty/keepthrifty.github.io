@@ -5,7 +5,7 @@ date:   2016-05-01
 timeline: May 2016
 author: Chris
 author_email: chris@keepthrifty.com
-image: {{ site.url }}/img/happy-pancake.jpg
+image: /img/happy-pancake.jpg
 category: challenge
 ---
 
@@ -137,5 +137,5 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [panera]: http://www.panera.com
 [potbelly]: http://www.potbelly.com
 
-[challenge-chart-grocery]: {{ site.url }}/img/april-2016-grocery-chart.png
-[challenge-chart-eating-out]: {{ site.url }}/img/april-2016-eating-out-chart.png
+[challenge-chart-grocery]: /img/april-2016-grocery-chart.png
+[challenge-chart-eating-out]: /img/april-2016-eating-out-chart.png
