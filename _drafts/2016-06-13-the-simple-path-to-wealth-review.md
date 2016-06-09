@@ -33,6 +33,8 @@ As I read through, a few nuggets of wisdom stood out - lines or phrases that cau
 - _Toughen up cupcake and cure your bad behavior_ (reminding you that you can make smart investing decisions while everyone else around you is hitting the panic button)
 - _Making a few sound choices and letting them run is the essence of success, and the soul of The Simple Path to Wealth_
 
+When it comes to the sound choices, JL Collins lays out the details on just about every question you can have on investing. Whether it is the differences and pros/cons between each type of tax-advantaged retirement account (401k, IRA, Roth IRA) or the right balance between stocks and bonds on your investment journey, he's got it covered.
+
 # Relatable Author #
 
 JL Collins ultimately started sharing his financial wisdom as lessons he hoped to teach his daughter.
