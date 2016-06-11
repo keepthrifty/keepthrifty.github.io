@@ -60,7 +60,7 @@ main {
 .main-body {
   @extend .col, .s12, .m12, .l9;
 
-  
+
 }
 
 .page-image {
@@ -111,3 +111,32 @@ ul.footer-links {
   }
 
 }
+
+.recommendation-set {
+  @extend .row;
+
+  .recommendation-entry {
+    @extend .col, .s12, .m6, .l6;
+
+    .card {
+
+      .card-content {
+        a {
+          .card-title {
+            color: $secondary-color !important;
+          }
+        }
+
+        p {
+          padding-bottom: 1rem;
+        }
+      }
+
+      .card-action {
+        a {
+          color: $secondary-color !important;
+        }
+      }
+    }
+  }
+} 
