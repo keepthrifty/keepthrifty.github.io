@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review: The Simple Path to Wealth by JL Collins"
-date:   2016-06-13 05:00:00 -0500
+date:   2016-06-20 05:00:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/the-simple-path-to-wealth.jpg
