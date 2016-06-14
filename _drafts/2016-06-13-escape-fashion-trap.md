@@ -1,13 +1,13 @@
 ---
 layout: post
-title: You May Be Better Off Buying Expensive Clothes
+title: Escaping the Money Trap of Fashion
 date:   2016-06-13 21:30:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/fancy-suit.jpg
 ---
 
-I have a shocking confession to make; I'm not really a fashion expert. That said, I'm starting to come around to the idea that I might be better off buying expensive clothes. What could possibly bring a fashion-averse engineer to a conclusion like that?
+I have a shocking confession to make; I'm not a fashion expert. That said, I'm starting to come around to the idea that I might be better off buying expensive clothes. What could possibly bring a fashion-averse engineer to a conclusion like that?
 
 # The Useful Life of Clothes #
 
@@ -125,8 +125,43 @@ If all of this is starting to sound like a really bad deal for you, then I did m
 
 So what can you do to avoid all this nonsense? Here are a few simple rules:
 
-- Only buy to replace ___!!! TK !!!___
-- Buy for quality  ___!!! TK !!!___ (30 year sweatshirt, patagonia, etc)
+## 1. Buy for Quality ##
+
+Here's a tale of two sweatshirts. Or, rather, a tale of 16 sweatshirts.
+
+Going to a popular big box retail store, I found "premium" sweatshirts for sale for $9.99.
+
+Presuming the quality that can be expected from this kind of supplier, lets say each of these has a useful life (both from quality and fashion) of 2 years.
+
+Over the next 30 years, I have to buy a new sweatshirt every 2 years for $10, totaling $150 for the 15 sweatshirts I buy over that time.
+
+Alternately, let's say I go with the insanely cool concept of the [30-year sweatshirt][30-year-sweatshirt], which I can pick up to day for (after currency conversion) $92.24.
+
+Man, that's a lot to put down for a sweater, but hey - they guarantee it for __30 years__ and it costs less than 2/3 of the total for the junky shirt from the big box store.
+
+Between the cost savings and the significant reduction in how much waste I'm creating, this sounds like a double-win.
+
+## 2. Fix What you Can ##
+
+Somewhere along the way it became uncool to fix stuff that was broken instead of replacing it.
+
+Maybe it's fashion driving us to want to use it as an excuse to buy the new style. Maybe it's convenience (AKA laziness) or us not feeling confident in our abilities to fix things.
+
+Either way, these are some pretty lame excuses for the most creative and learning-focused species on the planet.
+
+At best, get a sewing kit and figure out how to do some basic repair on your clothes. Sustainability-focused companies like Patagonia provide [repair guides][patagonia-repairs] to help you along the way.
+
+At worst, try to stretch things out by utilizing them creatively or at least following the older "lifecycle" that our ancestors did. For me, a ripped pair of jeans becomes my new set of painting pants or pants for doing yard work.
+
+## 3. Only Buy to Replace ##
+
+This one helps you not only in the wallet but also in the sanity of keeping your house from getting too cluttered.
+
+I'd consider this a core minimalist principle and something everyone should take a serious look at.
+
+The happiest people on earth tend to be the people that have found a way to feel comfortable with what they have instead of continuously wanting for more.
+
+With that in mind, one way to start living that today is to commit to not buying to __add__ to your existing possessions - only buy to __replace__ possessions that have exceeded their useful life.
 
 
 [twitter-link]: http://www.twitter.com/keepthrifty
@@ -144,3 +179,6 @@ So what can you do to avoid all this nonsense? Here are a few simple rules:
 [apple-faces]: /img/happy-apple-sad-apple.jpg
 
 [baby-escape]: /img/baby-escape.jpg
+
+[30-year-sweatshirt]: http://www.tomcridland.com/collections/the-30-year-sweatshirt
+[patagonia-repairs]: http://www.patagonia.com/us/worn-wear-repairs
