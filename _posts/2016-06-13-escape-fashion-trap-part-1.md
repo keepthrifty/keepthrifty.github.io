@@ -62,7 +62,7 @@ Through years of careful practice, many industries have perfected this to the po
 
 ## We Humans are Weird ##
 
-To put things like this that many ccept as "normal" in perspective, it can be helpful to draw an extreme parallel example.
+To put things like this that many accept as "normal" in perspective, it can be helpful to draw an extreme parallel example.
 
 Say you went to the grocery store last week and bought 5 pounds of red apples. Apples are awesome - they keep for weeks and are great for your health; good job!
 
@@ -88,7 +88,7 @@ Or even better, what about the awesome, impractical, clothing styles that get ad
 
 # Financial Aspects of Modern Clothing #
 
-Regardless of the logic, we live in a fashion-based world and we're all subject the pressures in varying degrees.
+Regardless of the logic, we live in a fashion-based world and we're all subject to the pressures in varying degrees.
 
 There's a twisted outcome from the push on the fast-fashion approach to clothing that's best understood by looking at it from the manufacturer's perspective.
 
