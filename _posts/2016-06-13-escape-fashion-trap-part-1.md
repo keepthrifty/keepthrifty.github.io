@@ -7,7 +7,7 @@ author_email: chris@keepthrifty.com
 image: /img/fancy-suit.jpg
 ---
 
-Millenial males spend _twice as much_ each year on apparel when compared to men of prior generations. Millenial females are in a similar situation, spending a third more. How can we avoid losing the shirts off our backs?
+Millennial males spend _twice as much_ each year on apparel when compared to men of prior generations. Millennial females are in a similar situation, spending a third more than women of prior generations. How can we avoid losing the shirts off our backs?
 
 ([Source of spending statistics][bcg-paper])
 

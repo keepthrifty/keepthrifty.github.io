@@ -33,7 +33,37 @@ Man, that's a lot to put down for a t-shirt, but hey - they guarantee it for __3
 
 Between the cost savings and the significant reduction in how much waste I'm creating, this sounds like a double-win.
 
-## 2. Fix What you Can ##
+## 2. Shop Secondhand ##
+
+As an alternative to _buying for quality_, you can always try to pick up some reasonable-quality clothes that were discarded way too early. I've picked up a few "name brand " pairs of good jeans from Goodwill for $8 each.
+
+All it took to get them ready was a run through the wash. That said, the "fashion-driven quality" of pants like these is apparent and as a result I'm likely going to be focusing more on _buying for quality_ in the future.
+
+The jeans from goodwill lasted about as long as new pants from the store, but any jeans that only last for 3 months just aren't built for a family with 3 active munchkins :)
+
+## 3. Buy What You Like ##
+
+___@@@ TK @@@___
+
+* be true to you, not the trends
+* will I look back on a photo of myself in 20 years and go "what was I thinking?"
+* Buy for comfort, not for style (there's no good reason to buy something that is uncomfortable) -> esp things like jackets and shoes
+
+___@@@ TK @@@___
+
+## 4. Consolidate and Simplify ##
+
+___@@@ TK @@@___
+
+Jackets and shoes as an example - you're supposed to take off, why buy different styles for different times
+
+Consolidate to just what you need (i.e. one jacket)
+
+Reference to capsule wardrobe
+
+___@@@ TK @@@___
+
+## 5. Fix What you Can ##
 
 Somewhere along the way it became uncool to fix stuff that was broken instead of replacing it.
 
@@ -51,7 +81,7 @@ At best, get a sewing kit and figure out how to do some basic repair on your clo
 
 At worst, try to stretch things out by following the older "lifecycle" that our ancestors did. For me, a ripped pair of jeans becomes my new set of painting pants or pants for doing yard work.
 
-## 3. Only Buy to Replace ##
+## 6. Only Buy to Replace ##
 
 This one helps not only your wallet but also your sanity by keeping your house from getting cluttered.
 
@@ -60,14 +90,6 @@ I consider _"only buy something to replace something that's not working and can'
 The happiest people on earth tend to those that find joy in what they have instead of continuously wanting for more.
 
 One way to start living that today is to commit to not buying in a way that adds to your existing possessions - only buy to replace possessions that have exceeded their useful life.
-
-## 4. Shop Secondhand ##
-
-As an alternative to _buying for quality_, you can always try to pick up some reasonable-quality clothes that were discarded way too early. I've picked up a few "name brand " pairs of good jeans from Goodwill for $8 each.
-
-All it took to get them ready was a run through the wash. That said, the "fashion-driven quality" of pants like these is apparent and as a result I'm likely going to be focusing more on _buying for quality_ in the future.
-
-The jeans from goodwill lasted about as long as new pants from the store, but any jeans that only last for 3 months just aren't built for a family with 3 active munchkins :)
 
 # Fashion is Universal #
 
