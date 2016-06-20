@@ -2,7 +2,8 @@
   <div class="previous-post">
     {% if page.previous %}
     <a href="{{ page.previous.url }}">
-      <i class="material-icons large left">navigate_before</i>
+      <i class="material-icons large">navigate_before</i>
+      <br />
       {{ page.previous.title }}
     </a>
     {% else %}
@@ -13,7 +14,8 @@
   <div class="next-post">
     {% if page.next %}
       <a href="{{ page.next.url }}">
-        <i class="material-icons large right">navigate_next</i>
+        <i class="material-icons large">navigate_next</i>
+        <br />
         {{ page.next.title }}
       </a>
     {% else %}
