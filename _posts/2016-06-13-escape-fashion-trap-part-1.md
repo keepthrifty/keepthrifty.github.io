@@ -136,7 +136,7 @@ Unfortunately, this post is getting a bit long so you'll have to wait until part
 
 [comment]: <> Let's take a look at how to escape the fashion money trap in [Part 2][part-2].
 
-[part-2]: {% post_url 2016-06-26-escape-fashion-trap-part-2 %}
+[part-2]: <> post_url 2016-06-26-escape-fashion-trap-part-2
 
 [bcg-paper]: http://www.baynote.com/infographic/millennials-love-retail-spending/
 
