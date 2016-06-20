@@ -43,25 +43,35 @@ The jeans from goodwill lasted about as long as new pants from the store, but an
 
 ## 3. Buy What You Like ##
 
-___@@@ TK @@@___
+Parachute pants, zubaz, and hypercolor t-shirts - the list goes on of clothing fads from my youth. Every generation has them, but it's important to remember that you don't have to buy into them.
 
-* be true to you, not the trends
-* will I look back on a photo of myself in 20 years and go "what was I thinking?"
-* Buy for comfort, not for style (there's no good reason to buy something that is uncomfortable) -> esp things like jackets and shoes
+If it's your style and you love it, then go to town, but don't feel the need to buy something just because it's what others are getting.
 
-___@@@ TK @@@___
+Ask yourself what you'll think when you look back on pictures of yourself 10 years from now. Try for "_I could still wear that_", instead of "_What was I thinking?_"
+
+![Men in suits at a wedding wearing zubaz][zubaz-wedding]
+
+<div class="image-caption">What were these guys thinking? (<a href="https://awfulsports.files.wordpress.com/2010/12/zubaz5.png?w=500&h=346">source</a>)</div>
+
+In addition, if it's not comfortable, don't buy it. There's no good reason to buy something that makes you uncomfortable; you're much more likely to get rid of it early.
 
 ## 4. Consolidate and Simplify ##
 
-___@@@ TK @@@___
+How many outfits do you have in your closet?
 
-Jackets and shoes as an example - you're supposed to take off, why buy different styles for different times
+If you have enough outfits to last you a month, that means you're only wearing each 12 times a year. If you're honest, that's not even true for some of those outfits.
 
-Consolidate to just what you need (i.e. one jacket)
+Most likely you've got a handful of favorite outfits that are your first choice anytime they are clean. This means there are ones on the other end of the curve that hardly ever get worn (if even ever).
 
-Reference to capsule wardrobe
+Why not consolidate and simplify your wardrobe? Downsize your number of outfits to just enough to last you a week or 10 days?
 
-___@@@ TK @@@___
+This will make sure your favorites are available all the time.
+
+Beyond this, it's worth questioning whether you need all the different styles of shoes, jackets, belts, and other items. Most likely you can trim these down to a smaller set.
+
+I get by on one jacket a year (my winter jacket good enough for Wisconsin weather). If it's cold enough to wear a jacket, I wear that one; if it's not cold enough, I don't.
+
+One woman even applied these concepts to the point of [wearing the same thing to work every day][same-thing-to-work]. If you really love an outfit, why not wear it every day?
 
 ## 5. Fix What you Can ##
 
@@ -87,23 +97,27 @@ This one helps not only your wallet but also your sanity by keeping your house f
 
 I consider _"only buy something to replace something that's not working and can't reasonably be fixed"_ to be a core minimalist principle that will take you far in your financial journey.
 
-The happiest people on earth tend to those that find joy in what they have instead of continuously wanting for more.
+The happiest people on earth tend to be those that find joy in what they have instead of continuously wanting for more.
 
 One way to start living that today is to commit to not buying in a way that adds to your existing possessions - only buy to replace possessions that have exceeded their useful life.
 
 # Fashion is Universal #
 
-A final note here as you battle the pressures of the fashion culture. Remember that, while it's probably the most obvious industry, this concept isn't limited to clothing.
+A final note here as you battle the pressures of the fashion culture. Remember that, while clothing probably the most obvious industry, this concept isn't limited to this alone.
 
-The same fashion tactics have been used in furniture, home design, cars, electronics - pretty much everything you use.
+The same fashion tactics have been used by makers of furniture, home design, cars, electronics - pretty much everything you use.
 
-Dilligence in fighting the temptation to keep up with the latest trend will help you not only keep money in your bank account; it'll help you find peace with running your life at a slower pace.
+Diligence in fighting the temptation to keep up with the latest trend will help you not only keep money in your bank account; it'll help you find peace with your own style.
 
-Fashion is just one of the many "artificial urgencies" we give ourselves that creates stress in our lives. Once you can decouple from that you'll find yourself living a richer life in more ways than one.
+Be comfortable in your own skin, no matter what you're wearing. If you can accomplish that you'll find yourself living a richer life in more ways than one.
 
 [macguyver-fix]: /img/macguyver-fix.jpg
 
 [part-1]: {% post_url 2016-06-13-escape-fashion-trap-part-1 %}
+
+[same-thing-to-work]: http://www.harpersbazaar.com/culture/features/a10441/why-i-wear-the-same-thing-to-work-everday/
+
+[zubaz-wedding]: /img/zubaz-wedding.jpg
 
 [atlantic-clothing-budget]: http://www.theatlantic.com/business/archive/2012/04/how-america-spends-money-100-years-in-the-life-of-the-family-budget/255475/
 
@@ -118,6 +132,8 @@ Fashion is just one of the many "artificial urgencies" we give ourselves that cr
 
 [lightbulb]: http://i.giphy.com/L7DUwZJZc4agU.gif
 [lightbulb-source]: http://giphy.com/gifs/despicable-me-idea-gru-L7DUwZJZc4agU
+
+
 
 [apple-faces]: /img/happy-apple-sad-apple.jpg
 
