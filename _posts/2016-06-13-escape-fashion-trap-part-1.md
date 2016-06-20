@@ -134,6 +134,10 @@ If all of this is starting to sound like a really bad deal for you, then we're o
 
 Unfortunately, this post is getting a bit long so you'll have to wait until part 2 to learn how to escape the fashion money trap. I'll have another post next week and you should be able to see part 2 on June 26th.
 
+[comment]: <> Let's take a look at how to escape the fashion money trap in [Part 2][part-2].
+
+[part-2]: {% post_url 2016-06-26-escape-fashion-trap-part-2 %}
+
 [bcg-paper]: http://www.baynote.com/infographic/millennials-love-retail-spending/
 
 [atlantic-clothing-budget]: http://www.theatlantic.com/business/archive/2012/04/how-america-spends-money-100-years-in-the-life-of-the-family-budget/255475/
