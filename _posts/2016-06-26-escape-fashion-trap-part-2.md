@@ -95,7 +95,7 @@ At worst, try to stretch things out by following the older "lifecycle" that our 
 
 This one helps not only your wallet but also your sanity by keeping your house from getting cluttered.
 
-I consider _"only buy something to replace something that's not working and can't reasonably be fixed"_ to be a core minimalist principle that will take you far in your financial journey.
+> Only buy something to replace something that's not working and can't reasonably be fixed
 
 The happiest people on earth tend to be those that find joy in what they have instead of continuously wanting for more.
 
