@@ -7,7 +7,7 @@ author_email: chris@keepthrifty.com
 image: /img/fancy-suit.jpg
 ---
 
-[Last time][part-1], we talked about the history behind the fashion money trap. With part 2, I'll now give you the four tactics I use to escape the fashion money trap and help me live a richer life.
+[Last time][part-1], we talked about the history behind the fashion money trap. With part 2, I'll now give you the six tactics I use to escape the fashion money trap and help me live a richer life.
 
 # Picking Back Up #
 
