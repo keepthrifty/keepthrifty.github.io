@@ -63,7 +63,7 @@ If you have enough outfits to last you a month, that means you're only wearing e
 
 Most likely you've got a handful of favorite outfits that are your first choice anytime they are clean. This means there are ones on the other end of the curve that hardly ever get worn (if even ever).
 
-Why not consolidate and simplify your wardrobe? Downsize your number of outfits to just enough to last you a week or 10 days?
+Why not consolidate and simplify your wardrobe? Downsize your number of outfits to just enough to last you a week or 10 days.
 
 This will make sure your favorites are available all the time.
 
