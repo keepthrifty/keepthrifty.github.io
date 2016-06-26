@@ -23,7 +23,7 @@ Here's a tale of two t-shirts. Or, rather, a tale of 16 t-shirts.
 
 Going to a popular big box retail store, I found "premium" t-shirt for sale for $8.00.
 
-Presuming the quality that can be expected from this kind of supplier, lets say each of these has a useful life (both from quality and fashion) of 2 years.
+Presuming the quality that can be expected from this kind of supplier, lets say this shirt has a useful life (both from quality and fashion) of 2 years.
 
 Over the next 30 years, I have to buy a new t-shirt every 2 years for $8, totaling $120 for the 15 I buy over that time.
 
