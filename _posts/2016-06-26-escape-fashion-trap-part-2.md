@@ -7,7 +7,7 @@ author_email: chris@keepthrifty.com
 image: /img/fancy-suit.jpg
 ---
 
-[Last time][part-1], we talked about the history behind the fashion money trap. With part 2, I'll now give you the six tactics I use to escape the fashion money trap and help me live a richer life.
+[Last time][part-1], we talked about the history behind the fashion money trap. With part 2, I'll give you the six tactics I use to escape the fashion money trap and help me live a richer life.
 
 # Picking Back Up #
 
@@ -95,7 +95,7 @@ At worst, try to stretch things out by following the older "lifecycle" that our 
 
 This one helps not only your wallet but also your sanity by keeping your house from getting cluttered.
 
-> Only buy something to replace something that's not working and can't reasonably be fixed
+> Only buy to replace something that's not working and can't reasonably be fixed
 
 The happiest people on earth tend to be those that find joy in what they have instead of continuously wanting for more.
 
