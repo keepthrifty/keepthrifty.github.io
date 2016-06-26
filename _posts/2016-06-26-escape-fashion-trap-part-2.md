@@ -109,7 +109,7 @@ The same fashion tactics have been used by makers of furniture, home design, car
 
 Diligence in fighting the temptation to keep up with the latest trend will help you not only keep money in your bank account; it'll help you find peace with your own style.
 
-Be comfortable in your own skin, no matter what you're wearing. If you can accomplish that you'll find yourself living a richer life in more ways than one.
+Be comfortable in your own skin, no matter what you're wearing. If you can accomplish this you'll find yourself living a richer life in more ways than one.
 
 [macguyver-fix]: /img/macguyver-fix.jpg
 
