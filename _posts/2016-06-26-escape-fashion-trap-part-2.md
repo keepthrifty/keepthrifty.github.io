@@ -134,7 +134,6 @@ Be comfortable in your own skin, no matter what you're wearing. If you can accom
 [lightbulb-source]: http://giphy.com/gifs/despicable-me-idea-gru-L7DUwZJZc4agU
 
 
-
 [apple-faces]: /img/happy-apple-sad-apple.jpg
 
 [baby-escape]: /img/baby-escape.jpg
