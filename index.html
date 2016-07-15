@@ -20,6 +20,9 @@ no_container: true
       <a href="{{ post.url | prepend: site.baseurl }}">
         <div class="card-image">
           <img src="{{ post.image }}" class="post-index">
+          <span class="card-title">
+            {{ post.title }}
+          </span>
         </div>
         <div class="card-date">
           <span>{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -29,11 +32,6 @@ no_container: true
         </div>
       </a>
       <div class="card-content">
-        <div class="card-title">
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}
-          </a>
-        </div>
         <p>{{ post.excerpt | strip_html }}</p>
       </div>
     </div>
