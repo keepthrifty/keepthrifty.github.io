@@ -7,7 +7,7 @@ author_email: chris@keepthrifty.com
 image: /img/mountaintop.jpg
 ---
 
-One of my favorite small business blogs, [Signal v. Noise][signalvnoise], had a [great post today][gruen-transfer] on an getting your business noticed. It referenced a research paper that compared the impact on happiness from spending on experiences to the impact from spending on stuff.
+One of my favorite small business blogs, [Signal v. Noise][signalvnoise], had a [great post today][gruen-transfer] on getting your business noticed. It referenced a research paper that compared the impact on happiness from spending on experiences to the impact from spending on stuff.
 
 While a bit technical (_hey, it's a research paper_), it's a really interesting read - you can get the full PDF [here][research-paper-pdf]
 
