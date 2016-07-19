@@ -116,7 +116,7 @@ That said, don't assume that the "8% return" of the market is a sure thing; over
 
 If you want to see how the prepay vs invest scenarios play out for you, I'd be happy to run your scenarios through my spreadsheet and e-mail you the results.
 
-If you're interested, e-mail me at chris (at) keepthrifty (dot) com with the following and I'll get back to you with a summary of the scenarios:
+If you're interested, e-mail me at chris@keepthrifty.com with the following and I'll get back to you with a summary of the scenarios:
 
 - Outstanding mortgage balance
 - Mortgage interest rate
