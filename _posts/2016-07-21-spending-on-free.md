@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "Having You Been Spending All Your Money on Something Free?"
-date:   2016-07-18 05:00:00 -0500
+date:   2016-07-21 05:00:00 -0500
 author: Elsie Brown
 author_site: GundoMoney
 author_site_url: http://www.gundomoney.com
+image: /img/sunset-heart.jpg
 ---
 
-_We've got a first this week for KeepThrifty - our first guest post!_
+_We've got a first this week for KeepThrifty - our first guest post! This one comes to you from Elsie Brown from [GundoMoney.com][gundo-money]_
 
-_This one comes to you from Elsie Brown from [GundoMoney.com][gundo-money]; a blogger, student, and all around cheapskate who writes about how we can all live better on less._
+_Elsie is a blogger, student, and all around cheapskate who writes about how we can all live better on less._
 
 <hr />
 
