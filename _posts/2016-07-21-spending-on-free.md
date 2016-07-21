@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Having You Been Spending All Your Money on Something Free?"
+title: "Have You Been Spending All Your Money on Something Free?"
 date:   2016-07-21 05:00:00 -0500
 author: Elsie Brown
 author_site: GundoMoney
@@ -42,7 +42,7 @@ The issue is that the untrained brain can't commonly differentiate between happi
 
 Not so much
 
-Turns out that seeking joyful experiences will make you joyful. That is, you'll feel a lighter mood and a sense of exhilaration for a short time. That in itself is not a bad thing. After all, our time on the earth is filled with theses small experiences which together make up a fulfilled life.
+Turns out that seeking joyful experiences will make you joyful. That is, you'll feel a lighter mood and a sense of exhilaration for a short time. That in itself is not a bad thing. After all, our time on the earth is filled with these small experiences which together make up a fulfilled life.
 
 I think we know innately that short term "highs" from joy won't make us happy. It's just that it's so much easier to seek satisfaction from outside sources. Who wants to look inward and discover they're not happy. Surely this new Ford F-150 will do the trick.
 
