@@ -106,6 +106,12 @@
     font-size: 2.5rem;
   }
 
+  .post-footer {
+    .footer-block {
+      @extend .col, .s12, .m10, .offset-m1, .l8, .offset-l2;
+    }
+  }
+
   .post-content {
 
     img {
@@ -129,6 +135,8 @@
     }
 
     p, li {
+
+      font-weight: 400;
       //@extend .flow-text;
       @media #{$small-and-down} {
         font-size: 1.2rem;

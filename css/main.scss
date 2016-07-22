@@ -146,29 +146,67 @@ ul.footer-links {
 }
 
 .share-buttons {
+  @extend .row;
+  @extend .z-depth-1;
+  padding-bottom: 1rem;
   @extend .center;
-  //@extend .z-depth-1;
-  //@extend .hoverable;
-  //padding: 2rem;
-  //width: auto;
+  margin-bottom: 1rem;
 
   .share-text {
+    @extend .col, .s12;
     color: #616161;
     font-size: 1.4rem;
   }
-  a {
-    opacity: 0.7;
+  .button-set {
+    @extend .col, .s12;
+    a {
+      opacity: 0.7;
 
-    &:hover { opacity: 1.0; }
+      &:hover { opacity: 1.0; }
 
-    &.twitter { color: #55ACEE; }
-    &.facebook { color: #3B5998; }
-    &.google-plus { color: #DD4B39; }
-    &.linkedin { color: #0077B5; }
-    &.pinterest { color: #BD081C; }
-    &.reddit { color: #FF4500; }
-    &.tumblr { color: #35465C; }
-    &.email { color: #C4C9CC; }
+      &.twitter { color: #55ACEE; }
+      &.facebook { color: #3B5998; }
+      &.google-plus { color: #DD4B39; }
+      &.linkedin { color: #0077B5; }
+      &.pinterest { color: #BD081C; }
+      &.reddit { color: #FF4500; }
+      &.tumblr { color: #35465C; }
+      &.email { color: #C4C9CC; }
+    }
   }
+}
 
+.mail-signup {
+  @extend .row;
+  @extend .z-depth-1;
+  padding: 0.5rem;
+  .response {
+    margin-top: 1.5rem;
+    padding: 0.5rem;
+  }
+  #mce-error-response {
+    background-color: red;
+    color: white;
+  }
+  #mce-success-response {
+    background-color: $primary-color;
+    color: white;
+  }
+  .signup-form {
+    @extend .center;
+    .form-title {
+      @extend .col, .s12;
+      color: #616161;
+      font-size: 1.4rem;
+    }
+    .input-field {
+      @extend .col, .s12;
+      .material-icons {
+        color: #616161;
+      }
+    }
+    .form-button {
+      @extend .waves-effect, .waves-light, .btn;
+    }
+  }
 }
