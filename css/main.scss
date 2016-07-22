@@ -147,10 +147,10 @@ ul.footer-links {
 
 .share-buttons {
   @extend .center;
-  @extend .z-depth-1;
-  @extend .hoverable;
-  padding: 2rem;
-  width: auto;
+  //@extend .z-depth-1;
+  //@extend .hoverable;
+  //padding: 2rem;
+  //width: auto;
 
   .share-text {
     color: #616161;
