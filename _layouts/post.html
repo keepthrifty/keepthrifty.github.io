@@ -23,7 +23,7 @@ comments: true
                 {{ page.author }}
               </span>
               {% if page.author_site and page.author_site_url %}
-                at <a href="{{ page.author_site_url }}">{{ page.author_site }}</a>
+                at <a class="author-site" href="{{ page.author_site_url }}">{{ page.author_site }}</a>
               {% endif %}
             </span>
           {% endif %}
@@ -35,7 +35,10 @@ comments: true
            </span>
           {% endif %}
         </div>
+
         <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+
+        {% include share_buttons.html %}
 
         {% for tag in page.tags %}
           <div class="chip">{{ tag }}</div>
@@ -45,13 +48,17 @@ comments: true
       <div class="post-content" itemprop="articleBody">
         {{ content }}
       </div>
+
+      {% include share_buttons.html %}
+
     </div>
 
-    <div class="post-navigation">
-      {% include post_navigation.html %}
-    </div>
 
   </article>
+
+  <div class="post-navigation">
+    {% include post_navigation.html %}
+  </div>
 
   {% include comments.html %}
 </div>

@@ -139,4 +139,29 @@ ul.footer-links {
       }
     }
   }
-} 
+}
+
+.author-site {
+  text-decoration: underline;
+}
+
+.share-buttons {
+  margin-top: 3rem;
+
+  .share-text {
+    @extend .left;
+    color: #C4C9CC;
+    padding-right: 10px;
+  }
+  a {
+    &.twitter { color: #55ACEE; }
+    &.facebook { color: #3B5998; }
+    &.google-plus { color: #DD4B39; }
+    &.linkedin { color: #0077B5; }
+    &.pinterest { color: #BD081C; }
+    &.reddit { color: #FF4500; }
+    &.tumblr { color: #35465C; }
+    &.email { color: #C4C9CC; }
+  }
+
+}
