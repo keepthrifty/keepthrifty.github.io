@@ -129,7 +129,14 @@
     }
 
     p, li {
-      @extend .flow-text;
+      //@extend .flow-text;
+      @media #{$small-and-down} {
+        font-size: 1.2rem;
+      }
+      @media #{$medium-and-up} {
+        font-size: 1.4rem;
+      }
+
     }
 
     h1 {
