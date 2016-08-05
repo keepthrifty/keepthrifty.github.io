@@ -410,7 +410,7 @@ You can exhale - that's it! Our table is all set up so now we're ready for the f
 
 Looking above, a prepayment of $100 a month for the duration of the loan helps you finish the loan 57 months early and saves about $28,000 in total cost.
 
-Let's use the sheet to see what happens with a $200 per month prepayment. Simply put $200 in `H2` and paste through `H361`. Checking our summar data, here's what we see:
+Let's use the sheet to see what happens with a $200 per month prepayment. Simply put $200 in `H2` and paste through `H361`. Checking our summary data, here's what we see:
 
 ![Screenshot of prepayment 200 summary][amortization-22]
 
