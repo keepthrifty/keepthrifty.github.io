@@ -67,7 +67,14 @@
       //font-weight: bolder;
     }
     p {
-      @extend .flow-text;
+      font-weight: 300;
+      //@extend .flow-text;
+      @media #{$small-and-down} {
+        font-size: 1.1rem;
+      }
+      @media #{$medium-and-up} {
+        font-size: 1.2rem;
+      }
     }
 
   }
@@ -175,6 +182,17 @@
       li {
         list-style-type: disc;
       }
+    }
+    pre.highlight {
+      code {
+        margin-left: 2rem;
+      }
+    }
+    code {
+      background-color: #DCEDC8;
+      padding: 2px;
+      font-size: 1rem;
+      border-radius: 5px;
     }
   }
 

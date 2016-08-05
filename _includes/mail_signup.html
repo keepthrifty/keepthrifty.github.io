@@ -2,7 +2,16 @@
   <div class="signup-form">
     <form action="//keepthrifty.us12.list-manage.com/subscribe/post?u=e2d9d07904421244770d81bdd&amp;id=38f7b01157" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
       <div class="row">
-    	  <h2 class="form-title">Subscribe to get posts and updates in your inbox</h2>
+    	  <h2 class="form-title">
+          {% if page.subscribe-line %}
+            {{ page.subscribe-line }}</br>Subscribe to my mailing list!
+          {% else %}
+            Sign up for email updates to get more of the good stuff.
+          {% endif %}
+        </h2>
+        <h6>
+          You'll get new posts in your inbox about once a week and occasional notifications of new tools, resources, and updates to Thrifty.
+        </h6>
         <div class="input-field">
           <i class="material-icons prefix">mail</i>
     	    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">

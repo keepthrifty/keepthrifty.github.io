@@ -1,5 +1,7 @@
 <div class="share-buttons">
-  <h3 class="share-text">Like this post? Spread the love!</h3>
+  <h3 class="share-text">
+    Like this post?
+  </h3>
   <div class="button-set">
     <a class="twitter" href="http://twitter.com/share?text={{page.title}}&amp;url={{site.url}}{{page.url}}&amp;via={{site.twitter}}" title="Share on Twitter" target="_blank">
       <i class="fa fa-twitter-square fa-2x"></i>
@@ -26,5 +28,11 @@
       <i class="fa fa-envelope fa-2x"></i>
     </a>
   </div>
-  <br />
+  <h3 class="share-text">
+    {% if page.social-line %}
+      {{ page.social-line }}
+    {% else %}
+      Spread the love!
+    {% endif %}
+  </h3>
 </div>
