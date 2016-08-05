@@ -8,6 +8,8 @@ image: /img/washing-fork.jpg
 category: challenge
 redirect_from:
   - /challenge/2016/03/06/march-challenge-update-1.html
+  - /2016/03/06/march-challenge-update-1.html
+  - /challenge/2016-03-household-care/update-1.html
 ---
 
 > The March challenge is over! Here's the full set of update/results posts:

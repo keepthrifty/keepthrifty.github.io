@@ -8,6 +8,8 @@ image: /img/kitchen-sink.jpg
 category: challenge
 redirect_from:
   - /challenge/2016/04/03/march-challenge-update-5.html
+  - /2016/04/03/march-challenge-update-5.html
+  - /challenge/2016-03-household-care/update-5.html
 ---
 
 > The March challenge is over! Here's the full set of update/results posts:

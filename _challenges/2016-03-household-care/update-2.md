@@ -8,6 +8,8 @@ image: /img/jars.jpg
 category: challenge
 redirect_from:
   - /challenge/2016/03/13/march-challenge-update-2.html
+  - /2016/03/13/march-challenge-update-2.html
+  - /challenge/2016-03-household-care/update-2.html
 ---
 
 > The March challenge is over! Here's the full set of update/results posts:

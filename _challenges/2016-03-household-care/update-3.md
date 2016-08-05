@@ -8,6 +8,8 @@ image: /img/coffee-jars.jpg
 category: challenge
 redirect_from:
   - /challenge/2016/03/20/march-challenge-update-3.html
+  - /2016/03/20/march-challenge-update-3.html
+  - /challenge/2016-03-household-care/update-3.html
 ---
 
 > The March challenge is over! Here's the full set of update/results posts:

@@ -9,6 +9,8 @@ image: /img/laundromat-jump.jpg
 category: challenge
 redirect_from:
   - /challenge/2016/02/28/march-challenge.html
+  - /2016/02/28/march-challenge.html
+  - /challenge/2016-03-household-care/index.html
 ---
 
 > The March challenge is over! Here's the full set of update/results posts:
