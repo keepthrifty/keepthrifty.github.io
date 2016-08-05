@@ -12,7 +12,7 @@
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
       <li class="active">
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">
+        <a href="#!">
           {{ page }}
         </a>
       </li>
