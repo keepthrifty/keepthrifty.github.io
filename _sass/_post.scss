@@ -122,8 +122,7 @@
   .post-content {
 
     img {
-      @extend .materialboxed;
-      max-width: 100%;
+      max-width: 80%;
       display: block;
       margin-left: auto;
       margin-right: auto;
@@ -134,11 +133,14 @@
 
     .image-caption {
       @extend .center-align;
-      color: color("grey", "base");
+      color: color("grey", "darken-1");
     }
 
     blockquote {
-      color: color("grey", "base");
+      color: color("grey", "darken-1");
+      border-left: 2px solid $primary-color;
+      border-right: 2px solid $primary-color;
+      padding: 0 1.5rem 0 1.5rem;
     }
 
     p, li {

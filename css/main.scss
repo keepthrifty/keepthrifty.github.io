@@ -153,18 +153,23 @@ ul.footer-links {
       opacity: 0.7;
 
       &:hover { opacity: 1.0; }
-
-      &.twitter { color: #55ACEE; }
-      &.facebook { color: #3B5998; }
-      &.google-plus { color: #DD4B39; }
-      &.linkedin { color: #0077B5; }
-      &.pinterest { color: #BD081C; }
-      &.reddit { color: #FF4500; }
-      &.tumblr { color: #35465C; }
-      &.email { color: #C4C9CC; }
     }
   }
 }
+
+.share-text {
+  @extend .right;
+  padding-left: 1rem;
+}
+
+.twitter { color: #55ACEE; }
+.facebook { color: #3B5998; }
+.google-plus { color: #DD4B39; }
+.linkedin { color: #0077B5; }
+.pinterest { color: #BD081C; }
+.reddit { color: #FF4500; }
+.tumblr { color: #35465C; }
+.email { color: #C4C9CC; }
 
 .mail-signup {
   @extend .row;

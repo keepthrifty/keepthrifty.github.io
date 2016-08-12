@@ -23,7 +23,7 @@ Some of the more interesting demographic differences the paper surfaced include:
 
 # Experiences All the Way, Right? #
 
-Our family just got back from our [annual road trip][roadtrip-post], where we spent 12 days traveling the northwest United States and dropped about $3400. Would I trade that for a [75-inch, 4K ultra HD flatscreen][tv-link]?
+Our family just got back from our [annual road trip][roadtrip-post], where we spent 12 days traveling the northwest United States and dropped about $3400. Would I trade that for a 75-inch, 4K ultra HD flatscreen?
 
 _Not a chance_
 
@@ -55,7 +55,7 @@ Is it really the best advice to everyone to bail on stuff and focus exclusively 
 
 # We All Can Benefit From Both #
 
-Earlier I said that I wouldn't take a [ridiculous TV][tv-link] over going on our road trip.
+Earlier I said that I wouldn't take a ridiculous TV over going on our road trip.
 
 But what about a different example? Would I take a new laptop over a week by myself in New York City?
 
@@ -115,4 +115,3 @@ It pays to hear different viewpoints and understand how different people live, b
 [research-paper-pdf]: http://psych.colorado.edu/~vanboven/research/publications/vb_gilo_2003.pdf
 
 [luxury-fever]: http://amzn.to/29SXEjn
-[tv-link]: http://amzn.to/29APdGw
