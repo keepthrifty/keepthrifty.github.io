@@ -19,7 +19,7 @@ In addition, KeepThrifty is a place where I can pursue another of my passions - 
 
 The big kahuna here is [Thrifty][thrifty-link] - the expense tracking tool I created and have been using to figure out where we spend our money so we can spend less and live better.
 
-You can find me here, on [Twitter][twitter-link], and on [Google+][google-plus-link].
+You can find me here or on [Twitter][twitter-link].
 
 Keep in touch and as always, Keep Thrifty!
 
@@ -27,4 +27,3 @@ Keep in touch and as always, Keep Thrifty!
 
 [thrifty-link]: http://tools.keepthrifty.com
 [twitter-link]: http://www.twitter.com/keepthrifty
-[google-plus-link]: https://plus.google.com/u/0/+ChrisDurheim

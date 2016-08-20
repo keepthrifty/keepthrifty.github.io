@@ -196,6 +196,10 @@
       font-size: 1rem;
       border-radius: 5px;
     }
+
+    table {
+      @extend .striped;
+    }
   }
 
   a.anchor:target {
