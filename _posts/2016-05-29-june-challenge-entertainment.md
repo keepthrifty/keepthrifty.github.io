@@ -7,6 +7,8 @@ author: Chris
 author_email: chris@keepthrifty.com
 image: /img/old-tv.jpg
 category: challenge
+redirect_from:
+  - /challenges/2016-06-entertainment/
 ---
 
 Thrifters,
@@ -125,7 +127,7 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [thrifty-link]: http://tools.keepthrifty.com/
 [tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20KeepThrifty%20Experiment!
 
-[may-challenge-post]: /challenges/2016-05-food/
+[may-challenge-post]: {% post_url 2016-05-01-may-challenge-food %}
 
 [fixer-upper]: http://www.hgtv.com/shows/fixer-upper
 [the-more-of-less]: http://amzn.to/24fN1bM

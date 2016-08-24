@@ -6,6 +6,8 @@ author: Chris
 author_email: chris@keepthrifty.com
 image: /img/grilling-out.jpg
 category: challenge
+redirect_from:
+  - /challenges/2016-05-food/update-2.html
 ---
 
 > The May challenge is over! Here's the full set of update/results posts:
@@ -58,11 +60,11 @@ Find me on [twitter][twitter-profile] and let me know how your challenges are go
 
 [thrifty-link]: http://tools.keepthrifty.com
 
-[may-challenge-post]: /challenges/2016-05-food/
+[may-challenge-post]: {% post_url 2016-05-01-may-challenge-food %}
+[mid-month-update]: {% post_url 2016-05-16-may-challenge-food-update-1 %}
+[final-results]: {% post_url 2016-05-29-may-challenge-food-update-2 %}
 
 [twitter-profile]: http://www.twitter.com/keepthrifty
-
-[mid-month-update]: /challenges/2016-05-food/update-1.html
 
 [mr-and-mrs-pie]: http://www.planinvestescape.com/grass-fed-dry-aged-ribeye-steak/
 

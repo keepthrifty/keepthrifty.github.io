@@ -9,6 +9,7 @@ image: /img/grocery-bananas.jpg
 category: challenge
 redirect_from:
   - /challenge/2016/03/28/april-challenge.html
+  - /challenges/2016-04-grocery/
 ---
 
 > The April challenge is over! Here's the full set of update/results posts:
@@ -19,7 +20,7 @@ redirect_from:
 
 Thrifters,
 
-[Our first month][march-2016-challenge] is coming to a close, so it's time to get prepped for month two's challenge. This time I've got an ambitious one - let's start tackling your grocery bill.
+[Our first month][march-challenge-post] is coming to a close, so it's time to get prepped for month two's challenge. This time I've got an ambitious one - let's start tackling your grocery bill.
 
 This category is about as simple as any to describe - Grocery covers any raw ingredients or prepackaged foods to be prepared in your home. It doesn't cover meals eaten out, takeout, or pizza delivery - those are in "Eating Out" and we'll cover those another month.
 
@@ -113,7 +114,7 @@ One hitch this month is the fact that we grocery shop on Saturdays and this mont
 Are you ready to join the challenge? Share your thoughts in the comments below or [tweet me][tweet-link] with your goals, plan, or progress!
 
 [keepthrifty-experiment]: {% post_url 2016-02-22-keepthrifty-experiment %}
-[march-2016-challenge]: /challenge/2016-03-household-care/
+[march-challenge-post]: {% post_url 2016-02-28-march-challenge-household-care %}
 [soylent]: https://www.soylent.com/
 [killing-1000-grocery-bill]: http://www.mrmoneymustache.com/2012/03/29/killing-your-1000-grocery-bill/
 [moneysmart-family]: http://www.moneysmartfamily.com/groceries
@@ -129,5 +130,6 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [challenge-chart]: /img/groceries-mar.png
 [challenge-summary]: /img/groceries-mar-summary.png
 
-[mid-month-update]: /challenges/2016-04-grocery/update-1.html
-[final-results-post]: /challenges/2016-04-grocery/update-2.html
+[april-challenge-post]: {% post_url 2016-03-28-april-challenge-grocery %}
+[mid-month-update]: {% post_url 2016-04-17-april-challenge-grocery-update-1 %}
+[final-results-post]: {% post_url 2016-05-01-april-challenge-grocery-update-2 %}

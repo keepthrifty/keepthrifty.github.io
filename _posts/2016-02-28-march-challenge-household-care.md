@@ -11,6 +11,7 @@ redirect_from:
   - /challenge/2016/02/28/march-challenge.html
   - /2016/02/28/march-challenge.html
   - /challenge/2016-03-household-care/index.html
+  - /challenges/2016-03-household-care/
 ---
 
 > The March challenge is over! Here's the full set of update/results posts:
@@ -134,12 +135,12 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [household-care-chart]: {{site.url}}/img/household-care-feb.png
 [household-care-summary]: {{site.url}}/img/household-care-feb-summary.png
 
-[challenge-post]: /challenges/2016-03-household-care/
-[week-1-update]: /challenges/2016-03-household-care/update-1.html
-[week-2-update]: /challenges/2016-03-household-care/update-2.html
-[week-3-update]: /challenges/2016-03-household-care/update-3.html
-[week-4-update]: /challenges/2016-03-household-care/update-4.html
-[final-results]: /challenges/2016-03-household-care/update-5.html
+[march-challenge-post]: {% post_url 2016-02-28-march-challenge-household-care %}
+[week-1-update]: {% post_url 2016-03-06-march-challenge-household-care-update-1 %}
+[week-2-update]: {% post_url 2016-03-13-march-challenge-household-care-update-2 %}
+[week-3-update]: {% post_url 2016-03-20-march-challenge-household-care-update-3 %}
+[week-4-update]: {% post_url 2016-03-27-march-challenge-household-care-update-4 %}
+[final-results]: {% post_url 2016-04-03-march-challenge-household-care-update-5 %}
 
 [worm-composter]: http://amzn.to/1Xi5ja1
 [worms]: http://amzn.to/1X2LFAD

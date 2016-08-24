@@ -7,6 +7,8 @@ author: Chris
 author_email: chris@keepthrifty.com
 image: /img/happy-pancake.jpg
 category: challenge
+redirect_from:
+  - /challenges/2016-05-food/
 ---
 
 > The May challenge is over! Here's the full set of update/results posts:
@@ -128,9 +130,13 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 
 [usda-cost]: http://www.cnpp.usda.gov/sites/default/files/CostofFoodFeb2016.pdf
 
-[april-challenge-post]: /challenges/2016-04-grocery/
-[mid-month-update]: /challenges/2016-05-food/update-1.html
-[final-results]: /challenges/2016-05-food/update-2.html
+[april-challenge-post]:
+[mid-month-update]: {% post_url 2016-04-17-april-challenge-grocery-update-1 %}
+[final-results-post]: {% post_url 2016-05-01-april-challenge-grocery-update-2 %}
+
+[april-challenge-post]: {% post_url 2016-03-28-april-challenge-grocery %}
+[mid-month-update]: {% post_url 2016-05-16-may-challenge-food-update-1 %}
+[final-results]: {% post_url 2016-05-29-may-challenge-food-update-2 %}
 
 [papa-jimmys]: http://www.papajimmys.com
 [chocolate-shoppe]: http://www.chocolateshoppeicecream.com/

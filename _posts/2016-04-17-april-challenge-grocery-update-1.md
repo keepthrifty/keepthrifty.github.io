@@ -8,6 +8,7 @@ image: /img/box-of-food.jpg
 category: challenge
 redirect_from:
   - /challenge/2016/04/17/april-challenge-update-1.html
+  - /challenges/2016-04-grocery/update-1.html
 ---
 
 > The April challenge is over! Here's the full set of update/results posts:
@@ -70,10 +71,12 @@ If you're not (like me), don't get down; keep working on it - small improvements
 
 Find me on [twitter][twitter-profile] and let me know how you're doing so far this month!
 
-[april-challenge-post]: /challenges/2016-04-grocery/
+
 
 [twitter-profile]: http://www.twitter.com/keepthrifty
 
 [april-2016-mid-month]: /img/april-2016-mid-month.png
 
-[final-results-post]: /challenges/2016-04-grocery/update-2.html
+[april-challenge-post]: {% post_url 2016-03-28-april-challenge-grocery %}
+[mid-month-update]: {% post_url 2016-04-17-april-challenge-grocery-update-1 %}
+[final-results-post]: {% post_url 2016-05-01-april-challenge-grocery-update-2 %}

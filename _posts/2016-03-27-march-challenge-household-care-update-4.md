@@ -10,11 +10,12 @@ redirect_from:
   - /challenge/2016/03/27/march-challenge-update-4.html
   - /2016/03/27/march-challenge-update-4.html
   - /challenge/2016-03-household-care/update-4.html
+  - /challenges/2016-03-household-care/update-4.html
 ---
 
 > The March challenge is over! Here's the full set of update/results posts:
 >
->   - [Challenge post][challenge-post]
+>   - [Challenge post][march-challenge-post]
 >   - [Week 1 update][week-1-update]
 >   - [Week 2 update][week-2-update]
 >   - [Week 3 update][week-3-update]
@@ -28,7 +29,7 @@ Week 4 of the March challenge is in the books - how's your month going?
 
 We are on the home stretch - the month is nearly over and we're still looking pretty good. Right now, we're at $73.31, which is under our expected amount of $87.10 (27 days / 31 days times $100).
 
-Since [last week][last-week-post], we've added $9.48 to our household care total for March:
+Since [last week][week-3-update], we've added $9.48 to our household care total for March:
 
 * Mascara
 
@@ -46,15 +47,13 @@ Unexpected expenses are bound to come up, so it's important to leave a little wi
 
 Are you keeping on-track? Find me on [twitter][twitter-profile] and let me know how you're doing!
 
-[march-challenge-post]: /challenge/2016-03-household-care/
-[last-week-post]: /challenge/2016-03-household-care/update-3.html
 [twitter-profile]: http://www.twitter.com/keepthrifty
 
 [march-week-4-summary]: /img/march-2016-w4-summary.png
 
-[challenge-post]: /challenges/2016-03-household-care/
-[week-1-update]: /challenges/2016-03-household-care/update-1.html
-[week-2-update]: /challenges/2016-03-household-care/update-2.html
-[week-3-update]: /challenges/2016-03-household-care/update-3.html
-[week-4-update]: /challenges/2016-03-household-care/update-4.html
-[final-results]: /challenges/2016-03-household-care/update-5.html
+[march-challenge-post]: {% post_url 2016-02-28-march-challenge-household-care %}
+[week-1-update]: {% post_url 2016-03-06-march-challenge-household-care-update-1 %}
+[week-2-update]: {% post_url 2016-03-13-march-challenge-household-care-update-2 %}
+[week-3-update]: {% post_url 2016-03-20-march-challenge-household-care-update-3 %}
+[week-4-update]: {% post_url 2016-03-27-march-challenge-household-care-update-4 %}
+[final-results]: {% post_url 2016-04-03-march-challenge-household-care-update-5 %}

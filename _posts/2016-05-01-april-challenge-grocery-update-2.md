@@ -6,6 +6,8 @@ author: Chris
 author_email: chris@keepthrifty.com
 image: /img/strawberries.jpg
 category: challenge
+redirect_from:
+  - /challenges/2016-04-grocery/update-2.html
 ---
 
 > The April challenge is over! Here's the full set of update/results posts:
@@ -44,13 +46,13 @@ Find me on [twitter][twitter-profile] and let me know how your challenges are go
 
 [thrifty-link]: http://tools.keepthrifty.com
 
-[april-challenge-post]: /challenges/2016-04-grocery/
-
 [twitter-profile]: http://www.twitter.com/keepthrifty
 
 [april-2016-final]: /img/april-2016-final.png
 [april-2016-grocery-chart]: /img/april-2016-grocery-chart.png
 
-[mid-month-update]: /challenges/2016-04-grocery/update-1.html
+[april-challenge-post]: {% post_url 2016-03-28-april-challenge-grocery %}
+[mid-month-update]: {% post_url 2016-04-17-april-challenge-grocery-update-1 %}
+[final-results-post]: {% post_url 2016-05-01-april-challenge-grocery-update-2 %}
 
-[may-challenge]: /challenges/2016-05-food/
+[may-challenge-post]: {% post_url 2016-05-01-may-challenge-food %}

@@ -6,6 +6,8 @@ author: Chris
 author_email: chris@keepthrifty.com
 image: /img/pasta.jpg
 category: challenge
+redirect_from:
+  - /challenges/2016-05-food/update-1.html
 ---
 
 > The May challenge is over! Here's the full set of update/results posts:
@@ -62,8 +64,9 @@ Stay tuned :)
 
 Find me on [twitter][twitter-profile] and let me know how you're doing so far this month!
 
-[may-challenge-post]: /challenges/2016-05-food/
-[final-results]: /challenges/2016-05-food/update-2.html
+[may-challenge-post]: {% post_url 2016-05-01-may-challenge-food %}
+[mid-month-update]: {% post_url 2016-05-16-may-challenge-food-update-1 %}
+[final-results]: {% post_url 2016-05-29-may-challenge-food-update-2 %}
 
 [twitter-profile]: http://www.twitter.com/keepthrifty
 
