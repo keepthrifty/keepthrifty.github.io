@@ -5,7 +5,6 @@ date:   2016-03-06
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/washing-fork.jpg
-category: challenge
 redirect_from:
   - /challenge/2016/03/06/march-challenge-update-1.html
   - /2016/03/06/march-challenge-update-1.html

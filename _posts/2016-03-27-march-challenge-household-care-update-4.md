@@ -5,7 +5,6 @@ date:   2016-03-27
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/makeup-brush.jpg
-category: challenge
 redirect_from:
   - /challenge/2016/03/27/march-challenge-update-4.html
   - /2016/03/27/march-challenge-update-4.html

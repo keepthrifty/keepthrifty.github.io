@@ -5,7 +5,6 @@ date:   2016-05-01
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/strawberries.jpg
-category: challenge
 redirect_from:
   - /challenges/2016-04-grocery/update-2.html
 ---

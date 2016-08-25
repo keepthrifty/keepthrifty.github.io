@@ -5,7 +5,6 @@ date:   2016-04-03
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/kitchen-sink.jpg
-category: challenge
 redirect_from:
   - /challenge/2016/04/03/march-challenge-update-5.html
   - /2016/04/03/march-challenge-update-5.html

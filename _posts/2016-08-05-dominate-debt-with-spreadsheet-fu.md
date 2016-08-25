@@ -8,6 +8,12 @@ image: /img/posts/2016-08-05-dominate-debt-with-spreadsheet-fu/karate.jpg
 image-folder: /img/posts/2016-08-05-dominate-debt-with-spreadsheet-fu
 subscribe-line: Want a Spreadsheet Fu black belt?
 social-line: Share the spreadsheetery
+related-posts: [
+  "/2016/06/18/the-simple-path-to-wealth-review",
+  "/2016/01/15/prepaying-mortgage-trick",
+  "/2016/04/10/how-we-saved-on-our-mortgage",
+  "/2016/06/05/prepay-vs-invest"
+]
 ---
 
 Where do you go when you want to know how prepayments would impact your student loan debt? What about figuring out the new payment you'd have if you refinanced your mortgage? Financial advisors can get expensive and google's not going to cover every scenario. My advice? Get versed in the art of Spreadsheet Fu.

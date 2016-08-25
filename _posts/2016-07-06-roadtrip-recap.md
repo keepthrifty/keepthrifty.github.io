@@ -5,6 +5,11 @@ date:   2016-07-06 05:00:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/roadtrip-map.jpg
+related-posts: [
+  "/2016/03/23/engagement-ring-sold",
+  "/2016/01/20/living-with-less",
+  "/2016/06/18/the-simple-path-to-wealth-review"
+]
 ---
 
 I've [mentioned before][engagement-ring-post] that we have a family goal to reach all 50 states with our daughters before they graduate high school. We just got back from our third annual road trip - our longest one yet: 4600 miles of driving over 12 days, reaching 9 states.

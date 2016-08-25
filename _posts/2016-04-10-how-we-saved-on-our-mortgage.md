@@ -3,8 +3,9 @@ layout: post
 title: How we saved $160,000 on our mortgage
 author: Chris
 author_email: chris@keepthrifty.com
-categories: [mortgages]
 image: /img/old-bank.jpg
+redirect_from:
+  - /mortgages/2016/04/10/how-we-saved-on-our-mortgage.html
 ---
 
 We bought our house in 2007 at a purchase price of $219,900. While I was pleased with the price, we had huge sticker shock when we figured out the total between our down payment and thirty years of mortgage payments was going to be __$450,000__!

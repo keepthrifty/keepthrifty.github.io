@@ -4,8 +4,9 @@ title: When to Prepay Your Mortgage Instead of Investing
 date:   2016-06-05 19:30:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
-categories: [mortgages]
 image: /img/cheers.jpg
+redirect_from:
+  - /mortgages/2016/06/05/prepay-vs-invest.html
 ---
 
 We had a toast-worthy moment last week - our outstanding mortgage balance finally came under the $100,000 mark; we're officially in a 5-digit mortgage!

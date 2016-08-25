@@ -5,6 +5,11 @@ date:   2016-06-18 05:00:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/the-simple-path-to-wealth.jpg
+related-posts: [
+  "/2016/08/05/dominate-debt-with-spreadsheet-fu",
+  "/2016/03/23/engagement-ring-sold",
+  "/2016/08/12/fifteen-lessons-first-seven-jobs"
+]
 ---
 
 If you only read one book on personal finance, [_The Simple Path to Wealth_][the-simple-path-to-wealth-amazon] by JL Collins is a solid guide on the mentality and skills that anyone can use to take responsible ownership of their financial future.

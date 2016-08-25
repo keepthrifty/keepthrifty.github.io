@@ -3,8 +3,9 @@ layout: post
 title: Mortgage Math 101
 author: Chris
 author_email: chris@keepthrifty.com
-categories: [mortgages]
 image: /img/calculator.jpg
+redirect_from:
+  - /mortgages/2016/04/04/mortgage-math-101.html
 ---
 
 If you're going to commit to paying hundreds of thousands of dollars on something, shouldn't you understand the math involved?

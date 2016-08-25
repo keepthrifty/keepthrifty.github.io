@@ -7,7 +7,11 @@ author_email: chris@keepthrifty.com
 image: /img/posts/2016-08-19-indecent-financial-exposure/indecent-financial-exposure.jpg
 image-folder: /img/posts/2016-08-19-indecent-financial-exposure
 subscribe-line: Can't get enough?
-
+related-posts: [
+  "/2016/06/18/the-simple-path-to-wealth-review",
+  "/2016/01/01/one-word-resolution",
+  "/2016/02/22/keepthrifty-experiment"
+]
 ---
 
 One year ago, I launched [Thrifty][thrifty-link], a web-based expense and income tracking tool and became the first user. Using Thrifty, our family has logged every penny we've earned, paid in taxes, and spent on expenses over the last 12 months.

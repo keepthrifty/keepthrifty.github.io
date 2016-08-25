@@ -6,7 +6,6 @@ timeline: June 2016
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/old-tv.jpg
-category: challenge
 redirect_from:
   - /challenges/2016-06-entertainment/
 ---

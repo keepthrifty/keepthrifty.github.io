@@ -5,7 +5,6 @@ date:   2016-03-20
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/coffee-jars.jpg
-category: challenge
 redirect_from:
   - /challenge/2016/03/20/march-challenge-update-3.html
   - /2016/03/20/march-challenge-update-3.html

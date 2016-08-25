@@ -5,6 +5,11 @@ date:   2016-06-26 05:00:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/fancy-suit.jpg
+related-posts: [
+  "/2016/03/23/engagement-ring-sold",
+  "/2016/01/20/living-with-less",
+  "/2016/06/18/the-simple-path-to-wealth-review"
+]
 ---
 
 [Last time][part-1], we talked about the history behind the fashion money trap. With part 2, I'll give you the six tactics I use to escape the fashion money trap and help me live a richer life.

@@ -5,7 +5,6 @@ date:   2016-03-13
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/jars.jpg
-category: challenge
 redirect_from:
   - /challenge/2016/03/13/march-challenge-update-2.html
   - /2016/03/13/march-challenge-update-2.html

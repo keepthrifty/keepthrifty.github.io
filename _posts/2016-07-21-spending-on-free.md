@@ -6,6 +6,11 @@ author: Elsie Brown
 author_site: GundoMoney
 author_site_url: http://www.gundomoney.com
 image: /img/sunset-heart.jpg
+related-posts: [
+  "/2016/03/23/engagement-ring-sold",
+  "/2016/01/20/living-with-less",
+  "/2016/07/27/the-secret-to-success"
+]
 ---
 
 _We've got a first this week for KeepThrifty - our first guest post! This one comes to you from Elsie Brown from [GundoMoney.com][gundo-money]_

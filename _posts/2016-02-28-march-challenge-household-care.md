@@ -6,7 +6,6 @@ timeline: March 2016
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/laundromat-jump.jpg
-category: challenge
 redirect_from:
   - /challenge/2016/02/28/march-challenge.html
   - /2016/02/28/march-challenge.html

@@ -5,7 +5,6 @@ date:   2016-05-29
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/grilling-out.jpg
-category: challenge
 redirect_from:
   - /challenges/2016-05-food/update-2.html
 ---
