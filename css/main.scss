@@ -217,3 +217,14 @@ ul.footer-links {
     @extend .circle;
   }
 }
+
+.side-box {
+  @extend .row;
+  @extend .center;
+  padding: 1rem;
+  @extend .z-depth-1;
+  .author-icon {
+    @extend .icon;
+    @extend .circle;
+  }
+}

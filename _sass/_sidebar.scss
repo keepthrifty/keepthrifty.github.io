@@ -10,11 +10,6 @@
       @extend .col, .s12, .m12, .l12;
     }
 
-    .side-bar-content {
-      @extend .card-panel;
-      @extend .col;
-    }
-
     img.icon {
       @media #{$small-and-down} {
         height: 2rem;
