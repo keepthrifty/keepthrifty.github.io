@@ -214,14 +214,14 @@
   @extend .col, .s12;
 
   .previous-post {
-    @extend .col, .s6;
+    @extend .col, .s12;
     a {
       @extend .left;
       @extend .left-align;
     }
   }
   .next-post {
-    @extend .col, .s6;
+    @extend .col, .s12;
     a {
       @extend .right;
       @extend .right-align;

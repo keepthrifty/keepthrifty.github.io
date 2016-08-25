@@ -138,7 +138,7 @@ ul.footer-links {
 .share-buttons {
   @extend .row;
   @extend .z-depth-1;
-  padding-bottom: 1rem;
+  padding: 1rem;
   @extend .center;
   margin-bottom: 1rem;
 
@@ -174,7 +174,7 @@ ul.footer-links {
 .mail-signup {
   @extend .row;
   @extend .z-depth-1;
-  padding: 0.5rem;
+  padding: 1rem;
   .response {
     margin-top: 1.5rem;
     padding: 0.5rem;
@@ -203,5 +203,17 @@ ul.footer-links {
     .form-button {
       @extend .waves-effect, .waves-light, .btn;
     }
+  }
+}
+
+.hey-box {
+  @extend .row;
+  @extend .z-depth-1;
+  padding: 1rem;
+  @extend .center;
+  margin-bottom: 1rem;
+  .author-icon {
+    @extend .icon;
+    @extend .circle;
   }
 }

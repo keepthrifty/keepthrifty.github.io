@@ -54,11 +54,12 @@ comments: true
         <div class="footer-block">
           {% include mail_signup.html %}
         </div>
+        <div class="footer-block">
+          {% include related-posts.html %}
+        </div>
       </div>
 
     </div>
-
-
   </article>
 
   <div class="post-navigation">
@@ -70,8 +71,14 @@ comments: true
 
 <div class="side-bar">
   <div class="row">
-    <div class="side-bar-segment normal hide-on-small-only">
-        {% include post_list.html %}
+    <div class="side-bar-segment footer-block  normal hide-on-med-and-down">
+      {% include hey.html %}
+    </div>
+    <div class="side-bar-segment footer-block  normal hide-on-med-and-down">
+      {% include share_buttons.html %}
+    </div>
+    <div class="side-bar-segment footer-block  normal hide-on-med-and-down">
+      {% include mail_signup.html %}
     </div>
   </div>
 </div>

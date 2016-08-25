@@ -1,25 +1,23 @@
 <div class="row">
+  <hr />
   <div class="previous-post">
     {% if page.previous %}
     <a href="{{ page.previous.url }}">
-      <i class="material-icons large">navigate_before</i>
-      <br />
-      {{ page.previous.title }}
+      << {{ page.previous.title }}
     </a>
     {% else %}
       &nbsp;
     {% endif %}
   </div>
-
+  <br />
   <div class="next-post">
     {% if page.next %}
       <a href="{{ page.next.url }}">
-        <i class="material-icons large">navigate_next</i>
-        <br />
-        {{ page.next.title }}
+        {{ page.next.title }} >>
       </a>
     {% else %}
       &nbsp;
     {% endif %}
   </div>
+  <hr />
 </div>
