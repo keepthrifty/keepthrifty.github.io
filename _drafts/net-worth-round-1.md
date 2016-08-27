@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Learned From One Year of Tracking Every Penny"
+title: "Net Worth"
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-08-12-first-seven-jobs/parking-lot.jpg

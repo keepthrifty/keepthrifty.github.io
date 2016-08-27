@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Indecent (Financial) Exposure: Every Penny We Spent in the Last 12 Months"
-share-hashtag: "#indecentfinancialexposure"
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-08-19-indecent-financial-exposure/indecent-financial-exposure.jpg
