@@ -3,16 +3,16 @@ layout: default
 comments: true
 ---
 
-<div class="main-body">
+<div class="col s12 m12 l9">
   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
     {% if page.image %}
-    <div class="post-header">
+    <div class="post-header center">
       <img src="{{ page.image }}" class="post-header-image" itemprop="image" />
     </div>
     {% endif %}
 
-    <div class="post-text">
+    <div class="post-text col s10 offset-s1">
       <header class="post-info">
         <div class="post-meta">
           <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
@@ -47,14 +47,14 @@ comments: true
         {{ content }}
       </div>
 
-      <div class="post-footer">
-        <div class="footer-block">
+      <div class="post-footer row">
+        <div class="footer-block col s12 m10 offset-m1 l6">
           {% include share_buttons.html %}
         </div>
-        <div class="footer-block">
+        <div class="footer-block col s12 m10 offset-m1 l6">
           {% include mail_signup.html %}
         </div>
-        <div class="footer-block">
+        <div class="footer-block col s12 m10 offset-m1 l8 offset-l2">
           {% include related-posts.html %}
         </div>
       </div>
@@ -62,22 +62,22 @@ comments: true
     </div>
   </article>
 
-  <div class="post-navigation">
+  <div class="post-navigation col s12">
     {% include post_navigation.html %}
   </div>
 
   {% include comments.html %}
 </div>
 
-<div class="side-bar">
+<div class="side-bar col l3 hide-on-med-and-down">
   <div class="row">
-    <div class="side-bar-segment footer-block  normal hide-on-med-and-down">
+    <div class="side-bar-segment footer-block col s12">
       {% include hey.html %}
     </div>
-    <div class="side-bar-segment footer-block  normal hide-on-med-and-down">
+    <div class="side-bar-segment footer-block col s12">
       {% include share_buttons.html %}
     </div>
-    <div class="side-bar-segment footer-block  normal hide-on-med-and-down">
+    <div class="side-bar-segment footer-block col s12">
       {% include mail_signup.html %}
     </div>
   </div>

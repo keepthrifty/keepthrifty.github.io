@@ -1,17 +1,145 @@
+.side-bar {
+  .side-bar-segment {
+    img.icon {
+      @media #{$small-and-down} {
+        height: 2rem;
+      }
+      @media #{$medium-and-up} {
+        height: 4rem;
+      }
+      width: auto;
+      padding-right: 10px;
+      padding-left: 10px;
+    }
+  }
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+.page-image {
+  padding-right: 10px;
+}
+
+ul.post-list {
+  li {
+    list-style-type: disc;
+    margin-left: 2rem;
+  }
+}
+
+ul.footer-links {
+  li {
+    @media #{$small-and-down} {
+     display: list-item;
+    }
+
+    @media #{$medium-and-up} {
+     display: inline;
+    }
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+}
+
+.recommendation-set {
+  .recommendation-entry {
+    .card {
+      .card-content {
+        a {
+          .card-title {
+            color: $secondary-color !important;
+          }
+        }
+        p {
+          padding-bottom: 1rem;
+        }
+      }
+      .card-action {
+        a {
+          color: $secondary-color !important;
+        }
+      }
+    }
+  }
+}
+
+.author-site {
+  text-decoration: underline;
+}
+
+.share-buttons {
+  padding: 1rem;
+  margin-bottom: 1rem;
+
+  .share-text {
+    color: #616161;
+    font-size: 1.4rem;
+  }
+  .button-set {
+    a {
+      opacity: 0.7;
+
+      &:hover { opacity: 1.0; }
+    }
+  }
+}
+
+.share-text {
+  padding-left: 1rem;
+}
+
+.twitter { color: #55ACEE; }
+.facebook { color: #3B5998; }
+.google-plus { color: #DD4B39; }
+.linkedin { color: #0077B5; }
+.pinterest { color: #BD081C; }
+.reddit { color: #FF4500; }
+.tumblr { color: #35465C; }
+.email { color: #C4C9CC; }
+
+.mail-signup {
+  padding: 1rem;
+  .response {
+    margin-top: 1.5rem;
+    padding: 0.5rem;
+  }
+  #mce-error-response {
+    background-color: red;
+    color: white;
+  }
+  #mce-success-response {
+    background-color: $primary-color;
+    color: white;
+  }
+  .signup-form {
+    .form-title {
+      color: #616161;
+      font-size: 1.4rem;
+    }
+    .input-field {
+      .material-icons {
+        color: #616161;
+      }
+    }
+  }
+}
+
+.side-box {
+  padding: 1rem;
+}
+
 // For #index rendering of posts w/ summaries
 .post-card {
   margin-bottom: 20px;
-  &.newest-post {
-    @extend .col, .s12, .m12, .l10, .offset-l1;
-  }
-
-  &.other-post {
-    @extend .col, .s12, .m12, .l10, .offset-l1;
-  }
-
-  &.challenge-post {
-    @extend .col, .s12, .m12, .l10, .offset-l1;
-  }
 
   img.post-index {
     object-fit: cover;
@@ -37,8 +165,6 @@
     position: relative;
 
     i.material-icons {
-      @extend .circle;
-      @extend .right;
       right: 18px;
       position: relative;
       top: -2rem;
@@ -64,11 +190,9 @@
       font-size: 2.0rem;
       line-height: 2.5rem;
       margin-bottom: 1rem;
-      //font-weight: bolder;
     }
     p {
       font-weight: 300;
-      //@extend .flow-text;
       @media #{$small-and-down} {
         font-size: 1.1rem;
       }
@@ -82,8 +206,6 @@
 
 // For individual post views
 .post-header {
-  @extend .center;
-
   img.post-header-image {
     width: 100%;
     height: auto;
@@ -94,7 +216,6 @@
 }
 
 .post-text {
-  @extend .col, .s10, .offset-s1;
   position: relative;
   background-color: white;
 
@@ -113,12 +234,6 @@
     font-size: 2.5rem;
   }
 
-  .post-footer {
-    .footer-block {
-      @extend .col, .s12, .m10, .offset-m1, .l8, .offset-l2;
-    }
-  }
-
   .post-content {
 
     img {
@@ -132,7 +247,7 @@
     }
 
     .image-caption {
-      @extend .center-align;
+      text-align: center;
       color: color("grey", "darken-1");
     }
 
@@ -146,7 +261,6 @@
     p, li {
 
       font-weight: 300;
-      //@extend .flow-text;
       @media #{$small-and-down} {
         font-size: 1.2rem;
       }
@@ -207,35 +321,5 @@
   }
   a.anchor {
     color: inherit;
-  }
-}
-
-.post-navigation {
-  @extend .col, .s12;
-
-  .previous-post {
-    @extend .col, .s12;
-    a {
-      @extend .left;
-      @extend .left-align;
-    }
-  }
-  .next-post {
-    @extend .col, .s12;
-    a {
-      @extend .right;
-      @extend .right-align;
-    }
-  }
-}
-
-.post-wrap-up {
-  @extend .col, .s10, .offset-s1;
-  .subscribe-card {
-    @extend .card-panel, .hoverable;
-  }
-
-  .post-wrap-up-segment {
-    @extend .col, .s10, .offset-s1;
   }
 }

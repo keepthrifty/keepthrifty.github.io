@@ -17,11 +17,11 @@ On the path to financial freedom, we all invariably find tools and products that
 {% endfor %}
 
 {% for type in typed %}
-<div class="recommendation-set">
+<div class="recommendation-set row">
   <a name="{{ type.name | slugify }}"></a>
   <h3>{{ type.name }}</h3>
    {% for recommendation in type.items %}
-   <div class="recommendation-entry">
+   <div class="recommendation-entry col s12 m6 l6">
      <div class="card">
        <div class="card-image">
           <a href="{{ recommendation.link }}">

@@ -1,8 +1,8 @@
 <div class="row">
   <hr />
-  <div class="previous-post">
+  <div class="col s12" id="previous-post">
     {% if page.previous %}
-    <a href="{{ page.previous.url }}">
+    <a href="{{ page.previous.url }}" class="left left-align">
       << {{ page.previous.title }}
     </a>
     {% else %}
@@ -10,9 +10,9 @@
     {% endif %}
   </div>
   <br />
-  <div class="next-post">
+  <div class="col s12" id="next-post">
     {% if page.next %}
-      <a href="{{ page.next.url }}">
+      <a href="{{ page.next.url }}" class="right right-align">
         {{ page.next.title }} >>
       </a>
     {% else %}

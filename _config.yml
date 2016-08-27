@@ -30,9 +30,6 @@ collections:
   recommendations:
     types: test
 
-sass:
-    style: compressed
-
 gems:
   - jekyll-sitemap
   - jekyll-paginate

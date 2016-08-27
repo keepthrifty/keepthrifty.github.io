@@ -10,11 +10,7 @@ layout: page
 </h1>
 
 {% for post in paginator.posts %}
-  {% if forloop.first %}
-  <div class="post-card newest-post">
-  {% else %}
-  <div class="post-card other-post">
-  {% endif %}
+  <div class="post-card col s12 m12 l10 offset-l1">
     <div class="card">
       <a href="{{ post.url | prepend: site.baseurl }}">
         <div class="card-image">
@@ -27,7 +23,7 @@ layout: page
           <span>{{ post.date | date: "%b %-d, %Y" }}</span>
         </div>
         <div class="card-read-btn">
-          <i class="material-icons large">arrow_forward</i>
+          <i class="material-icons large circle right">arrow_forward</i>
         </div>
       </a>
       <div class="card-content">

@@ -6,7 +6,7 @@ permalink: /about/
 
 ## A single-income family on the path to financial independence ##
 
-<img src="/img/us.png" class="page-image">
+<img src="/img/us.png" class="page-image left">
 
 Hi! I'm Chris and it's great to have you here. I'm a proud husband and father working on achieving financial independence for our family despite living on only a single income.
 
