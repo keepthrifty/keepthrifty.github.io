@@ -38,8 +38,6 @@ comments: true
 
         <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 
-        <p><a href="#disqus_thread" data-disqus-identifier="{{ page.title }}">Comments</a></p>
-
         {% for tag in page.tags %}
           <div class="chip">{{ tag }}</div>
         {% endfor %}
@@ -78,9 +76,6 @@ comments: true
     </div>
     <div class="side-bar-segment footer-block col s12">
       {% include share_buttons.html %}
-    </div>
-    <div class="side-bar-segment footer-block col s12">
-      {% include mail_signup.html %}
     </div>
   </div>
 </div>
