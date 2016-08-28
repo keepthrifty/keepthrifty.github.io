@@ -38,6 +38,8 @@ comments: true
 
         <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 
+        <p><a href="{{ page.url }}index.html#disqus_thread" data-disqus-identifier="{{page.url}}"></a></p>
+
         {% for tag in page.tags %}
           <div class="chip">{{ tag }}</div>
         {% endfor %}
