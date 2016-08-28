@@ -6,6 +6,7 @@ author: Chris
 author_email: chris@keepthrifty.com
 image: /img/the-simple-path-to-wealth.jpg
 related-posts: [
+  "/2016/08/28/the-more-of-less-review",
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",
   "/2016/03/23/engagement-ring-sold",
   "/2016/08/12/fifteen-lessons-first-seven-jobs"
