@@ -7,6 +7,7 @@ author_email: chris@keepthrifty.com
 image: /img/box-of-food.jpg
 redirect_from:
   - /challenge/2016/04/17/april-challenge-update-1.html
+  - /challenge/2016/04/17/april-challenge-grocery-update-1.html
   - /challenges/2016-04-grocery/update-1.html
 ---
 

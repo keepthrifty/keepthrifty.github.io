@@ -7,6 +7,7 @@ author_email: chris@keepthrifty.com
 image: /img/kitchen-sink.jpg
 redirect_from:
   - /challenge/2016/04/03/march-challenge-update-5.html
+  - /challenge/2016/04/03/march-challenge-household-care-update-5.html
   - /2016/04/03/march-challenge-update-5.html
   - /challenge/2016-03-household-care/update-5.html
   - /challenges/2016-03-household-care/update-5.html

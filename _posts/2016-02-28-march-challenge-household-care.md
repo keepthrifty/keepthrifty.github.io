@@ -8,6 +8,7 @@ author_email: chris@keepthrifty.com
 image: /img/laundromat-jump.jpg
 redirect_from:
   - /challenge/2016/02/28/march-challenge.html
+  - /challenge/2016/02/28/march-challenge-household-care.html
   - /2016/02/28/march-challenge.html
   - /challenge/2016-03-household-care/index.html
   - /challenges/2016-03-household-care/

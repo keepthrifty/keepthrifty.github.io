@@ -8,6 +8,7 @@ author_email: chris@keepthrifty.com
 image: /img/old-tv.jpg
 redirect_from:
   - /challenges/2016-06-entertainment/
+  - /challenge/2016/05/29/june-challenge-entertainment.html
 ---
 
 Thrifters,

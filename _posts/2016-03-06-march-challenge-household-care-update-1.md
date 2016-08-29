@@ -7,6 +7,7 @@ author_email: chris@keepthrifty.com
 image: /img/washing-fork.jpg
 redirect_from:
   - /challenge/2016/03/06/march-challenge-update-1.html
+  - /challenge/2016/03/06/march-challenge-household-care-update-1.html
   - /2016/03/06/march-challenge-update-1.html
   - /challenge/2016-03-household-care/update-1.html
   - /challenges/2016-03-household-care/update-1.html

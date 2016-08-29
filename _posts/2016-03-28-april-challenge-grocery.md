@@ -8,6 +8,7 @@ author_email: chris@keepthrifty.com
 image: /img/grocery-bananas.jpg
 redirect_from:
   - /challenge/2016/03/28/april-challenge.html
+  - /challenge/2016/03/28/april-challenge-grocery.html
   - /challenges/2016-04-grocery/
 ---
 
