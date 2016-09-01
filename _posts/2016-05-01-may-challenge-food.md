@@ -8,6 +8,7 @@ author_email: chris@keepthrifty.com
 image: /img/happy-pancake.jpg
 redirect_from:
   - /challenges/2016-05-food/
+  - /challenge/2016/05/01/may-challenge-food.html
 ---
 
 > The May challenge is over! Here's the full set of update/results posts:

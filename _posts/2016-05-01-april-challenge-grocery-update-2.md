@@ -7,6 +7,7 @@ author_email: chris@keepthrifty.com
 image: /img/strawberries.jpg
 redirect_from:
   - /challenges/2016-04-grocery/update-2.html
+  - /challenge/2016/05/01/april-challenge-grocery-update-2.html
 ---
 
 > The April challenge is over! Here's the full set of update/results posts:
