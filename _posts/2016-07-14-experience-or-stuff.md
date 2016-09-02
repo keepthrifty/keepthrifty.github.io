@@ -4,7 +4,7 @@ title: "Experience is Better Than Stuff - Except When It's Not"
 date:   2016-07-14 05:00:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/mountaintop.jpg
+image: /img/posts/2016-07-14-experience-or-stuff/mountaintop.jpg
 related-posts: [
   "/2016/03/23/engagement-ring-sold",
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",

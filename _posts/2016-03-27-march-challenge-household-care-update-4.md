@@ -4,13 +4,20 @@ title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 4
 date:   2016-03-27
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/makeup-brush.jpg
+image: /img/posts/2016-03-27-march-challenge-household-care-update-4/makeup-brush.jpg
 redirect_from:
   - /challenge/2016/03/27/march-challenge-update-4.html
   - /challenge/2016/03/27/march-challenge-household-care-update-4.html
   - /2016/03/27/march-challenge-update-4.html
   - /challenge/2016-03-household-care/update-4.html
   - /challenges/2016-03-household-care/update-4.html
+related-posts: [
+  "/2016/02/22/keepthrifty-experiment",
+  "/2016/02/28/march-challenge-household-care",
+  "/2016/03/28/april-challenge-grocery",
+  "/2016/05/01/may-challenge-food",
+  "/2016/05/29/june-challenge-entertainment"
+]
 ---
 
 > The March challenge is over! Here's the full set of update/results posts:
@@ -49,7 +56,7 @@ Are you keeping on-track? Find me on [twitter][twitter-profile] and let me know 
 
 [twitter-profile]: http://www.twitter.com/keepthrifty
 
-[march-week-4-summary]: /img/march-2016-w4-summary.png
+[march-week-4-summary]: /img/posts/2016-03-27-march-challenge-household-care-update-4/march-2016-w4-summary.png
 
 [march-challenge-post]: {% post_url 2016-02-28-march-challenge-household-care %}
 [week-1-update]: {% post_url 2016-03-06-march-challenge-household-care-update-1 %}

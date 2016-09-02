@@ -4,7 +4,12 @@ title:  "What I Learned from Living with Less"
 date:   2016-01-20 06:00:00 -0600
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/jumper.jpg
+image: /img/posts/2016-01-20-living-with-less/jumper.jpg
+related-posts: [
+  "/2016/09/04/let-it-burn",
+  "/2016/08/28/the-more-of-less-review",
+  "/2016/07/21/spending-on-free"
+]
 ---
 
 To an outside observer, it might look I’m going through a midlife crisis.

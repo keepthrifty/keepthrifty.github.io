@@ -4,13 +4,21 @@ title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 3
 date:   2016-03-20
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/coffee-jars.jpg
+image: /img/posts/2016-03-20-march-challenge-household-care-update-3/coffee-jars.jpg
+image-folder: /img/posts/2016-03-20-march-challenge-household-care-update-3
 redirect_from:
   - /challenge/2016/03/20/march-challenge-update-3.html
   - /challenge/2016/03/20/march-challenge-household-care-update-3.html
   - /2016/03/20/march-challenge-update-3.html
   - /challenge/2016-03-household-care/update-3.html
   - /challenges/2016-03-household-care/update-3.html
+related-posts: [
+  "/2016/02/22/keepthrifty-experiment",
+  "/2016/02/28/march-challenge-household-care",
+  "/2016/03/28/april-challenge-grocery",
+  "/2016/05/01/may-challenge-food",
+  "/2016/05/29/june-challenge-entertainment"
+]
 ---
 
 > The March challenge is over! Here's the full set of update/results posts:
@@ -50,9 +58,9 @@ Hope you are keeping on track as well. Find me on [twitter][twitter-profile] and
 [salad-in-a-jar-video]: https://www.youtube.com/watch?v=RRemVme-3wU
 [twitter-profile]: http://www.twitter.com/keepthrifty
 
-[march-week-3-summary]: /img/march-2016-w3-summary.png
+[march-week-3-summary]: {{ page.image-folder }}//march-2016-w3-summary.png
 
-[salad-in-a-jar]: /img/salad-in-a-jar.jpg
+[salad-in-a-jar]: {{ page.image-folder }}/salad-in-a-jar.jpg
 
 [march-challenge-post]: {% post_url 2016-02-28-march-challenge-household-care %}
 [week-1-update]: {% post_url 2016-03-06-march-challenge-household-care-update-1 %}

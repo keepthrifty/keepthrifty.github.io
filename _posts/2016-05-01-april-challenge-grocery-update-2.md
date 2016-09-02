@@ -4,10 +4,17 @@ title:  April 2016 Challenge (Grocery) - Final Results
 date:   2016-05-01
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/strawberries.jpg
+image: /img/posts/2016-05-01-april-challenge-grocery-update-2/strawberries.jpg
 redirect_from:
   - /challenges/2016-04-grocery/update-2.html
   - /challenge/2016/05/01/april-challenge-grocery-update-2.html
+related-posts: [
+  "/2016/02/22/keepthrifty-experiment",
+  "/2016/02/28/march-challenge-household-care",
+  "/2016/03/28/april-challenge-grocery",
+  "/2016/05/01/may-challenge-food",
+  "/2016/05/29/june-challenge-entertainment"
+]
 ---
 
 > The April challenge is over! Here's the full set of update/results posts:
@@ -48,8 +55,8 @@ Find me on [twitter][twitter-profile] and let me know how your challenges are go
 
 [twitter-profile]: http://www.twitter.com/keepthrifty
 
-[april-2016-final]: /img/april-2016-final.png
-[april-2016-grocery-chart]: /img/april-2016-grocery-chart.png
+[april-2016-final]: /img/posts/2016-05-01-april-challenge-grocery-update-2/april-2016-final.png
+[april-2016-grocery-chart]: /img/posts/2016-05-01-april-challenge-grocery-update-2/april-2016-grocery-chart.png
 
 [april-challenge-post]: {% post_url 2016-03-28-april-challenge-grocery %}
 [mid-month-update]: {% post_url 2016-04-17-april-challenge-grocery-update-1 %}

@@ -4,7 +4,12 @@ title:  "The Real Root of All Evil"
 date:   2016-01-30 06:00:00 -0600
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/tree.jpg
+image: /img/posts/2016-01-30-real-root-of-all-evil/tree.jpg
+related-posts: [
+  "/2016/08/28/the-more-of-less-review",
+  "/2016/07/21/spending-on-free",
+  "/2016/01/20/living-with-less"
+]
 ---
 
 1 Timothy 6:10 is one of the most misquoted passages from the bible (though Pulp Fiction’s take on Ezekiel 25:17 is another good one).

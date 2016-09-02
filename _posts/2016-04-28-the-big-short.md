@@ -4,7 +4,14 @@ title: What We All (Hopefully) Learned from 2007 via The Big Short
 date:   2016-04-28 00:00:01 -0500
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/the-big-short.jpg
+image: /img/posts/2016-04-28-the-big-short/the-big-short.jpg
+image-folder: /img/posts/2016-04-28-the-big-short
+related-posts: [
+  "/2016/06/18/the-simple-path-to-wealth-review",
+  "/2016/04/04/mortgage-math-101",
+  "/2016/04/10/how-we-saved-on-our-mortgage",
+  "/2016/05/08/how-much-car-can-you-afford"
+]
 ---
 
 Those who do not learn from history are doomed to repeat it. Have we learned from what happened in 2007 so we don't end up there again?
@@ -128,6 +135,6 @@ _I encourage you to share them in the comments section below so others can learn
 [khan-academy-mortgages]: https://www.khanacademy.org/economics-finance-domain/core-finance/housing/mortgages-tutorial
 [bankrate-rates]: http://www.bankrate.com/finance/mortgage-rates-history-0112.aspx
 
-[schmidt-picture]: /img/the-big-short-schmidt.jpg
+[schmidt-picture]: {{ page.image-folder }}/the-big-short-schmidt.jpg
 
 [amazon-big-short]: http://amzn.to/25aPSsk

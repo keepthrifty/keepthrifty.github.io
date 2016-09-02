@@ -4,11 +4,18 @@ title:  April 2016 Challenge (Grocery) - Mid-month Results
 date:   2016-04-17
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/box-of-food.jpg
+image: /img/posts/2016-04-17-april-challenge-grocery-update-1/box-of-food.jpg
 redirect_from:
   - /challenge/2016/04/17/april-challenge-update-1.html
   - /challenge/2016/04/17/april-challenge-grocery-update-1.html
   - /challenges/2016-04-grocery/update-1.html
+related-posts: [
+  "/2016/02/22/keepthrifty-experiment",
+  "/2016/02/28/march-challenge-household-care",
+  "/2016/03/28/april-challenge-grocery",
+  "/2016/05/01/may-challenge-food",
+  "/2016/05/29/june-challenge-entertainment"
+]
 ---
 
 > The April challenge is over! Here's the full set of update/results posts:
@@ -75,7 +82,7 @@ Find me on [twitter][twitter-profile] and let me know how you're doing so far th
 
 [twitter-profile]: http://www.twitter.com/keepthrifty
 
-[april-2016-mid-month]: /img/april-2016-mid-month.png
+[april-2016-mid-month]: /img/posts/2016-04-17-april-challenge-grocery-update-1/april-2016-mid-month.png
 
 [april-challenge-post]: {% post_url 2016-03-28-april-challenge-grocery %}
 [mid-month-update]: {% post_url 2016-04-17-april-challenge-grocery-update-1 %}

@@ -4,7 +4,8 @@ title: "Escaping the Fashion Money Trap (Part 2)"
 date:   2016-06-26 05:00:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/fancy-suit.jpg
+image: /img/posts/2016-06-13-escape-fashion-trap-part-1/fancy-suit.jpg
+image-folder: /img/posts/2016-06-26-escape-fashion-trap-part-2
 related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/03/23/engagement-ring-sold",
@@ -117,13 +118,13 @@ Diligence in fighting the temptation to keep up with the latest trend will help 
 
 Be comfortable in your own skin, no matter what you're wearing. If you can accomplish this you'll find yourself living a richer life in more ways than one.
 
-[macguyver-fix]: /img/macguyver-fix.jpg
+[macguyver-fix]: /img/posts/2016-06-26-escape-fashion-trap-part-2/macguyver-fix.jpg
 
 [part-1]: {% post_url 2016-06-13-escape-fashion-trap-part-1 %}
 
 [same-thing-to-work]: http://www.harpersbazaar.com/culture/features/a10441/why-i-wear-the-same-thing-to-work-everday/
 
-[zubaz-wedding]: /img/zubaz-wedding.jpg
+[zubaz-wedding]: /img/posts/2016-06-26-escape-fashion-trap-part-2/zubaz-wedding.jpg
 
 [atlantic-clothing-budget]: http://www.theatlantic.com/business/archive/2012/04/how-america-spends-money-100-years-in-the-life-of-the-family-budget/255475/
 
@@ -131,18 +132,7 @@ Be comfortable in your own skin, no matter what you're wearing. If you can accom
 
 [plenitude-link]: http://amzn.to/1UPCQ8C
 
-[hammer-pants]: /img/hammer-pants.jpg
-
-[clothing-lifecycle-good]: /img/clothes-cycle-good.png
-[clothing-lifecycle-bad]: /img/clothes-cycle-bad.png
-
-[lightbulb]: http://i.giphy.com/L7DUwZJZc4agU.gif
-[lightbulb-source]: http://giphy.com/gifs/despicable-me-idea-gru-L7DUwZJZc4agU
-
-
-[apple-faces]: /img/happy-apple-sad-apple.jpg
-
-[baby-escape]: /img/baby-escape.jpg
+[baby-escape]: /img/posts/2016-06-13-escape-fashion-trap-part-1/baby-escape.jpg
 
 [30-year-tshirt]: http://www.tomcridland.com/collections/the-30-year-t-shirt-a-30-year-guarantee
 [patagonia-repairs]: http://www.patagonia.com/us/worn-wear-repairs

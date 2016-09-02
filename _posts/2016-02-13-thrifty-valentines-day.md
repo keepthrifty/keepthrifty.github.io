@@ -4,7 +4,13 @@ title:  "How to have a Thrifty Valentine's Day"
 date:   2016-02-13 06:00:00 -0600
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/valentines.jpg
+image: /img/posts/2016-02-13-thrifty-valentines-day/valentines.jpg
+image-folder: /img/posts/2016-02-13-thrifty-valentines-day
+related-posts: [
+  "/2016/08/12/fifteen-lessons-first-seven-jobs",
+  "/2016/09/04/let-it-burn",
+  "/2016/08/28/the-more-of-less-review"
+]
 ---
 
 Jewelry, flowers, and bears, oh my! If you’re not careful, this holiday is a great way to burn a hole in your wallet.
@@ -103,6 +109,6 @@ I hope your Valentine’s day is filled with love, experiences, and togetherness
 [thrifty-resolution-post]: {% post_url 2016-01-01-one-word-resolution %}
 [charlies-on-main]: http://charliesmainevent.com/
 
-[jaime-on-the-square]: {{site.url}}/img/jaime-on-the-square.jpg "My wife on our walk outside"
-[chris-on-the-square]: {{site.url}}/img/chris-on-the-square.jpg "Me on our walk outside with a cross-country ski track in the road"
-[snow-sculptures]: {{site.url}}/img/snow-sculptures.jpg "Snow sculptures in progress"
+[jaime-on-the-square]: {{ page.image-folder }}/jaime-on-the-square.jpg "My wife on our walk outside"
+[chris-on-the-square]: {{ page.image-folder }}/chris-on-the-square.jpg "Me on our walk outside with a cross-country ski track in the road"
+[snow-sculptures]: {{ page.image-folder }}/snow-sculptures.jpg "Snow sculptures in progress"

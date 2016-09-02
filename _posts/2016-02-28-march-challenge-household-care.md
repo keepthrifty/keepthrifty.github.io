@@ -5,13 +5,20 @@ date:   2016-02-28
 timeline: March 2016
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/laundromat-jump.jpg
+image:  /img/posts/2016-02-28-march-challenge-household-care/laundromat-jump.jpg
+image-folder: /img/posts/2016-02-28-march-challenge-household-care
 redirect_from:
   - /challenge/2016/02/28/march-challenge.html
   - /challenge/2016/02/28/march-challenge-household-care.html
   - /2016/02/28/march-challenge.html
   - /challenge/2016-03-household-care/index.html
   - /challenges/2016-03-household-care/
+related-posts: [
+  "/2016/02/22/keepthrifty-experiment",
+  "/2016/03/28/april-challenge-grocery",
+  "/2016/05/01/may-challenge-food",
+  "/2016/05/29/june-challenge-entertainment"
+]
 ---
 
 > The March challenge is over! Here's the full set of update/results posts:
@@ -132,8 +139,8 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [thrifty]: http://tools.keepthrifty.com/
 [tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20KeepThrifty%20Experiment!
 
-[household-care-chart]: {{site.url}}/img/household-care-feb.png
-[household-care-summary]: {{site.url}}/img/household-care-feb-summary.png
+[household-care-chart]: {{ page.image-folder }}/household-care-feb.png
+[household-care-summary]: {{ page.image-folder }}/household-care-feb-summary.png
 
 [march-challenge-post]: {% post_url 2016-02-28-march-challenge-household-care %}
 [week-1-update]: {% post_url 2016-03-06-march-challenge-household-care-update-1 %}

@@ -4,7 +4,12 @@ title:  "My One-Word Resolution for 2016 - Thrifty"
 date:   2016-01-01 06:00:00 -0600
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/rock_climbing.jpg
+image: /img/posts/2016-01-01-one-word-resolution/rock_climbing.jpg
+related-posts: [
+  "/2016/08/20/indecent-financial-exposure",
+  "/2016/07/06/roadtrip-recap",
+  "/2016/08/28/the-more-of-less-review"
+]
 ---
 Most resolutions are failures. More and more are rebelling and going to something simpler, something cleaner — a single “[focus word][focus-word]” for the year.
 

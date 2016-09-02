@@ -2,7 +2,6 @@
 layout: page
 title: Recommended Products and Services
 author: Chris
-image: /img/recommended.jpg
 permalink: /recommended/
 ---
 

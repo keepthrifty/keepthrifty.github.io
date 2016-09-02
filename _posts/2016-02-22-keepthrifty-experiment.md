@@ -4,7 +4,14 @@ title:  "The KeepThrifty Experiment - Keep Thrifty, Live Better"
 date:   2016-02-22 06:00:00 -0600
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/arches_panorama.jpg
+image: /img/posts/2016-02-22-keepthrifty-experiment/arches_panorama.jpg
+related-posts: [
+  "/2016/08/20/indecent-financial-exposure",
+  "/2016/02/28/march-challenge-household-care",
+  "/2016/03/28/april-challenge-grocery",
+  "/2016/05/01/may-challenge-food",
+  "/2016/05/29/june-challenge-entertainment"
+]
 ---
 My wife and I had some intense financial discussions this weekend.
 

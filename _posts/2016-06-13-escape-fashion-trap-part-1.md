@@ -4,7 +4,8 @@ title: "Escaping the Fashion Money Trap (Part 1)"
 date:   2016-06-13 21:30:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/fancy-suit.jpg
+image: /img/posts/2016-06-13-escape-fashion-trap-part-1/fancy-suit.jpg
+image-folder: /img/posts/2016-06-13-escape-fashion-trap-part-1
 related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/06/13/escape-fashion-trap-part-1",
@@ -151,17 +152,17 @@ Let's take a look at how to escape the fashion money trap in [Part 2][part-2].
 
 [plenitude-link]: http://amzn.to/1UPCQ8C
 
-[hammer-pants]: /img/hammer-pants.jpg
+[hammer-pants]: {{ page.image-folder }}/hammer-pants.jpg
 
-[clothing-lifecycle-good]: /img/clothes-cycle-good.png
-[clothing-lifecycle-bad]: /img/clothes-cycle-bad.png
+[clothing-lifecycle-good]: {{ page.image-folder }}/clothes-cycle-good.png
+[clothing-lifecycle-bad]: {{ page.image-folder }}/clothes-cycle-bad.png
 
 [lightbulb]: http://i.giphy.com/L7DUwZJZc4agU.gif
 [lightbulb-source]: http://giphy.com/gifs/despicable-me-idea-gru-L7DUwZJZc4agU
 
-[apple-faces]: /img/happy-apple-sad-apple.jpg
+[apple-faces]: {{ page.image-folder }}/happy-apple-sad-apple.jpg
 
-[baby-escape]: /img/baby-escape.jpg
+[baby-escape]: {{ page.image-folder }}/baby-escape.jpg
 
 [30-year-sweatshirt]: http://www.tomcridland.com/collections/the-30-year-sweatshirt
 [patagonia-repairs]: http://www.patagonia.com/us/worn-wear-repairs

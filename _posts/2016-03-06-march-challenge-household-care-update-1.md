@@ -4,13 +4,21 @@ title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 1
 date:   2016-03-06
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/washing-fork.jpg
+image: /img/posts/2016-03-06-march-challenge-household-care-update-1/washing-fork.jpg
+image-folder: /img/posts/2016-03-06-march-challenge-household-care-update-1
 redirect_from:
   - /challenge/2016/03/06/march-challenge-update-1.html
   - /challenge/2016/03/06/march-challenge-household-care-update-1.html
   - /2016/03/06/march-challenge-update-1.html
   - /challenge/2016-03-household-care/update-1.html
   - /challenges/2016-03-household-care/update-1.html
+related-posts: [
+  "/2016/02/22/keepthrifty-experiment",
+  "/2016/02/28/march-challenge-household-care",
+  "/2016/03/28/april-challenge-grocery",
+  "/2016/05/01/may-challenge-food",
+  "/2016/05/29/june-challenge-entertainment"
+]
 ---
 
 > The March challenge is over! Here's the full set of update/results posts:
@@ -40,7 +48,7 @@ Overall, this should represent the bulk of our spending for the month with the e
 
 How is everything looking on your end? Hopefully you're making progress toward your goal. Keep focused, keep connected and, as always, keep thrifty!
 
-[march-week-1-summary]: /img/march-2016-w1-summary.png
+[march-week-1-summary]: {{ page.image-folder }}/march-2016-w1-summary.png
 
 [march-challenge-post]: {% post_url 2016-02-28-march-challenge-household-care %}
 [week-1-update]: {% post_url 2016-03-06-march-challenge-household-care-update-1 %}

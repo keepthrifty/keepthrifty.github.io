@@ -4,7 +4,13 @@ title: 7 Quotes to Help Keep the Course
 date:   2016-05-24 00:30:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/thumbs-up-and-down.jpg
+image: /img/posts/2016-05-24-encouragement-over-hate/thumbs-up-and-down.jpg
+image-folder: /img/posts/2016-05-24-encouragement-over-hate
+related-posts: [
+  "/2016/09/04/let-it-burn",
+  "/2016/07/21/spending-on-free",
+  "/2016/02/13/thrifty-valentines-day"
+]
 ---
 
 Whether your dream is financial independence or something totally different, pursuing your passion often takes getting on a different path from the people around you. As a result, you're bound to encounter a few people who are going to question your lifestyle.
@@ -117,5 +123,5 @@ _Any other thoughts on dealing with the naysayers and haters? Leave a comment be
 
 [twitter-link]: http://www.twitter.com/keepthrifty
 
-[quote-theodore-roosevelt]: /img/quote-theodore-roosevelt.jpg
-[quote-helen-keller]: /img/quote-helen-keller.jpg
+[quote-theodore-roosevelt]: {{ page.image-folder }}/quote-theodore-roosevelt.jpg
+[quote-helen-keller]: {{ page.image-folder}}/quote-helen-keller.jpg

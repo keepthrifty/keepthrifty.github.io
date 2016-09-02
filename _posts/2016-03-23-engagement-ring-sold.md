@@ -4,9 +4,15 @@ title: After 7 years of marriage, my wife sold her engagement ring
 date:   2016-03-23 15:30:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/wedding-carriage.jpg
+image: /img/posts/2016-03-23-engagement-ring-sold/wedding-carriage.jpg
 
 excerpt_separator: <!--end-excerpt-->
+
+related-posts: [
+  "/2016/07/14/experience-or-stuff",
+  "/2016/08/28/the-more-of-less-review",
+  "/2016/06/13/escape-fashion-trap-part-1"
+]
 ---
 
 In 2006, I made the (at the time) largest purchase of my life - I put down $6,000 for a new, custom 1-carat diamond engagement ring at a fancy jewelry store.
@@ -122,4 +128,4 @@ These trade-offs are everywhere and can be a big accelerator for getting to wher
 [tweet-me]: http://www.twitter.com/keepthrifty
 [thrifty-tool]: http://tools.keepthrifty.com
 
-[usa-map]: /img/usa-map.jpg
+[usa-map]: /img/posts/2016-03-23-engagement-ring-sold/usa-map.jpg

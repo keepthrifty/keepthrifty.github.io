@@ -4,7 +4,7 @@ title: "Book Review: The Simple Path to Wealth by JL Collins"
 date:   2016-06-18 05:00:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/the-simple-path-to-wealth.jpg
+image: /img/posts/2016-06-18-the-simple-path-to-wealth-review/the-simple-path-to-wealth.jpg
 related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",
@@ -70,6 +70,6 @@ ___To get your own copy, here's a [link to the book on Amazon*][the-simple-path-
 \*I wrote this review before even knowing if I'd have an affiliate link; I would have recommended this book regardless :)
 
 [jl-collins-investing]: http://jlcollinsnh.com/stock-series/
-[the-simple-path-to-wealth-cover]: /img/the-simple-path-to-wealth-cover.jpg
+[the-simple-path-to-wealth-cover]: /img/posts/2016-06-18-the-simple-path-to-wealth-review/the-simple-path-to-wealth-cover.jpg
 
 [the-simple-path-to-wealth-amazon]: http://amzn.to/1ZYURpb

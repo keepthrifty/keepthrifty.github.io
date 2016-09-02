@@ -3,10 +3,18 @@ layout: post
 title: Mortgage Math 101
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/calculator.jpg
+image: /img/posts/2016-04-04-mortgage-math-101/calculator.jpg
+image-folder: /img/posts/2016-04-04-mortgage-math-101
 redirect_from:
   - /mortgages/2016/04/04/mortgage-math-101.html
   - /mortgages/2016/04/mortgage-math-101.html
+related-posts: [
+  "/2016/01/15/prepaying-mortgage-trick",
+  "/2016/04/10/how-we-saved-on-our-mortgage",
+  "/2016/04/28/the-big-short",
+  "/2016/08/05/dominate-debt-with-spreadsheet-fu",
+  "/2016/06/05/prepay-vs-invest"
+]
 ---
 
 If you're going to commit to paying hundreds of thousands of dollars on something, shouldn't you understand the math involved?
@@ -247,5 +255,5 @@ Stay tuned!
 [tweet-me]: http://www.twitter.com/keepthrifty
 [save-on-mortgage]: {% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
 
-[mortgage-formula]: /img/monthly-payment.jpg
-[amortization-table]: /img/amortization-table.png
+[mortgage-formula]: {{ page.image-folder }}/monthly-payment.jpg
+[amortization-table]: {{ page.image-folder }}/amortization-table.png

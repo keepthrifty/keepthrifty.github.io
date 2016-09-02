@@ -4,7 +4,8 @@ title: "Road Trip Recap - It Wasn't Easy But It Was Worth It"
 date:   2016-07-06 05:00:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/roadtrip-map.jpg
+image: /img/posts/2016-07-06-roadtrip-recap/roadtrip-map.jpg
+image-folder: /img/posts/2016-07-06-roadtrip-recap
 related-posts: [
   "/2016/03/23/engagement-ring-sold",
   "/2016/01/20/living-with-less",
@@ -135,15 +136,15 @@ We're already starting to draft our trip next year - covering the Northeast. If 
 
 [tweet-quote]: https://twitter.com/intent/tweet?text=You%20get%20to%20write%20the%20tone%20of%20your%20story%20-%20how%20will%20it%20read%3F%20https%3A%2F%2Fwww.keepthrifty.com%2F2016%2F07%2F06%2Froadtrip-recap.html%20via%20%40keepthrifty&source=clicktotweet&related=clicktotweet
 
-[yellowstone-image]: /img/roadtrip-yellowstone.jpg
-[rushmore-image]: /img/roadtrip-rushmore.jpg
-[rainier-image]: /img/roadtrip-rainier.jpg
-[kootenai-image]: /img/roadtrip-kootenai.jpg
-[glacier-image]: /img/roadtrip-glacier.jpg
-[cannon-beach-image]: /img/roadtrip-cannon-beach.jpg
-[cannon-beach-family]: /img/roadtrip-beach.jpg
+[yellowstone-image]: {{ page.image-folder }}/roadtrip-yellowstone.jpg
+[rushmore-image]: {{ page.image-folder }}/roadtrip-rushmore.jpg
+[rainier-image]: {{ page.image-folder }}/roadtrip-rainier.jpg
+[kootenai-image]: {{ page.image-folder }}/roadtrip-kootenai.jpg
+[glacier-image]: {{ page.image-folder }}/roadtrip-glacier.jpg
+[cannon-beach-image]: {{ page.image-folder }}/roadtrip-cannon-beach.jpg
+[cannon-beach-family]: {{ page.image-folder }}/roadtrip-beach.jpg
 
-[happy-van]: /img/happy-van.jpg
+[happy-van]: {{ page.image-folder }}/happy-van.jpg
 
 [engagement-ring-post]: {% post_url 2016-03-23-engagement-ring-sold %}
 

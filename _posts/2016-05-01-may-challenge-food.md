@@ -5,10 +5,16 @@ date:   2016-05-01
 timeline: May 2016
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/happy-pancake.jpg
+image: /img/posts/2016-05-01-may-challenge-food/happy-pancake.jpg
 redirect_from:
   - /challenges/2016-05-food/
   - /challenge/2016/05/01/may-challenge-food.html
+related-posts: [
+  "/2016/02/22/keepthrifty-experiment",
+  "/2016/02/28/march-challenge-household-care",
+  "/2016/03/28/april-challenge-grocery",
+  "/2016/05/29/june-challenge-entertainment"
+]
 ---
 
 > The May challenge is over! Here's the full set of update/results posts:
@@ -143,5 +149,5 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [panera]: http://www.panera.com
 [potbelly]: http://www.potbelly.com
 
-[challenge-chart-grocery]: /img/april-2016-grocery-chart.png
-[challenge-chart-eating-out]: /img/april-2016-eating-out-chart.png
+[challenge-chart-grocery]: /img/posts/2016-05-01-april-challenge-grocery-update-2/april-2016-grocery-chart.png
+[challenge-chart-eating-out]: /img/posts/2016-05-01-may-challenge-food/april-2016-eating-out-chart.png

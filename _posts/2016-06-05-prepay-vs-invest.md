@@ -4,9 +4,15 @@ title: When to Prepay Your Mortgage Instead of Investing
 date:   2016-06-05 19:30:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/cheers.jpg
+image: /img/posts/2016-06-05-prepay-vs-invest/cheers.jpg
 redirect_from:
   - /mortgages/2016/06/05/prepay-vs-invest.html
+related-posts: [
+  "/2016/01/15/prepaying-mortgage-trick",
+  "/2016/04/04/mortgage-math-101",
+  "/2016/04/10/how-we-saved-on-our-mortgage",
+  "/2016/08/05/dominate-debt-with-spreadsheet-fu"
+]
 ---
 
 We had a toast-worthy moment last week - our outstanding mortgage balance finally came under the $100,000 mark; we're officially in a 5-digit mortgage!
@@ -135,5 +141,5 @@ Thrift on, rockstars!
 [twitter-link]: http://www.twitter.com/keepthrifty
 [tweet-quote]: https://twitter.com/intent/tweet?text=%22Before%20you%20make%20any%20major%20financial%20decision%2C%20do%20the%20math%20and%20know%20your%20mentality%22%20https%3A%2F%2Fwww.keepthrifty.com%2Fmortgages%2F2016%2F06%2F05%2Fprepay-vs-invest.html%20via%20%40keepthrifty&source=clicktotweet&related=clicktotweet
 
-[mortgage-balance]: /img/june-2016-mortgage.png
-[prepay-vs-invest-chart]: /img/prepay-vs-invest-chart.png
+[mortgage-balance]: /img/posts/2016-06-05-prepay-vs-invest/june-2016-mortgage.png
+[prepay-vs-invest-chart]: /img/posts/2016-06-05-prepay-vs-invest/prepay-vs-invest-chart.png

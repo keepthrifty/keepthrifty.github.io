@@ -4,9 +4,17 @@ title:  May 2016 Challenge (Food) - Mid-month Update
 date:   2016-05-16
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/pasta.jpg
+image: /img/posts/2016-05-16-may-challenge-food-update-1/pasta.jpg
+image-folder: /img/posts/2016-05-16-may-challenge-food-update-1
 redirect_from:
   - /challenges/2016-05-food/update-1.html
+related-posts: [
+  "/2016/02/22/keepthrifty-experiment",
+  "/2016/02/28/march-challenge-household-care",
+  "/2016/03/28/april-challenge-grocery",
+  "/2016/05/01/may-challenge-food",
+  "/2016/05/29/june-challenge-entertainment"
+]
 ---
 
 > The May challenge is over! Here's the full set of update/results posts:
@@ -71,7 +79,7 @@ Find me on [twitter][twitter-profile] and let me know how you're doing so far th
 
 [thrifty-link]: http://tools.keepthrifty.com
 
-[may-2016-mid-month-eating-out]: /img/may-2016-mid-month-update-eating-out.png
-[may-2016-mid-month-grocery]: /img/may-2016-mid-month-update-grocery.png
-[may-2016-mid-month-eating-out-detail]: /img/may-2016-mid-month-update-eating-out-detail.png
-[may-2016-mid-month-grocery-detail]: /img/may-2016-mid-month-update-grocery-detail.png
+[may-2016-mid-month-eating-out]: {{ page.image-folder }}/may-2016-mid-month-update-eating-out.png
+[may-2016-mid-month-grocery]: {{ page.image-folder }}/may-2016-mid-month-update-grocery.png
+[may-2016-mid-month-eating-out-detail]: {{ page.image-folder }}/may-2016-mid-month-update-eating-out-detail.png
+[may-2016-mid-month-grocery-detail]: {{ page.image-folder }}/may-2016-mid-month-update-grocery-detail.png

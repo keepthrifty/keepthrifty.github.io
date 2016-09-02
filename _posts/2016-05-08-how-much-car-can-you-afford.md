@@ -4,7 +4,13 @@ title: How Much Car Can You Afford?
 date:   2016-05-08 20:15:00 -0500
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/fancy-car.jpg
+image: /img/posts/2016-05-08-how-much-car-can-you-afford/fancy-car.jpg
+image-folder: /img/posts/2016-05-08-how-much-car-can-you-afford
+related-posts: [
+  "/2016/04/28/the-big-short",
+  "/2016/01/20/living-with-less",
+  "/2016/08/28/the-more-of-less-review"
+]
 ---
 
 My twitter feed keeps coming up with links to financial calculators framed around the question "How much car can you afford?". This question makes me cringe because it's totally the wrong question to ask.
@@ -132,9 +138,9 @@ Good luck and keep thrifty!
 
 _Did you have a great/terrible experience with your last car purchase? Help others with what you learned in the comments below or find me on [twitter][twitter-link]_
 
-[smokey-bear]: /img/smokey-bear.jpg
-[garbage-haul]: /img/garbage-haul.jpg
-[banker-cat]: /img/banker-cat.jpg
+[smokey-bear]: {{ page.image-folder }}/smokey-bear.jpg
+[garbage-haul]: {{ page.image-folder }}/garbage-haul.jpg
+[banker-cat]: {{ page.image-folder}}/banker-cat.jpg
 
 [twitter-link]: http://www.twitter.com/keepthrifty
 
