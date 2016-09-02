@@ -86,9 +86,9 @@ ul.footer-links {
   }
   .button-set {
     a {
-      opacity: 0.7;
+      opacity: 1.0;
 
-      &:hover { opacity: 1.0; }
+      &:hover { opacity: 0.7; }
     }
   }
 }
