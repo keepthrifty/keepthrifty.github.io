@@ -12,6 +12,7 @@ related-posts: [
   "/2016/04/04/mortgage-math-101",
   "/2016/06/05/prepay-vs-invest"
 ]
+permalink: /:year/:month/:day/:title.html
 ---
 
 Home ownership is a beautiful thing. There’s amazing freedom in knowing you own your space and that you don’t have any monthly obligations on your home other than utilities and property tax.

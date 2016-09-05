@@ -11,6 +11,7 @@ related-posts: [
   "/2016/02/13/thrifty-valentines-day",
   "/2016/05/24/encouragement-over-hate"
 ]
+permalink: /:year/:month/:day/:title.html
 ---
 
 One of the cooler things going across the interwebs in the last few days has been the [#firstsevenjobs][twitter-first-seven-jobs] hashtag - prompting people to list, in order, their first seven jobs. It's a great study of seeing where people started from and it's fun to look back on where you've been and what you've learned.

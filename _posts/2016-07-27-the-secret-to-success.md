@@ -11,6 +11,7 @@ related-posts: [
   "/2016/06/05/prepay-vs-invest",
   "/2016/01/20/living-with-less"
 ]
+permalink: /:year/:month/:day/:title.html
 ---
 
 _This week I wrote a guest post for Elsie over at [GundoMoney.com][gundo-money]. I hosted Elsie last week with her great post about [the cost of joy and happiness][spend-on-free]. The teaser for my post is below and you can find a link to the full story on Elsie's site at the end. Enjoy!_

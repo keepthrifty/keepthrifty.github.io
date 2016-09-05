@@ -12,6 +12,7 @@ related-posts: [
   "/2016/05/01/may-challenge-food",
   "/2016/05/29/june-challenge-entertainment"
 ]
+permalink: /:year/:month/:day/:title.html
 ---
 My wife and I had some intense financial discussions this weekend.
 

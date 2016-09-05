@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When it's Best to Let It Burn"
+title: "All the Times You Need a Holiday Loan"
 author: Chris
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-09-05-let-it-burn/forest-fire.jpg
@@ -11,7 +11,6 @@ related-posts: [
   "/2016/03/23/engagement-ring-sold",
   "/2016/01/20/living-with-less"
 ]
-permalink: /:year/:month/:day/:title.html
 ---
 
 This week was supposed to be an exciting one at work - I was due to get a new laptop. Being so frugal means I don't always get to scratch my "new technology" itch at home so these moments are a rare treat for me. When I booted it up for the first time and opened the browser, however, I was in for a not-so-pleasant surprise.

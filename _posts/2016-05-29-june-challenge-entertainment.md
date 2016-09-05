@@ -15,6 +15,7 @@ related-posts: [
   "/2016/03/28/april-challenge-grocery",
   "/2016/05/01/may-challenge-food"
 ]
+permalink: /:year/:month/:day/:title.html
 ---
 
 Thrifters,

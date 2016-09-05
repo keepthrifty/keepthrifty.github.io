@@ -10,6 +10,7 @@ related-posts: [
   "/2016/07/06/roadtrip-recap",
   "/2016/08/28/the-more-of-less-review"
 ]
+permalink: /:year/:month/:day/:title.html
 ---
 Most resolutions are failures. More and more are rebelling and going to something simpler, something cleaner — a single “[focus word][focus-word]” for the year.
 

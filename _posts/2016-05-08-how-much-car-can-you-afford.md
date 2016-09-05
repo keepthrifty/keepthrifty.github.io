@@ -11,6 +11,7 @@ related-posts: [
   "/2016/01/20/living-with-less",
   "/2016/08/28/the-more-of-less-review"
 ]
+permalink: /:year/:month/:day/:title.html
 ---
 
 My twitter feed keeps coming up with links to financial calculators framed around the question "How much car can you afford?". This question makes me cringe because it's totally the wrong question to ask.

@@ -10,6 +10,7 @@ related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/07/21/spending-on-free"
 ]
+permalink: /:year/:month/:day/:title.html
 ---
 
 To an outside observer, it might look I’m going through a midlife crisis.

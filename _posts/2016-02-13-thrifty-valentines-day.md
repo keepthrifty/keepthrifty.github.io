@@ -11,6 +11,7 @@ related-posts: [
   "/2016/09/04/let-it-burn",
   "/2016/08/28/the-more-of-less-review"
 ]
+permalink: /:year/:month/:day/:title.html
 ---
 
 Jewelry, flowers, and bears, oh my! If you’re not careful, this holiday is a great way to burn a hole in your wallet.

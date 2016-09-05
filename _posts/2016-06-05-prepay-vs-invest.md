@@ -13,6 +13,7 @@ related-posts: [
   "/2016/04/10/how-we-saved-on-our-mortgage",
   "/2016/08/05/dominate-debt-with-spreadsheet-fu"
 ]
+permalink: /:year/:month/:day/:title.html
 ---
 
 We had a toast-worthy moment last week - our outstanding mortgage balance finally came under the $100,000 mark; we're officially in a 5-digit mortgage!

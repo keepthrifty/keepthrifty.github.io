@@ -10,6 +10,7 @@ related-posts: [
   "/2016/07/21/spending-on-free",
   "/2016/01/20/living-with-less"
 ]
+permalink: /:year/:month/:day/:title.html
 ---
 
 1 Timothy 6:10 is one of the most misquoted passages from the bible (though Pulp Fiction’s take on Ezekiel 25:17 is another good one).

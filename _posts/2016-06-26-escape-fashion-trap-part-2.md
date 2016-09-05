@@ -13,6 +13,7 @@ related-posts: [
   "/2016/06/18/the-simple-path-to-wealth-review",
   "/2016/09/05/let-it-burn"
 ]
+permalink: /:year/:month/:day/:title.html
 ---
 
 [Last time][part-1], we talked about the history behind the fashion money trap. With part 2, I'll give you the six tactics I use to escape the fashion money trap and help me live a richer life.

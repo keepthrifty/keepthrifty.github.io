@@ -14,6 +14,7 @@ related-posts: [
   "/2016/06/13/escape-fashion-trap-part-1",
   "/2016/03/23/engagement-ring-sold"
 ]
+permalink: /:year/:month/:day/:title.html
 ---
 
 > In America, we consume __twice__ as many material goods as we did fifty years ago. Over the same period, the size of the average American home has nearly __tripled__, and today that average home contains about __three hundred thousand items__. On average, our homes contain __more televisions than people__. And the US Department of Energy reports that, due to clutter, 25 percent of people with two-care garages don't have room to park cars inside and another 32% have room for only one vehicle.

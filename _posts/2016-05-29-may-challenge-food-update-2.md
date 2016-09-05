@@ -14,6 +14,7 @@ related-posts: [
   "/2016/05/01/may-challenge-food",
   "/2016/05/29/june-challenge-entertainment"
 ]
+permalink: /:year/:month/:day/:title.html
 ---
 
 > The May challenge is over! Here's the full set of update/results posts:
