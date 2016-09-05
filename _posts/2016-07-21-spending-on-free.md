@@ -9,7 +9,8 @@ image: /img/posts/2016-07-21-spending-on-free/sunset-heart.jpg
 related-posts: [
   "/2016/03/23/engagement-ring-sold",
   "/2016/01/20/living-with-less",
-  "/2016/07/27/the-secret-to-success"
+  "/2016/07/27/the-secret-to-success",
+  "/2016/09/05/let-it-burn"
 ]
 ---
 

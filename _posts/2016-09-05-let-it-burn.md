@@ -3,8 +3,8 @@ layout: post
 title: "When it's Best to Let It Burn"
 author: Chris
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-09-04-let-it-burn/forest-fire.jpg
-image-folder: /img/posts/2016-09-04-let-it-burn
+image: /img/posts/2016-09-05-let-it-burn/forest-fire.jpg
+image-folder: /img/posts/2016-09-05-let-it-burn
 social-line: Get someone else fired up too!
 related-posts: [
   "/2016/08/28/the-more-of-less-review",
@@ -21,7 +21,9 @@ I had forgotten the fundamental rule you're supposed to follow before getting a 
 
 Our IT staff does a great job porting over your files, but every new PC is a "clean slate" when it comes to the software installed, which includes browser extensions and other tools.
 
-If my work setup was a forest, it felt like a fire had just come through and cleaned everything out.
+{% assign tweet-text = "If my work setup was a forest, it felt like a fire had just come through and cleaned everything out" %}
+
+{% include tweet-link.html %}
 
 # Funny thing about forest fires... #
 
@@ -76,8 +78,12 @@ By keeping only what he needed, Ryan is allowing for new, fresh growth of the va
 
 Whether it's digital clutter, physical clutter, or even mental clutter (maybe you have an overcommitted schedule), could you use a controlled burn in your life?
 
-What's the worst that would happen if you hit the reset button on a small piece of your life and tried to rebuild it anew?
+{% assign tweet-text = "What's the worst that could happen if you hit reset on a piece of your life and rebuilt it?" %}
 
-Better yet, how much could you grow once you get the dead wood out of the way?
+{% include tweet-link.html %}
+
+{% assign tweet-text = "How much could you grow if you got the dead wood out of the way?" %}
+
+On the flip side: {% include tweet-link.html %}
 
 ![Picture of seedling growing]({{ page.image-folder }}/new-growth.jpg)

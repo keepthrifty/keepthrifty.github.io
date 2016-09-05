@@ -11,7 +11,8 @@ excerpt_separator: <!--end-excerpt-->
 related-posts: [
   "/2016/07/14/experience-or-stuff",
   "/2016/08/28/the-more-of-less-review",
-  "/2016/06/13/escape-fashion-trap-part-1"
+  "/2016/06/13/escape-fashion-trap-part-1",
+  "/2016/09/05/let-it-burn"
 ]
 ---
 

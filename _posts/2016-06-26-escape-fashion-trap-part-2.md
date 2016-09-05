@@ -10,7 +10,8 @@ related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/03/23/engagement-ring-sold",
   "/2016/01/20/living-with-less",
-  "/2016/06/18/the-simple-path-to-wealth-review"
+  "/2016/06/18/the-simple-path-to-wealth-review",
+  "/2016/09/05/let-it-burn"
 ]
 ---
 
