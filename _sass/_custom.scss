@@ -146,6 +146,7 @@ ul.footer-links {
 }
 
 #post-tags {
+  margin-top: 1.2rem;
   color: color("grey", "darken-2");
   font-size: 0.8rem;
   a {
@@ -155,7 +156,7 @@ ul.footer-links {
     }
   }
   .post-tag {
-    background-color: color("grey", "lighten-5");
+    background-color: color("grey", "lighten-2");
     border-radius: 0.4rem;
     padding: 0.4rem 0.8rem;
     margin-left: 0.4rem;
@@ -236,7 +237,7 @@ ul.footer-links {
     width: 100%;
     height: auto;
     max-width: 800px;
-    max-height: 30rem;
+    max-height: 24rem;
     object-fit: cover;
     object-position: center center;
   }

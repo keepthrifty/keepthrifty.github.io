@@ -34,17 +34,16 @@ comments: true
               {% endif %}
             </span>
           {% endif %}
-          {% if page.tags %}
-            <span id="post-tags">
-            {% assign sorted_tags = page.tags | sort %}
-            {% for tag in sorted_tags %}
-              <a href="/tags#{{ tag | handleize | replace: ' ', '-'}}"><span class="post-tag">{{ tag | capitalize }}</span></a>
-            {% endfor %}
-            </span>
-          {% endif %}
         </div>
 
-
+        {% if page.tags %}
+          <div id="post-tags">
+          {% assign sorted_tags = page.tags | sort %}
+          {% for tag in sorted_tags %}
+            <a href="/tags#{{ tag | handleize | replace: ' ', '-'}}"><span class="post-tag">{{ tag | capitalize }}</span></a>
+          {% endfor %}
+          </div>
+        {% endif %}
 
         <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 
