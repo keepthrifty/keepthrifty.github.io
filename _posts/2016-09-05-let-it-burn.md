@@ -12,6 +12,7 @@ related-posts: [
   "/2016/01/20/living-with-less"
 ]
 permalink: /:year/:month/:day/:title.html
+tags: [inspiration, minimalism]
 ---
 
 This week was supposed to be an exciting one at work - I was due to get a new laptop. Being so frugal means I don't always get to scratch my "new technology" itch at home so these moments are a rare treat for me. When I booted it up for the first time and opened the browser, however, I was in for a not-so-pleasant surprise.

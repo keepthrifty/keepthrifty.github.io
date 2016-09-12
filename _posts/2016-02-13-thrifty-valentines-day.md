@@ -12,6 +12,7 @@ related-posts: [
   "/2016/08/28/the-more-of-less-review"
 ]
 permalink: /:year/:month/:day/:title.html
+tags: [inspiration, our numbers]
 ---
 
 Jewelry, flowers, and bears, oh my! If you’re not careful, this holiday is a great way to burn a hole in your wallet.

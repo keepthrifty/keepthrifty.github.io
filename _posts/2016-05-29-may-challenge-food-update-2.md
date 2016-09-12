@@ -15,6 +15,7 @@ related-posts: [
   "/2016/05/29/june-challenge-entertainment"
 ]
 permalink: /:year/:month/:day/:title.html
+tags: [our numbers]
 ---
 
 > The May challenge is over! Here's the full set of update/results posts:

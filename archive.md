@@ -6,24 +6,27 @@ redirect_from:
   - /challenges/
 ---
 
-<h2>
-  Read All The Things
+<h1 class="flow-text">
+  All the posts (by date | <a href="/tags/">by topic</a>)
   <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="right">
     <i class="material-icons small grey-text text-lighten-1">rss_feed</i>
   </a>
-</h2>
+</h1>
 
-{% for post in site.posts %}
-  {% unless post.next %}
-  <h3>{{ post.date | date: '%B %Y' }}</h3>
-  {% else %}
-    {% capture year %}{{ post.date | date: '%B %Y' }}{% endcapture %}
-    {% capture nyear %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
-    {% if year != nyear %}
-  <h3>{{ post.date | date: '%B %Y' }}</h3>
-    {% endif %}
-  {% endunless %}
-  <a href="{{ post.url }}">
-    {{ post.title }}
-  </a>
-{% endfor %}
+<div class="post-list">
+	<ul>
+	  {% for post in site.posts %}
+	    {% unless post.next %}
+	      <h2 class="flow-text">{{ post.date | date: '%B %Y' }}</h2>
+	    {% else %}
+	      {% capture year %}{{ post.date | date: '%B %Y' }}{% endcapture %}
+	      {% capture nyear %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
+	      {% if year != nyear %}
+	        <h2 class="flow-text">{{ post.date | date: '%B %Y' }}</h2>
+	      {% endif %}
+	    {% endunless %}
+
+	    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
+</div>

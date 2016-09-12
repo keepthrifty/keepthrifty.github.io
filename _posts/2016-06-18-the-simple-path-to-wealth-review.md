@@ -12,6 +12,7 @@ related-posts: [
   "/2016/08/12/fifteen-lessons-first-seven-jobs"
 ]
 permalink: /:year/:month/:day/:title.html
+tags: [book review]
 ---
 
 If you only read one book on personal finance, [_The Simple Path to Wealth_][the-simple-path-to-wealth-amazon] by JL Collins is a solid guide on the mentality and skills that anyone can use to take responsible ownership of their financial future.

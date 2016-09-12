@@ -11,6 +11,7 @@ related-posts: [
   "/2016/07/06/roadtrip-recap"
 ]
 permalink: /:year/:month/:day/:title.html
+tags: [inspiration]
 ---
 
 One of my favorite small business blogs, [Signal v. Noise][signalvnoise], had a [great post today][gruen-transfer] on getting your business noticed. It referenced a research paper that compared the impact on happiness from spending on experiences to the impact from spending on stuff.

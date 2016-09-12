@@ -12,6 +12,7 @@ related-posts: [
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",
   "/2016/07/21/spending-on-free"
 ]
+tags: [inspiration, faith]
 ---
 
 The average american family spent $820 on Christmas in 2015. If you're already thinking about the holiday season and you're worried about how to pay for everything you need to have a joyous time, I ran across an article that proposed a solution for you.

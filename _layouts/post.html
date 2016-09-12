@@ -25,22 +25,29 @@ comments: true
               {% if page.author_site and page.author_site_url %}
                 at <a class="author-site" href="{{ page.author_site_url }}">{{ page.author_site }}</a>
               {% endif %}
+              {% if page.author_email %}
+               <span class="right">
+                 <a href="mailto:{{ page.author_email }}">
+                   <i class="material-icons tooltipped" data-position="left" data-delay="50" data-tooltip="{{ page.author_email }}">email</i>
+                 </a>
+               </span>
+              {% endif %}
             </span>
           {% endif %}
-          {% if page.author_email %}
-           <span class="right">
-             <a href="mailto:{{ page.author_email }}">
-               <i class="material-icons tooltipped" data-position="left" data-delay="50" data-tooltip="{{ page.author_email }}">email</i>
-             </a>
-           </span>
+          {% if page.tags %}
+            <span id="post-tags">
+            {% assign sorted_tags = page.tags | sort %}
+            {% for tag in sorted_tags %}
+              <a href="/tags#{{ tag | handleize | replace: ' ', '-'}}"><span class="post-tag">{{ tag | capitalize }}</span></a>
+            {% endfor %}
+            </span>
           {% endif %}
         </div>
 
+
+
         <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 
-        {% for tag in page.tags %}
-          <div class="chip">{{ tag }}</div>
-        {% endfor %}
       </header>
 
       <div class="post-content" itemprop="articleBody">

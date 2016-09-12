@@ -13,6 +13,7 @@ related-posts: [
   "/2016/05/08/how-much-car-can-you-afford"
 ]
 permalink: /:year/:month/:day/:title.html
+tags: [mortgages]
 ---
 
 Those who do not learn from history are doomed to repeat it. Have we learned from what happened in 2007 so we don't end up there again?

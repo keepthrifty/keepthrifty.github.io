@@ -11,6 +11,7 @@ related-posts: [
   "/2016/07/21/spending-on-free"
 ]
 permalink: /:year/:month/:day/:title.html
+tags: [minimalism, inspiration]
 ---
 
 To an outside observer, it might look I’m going through a midlife crisis.

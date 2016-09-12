@@ -137,6 +137,32 @@ ul.footer-links {
   padding: 1rem;
 }
 
+#page-content {
+  p, h1, h2, h3, h4, h5, h6, li, blockquote {
+    a:hover {
+      opacity: 0.7;
+    }
+  }
+}
+
+#post-tags {
+  color: color("grey", "darken-2");
+  font-size: 0.8rem;
+  a {
+    color: color("grey", "darken-2");
+    &:hover {
+      opacity: 0.7;
+    }
+  }
+  .post-tag {
+    background-color: color("grey", "lighten-5");
+    border-radius: 0.4rem;
+    padding: 0.4rem 0.8rem;
+    margin-left: 0.4rem;
+
+  }
+}
+
 // For #index rendering of posts w/ summaries
 .post-card {
   margin-bottom: 20px;
@@ -209,7 +235,8 @@ ul.footer-links {
   img.post-header-image {
     width: 100%;
     height: auto;
-    max-height: 60vh;
+    max-width: 800px;
+    max-height: 30rem;
     object-fit: cover;
     object-position: center center;
   }

@@ -1,0 +1,28 @@
+---
+layout: page
+title: Tagged posts
+permalink: /tags/
+---
+
+<h1 class="flow-text">
+  All the posts (<a href="/archive/">by date</a> | by topic)
+</h1>
+
+{% assign sorted_tags = site.tags | sort %}
+
+{% for tag in sorted_tags %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
+
+<a name="{{t | handleize | replace: ' ', '-'}}"></a><h2 class="flow-text">{{ t | capitalize }}</h2>
+<ul>
+{% for post in posts %}
+  {% if post.tags contains t %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
+{% endfor %}
