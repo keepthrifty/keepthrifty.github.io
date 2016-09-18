@@ -45,7 +45,7 @@ comments: true
           </div>
         {% endif %}
 
-        <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+        <h1 class="post-title" itemprop="name headline">{{ page.title }}<br><span class="post-subtitle">{{ page.subtitle }}</span></h1>
 
       </header>
 
@@ -53,7 +53,7 @@ comments: true
         {{ content }}
       </div>
 
-      <div class="post-footer row">
+      <div class="post-footer row" id="post-footer">
         <div class="footer-block col s12 m10 offset-m1 l6">
           {% include share_buttons.html %}
         </div>

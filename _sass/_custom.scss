@@ -187,6 +187,10 @@ ul.footer-links {
     background:rgba(0,0,0,0.6);
     width: 100%;
   }
+  .card-subtitle {
+    font-size: 0.8em;
+    color: color("grey", "lighten-2");
+  }
 
   .card-read-btn {
     position: relative;
@@ -261,8 +265,12 @@ ul.footer-links {
   .post-title {
     font-size: 2.5rem;
   }
+  .post-subtitle {
+    font-size: 2rem;
+    color: color("grey", "darken-1");
+  }
 
-  .post-content {
+  .post-content, .page-content {
 
     img {
       max-width: 80%;

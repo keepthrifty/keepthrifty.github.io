@@ -13,7 +13,7 @@ related-posts: [
   "/2016/09/05/let-it-burn"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [inspiration, minimalism]
+tags: [guest post, inspiration, minimalism]
 ---
 
 _We've got a first this week for KeepThrifty - our first guest post! This one comes to you from Elsie Brown from [GundoMoney.com][gundo-money]_
