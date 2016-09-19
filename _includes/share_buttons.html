@@ -1,6 +1,10 @@
 <div class="share-buttons row z-depth-1 center">
   <h3 class="share-text col s12">
-    Like this post?
+    {% if page.social-override %}
+      {{ page.social-override }}
+    {% else %}
+      Like this post?
+    {% endif %}
   </h3>
   <div class="button-set col s12">
     <a class="twitter" href="http://twitter.com/share?text={{page.title}}&amp;url={{site.url}}{{page.url}}&amp;via={{site.twitter_username}}{% if page.share-hashtag %}&amp;hashtags={{page.share-hashtag}}{% endif %}" title="Share on Twitter" target="_blank">

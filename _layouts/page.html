@@ -21,6 +21,13 @@ layout: default
         {% include mail_signup.html %}
       </div>
     </div>
+    {% if page.social-override %}
+    <div class="side-bar-segment col s12">
+      <div class="side-bar-content">
+        {% include share_buttons.html %}
+      </div>
+    </div>
+    {% endif %}
     <div class="side-bar-segment col s12">
       <div class="side-bar-content">
         {% include thrifty.html %}

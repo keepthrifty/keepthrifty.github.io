@@ -3,6 +3,7 @@ layout: page-text
 title: Calculators
 permalink: /calculators/
 disqus-page: true
+social-override: "Like these tools?"
 custom_js:
   - calcfidays
 ---

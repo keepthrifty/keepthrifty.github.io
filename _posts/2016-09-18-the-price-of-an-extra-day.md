@@ -28,7 +28,11 @@ It's not often you get to hear a lineup like this all at the same time, so I dov
 
 # Whoa #
 
-It's a cool thought - correlating the impact your day at work has on your retirement. It's one thing to _think_ about this; it's another thing to actually __calculate__ it.
+It's a cool thought - correlating the impact your day at work has on your retirement.
+
+{% assign tweet-text = "It's one thing to think about this; it's another thing to actually calculate it." %}
+
+{% include tweet-link.html %}
 
 With my addiction to [spreadsheets]({{ site.url }}/tags#spreadsheets), I took some time to figure out the math and put together a spreadsheet to figure out what the impact of an extra day or an extra dollar is.
 
@@ -69,7 +73,9 @@ The most fun part for me here was to crunch my numbers and see a few things:
 ![Barney Stinson from How I Met Your Mother - Mind Blown]({{ page.image-folder }}/mind-blown.gif)
 <div class="image-caption">Mind blown!</div>
 
-I can buy a day of FI for $25
+{% assign tweet-text = "I can buy a day of FI for $25" %}
+
+{% include tweet-link.html %}
 
 Now, every time I have something that comes out to a $25-30 expense, I'm going to have this running through my head.  I hope it becomes a motivator to make good trade-offs on a day-to-day basis.
 
@@ -101,7 +107,11 @@ Someday I'll have an awesome whiteboard in our house and I can make these kinds 
 ![Computation of time saved due to additional contribution]({{ page.image-folder }}/math-5.jpg)
 ![Computation of cost of a known time amount]({{ page.image-folder }}/math-6.jpg)
 
-Did you ever think you'd use logarithms again? I definitely had to look up some of the logarithm rules to simplify the equations :)
+{% assign tweet-text = "Did you ever think you'd use logarithms again?" %}
+
+{% include tweet-link.html %}
+
+I definitely had to look up some of the logarithm rules to simplify the equations :)
 
 <div id="post-closing"></div>
 
