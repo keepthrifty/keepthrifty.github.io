@@ -4,6 +4,9 @@ layout: default
 
 <div class="col s12 m12 l9" id="page-content">
   {{ content }}
+  {% if page.disqus-page %}
+    {% include comments.html %}
+  {% endif %}
 </div>
 
 <div class="side-bar col l3 hide-on-med-and-down">
