@@ -9,8 +9,8 @@ image-folder: /img/posts/2016-08-05-dominate-debt-with-spreadsheet-fu
 subscribe-line: Want a Spreadsheet Fu black belt?
 social-line: Share the spreadsheetery
 related-posts: [
+  "/2016/09/18/the-price-of-an-extra-day",
   "/2016/06/18/the-simple-path-to-wealth-review",
-  "/2016/01/15/prepaying-mortgage-trick",
   "/2016/04/10/how-we-saved-on-our-mortgage",
   "/2016/06/05/prepay-vs-invest"
 ]

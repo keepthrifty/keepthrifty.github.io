@@ -36,6 +36,8 @@ comments: true
           {% endif %}
         </div>
 
+        <div>
+        {% include reading-time.html %}
         {% if page.tags %}
           <div id="post-tags">
           {% assign sorted_tags = page.tags | sort %}
@@ -44,9 +46,10 @@ comments: true
           {% endfor %}
           </div>
         {% endif %}
+        </div>
+
 
         <h1 class="post-title" itemprop="name headline">{{ page.title }}<br><span class="post-subtitle">{{ page.subtitle }}</span></h1>
-
       </header>
 
       <div class="post-content" itemprop="articleBody">
