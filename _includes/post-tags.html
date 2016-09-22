@@ -1,0 +1,14 @@
+{% if page.tags %}
+  <div id="post-tags">
+  {% assign sorted_tags = page.tags | sort %}
+  {% assign tag_count = sorted_tags | size %}
+  {% if tag_count == 1) %}
+    <i class="fa fa-tag"></i>
+  {% else -%}
+    <i class="fa fa-tags"></i>
+  {% endif -%}
+  {% for tag in sorted_tags %}
+    <a href="/tags#{{ tag | handleize | replace: ' ', '-'}}"><span class="post-tag">{{ tag | capitalize }}</span></a>{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  </div>
+{% endif %}

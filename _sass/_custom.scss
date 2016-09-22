@@ -145,12 +145,15 @@ ul.footer-links {
   }
 }
 
+.reading-time {
+  color: color("grey", "base");
+}
+
 #post-tags {
   margin-top: 1.2rem;
-  color: color("grey", "darken-2");
-  font-size: 0.8rem;
+  color: color("grey", "base");
   a {
-    color: color("grey", "darken-2");
+    color: color("grey", "base");
     &:hover {
       opacity: 0.7;
     }
@@ -158,10 +161,6 @@ ul.footer-links {
 
   }
   .post-tag {
-    background-color: color("grey", "lighten-2");
-    border-radius: 0.4rem;
-    padding: 0.4rem 0.8rem;
-    margin-right: 0.4rem;
     margin-bottom: 0.4rem;
     display: inline-block;
   }
