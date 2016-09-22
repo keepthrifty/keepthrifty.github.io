@@ -6,6 +6,9 @@ permalink: /tags/
 
 <h1 class="flow-text">
   All the posts (<a href="/archive/">by date</a> | by topic)
+  <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+    <i class="fa fa-rss-square"></i>
+  </a>
 </h1>
 
 {% assign sorted_tags = site.tags | sort %}

@@ -8,8 +8,8 @@ redirect_from:
 
 <h1 class="flow-text">
   All the posts (by date | <a href="/tags/">by topic</a>)
-  <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="right">
-    <i class="material-icons small grey-text text-lighten-1">rss_feed</i>
+  <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+    <i class="fa fa-rss-square"></i>
   </a>
 </h1>
 

@@ -186,7 +186,7 @@ textarea.materialize-textarea {
 
     & + label i,
     & ~ .mdi-navigation-close,
-    & ~ .material-icons {
+    & ~ i {
       color: #444;
     }
   }
@@ -196,7 +196,7 @@ textarea.materialize-textarea {
   }
 
   & ~ .mdi-navigation-close,
-  & ~ .material-icons {
+  & ~ i {
     position: absolute;
     top: 0;
     right: 1rem;
