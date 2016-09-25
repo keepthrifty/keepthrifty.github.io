@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Create a Spreadsheet for the Price of A Day of Retirement"
+title: "Guide: Create a Spreadsheet Dashboard for the Price of a Day of Retirement"
 author: Chris
 author_email: chris@keepthrifty.com
 date: 2016-09-25
@@ -16,7 +16,11 @@ related-posts: [
 tags: [spreadsheets, calculators]
 ---
 
-Last time, I put up a couple calculators to help you understand your [personal exchange rate for retirement days and money]({% post_url 2016-09-18-the-price-of-an-extra-day %}). Here, I'll walk you through making your own awesome spreadsheet so you can have those calculators (and more) at your disposal. Buckle up - you're about to amp up your spreadsheet skills :)
+Last time, I put up a couple calculators to help you understand your [personal exchange rate for retirement days and money]({% post_url 2016-09-18-the-price-of-an-extra-day %}). Here, I'll walk you through making your own awesome spreadsheet so you can have those calculators (and more) at your disposal.
+
+{% assign tweet-text = "Buckle up - you're about to amp up your spreadsheet skills :)" %}
+
+{% include tweet-link.html %}
 
 # The Goal #
 
