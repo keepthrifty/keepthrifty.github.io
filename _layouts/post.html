@@ -3,81 +3,39 @@ layout: default
 comments: true
 ---
 
-<div class="col s12 m12 l9">
+<div class="col s12 m12 l7 offset-l1">
   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-    {% if page.image %}
-    <div class="post-header center">
-      <img src="{{ page.image }}" class="post-header-image" itemprop="image" />
-    </div>
-    {% endif %}
-
-    <div class="post-text col s10 offset-s1">
-      <header class="post-info">
-        <div class="post-meta">
-          <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
-          {% if page.author %}
-            -
-            <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
-              <span itemprop="name">
-                {{ page.author }}
-              </span>
-              {% if page.author_site and page.author_site_url %}
-                at <a class="author-site" href="{{ page.author_site_url }}">{{ page.author_site }}</a>
-              {% endif %}
-              {% if page.author_email %}
-               <span class="right">
-                 <a href="mailto:{{ page.author_email }}">
-                   <i class="fa fa-envelope tooltipped" data-position="left" data-delay="50" data-tooltip="{{ page.author_email }}"></i>
-                 </a>
-               </span>
-              {% endif %}
-            </span>
-          {% endif %}
-        </div>
-
-        <div>
+    <header class="post__header">
+      <div class="post__meta">
+        {% include page-date.html %}
+      </div>
+      <div class="post__title">
+        <h1 class="post__title--main" itemprop="name headline">{{ page.title }}</h1>
+        <h2 class="post__title--subtitle">{{ page.subtitle }}</h2>
+      </div>
+      <div class="post__meta">
         {% include reading-time.html %}
-        {% include post-tags.html %}
-        </div>
+        {% include page-tags.html %}
 
-
-        <h1 class="post-title" itemprop="name headline">{{ page.title }}<br><span class="post-subtitle">{{ page.subtitle }}</span></h1>
-      </header>
-
-      <div class="post-content" itemprop="articleBody">
-        {{ content }}
       </div>
+      {% if page.image %}
+      <img src="{{ page.image }}" class="post__header__image" itemprop="image" />
+      {% endif %}
+    </header>
 
-      <div class="post-footer row" id="post-footer">
-        <div class="footer-block col s12 m10 offset-m1 l6">
-          {% include share_buttons.html %}
-        </div>
-        <div class="footer-block col s12 m10 offset-m1 l6">
-          {% include mail_signup.html %}
-        </div>
-        <div class="footer-block col s12 m10 offset-m1 l8 offset-l2">
-          {% include related-posts.html %}
-        </div>
-      </div>
+    <main class="post__body" itemprop="articleBody">
+      {{ content }}
+    </main>
 
-    </div>
-  </article>
-
-  <div class="post-navigation col s12">
-    {% include post_navigation.html %}
-  </div>
-
-  {% include comments.html %}
-</div>
-
-<div class="side-bar col l3 hide-on-med-and-down">
-  <div class="row">
-    <div class="side-bar-segment footer-block col s12">
-      {% include hey.html %}
-    </div>
-    <div class="side-bar-segment footer-block col s12">
+    <fooder class="post__footer">
+      <hr>
       {% include share_buttons.html %}
-    </div>
-  </div>
+      <hr>
+      {% include related-posts.html %}
+      <hr>
+      {% include post_navigation.html %}
+      <hr>
+      {% include comments.html %}
+    </footer>
+  </article>
 </div>

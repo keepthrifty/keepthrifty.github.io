@@ -10,6 +10,8 @@ $primary-color: color("light-green", "darken-3") !default;
 
 $secondary-color: color("blue", "accent-4") !default;
 
+$meta-color: color("grey", "base") !default;
+
 $off-white: rgba(255, 255, 255, 0.87) !default;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
@@ -19,7 +21,6 @@ $off-white: rgba(255, 255, 255, 0.87) !default;
         "variables",
         "normalize",
         "global",
-        "icons-material-design",
         "grid",
         "navbar",
         "roboto",

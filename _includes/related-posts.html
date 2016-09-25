@@ -1,10 +1,21 @@
 {% if (page.related-posts | size) > 0 %}
 <div class="related-posts">
-  <h3 class="flow-text">
-    Other posts you might like:
+  <h3 class="meta-header">
+    Related Posts
   </h3>
-  <ul>
-  {% for post in site.posts %}{% if page.related-posts contains post.id %}<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endif %}{% endfor %}
-  </ul>
+  <div class="mini-post-list">
+    {% for post in site.posts %}
+      {% if page.related-posts contains post.id %}
+        <figure class="snip1518">
+          <div class="image"><img src="{{ post.image | replace: '.', '-mini.' }}" alt="" /></div>
+          <figcaption>
+            <h5>{{ post.date | date: "%B %d, %Y" }}</h5>
+            <h3>{{ post.title }}</h3>
+          </figcaption>
+          <a href="#"></a>
+        </figure>
+      {% endif %}
+    {% endfor %}
+  </div>
 </div>
 {% endif %}
