@@ -122,7 +122,7 @@ I anticipate creating more calculators like these in the future, so I've created
 
 # Spreadsheet Teaser #
 
-For the spreadsheet fanatics out there, I've got a treat for you. Next weeks post will revisit today's topic and we'll go through putting all of this in a spreadsheet. I'll show you from scratch how to take these simple calculators and juice them up with graphs into a nice little dashboard. Check back around September 25th or 26th!
+For the spreadsheet fanatics out there, I've got a treat for you. Next weeks post will revisit today's topic and we'll go through putting all of this in a spreadsheet. I'll show you from scratch how to take these simple calculators and juice them up with graphs into a nice little dashboard. Check out the [Price of a Day of Retirement Spreadsheet Guide]({% post_url 2016-09-25-the-price-of-an-extra-day-spreadsheet-edition %}) now!
 
 # What's a Day Worth to You? #
 
