@@ -14,6 +14,7 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [spreadsheets, mortgages]
+featured: true
 ---
 
 Home ownership is a beautiful thing. There’s amazing freedom in knowing you own your space and that you don’t have any monthly obligations on your home other than utilities and property tax.

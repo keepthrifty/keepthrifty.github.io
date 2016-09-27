@@ -14,17 +14,6 @@
   }
 }
 
-body {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-  background-color: color("grey", "lighten-4");
-}
-
-main {
-  flex: 1 0 auto;
-}
-
 .page-image {
   padding-right: 10px;
 }
@@ -188,14 +177,18 @@ ul.footer-links {
   }
 }
 
-.tags__tag {
-  color: $meta-color;
-  &:hover {
-    opacity: 0.7;
-  }
+// Current Stylesheet
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: color("grey", "lighten-4");
 }
 
-// For Posts
+main {
+  flex: 1 0 auto;
+}
 
 .post {
   background-color: white;
@@ -357,6 +350,13 @@ ul.footer-links {
   font-weight: 300;
 }
 
+.tags__tag {
+  color: $meta-color;
+  &:hover {
+    opacity: 0.7;
+  }
+}
+
 .share-buttons__list {
   text-align: center;
 }
@@ -433,4 +433,58 @@ ul.footer-links {
   bottom: 0;
   position: absolute;
   z-index: 1;
+}
+
+.profile {
+  position: relative;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.profile__image {
+  padding: 15% 10% 0;
+
+  img {
+    max-width: 100%;
+    vertical-align: top;
+    position: relative;
+    border-radius: 50%;
+    max-width: 40%;
+  }
+}
+
+.profile__text {
+  padding: 5% 10% 15%;
+
+  h3 {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    line-height: 1.6rem;
+    margin: 0.2rem 0;
+    font-weight: 300;
+  }
+
+  h5 {
+    font-size: 1.2rem;
+    margin: 0;
+    text-transform: uppercase;
+    color: $meta-color;
+    letter-spacing: 1px;
+    font-weight: 300;
+  }
+}
+
+.profile__icons {
+  i {
+    color: $meta-color;
+    display: inline-block;
+    margin-right: 0.5rem;
+    font-size: 1.5em;
+  }
+  i:hover {
+    opacity: 0.7;
+  }
+  .icons i a {
+  text-decoration: none;
+  }
 }

@@ -31,11 +31,14 @@ comments: true
       <hr>
       {% include share_buttons.html %}
       <hr>
-      {% include related-posts.html %}
-      <hr>
-      {% include post_navigation.html %}
+      {% include post-list-related.html %}
       <hr>
       {% include comments.html %}
     </footer>
   </article>
+</div>
+
+<div class="col s12 m12 l3 offset-l1">
+  {% include about.html %}
+  {% include post-list-featured.html %}
 </div>
