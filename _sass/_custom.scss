@@ -8,6 +8,7 @@ body {
 main.page {
   flex: 1 0 auto;
   padding-top: 4rem;
+  padding-bottom: 4rem;
 }
 
 .side-column__content {
@@ -60,12 +61,12 @@ main.page {
     text-transform: uppercase;
   }
   .reading-time {
-    display: inline-block;
-    float: right;
+    display: block;
+    text-align: right;
   }
   .tags {
-    display: block;
-    text-align: left;
+    display: inline-block;
+    float: left;
   }
 }
 
@@ -228,8 +229,8 @@ main.page {
 .mini-post {
   position: relative;
   margin: 1rem 2%;
-  min-width: 200px;
-  max-width: 250px;
+  min-width: 15rem;
+  max-width: 18rem;
   width: 100%;
   text-align: center;
   box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
@@ -270,6 +271,23 @@ main.page {
   bottom: 0;
   position: absolute;
   z-index: 1;
+}
+
+.post-list-text {
+  display: block;
+}
+
+.post-list-text__item {
+  margin-bottom: 0.6rem;
+  font-size: 1rem;
+  line-height: 1.1rem;
+  a {
+    color: $meta-color;
+    text-decoration: none;
+    &:hover {
+      opacity: 0.7;
+    }
+  }
 }
 
 .profile {
@@ -332,18 +350,20 @@ main.page {
 }
 
 .form--subscribe {
+  font-size: 1.2rem;
+  font-weight: 300;
   input {
     display: inline;
     margin: 0.5rem auto;
     padding: 0.4rem;
   }
   button {
-    background-color: $secondary-color;
+    background-color: $meta-color;
     color: white;
-    border: 1px solid $meta-color;
+    border: none;
     border-radius: 5%;
-    font-weight: 700;
-    padding: 0.2rem;
+    padding: 0.4rem;
+    text-transform: uppercase;;
     &:hover {
       opacity: 0.7;
     }
@@ -362,9 +382,9 @@ nav.navbar {
 .navbar-list {
   flex-grow: 1;
   align-self: center;
-  font-size: 1.2rem;
+  font-size: 1rem;
   letter-spacing: 1.5px;
-  line-height: 1.4rem;
+  line-height: 1.2rem;
   margin: 15px 40px;
   text-transform: uppercase;
   font-weight: 300;
@@ -372,6 +392,8 @@ nav.navbar {
 
 .navbar-list--logo {
   flex-grow: 2;
+  font-size: 1.2rem;
+  line-height: 1.4rem;
 }
 
 .navbar-list__item {
@@ -421,4 +443,37 @@ nav.navbar {
 }
 .navbar-list__item--current:after {
   right: 20%;
+}
+
+.site-footer {
+  background-color: white;
+  text-align: center;
+  a {
+    color: $meta-color;
+    text-decoration: none;
+    &:hover {
+      opacity: 0.7;
+    }
+  }
+}
+
+.footer-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.footer-row__element {
+  flex: 1 0 25%;
+  color: $meta-color;
+  padding: 0 2rem;
+  min-width: 20rem;
+}
+
+.copyright {
+  margin-top: 2rem;
+  font-weight: 300;
+  .meta-header {
+    font-size: 1rem;
+  }
 }

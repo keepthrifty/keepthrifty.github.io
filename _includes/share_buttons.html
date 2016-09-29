@@ -3,7 +3,7 @@
     {% if page.social-line %}
       {{ page.social-line }}
     {% else %}
-      Like this post? Spread the love!
+      Like this{% if page.layout == "post" %} post{% endif %}? Spread the love!
     {% endif %}
   </h3>
   <ul class="share-buttons__list">
