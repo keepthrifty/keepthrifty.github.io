@@ -3,8 +3,9 @@
   <div class="profile__text">
     <h3>Welcome</h3>
     <h5>I'm Chris</h5>
-    <p>I'm on a mission to get our family 100% debt-free (including our mortgage) by 2020.</p>
+    <p>I'm on a mission to get our family debt-free (including our mortgage) by 2020.</p>
     <p>We're getting there through frugality, minimalism, and a whole bunch of awesome spreadsheets.</p>
+    {% unless page.url == "/about/" %}<p><a href="/about/">More about me...</a></p>{% endunless %}
     <div class="profile__icons">
       <a href="http://www.twitter.com/keepthrifty"><i class="fa fa-twitter"></i></a>
       <a href="mailto:chris@keepthrifty.com"><i class="fa fa-envelope"></i></a>

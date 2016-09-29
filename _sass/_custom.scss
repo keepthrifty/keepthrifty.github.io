@@ -454,7 +454,7 @@ main {
 }
 
 .profile__text {
-  padding: 5% 10% 15%;
+  padding: 1rem 1rem 2rem;
 
   h3 {
     text-transform: uppercase;
@@ -486,5 +486,29 @@ main {
   }
   .icons i a {
   text-decoration: none;
+  }
+}
+
+.side-container {
+  padding: 0 1rem 1rem;
+  text-align: center;
+}
+
+.form--subscribe {
+  input {
+    display: inline;
+    margin: 0.5rem auto;
+    padding: 0.4rem;
+  }
+  button {
+    background-color: $secondary-color;
+    color: white;
+    border: 1px solid $meta-color;
+    border-radius: 5%;
+    font-weight: 700;
+    padding: 0.2rem;
+    &:hover {
+      opacity: 0.7;
+    }
   }
 }
