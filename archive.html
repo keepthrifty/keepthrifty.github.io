@@ -6,23 +6,26 @@ redirect_from:
   - /challenges/
 ---
 
-<h1 class="flow-text">
+<h1>
   All the posts (by date | <a href="/tags/">by topic</a>)
-  <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
-    <i class="fa fa-rss-square"></i>
-  </a>
 </h1>
+
+<p class="rss">
+  <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+    <i class="fa fa-rss-square"></i> Get the RSS feed here
+  </a>
+</p>
 
 <div class="post-list">
 	<ul>
 	  {% for post in site.posts %}
 	    {% unless post.next %}
-	      <h2 class="flow-text">{{ post.date | date: '%B %Y' }}</h2>
+	      <h2>{{ post.date | date: '%B %Y' }}</h2>
 	    {% else %}
 	      {% capture year %}{{ post.date | date: '%B %Y' }}{% endcapture %}
 	      {% capture nyear %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
 	      {% if year != nyear %}
-	        <h2 class="flow-text">{{ post.date | date: '%B %Y' }}</h2>
+	        <h2>{{ post.date | date: '%B %Y' }}</h2>
 	      {% endif %}
 	    {% endunless %}
 

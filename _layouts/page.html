@@ -9,10 +9,6 @@ layout: default
         <h1 class="post__title--main" itemprop="name headline">{{ page.title }}</h1>
         {% if page.subtitle %}<h2 class="post__title--subtitle">{{ page.subtitle }}</h2>{% endif %}
       </div>
-      <div class="post__meta">
-        {% include reading-time.html %}
-        {% include page-tags.html %}
-      </div>
       {% if page.image %}
       <img src="{{ page.image }}" class="post__header__image" itemprop="image" />
       {% endif %}

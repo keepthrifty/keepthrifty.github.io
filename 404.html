@@ -4,20 +4,10 @@ permalink: /404.html
 ---
 
 <div class="col s12 m12 l12 center">
-  <p class="flow-text">Whoops!</p>
-  <img src="/img/404.jpg" style="max-height: 300px">
-  <p class="flow-text">Looks like you're caught somewhere in the maze :(</p>
-  <p>Try heading to one of these instead:</p>
-  <ul>
-    <li><a class="page-link" href="/">Home</a>
-    {% for static_page in site.pages %}
-      {% unless static_page.category %}
-        <li>
-          {% if static_page.title %}
-          <a class="page-link" href="{{ static_page.url | prepend: site.baseurl }}">{{ static_page.title }}</a>
-          {% endif %}
-        </li>
-      {% endunless %}
-    {% endfor %}
-  </ul>
+  <img src="/img/404.jpg" style="max-height: 200px">
+  <h1>Rats! Errr...Mouse?</h1>
+  <p>Looks like you're caught somewhere in the maze :(</p>
+  <p>Try one of the links above or check out these awesome posts:</p>
+  {% include post-list-featured.html %}
+  <p>If you're still not satisfied, send me an email at <a href="mailto:chris@keepthrifty.com">chris@keepthrifty.com</a> and I'll see if I can find you some cheese...I mean help.</p>
 </div>

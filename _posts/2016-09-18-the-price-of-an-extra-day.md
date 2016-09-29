@@ -41,13 +41,7 @@ I translated these back into a couple web-based tools below that you can use - f
 
 # Calculating Retirement Days Earned #
 
-<div class="row">
-  <div class="col s12 m10 offset-m1">
-    <div class="card-panel">
-    {% include /calculators/calcfidays.html %}
-    </div>
-  </div>
-</div>
+{% include /calculators/calcfidays.html %}
 
 > Note: because this is trying to look just at the impact of a set dollar amount now, this assumes that you don't plan _any_ other contributions to your retirement savings in the future
 >
@@ -55,13 +49,7 @@ I translated these back into a couple web-based tools below that you can use - f
 
 # Calculating the Price of a Day (or Year) #
 
-<div class="row">
-  <div class="col s12 m10 offset-m1">
-    <div class="card-panel">
-    {% include /calculators/calcfidollars.html %}
-    </div>
-  </div>
-</div>
+{% include /calculators/calcfidollars.html %}
 
 # My Numbers #
 

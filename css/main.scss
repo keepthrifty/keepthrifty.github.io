@@ -19,7 +19,6 @@ $code-color: #DCEDC8; //color("light-green", "lighten-4") !default;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "prefixer",
-        "mixins",
         "variables",
         "normalize",
         "global",
@@ -28,7 +27,6 @@ $code-color: #DCEDC8; //color("light-green", "lighten-4") !default;
         "typography",
         "cards",
         "buttons",
-        "sideNav",
         "custom",
         "../assets/font-awesome-4.6.3/scss/font-awesome"
 ;
