@@ -6,13 +6,15 @@
 @import "color";
 
 /*** Colors ***/
-$primary-color: color("light-green", "darken-3") !default;
+$primary-color: #558B2F; //color("light-green", "darken-3") !default;
 
-$secondary-color: color("blue", "accent-4") !default;
+$secondary-color: #2962FF; //color("blue", "accent-4") !default;
 
-$meta-color: color("grey", "base") !default;
+$meta-color: #9E9E9E; //color("grey", "base") !default;
 
-$off-white: rgba(255, 255, 255, 0.87) !default;
+$bg-color: #F5F5F5; //color("grey", "lighten-4") !default;
+
+$code-color: #DCEDC8; //color("light-green", "lighten-4") !default;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
@@ -22,7 +24,6 @@ $off-white: rgba(255, 255, 255, 0.87) !default;
         "normalize",
         "global",
         "grid",
-        "navbar",
         "roboto",
         "typography",
         "cards",
