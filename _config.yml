@@ -26,8 +26,6 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/pg:num/"
 
-collections:
-  recommendations:
 
 sass:
   sass_dir: _sass

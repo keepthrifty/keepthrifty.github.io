@@ -104,9 +104,9 @@ I definitely had to look up some of the logarithm rules to simplify the equation
 
 <div id="post-closing"></div>
 
-# Announcement - Launching Calculators Page #
+# Announcement - Easy Link to Calculators #
 
-I anticipate creating more calculators like these in the future, so I've created a [Calculators Page](/calculators/) where I'll put any that I come up with. If you have any suggestions for calculators you'd like to see, I'd love it if you'd shoot me an e-mail at [chris@keepthrifty.com](mailto:chris@keepthrifty.com)!
+I anticipate creating more calculators like these in the future. People who want a quick way to find them can head to the archives and look at [all the posts tagged "Calculators"](/tags/#calculators). If you have any suggestions for calculators you'd like to see, I'd love it if you'd shoot me an e-mail at [chris@keepthrifty.com](mailto:chris@keepthrifty.com)!
 
 # Spreadsheet Teaser #
 
