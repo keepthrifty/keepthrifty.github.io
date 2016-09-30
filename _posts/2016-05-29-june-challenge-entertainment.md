@@ -138,7 +138,7 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [may-challenge-post]: {% post_url 2016-05-01-may-challenge-food %}
 
 [fixer-upper]: http://www.hgtv.com/shows/fixer-upper
-[the-more-of-less]: http://amzn.to/24fN1bM
+[the-more-of-less]: {% post_url 2016-08-28-the-more-of-less-review %}
 [becoming-minimalist]: http://www.becomingminimalist.com/
 
 [concerts-on-the-square]: http://www.wcoconcerts.org/performance-listing/category/concerts-on-the-square

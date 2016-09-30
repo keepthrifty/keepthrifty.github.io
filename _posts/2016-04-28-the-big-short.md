@@ -14,6 +14,7 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [mortgages]
+affiliate: true
 ---
 
 Those who do not learn from history are doomed to repeat it. Have we learned from what happened in 2007 so we don't end up there again?

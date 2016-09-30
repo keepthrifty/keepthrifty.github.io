@@ -14,6 +14,7 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [our numbers]
+affiliate: true
 ---
 
 I used to __love__ Diet Mountain Dew. That might not even be a strong enough statement - I was pretty much addicted to it. It was my source of caffeine and one of those self-indulgent "treats" I convinced myself I needed.

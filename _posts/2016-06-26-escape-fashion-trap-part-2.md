@@ -15,6 +15,7 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism]
+affiliate: true
 ---
 
 [Last time][part-1], we talked about the history behind the fashion money trap. With part 2, I'll give you the six tactics I use to escape the fashion money trap and help me live a richer life.

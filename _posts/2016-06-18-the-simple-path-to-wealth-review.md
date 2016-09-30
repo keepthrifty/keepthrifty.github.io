@@ -13,6 +13,7 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [book review]
+affiliate: true
 ---
 
 If you only read one book on personal finance, [_The Simple Path to Wealth_][the-simple-path-to-wealth-amazon] by JL Collins is a solid guide on the mentality and skills that anyone can use to take responsible ownership of their financial future.
@@ -66,10 +67,6 @@ I really recommend you pick up a copy of [_The Simple Path to Wealth_][the-simpl
 ___To get your own copy, here's a [link to the book on Amazon*][the-simple-path-to-wealth-amazon]___
 
 ![the-simple-path-to-wealth][the-simple-path-to-wealth-cover]
-
-\*This is an affiliate link - if you buy through this link I'll get a small percentage of the price (at no extra cost to you)
-
-\*I wrote this review before even knowing if I'd have an affiliate link; I would have recommended this book regardless :)
 
 [jl-collins-investing]: http://jlcollinsnh.com/stock-series/
 [the-simple-path-to-wealth-cover]: /img/posts/2016-06-18-the-simple-path-to-wealth-review/the-simple-path-to-wealth-cover.jpg

@@ -12,6 +12,7 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism, inspiration]
+affiliate: true
 ---
 
 To an outside observer, it might look I’m going through a midlife crisis.

@@ -21,6 +21,7 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [our numbers]
+affiliate: true
 ---
 
 > The March challenge is over! Here's the full set of update/results posts:
