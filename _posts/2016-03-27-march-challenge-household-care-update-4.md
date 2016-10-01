@@ -57,6 +57,7 @@ Unexpected expenses are bound to come up, so it's important to leave a little wi
 Are you keeping on-track? Find me on [twitter][twitter-profile] and let me know how you're doing!
 
 [twitter-profile]: http://www.twitter.com/keepthrifty
+{: target="_blank"}
 
 [march-week-4-summary]: /img/posts/2016-03-27-march-challenge-household-care-update-4/march-2016-w4-summary.png
 

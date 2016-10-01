@@ -113,11 +113,15 @@ ___To get your own copy, here's a [link to the book on Amazon][the-more-of-less-
 [the-more-of-less-cover]: {{ page.image-folder }}/the-more-of-less-cover.jpg
 
 [the-more-of-less-amazon]: http://amzn.to/2bExSjT
+{: target="_blank"}
 
 [joshua-becker-amazon]: http://amzn.to/2bl3N6J
+{: target="_blank"}
 
 [becoming-minimalist]: http://www.becomingminimalist.com/
+{: target="_blank"}
 
 [the-hope-effect]: http://hopeeffect.com/
+{: target="_blank"}
 
 [living-with-less-post]: {% post_url 2016-01-20-living-with-less %}

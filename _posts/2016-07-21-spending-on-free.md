@@ -113,7 +113,12 @@ _Whether you spend on X or Y, it's always important to remember that you can get
 _If you liked this post, head on over to [GundoMoney.com][gundo-money] to see more. Thanks again Elsie!_
 
 [mr-money-mustache]: http://www.mrmoneymustache.com/
+{: target="_blank"}
+
 [gundo-post]: http://gundomoney.com/2016/06/19/balancing-frugality-and-enjoying-your-life/
+{: target="_blank"}
+
 [gundo-money]: http://www.gundomoney.com
+{: target="_blank"}
 
 [experience-vs-stuff]: {% post_url 2016-07-14-experience-or-stuff %}

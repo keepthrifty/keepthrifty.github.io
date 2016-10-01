@@ -201,13 +201,18 @@ Longer-term, my goal is to whittle our spending down to $60,000 a year while sti
 If you haven't been tracking your finances, I encourage you to sign up for [Thrifty][thrifty-link] for free and get started!
 
 [twitter-exposure]: https://twitter.com/search?f=tweets&q=%23indecentfinancialexposure&src=typd
+{: target="_blank"}
+
 [thrifty-link]: http://tools.keepthrifty.com
+{: target="_blank"}
 
 [total-spending]: {{ page.image-folder }}/total-spending.jpg
 
 [the-hope-effect]: http://www.hopeeffect.com
+{: target="_blank"}
 
 [becoming-minimalist]: http://www.becomingminimalist.com
+{: target="_blank"}
 
 [payoff-mortgage-post]: {% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
 
@@ -218,3 +223,4 @@ If you haven't been tracking your finances, I encourage you to sign up for [Thri
 [engagement-ring-post]: {% post_url 2016-03-23-engagement-ring-sold %}
 
 [christmas-spending]: http://www.elledecor.com/life-culture/a8093/how-much-people-spend-on-christmas-gifts/
+{: target="_blank"}

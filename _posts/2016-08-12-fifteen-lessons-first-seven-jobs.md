@@ -264,8 +264,10 @@ Search for a challenge; search for purpose; search for a chance to work on your 
 > What have you learned in your career? Any major regrets or nuggets you'd like to share?
 
 [twitter-first-seven-jobs]: https://twitter.com/hashtag/firstsevenjobs
+{: target="_blank"}
 
 [karate-kid]: https://www.youtube.com/watch?v=Bg21M2zwG9Q
+{: target="_blank"}
 
 [cubicles]: {{ page.image-folder }}/cubicles.jpg
 [files]: {{ page.image-folder }}/files.jpg

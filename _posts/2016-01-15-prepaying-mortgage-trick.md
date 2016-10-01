@@ -135,17 +135,42 @@ Track all your spending purchase-by-purchase so you know where your money is goi
 Head to [http://tools.keepthrifty.com/][thrifty] to try it out!
 
 [one-third-mortgage-free]: http://fivethirtyeight.com/datalab/how-many-homeowners-have-paid-off-their-mortgages/
+{: target="_blank"}
+
 [average-age-first-time-home]: http://nationalmortgageprofessional.com/news/55433/zillow-average-first-time-homebuyer-33-years-age
+{: target="_blank"}
+
 [median-home-price]: https://research.stlouisfed.org/fred2/series/HOSMEDUSM052N
+{: target="_blank"}
+
 [mortgage-rate]: http://bankrate.com/
+{: target="_blank"}
+
 [household-income]: http://www.advisorperspectives.com/dshort/updates/Median-Household-Income-Update
+{: target="_blank"}
+
 [wage-increase]: https://www.ssa.gov/oact/cola/awidevelop.html
+{: target="_blank"}
+
 [spreadsheet-read-only]: https://docs.google.com/spreadsheets/d/13Ss863vkgDHEWuuGbYyyz1nyWDQtn-3n89UcPIskLrY/edit?usp=sharing
+{: target="_blank"}
+
 [spreadsheet-copy]: https://docs.google.com/spreadsheets/d/13Ss863vkgDHEWuuGbYyyz1nyWDQtn-3n89UcPIskLrY/copy
+{: target="_blank"}
+
 [mrmoneymustache]: http://mrmoneymustache.com/
+{: target="_blank"}
+
 [art-of-simple]: http://theartofsimple.net/
+{: target="_blank"}
+
 [becoming-minimalist]: http://www.becomingminimalist.com/
+{: target="_blank"}
+
 [tim-ferriss]: http://fourhourworkweek.com/blog/
+{: target="_blank"}
+
 [thrifty]: http://tools.keepthrifty.com/
+{: target="_blank"}
 
 [paydown-chart]: {{ page.image-folder }}/mortgage-paydown-chart.png "Mortgage paydown chart"

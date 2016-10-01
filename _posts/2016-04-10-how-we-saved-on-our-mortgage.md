@@ -201,7 +201,9 @@ Our mortgage is the last piece of that and as you can see we've been working har
 What's your financial journey look like? Drop me a note in the comments below or [tweet me][tweet-me] with your thoughts.
 
 [mortgage-math-101]: {% post_url 2016-04-04-mortgage-math-101 %}
+
 [tweet-me]: http://www.twitter.com/keepthrifty
+{: target="_blank"}
 
 [original-vs-refinance]: {{ page.image-folder }}/original-vs-refinance.png
 [original-vs-15-yr]: {{ page.image-folder }}/original-vs-15-yr.png

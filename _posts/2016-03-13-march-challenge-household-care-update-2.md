@@ -52,6 +52,7 @@ Still going strong here - the glass spice jar is an investment in our continuing
 Hope you're on track as well. Find me on [twitter][twitter-profile] and let me know how you're doing!
 
 [twitter-profile]: http://www.twitter.com/keepthrifty
+{: target="_blank"}
 
 [march-week-2-summary]: {{ page.image-folder }}/march-2016-w2-summary.png
 

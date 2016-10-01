@@ -132,15 +132,33 @@ Will all of these changes add up to $155 a month? We know from January that itâ€
 Are you ready to join the challenge? Share your thoughts in the comments below or [tweet me][tweet-link] with your goals, plan, or progress!
 
 [keepthrifty-experiment]: {% post_url 2016-02-22-keepthrifty-experiment %}
+
 [cleaning-out-wallet]: http://www.mrmoneymustache.com/2013/12/30/are-you-cleaning-out-your-own-wallet/
+{: target="_blank"}
+
 [google-baking-soda-vinegar]: https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=cleaning%20with%20baking%20soda%20and%20vinegar
+{: target="_blank"}
+
 [zero-waste-bathroom]: http://www.zerowastehome.com/2010/01/zero-waste-bathroom.html
+{: target="_blank"}
+
 [mrs-money-mustache-lady]: http://www.mrmoneymustache.com/2011/06/05/mrs-money-mustache-eliminating-lady-temptations/
+{: target="_blank"}
+
 [hankybooks]: http://amzn.to/25aQ3Um
+{: target="_blank"}
+
 [light-bulb-showdown]: http://www.thesimpledollar.com/the-light-bulb-showdown-leds-vs-cfls-vs-incandescent-bulbs-whats-the-best-deal-now-and-in-the-future/
+{: target="_blank"}
+
 [save-big-on-diapers]: http://thethriftycouple.com/2014/01/13/8-tips-to-save-big-money-on-diapers/
+{: target="_blank"}
+
 [thrifty]: http://tools.keepthrifty.com/
+{: target="_blank"}
+
 [tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20KeepThrifty%20Experiment!
+{: target="_blank"}
 
 [household-care-chart]: {{ page.image-folder }}/household-care-feb.png
 [household-care-summary]: {{ page.image-folder }}/household-care-feb-summary.png
@@ -153,6 +171,10 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [final-results]: {% post_url 2016-04-03-march-challenge-household-care-update-5 %}
 
 [worm-composter]: http://amzn.to/1Xi5ja1
+{: target="_blank"}
+
 [worms]: http://amzn.to/1X2LFAD
+{: target="_blank"}
 
 [two-L-jars]: http://amzn.to/1UXuUaO
+{: target="_blank"}

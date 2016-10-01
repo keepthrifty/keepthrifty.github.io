@@ -32,7 +32,7 @@ For as much time as we spend talking about what to do with money, I think we'd a
 
 [It is Only Money and It Grows on Trees][it-is-only-money-amazon] by Cara MacMillan does exactly this. With a super-readable narrative, Cara explores how different cultures, religions, and personal backgrounds shape peoples' view of money and how those views can lead people toward or away from happy, productive lives.
 
-I was fortunate enough to get this book by happenstance; a fellow blogger (Elsie at [Gundo Money](http://www.gundomoney.com)) had gotten a copy and mailed it to me as she thought I might enjoy the analysis.
+I was fortunate enough to get this book by happenstance; a fellow blogger (Elsie at [Gundo Money](http://www.gundomoney.com){: target="_blank"}) had gotten a copy and mailed it to me as she thought I might enjoy the analysis.
 
 There are about 100 pages of core content and then a really useful workbook section at the end that guides you through discovering your own perception of money.
 
@@ -46,7 +46,7 @@ My advice if you get the book is to do the workbook along the way - don't save i
 
 > Hindus do not see money as evil. Interestingly, it is seen as a duty in the middle stage of life to want money, to pray for money, and to earn lots of money.
 
-The book is set in a fictional classroom with a professor meeting with her students to talk about money. Cara skilfully uses characters with a diverse set of backgrounds to help portray the different cultural and religious views of money not just in theoretical terms, but with "real people".
+The book is set in a fictional classroom with a professor meeting with her students to talk about money. Cara skillfully uses characters with a diverse set of backgrounds to help portray the different cultural and religious views of money not just in theoretical terms, but with "real people".
 
 One thing I really appreciated was how the book highlighted each culture or religion's view of money in a way that focused on the positive learning that could be gleaned from that mindset.
 
@@ -72,7 +72,7 @@ Beyond this, the book does a good job giving some sound guidelines for good pers
 
 Cara puts them in a way that explains not just what they are, but why we should do them, and what experiences and influences in our lives have made it tougher for us to do the right thing in the past.
 
-This book tackles marketing, consumerism, investment, and charity. Beyond simply covering these in the book, Cara is obviously doing these on her own as she's stated in an appendix that 10% of revenues from sale of her book go to a charitable organization ([Development and Peace](https://www.devp.org/en)).
+This book tackles marketing, consumerism, investment, and charity. Beyond simply covering these in the book, Cara is obviously doing these on her own as she's stated in an appendix that 10% of revenues from sale of her book go to a charitable organization ([Development and Peace](https://www.devp.org/en){: target="_blank"}).
 
 # Summary #
 
@@ -85,3 +85,4 @@ ___To get your own copy, here's a [link to the book on Amazon][it-is-only-money-
 > What does money mean to you? Success or stress? Obligation or opportunity? Freedom or burden? How does that meaning shape your behavior?
 
 [it-is-only-money-amazon]: http://amzn.to/2dgKhLj
+{: target="_blank"}

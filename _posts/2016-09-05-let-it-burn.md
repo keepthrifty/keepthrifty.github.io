@@ -34,13 +34,13 @@ Our IT staff does a great job porting over your files, but every new PC is a "cl
 > ...
 >
 > Overall, fire is a catalyst for promoting biological diversity and healthy ecosystems. It fosters new plant growth and wildlife populations often expand as a result.
-> <cite>([Pacific Biodiversity Institute](http://www.pacificbio.org/initiatives/fire/fire_ecology.html))</cite>
+> <cite>([Pacific Biodiversity Institute](http://www.pacificbio.org/initiatives/fire/fire_ecology.html){: target="_blank"})</cite>
 
-Over the last three years I had built up a list of about 25-30 RSS feeds I subscribed to covering all sorts of topics from entrepreneurship and management studies to coding practices, personal finance and [Dilbert](http://www.dilbert.com) strips.
+Over the last three years I had built up a list of about 25-30 RSS feeds I subscribed to covering all sorts of topics from entrepreneurship and management studies to coding practices, personal finance and [Dilbert](http://www.dilbert.com){: target="_blank"} strips.
 
 After a few moments of panic and disappointment, I came to view the situation as an opportunity. An opportunity for new growth now that the old, established things had been wiped away.
 
-With a clean slate, I decided not to try to reproduce the list as it had existed. What if I took the few that popped into my head first as the most important (i.e. [Signal v Noise](http://www.signalvnoise.com/) and [Mr Money Mustache](http://www.mrmoneymustache.com/)), added a few that I hoped to spend a bit more time on ([Jekyll Tips](http://jekyll.tips/) and [CSS Tricks](https://css-tricks.com/) to help in developing this blog) and let the rest grow organically in the coming weeks and months?
+With a clean slate, I decided not to try to reproduce the list as it had existed. What if I took the few that popped into my head first as the most important (i.e. [Signal v Noise](http://www.signalvnoise.com/){: target="_blank"} and [Mr Money Mustache](http://www.mrmoneymustache.com/){: target="_blank"}), added a few that I hoped to spend a bit more time on ([Jekyll Tips](http://jekyll.tips/){: target="_blank"} and [CSS Tricks](https://css-tricks.com/){: target="_blank"} to help in developing this blog) and let the rest grow organically in the coming weeks and months?
 
 I'd certainly end up with a different list than I had been looking at and that seems like it's actually a _good_ thing. I had been reading from the same 25 resources for three years; maybe it's time for a change.
 
@@ -56,7 +56,7 @@ It was the time to clear out the unused and old to make room for the new.
 
 One of my favorite anecdotes from The More of Less by Joshua Becker (see my [recent review here]({% post_url 2016-08-28-the-more-of-less-review %})) was a story from Ryan Nicodemus of The Minimalists.
 
-Frustrated with the life he had been leading, Ryan needed to do something drastic to make a change. He and Joshua Fields Millburn came up with the idea of a "[Packing Party](http://www.theminimalists.com/packing/)"
+Frustrated with the life he had been leading, Ryan needed to do something drastic to make a change. He and Joshua Fields Millburn came up with the idea of a "[Packing Party](http://www.theminimalists.com/packing/){: target="_blank"}"
 
 > We decided to pack all my belongings as if I were moving. And then I would unpack only the items I needed over the next three weeks.
 >

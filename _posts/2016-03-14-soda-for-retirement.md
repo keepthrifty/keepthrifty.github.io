@@ -129,13 +129,23 @@ _What is one recurring expense that you could really live without?_
 [Tweet me][tweet-me], comment below, or email me at chris@keepthrifty.com - I'd love to hear from you and cheer you on!
 
 [coffee-lb-to-tablespoons]: http://leverheadcoffee.com/faq-about-coffee?id=86
+{: target="_blank"}
+
 [four-percent-rule]: http://www.budgetsaresexy.com/2016/02/magical-number-needed-to-retire/
+{: target="_blank"}
+
 [tweet-me]: https://twitter.com/intent/tweet?text=%40keepthrifty%20I%27m%20filling%20my%20retirement%20savings%20by%20cutting%20___%20https%3A%2F%2Fwww.keepthrifty.com%2F2016%2F03%2F14%2Fsoda-for-retirement.html&source=clicktotweet&related=clicktotweet
+{: target="_blank"}
 
 [coffee-cup]: {{ page.image-folder }}/coffee-cup.jpg
 [coffee-vs-dew]: {{ page.image-folder }}/coffee-vs-dew.jpg
 [stop-the-music]: {{ page.image-folder }}/stop-the-music.jpg
 
 [ham-beach-80350]: http://amzn.to/203QIju
+{: target="_blank"}
+
 [french-press]: http://amzn.to/25aQ4b0
+{: target="_blank"}
+
 [folgers]: http://amzn.to/25aPMRr
+{: target="_blank"}

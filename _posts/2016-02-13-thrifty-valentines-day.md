@@ -110,6 +110,7 @@ I hope your Valentine’s day is filled with love, experiences, and togetherness
 
 [thrifty-resolution-post]: {% post_url 2016-01-01-one-word-resolution %}
 [charlies-on-main]: http://charliesmainevent.com/
+{: target="_blank"}
 
 [jaime-on-the-square]: {{ page.image-folder }}/jaime-on-the-square.jpg "My wife on our walk outside"
 [chris-on-the-square]: {{ page.image-folder }}/chris-on-the-square.jpg "Me on our walk outside with a cross-country ski track in the road"

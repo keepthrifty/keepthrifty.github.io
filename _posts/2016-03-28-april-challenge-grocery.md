@@ -123,17 +123,36 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 
 [keepthrifty-experiment]: {% post_url 2016-02-22-keepthrifty-experiment %}
 [march-challenge-post]: {% post_url 2016-02-28-march-challenge-household-care %}
+
 [soylent]: https://www.soylent.com/
+{: target="_blank"}
+
 [killing-1000-grocery-bill]: http://www.mrmoneymustache.com/2012/03/29/killing-your-1000-grocery-bill/
+{: target="_blank"}
+
 [moneysmart-family]: http://www.moneysmartfamily.com/groceries
+{: target="_blank"}
+
 [eat-wild]: http://www.eatwild.com/products/index.html
+{: target="_blank"}
+
 [twenty-nine-ways]: http://time.com/money/3481381/save-on-groceries/
+{: target="_blank"}
+
 [willy-street]: https://www.willystreet.coop/
+{: target="_blank"}
+
 [piggly-wiggly]: http://www.shopthepig.com
+{: target="_blank"}
+
 [usda-cost]: http://www.cnpp.usda.gov/sites/default/files/CostofFoodFeb2016.pdf
+{: target="_blank"}
 
 [thrifty]: http://tools.keepthrifty.com/
+{: target="_blank"}
+
 [tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20KeepThrifty%20Experiment!
+{: target="_blank"}
 
 [challenge-chart]: /img/posts/2016-03-28-april-challenge-grocery/groceries-mar.png
 [challenge-summary]: /img/posts/2016-03-28-april-challenge-grocery/groceries-mar-summary.png

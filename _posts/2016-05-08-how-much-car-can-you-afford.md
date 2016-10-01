@@ -13,6 +13,7 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]
+affiliate: true
 ---
 
 My twitter feed keeps coming up with links to financial calculators framed around the question "How much car can you afford?". This question makes me cringe because it's totally the wrong question to ask.
@@ -145,14 +146,19 @@ _Did you have a great/terrible experience with your last car purchase? Help othe
 [banker-cat]: {{ page.image-folder}}/banker-cat.jpg
 
 [twitter-link]: http://www.twitter.com/keepthrifty
+{: target="_blank"}
 
 [mind-the-gap]: http://affordanything.com/2014/06/02/the-most-crucial-money-lesson-in-three-words-mind-the-gap/
+{: target="_blank"}
 
 [mortgage-post]: {% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
 [prepaying-mortgage-post]: {% post_url 2016-01-15-prepaying-mortgage-trick %}
 
 [blonde-on-a-budget]: http://blondeonabudget.ca/2013/05/27/how-i-paid-off-30000-of-debt-in-two-years/
+{: target="_blank"}
 
 [frugalwoods]: http://www.frugalwoods.com/2016/04/06/that-time-we-bought-a-homestead/
+{: target="_blank"}
 
 [uber-link]: https://www.uber.com/invite/chrisd21975ue
+{: target="_blank"}

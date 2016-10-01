@@ -78,8 +78,10 @@ Find me on [twitter][twitter-profile] and let me know how you're doing so far th
 [final-results]: {% post_url 2016-05-29-may-challenge-food-update-2 %}
 
 [twitter-profile]: http://www.twitter.com/keepthrifty
+{: target="_blank"}
 
 [thrifty-link]: http://tools.keepthrifty.com
+{: target="_blank"}
 
 [may-2016-mid-month-eating-out]: {{ page.image-folder }}/may-2016-mid-month-update-eating-out.png
 [may-2016-mid-month-grocery]: {{ page.image-folder }}/may-2016-mid-month-update-grocery.png

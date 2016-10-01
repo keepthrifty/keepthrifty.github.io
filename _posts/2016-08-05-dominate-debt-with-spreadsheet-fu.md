@@ -477,5 +477,7 @@ _Want to become a Spreadsheet black belt? Subscribe to my email list below to ma
 [grasshopper]: {{ page.image-folder }}/grasshopper.jpg
 
 [google-drive]: http://drive.google.com
+{: target="_blank"}
 
 [relative-vs-absolute]: http://chandoo.org/wp/2008/11/04/relative-absolute-references-in-formulas/
+{: target="_blank"}

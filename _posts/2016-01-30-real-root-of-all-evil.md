@@ -86,3 +86,4 @@ Spend less. I know for some that may seem like an impossibility, but I’m telli
 There are things you’re buying now that you can do without and be just as happy (if not more).
 
 [niv-translation]: https://www.biblegateway.com/passage/?search=1%20Timothy%206:6-11
+{: target="_blank"}

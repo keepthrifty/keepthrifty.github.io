@@ -109,6 +109,10 @@ You’re capable of a lot more than you give yourself credit for and you make as
 As you go through, I hope you’ll share your story, successes, and lessons learned — I’d love to hear them.
 
 [confidence-action]: http://medium.com/higher-thoughts/confidence-is-a-result-of-action-not-a-prerequisite-d77ae94f69d6
+{: target="_blank"}
 
 [worm-composter]: http://amzn.to/1Xi5ja1
+{: target="_blank"}
+
 [worms]: http://amzn.to/1X2LFAD
+{: target="_blank"}

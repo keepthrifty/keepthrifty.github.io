@@ -116,14 +116,28 @@ _Any other thoughts on dealing with the naysayers and haters? Leave a comment be
 [one-word-resolution-post]: {% post_url 2016-01-01-one-word-resolution %}
 
 [romans-2-12]: https://www.biblegateway.com/passage/?search=Romans+12&version=NIV
+{: target="_blank"}
+
 [shawn-achor]: https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work?language=en
+{: target="_blank"}
+
 [reddit]: https://www.reddit.com/
+{: target="_blank"}
+
 [meetup]: http://www.meetup.com/
+{: target="_blank"}
+
 [mr-m-forum]: http://forum.mrmoneymustache.com/index.php
+{: target="_blank"}
+
 [mr-m-meetups]: http://forum.mrmoneymustache.com/meetups-and-social-events/
+{: target="_blank"}
+
 [shake-it-off]: https://www.youtube.com/watch?v=nfWlot6h_JM
+{: target="_blank"}
 
 [twitter-link]: http://www.twitter.com/keepthrifty
+{: target="_blank"}
 
 [quote-theodore-roosevelt]: {{ page.image-folder }}/quote-theodore-roosevelt.jpg
 [quote-helen-keller]: {{ page.image-folder}}/quote-helen-keller.jpg

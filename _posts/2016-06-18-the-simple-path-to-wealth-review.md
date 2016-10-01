@@ -70,6 +70,9 @@ ___To get your own copy, here's a [link to the book on Amazon*][the-simple-path-
 ![the-simple-path-to-wealth][the-simple-path-to-wealth-cover]
 
 [jl-collins-investing]: http://jlcollinsnh.com/stock-series/
+{: target="_blank"}
+
 [the-simple-path-to-wealth-cover]: /img/posts/2016-06-18-the-simple-path-to-wealth-review/the-simple-path-to-wealth-cover.jpg
 
 [the-simple-path-to-wealth-amazon]: http://amzn.to/1ZYURpb
+{: target="_blank"}

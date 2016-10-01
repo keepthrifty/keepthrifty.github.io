@@ -252,9 +252,17 @@ If you've got any questions, feel free to [tweet][tweet-me], comment below, or e
 Stay tuned!
 
 [one-third-mortgage-free]: http://fivethirtyeight.com/datalab/how-many-homeowners-have-paid-off-their-mortgages/
+{: target="_blank"}
+
 [amortization-calculator]: https://docs.google.com/spreadsheets/d/1Odx9YVPxD-dE2Q90hBeQYqGnvYkYuKLWRm_skWrZOOk/edit?usp=sharing
+{: target="_blank"}
+
 [google-mortgage-calculator]: https://www.google.com/#safe=active&q=mortgage+payment+calculator
+{: target="_blank"}
+
 [tweet-me]: http://www.twitter.com/keepthrifty
+{: target="_blank"}
+
 [save-on-mortgage]: {% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
 
 [mortgage-formula]: {{ page.image-folder }}/monthly-payment.jpg

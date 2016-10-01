@@ -129,7 +129,12 @@ These trade-offs are everywhere and can be a big accelerator for getting to wher
 [Tweet me][tweet-me] with your goals or put them in the comments below with ideas of what you could give up to get closer to them.
 
 [the-hope-effect]: http://www.hopeeffect.com
+{: target="_blank"}
+
 [tweet-me]: http://www.twitter.com/keepthrifty
+{: target="_blank"}
+
 [thrifty-tool]: http://tools.keepthrifty.com
+{: target="_blank"}
 
 [usa-map]: /img/posts/2016-03-23-engagement-ring-sold/usa-map.jpg

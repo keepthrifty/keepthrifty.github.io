@@ -32,7 +32,7 @@ Beyond calculating the cost of a day of retirement and the impact on retirement 
 
 # Set Up #
 
-You can use just about any spreadsheet software to put together this tool, but I'm going to be using [Google Sheets](http://sheets.google.com/) (it's free!). [Microsoft Excel](https://office.live.com/start/Excel.aspx) is another good option. If you only care about the calculator portion, either should work fine for this tutorial. For the part where I turn everything into a pretty dashboard, I'm only going to show the steps in Google Sheets.
+You can use just about any spreadsheet software to put together this tool, but I'm going to be using [Google Sheets](http://sheets.google.com/){: target="_blank"} (it's free!). [Microsoft Excel](https://office.live.com/start/Excel.aspx){: target="_blank"} is another good option. If you only care about the calculator portion, either should work fine for this tutorial. For the part where I turn everything into a pretty dashboard, I'm only going to show the steps in Google Sheets.
 
 # Part 1 - Compute Impact of a Contribution #
 

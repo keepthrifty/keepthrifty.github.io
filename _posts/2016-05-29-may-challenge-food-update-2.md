@@ -67,20 +67,26 @@ How did your food spending turn out? Hopefully you're headed in the right direct
 Find me on [twitter][twitter-profile] and let me know how your challenges are going!
 
 [thrifty-link]: http://tools.keepthrifty.com
+{: target="_blank"}
 
 [may-challenge-post]: {% post_url 2016-05-01-may-challenge-food %}
 [mid-month-update]: {% post_url 2016-05-16-may-challenge-food-update-1 %}
 [final-results]: {% post_url 2016-05-29-may-challenge-food-update-2 %}
 
 [twitter-profile]: http://www.twitter.com/keepthrifty
+{: target="_blank"}
 
 [mr-and-mrs-pie]: http://www.planinvestescape.com/grass-fed-dry-aged-ribeye-steak/
+{: target="_blank"}
 
 [two-cup-house]: http://twocuphouse.com/2016/01/19/cutting-our-spending-in-2016/
+{: target="_blank"}
 
 [frugalwoods]: http://www.frugalwoods.com/2015/01/23/our-epically-frugal-lunch-recipe/
+{: target="_blank"}
 
 [frugalwoods-2]: http://www.frugalwoods.com/2014/07/14/breakfast-the-hidden-destroyer/
+{: target="_blank"}
 
 [may-2016-final-eating-out]: /img/posts/2016-05-29-may-challenge-food-update-2/may-2016-final-update-eating-out.png
 [may-2016-final-grocery]: /img/posts/2016-05-29-may-challenge-food-update-2//may-2016-final-update-grocery.png

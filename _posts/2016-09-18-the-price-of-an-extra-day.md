@@ -19,7 +19,7 @@ custom_js:
 
 How much money does an extra day of financial freedom cost? While it seems like a pretty cool philosophical question, there's actually a way you can calculate it to the penny. Get ready for the theory, the math, and the free calculators to give you a personalized quote on the cost of a day of freedom.
 
-Catching up on some podcasts recently, I was amped to see a [new episode of the Mad Fientist podcast][mad-fientist-podcast] with three amazing guests - [Mr. Money Mustache](http://www.mrmoneymustache.com), [Paula Pant from Afford Anything](http://www.affordanything.com), and [Doug Nordman from The Military Guide](http://the-military-guide.com/). This was an open Q&A session from Camp Mustache earlier this year.
+Catching up on some podcasts recently, I was amped to see a [new episode of the Mad Fientist podcast][mad-fientist-podcast]{: target="_blank"} with three amazing guests - [Mr. Money Mustache](http://www.mrmoneymustache.com){: target="_blank"}, [Paula Pant from Afford Anything](http://www.affordanything.com){: target="_blank"}, and [Doug Nordman from The Military Guide](http://the-military-guide.com/){: target="_blank"}. This was an open Q&A session from Camp Mustache earlier this year.
 
 It's not often you get to hear a lineup like this all at the same time, so I dove right in. Partway through, someone asked how the panelists kept motivated while working toward financial independence (FI) and Mr. Money Mustache (MMM) responded with this (cut down for readability):
 

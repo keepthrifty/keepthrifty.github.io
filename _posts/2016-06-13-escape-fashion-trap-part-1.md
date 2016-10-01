@@ -148,12 +148,16 @@ Let's take a look at how to escape the fashion money trap in [Part 2][part-2].
 [part-2]: {% post_url 2016-06-26-escape-fashion-trap-part-2 %}
 
 [bcg-paper]: http://www.baynote.com/infographic/millennials-love-retail-spending/
+{: target="_blank"}
 
 [atlantic-clothing-budget]: http://www.theatlantic.com/business/archive/2012/04/how-america-spends-money-100-years-in-the-life-of-the-family-budget/255475/
+{: target="_blank"}
 
 [twitter-link]: http://www.twitter.com/keepthrifty
+{: target="_blank"}
 
 [plenitude-link]: http://amzn.to/1UPCQ8C
+{: target="_blank"}
 
 [hammer-pants]: {{ page.image-folder }}/hammer-pants.jpg
 
@@ -161,11 +165,16 @@ Let's take a look at how to escape the fashion money trap in [Part 2][part-2].
 [clothing-lifecycle-bad]: {{ page.image-folder }}/clothes-cycle-bad.png
 
 [lightbulb]: http://i.giphy.com/L7DUwZJZc4agU.gif
+
 [lightbulb-source]: http://giphy.com/gifs/despicable-me-idea-gru-L7DUwZJZc4agU
+{: target="_blank"}
 
 [apple-faces]: {{ page.image-folder }}/happy-apple-sad-apple.jpg
 
 [baby-escape]: {{ page.image-folder }}/baby-escape.jpg
 
 [30-year-sweatshirt]: http://www.tomcridland.com/collections/the-30-year-sweatshirt
+{: target="_blank"}
+
 [patagonia-repairs]: http://www.patagonia.com/us/worn-wear-repairs
+{: target="_blank"}

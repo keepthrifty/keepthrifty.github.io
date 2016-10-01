@@ -65,8 +65,18 @@ I’ve got a huge list of features that I’m planning on adding as well as blog
 I’m really excited for 2016, especially for our family’s Thrifty journey. I hope you and yours have your own things to be equally excited about. Please share them!
 
 [focus-word]: http://www.inc.com/minda-zetlin/how-one-word-can-change-your-life-in-2016.html
+{: target="_blank"}
+
 [buy-nothing-1-year]: http://www.oneemptyshelf.com/year-of-buying-nothing-2/
+{: target="_blank"}
+
 [live-only-25k-year]: http://www.mrmoneymustache.com/2015/01/16/exposed-the-mmm-familys-2014-spending/
+{: target="_blank"}
+
 [millionaire-ten-bucks]: http://www.mrmoneymustache.com/2011/08/01/a-millionaire-is-made-ten-bucks-at-a-time/
+{: target="_blank"}
+
 [whysworks]: http://whysworks.com/
+{: target="_blank"}
+
 [keepthrifty]: http://www.keepthrifty.com

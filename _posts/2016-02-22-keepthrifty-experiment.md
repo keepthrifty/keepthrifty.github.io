@@ -64,6 +64,13 @@ Thrifty is free and has no ads — it runs completely on donations. If you�
 In addition, with each challenge, I’ll put out some helpful links to posts and articles that can help you set a goal and make a plan.
 
 [challenge-everything]: http://www.madfientist.com/budgets-are-sexy-interview/
+{: target="_blank"}
+
 [budgets-are-sexy]: http://www.budgetsaresexy.com/challenge-everything/
+{: target="_blank"}
+
 [tweet-your-plan]: https://twitter.com/intent/tweet?text=I%27m%20going%20to%20Keep%20Thrifty%20this%20month!%20@keepthrifty
+{: target="_blank"}
+
 [thrifty]: https://tools.keepthrifty.com/
+{: target="_blank"}

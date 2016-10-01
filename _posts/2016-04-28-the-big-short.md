@@ -136,8 +136,12 @@ _I encourage you to share them in the comments section below so others can learn
 [how-we-saved-on-our-mortgage]: {% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
 
 [khan-academy-mortgages]: https://www.khanacademy.org/economics-finance-domain/core-finance/housing/mortgages-tutorial
+{: target="_blank"}
+
 [bankrate-rates]: http://www.bankrate.com/finance/mortgage-rates-history-0112.aspx
+{: target="_blank"}
 
 [schmidt-picture]: {{ page.image-folder }}/the-big-short-schmidt.jpg
 
 [amazon-big-short]: http://amzn.to/25aPSsk
+{: target="_blank"}

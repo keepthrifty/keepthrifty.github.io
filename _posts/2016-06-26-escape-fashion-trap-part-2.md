@@ -62,7 +62,7 @@ Ask yourself what you'll think when you look back on pictures of yourself 10 yea
 
 ![Men in suits at a wedding wearing zubaz][zubaz-wedding]
 
-<div class="image-caption">What were these guys thinking? (<a href="https://awfulsports.files.wordpress.com/2010/12/zubaz5.png?w=500&h=346">source</a>)</div>
+<div class="image-caption">What were these guys thinking? (<a href="https://awfulsports.files.wordpress.com/2010/12/zubaz5.png?w=500&h=346" target="_blank">source</a>)</div>
 
 In addition, if it's not comfortable, don't buy it. There's no good reason to buy something that makes you uncomfortable; you're much more likely to get rid of it early.
 
@@ -127,16 +127,23 @@ Be comfortable in your own skin, no matter what you're wearing. If you can accom
 [part-1]: {% post_url 2016-06-13-escape-fashion-trap-part-1 %}
 
 [same-thing-to-work]: http://www.harpersbazaar.com/culture/features/a10441/why-i-wear-the-same-thing-to-work-everday/
+{: target="_blank"}
 
 [zubaz-wedding]: /img/posts/2016-06-26-escape-fashion-trap-part-2/zubaz-wedding.jpg
 
 [atlantic-clothing-budget]: http://www.theatlantic.com/business/archive/2012/04/how-america-spends-money-100-years-in-the-life-of-the-family-budget/255475/
+{: target="_blank"}
 
 [twitter-link]: http://www.twitter.com/keepthrifty
+{: target="_blank"}
 
 [plenitude-link]: http://amzn.to/1UPCQ8C
+{: target="_blank"}
 
 [baby-escape]: /img/posts/2016-06-13-escape-fashion-trap-part-1/baby-escape.jpg
 
 [30-year-tshirt]: http://www.tomcridland.com/collections/the-30-year-t-shirt-a-30-year-guarantee
+{: target="_blank"}
+
 [patagonia-repairs]: http://www.patagonia.com/us/worn-wear-repairs
+{: target="_blank"}

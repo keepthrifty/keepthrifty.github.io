@@ -36,11 +36,15 @@ _Read the rest and find the answer in [my post on GundoMoney.com][gundo-money-po
 [wristwatch]: /img/posts/2016-07-27-the-secret-to-success/checking-time.jpg
 
 [tweet-victory]: https://twitter.com/intent/tweet?text=I%20completed%20the%20%40keepthrifty%20challenge%20from%20this%20post%20on%20%40gundo_money%20-%20think%20you%27re%20good%20enough%20to%20join%20me%3F%20http%3A%2F%2Fgundomoney.com%2F2016%2F07%2F25%2Fthe-secret-to-success-is-wait-for-it%2F
+{: target="_blank"}
 
 [tweet-failure]: https://twitter.com/intent/tweet?text=I%20failed%20the%20%40keepthrifty%20challenge%20from%20this%20post%20on%20%40gundo_money%20-%20think%20you%20can%20do%20better%3Fhttp%3A%2F%2Fgundomoney.com%2F2016%2F07%2F25%2Fthe-secret-to-success-is-wait-for-it%2F
+{: target="_blank"}
 
 [gundo-money]: http://www.gundomoney.com
+{: target="_blank"}
 
 [gundo-money-post]: http://gundomoney.com/2016/07/25/the-secret-to-success-is-wait-for-it/
+{: target="_blank"}
 
 [spend-on-free]: {% post_url 2016-07-21-spending-on-free %}

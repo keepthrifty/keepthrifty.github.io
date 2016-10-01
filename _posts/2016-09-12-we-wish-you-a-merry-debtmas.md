@@ -21,7 +21,7 @@ One of my favorite features of my phone is that it frequently recommends article
 
 > The holiday season is fast approaching. You want to buy presents for friends and family. Maybe you’ll travel out of town. Secret Santa gifts, postage for holiday and even wrapping paper add up. If you haven’t saved enough, but don’t want to charge the seasonal expenses to your credit card, here’s a possible solution for you: a holiday loan.
 >
-> <cite>[GoBankingRates.com article](https://www.gobankingrates.com/personal-finance/tips-holiday-loan/)</cite>
+> <cite>[GoBankingRates.com article](https://www.gobankingrates.com/personal-finance/tips-holiday-loan/){: target="_blank"}</cite>
 
 The article goes on to explain not only the reasons that a holiday loan is a "great" option but also the ways to get the best rate on one.
 
@@ -115,7 +115,7 @@ You can easily get $50 for a TV and with that money get some gently-used toys an
 
 Games are a great way to spend quality time as a family, which is more what your kids _really_ need.
 
-For some good recommendations, check out this post at Brooklyn Bread listing their [Top Five Picks for Family Game Night](http://www.bklynbread.com/top-five-picks-family-game-night/).
+For some good recommendations, check out this post at Brooklyn Bread listing their [Top Five Picks for Family Game Night](http://www.bklynbread.com/top-five-picks-family-game-night/){: target="_blank"}.
 
 # Just Say No #
 
@@ -126,5 +126,5 @@ If you still feel like a holiday loan is the best option for you, shoot me an e-
 God bless and wishing you a happy, debt-free Christmas!
 
 <div class="side-note">
-  <p>* <a href="http://www.worldatlas.com/articles/how-much-will-the-average-american-spend-on-christmas.html">Source for 2015 spending data</a> (WorldAtlas)</p>
+  <p>* <a href="http://www.worldatlas.com/articles/how-much-will-the-average-american-spend-on-christmas.html" target="_blank">Source for 2015 spending data</a> (WorldAtlas)</p>
 </div>

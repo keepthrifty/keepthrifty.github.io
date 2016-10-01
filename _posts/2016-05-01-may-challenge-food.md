@@ -131,14 +131,21 @@ All in all, this isn't going to be easy, but I'm looking forward to the challeng
 Are you ready to join the challenge? Share your thoughts in the comments below or [tweet me][tweet-link] with your goals, plan, or progress!
 
 [money-crashers-link]: http://www.moneycrashers.com/save-money-eating-out-restaurants/
+{: target="_blank"}
+
 [the-simple-dollar-link]: http://www.thesimpledollar.com/15-strategies-for-saving-money-at-a-restaurant/
+{: target="_blank"}
 
 [thrifty-link]: http://tools.keepthrifty.com/
+{: target="_blank"}
+
 [tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20KeepThrifty%20Experiment!
+{: target="_blank"}
 
 [usda-cost]: http://www.cnpp.usda.gov/sites/default/files/CostofFoodFeb2016.pdf
+{: target="_blank"}
 
-[april-challenge-post]:
+[april-challenge-post]: {% post_url 2016-03-28-april-challenge-grocery %}
 [mid-month-update]: {% post_url 2016-04-17-april-challenge-grocery-update-1 %}
 [final-results-post]: {% post_url 2016-05-01-april-challenge-grocery-update-2 %}
 
@@ -147,9 +154,16 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [final-results]: {% post_url 2016-05-29-may-challenge-food-update-2 %}
 
 [papa-jimmys]: http://www.papajimmys.com
+{: target="_blank"}
+
 [chocolate-shoppe]: http://www.chocolateshoppeicecream.com/
+{: target="_blank"}
+
 [panera]: http://www.panera.com
+{: target="_blank"}
+
 [potbelly]: http://www.potbelly.com
+{: target="_blank"}
 
 [challenge-chart-grocery]: /img/posts/2016-05-01-april-challenge-grocery-update-2/april-2016-grocery-chart.png
 [challenge-chart-eating-out]: /img/posts/2016-05-01-may-challenge-food/april-2016-eating-out-chart.png

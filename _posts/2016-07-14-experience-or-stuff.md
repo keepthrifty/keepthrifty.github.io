@@ -112,15 +112,24 @@ It pays to hear different viewpoints and understand how different people live, b
 
 
 [thrifty-link]: http://tools.keepthrifty.com
+{: target="_blank"}
+
 [roadtrip-post]: {% post_url 2016-07-06-roadtrip-recap %}
 
 [gruen-transfer]: https://m.signalvnoise.com/the-gruen-transfer-getting-your-business-noticed-6b0c526bac5d#.h5lvxsj7i
+{: target="_blank"}
+
 [signalvnoise]: https://m.signalvnoise.com
+{: target="_blank"}
 
 [tweet-quote-1]: https://twitter.com/intent/tweet?text=Use%20your%20money%20for%20whatever%20brings%20you%20sustained%20joy%20and%20helps%20you%20be%20your%20best%20self%20https%3A%2F%2Fwww.keepthrifty.com%2F2016%2F07%2F14%2Fexperience-or-stuff.html%20via%20%40keepthrifty
+{: target="_blank"}
 
 [tweet-quote-2]: https://twitter.com/intent/tweet?text=Don%27t%20let%20someone%20else%20tell%20you%20what%20to%20spend%20on%20-%20put%20your%20money%20where%20your%20heart%20is%20https%3A%2F%2Fwww.keepthrifty.com%2F2016%2F07%2F14%2Fexperience-or-stuff.html%20via%20%40keepthrifty
+{: target="_blank"}
 
 [research-paper-pdf]: http://psych.colorado.edu/~vanboven/research/publications/vb_gilo_2003.pdf
+{: target="_blank"}
 
 [luxury-fever]: http://amzn.to/29SXEjn
+{: target="_blank"}
