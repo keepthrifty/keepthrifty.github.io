@@ -9,6 +9,7 @@ image-folder: /img/posts/2016-08-28-the-more-of-less
 subscribe-line: Want future reviews and posts in your inbox?
 social-line: Share it with someone important to you
 related-posts: [
+  "/2016/10/02/it-is-only-money-review",
   "/2016/06/18/the-simple-path-to-wealth-review",
   "/2016/01/20/living-with-less",
   "/2016/06/13/escape-fashion-trap-part-1",
