@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How we saved $160,000 on our mortgage
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-04-10-how-we-saved-on-our-mortgage/old-bank.jpg
 image-folder: /img/posts/2016-04-10-how-we-saved-on-our-mortgage

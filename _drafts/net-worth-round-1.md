@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Net Worth"
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-08-12-first-seven-jobs/parking-lot.jpg
 image-folder: /img/posts/one-year-of-tracking

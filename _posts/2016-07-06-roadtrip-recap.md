@@ -2,7 +2,7 @@
 layout: post
 title: "Road Trip Recap - It Wasn't Easy But It Was Worth It"
 date:   2016-07-06 05:00:00 -0500
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-07-06-roadtrip-recap/roadtrip-map.jpg
 image-folder: /img/posts/2016-07-06-roadtrip-recap

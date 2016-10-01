@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review: The More of Less by Joshua Becker"
 share-hashtag: "TheMoreOfLess"
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-08-28-the-more-of-less/the-more-of-less.jpg
 image-folder: /img/posts/2016-08-28-the-more-of-less

@@ -2,7 +2,7 @@
 layout: post
 title: "The Secret to Success is... wait for it..."
 date:   2016-07-27 05:00:00 -0500
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-07-27-the-secret-to-success/success-secret.jpg
 nodisqus: true

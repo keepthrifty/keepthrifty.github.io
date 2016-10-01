@@ -2,7 +2,7 @@
 layout: post
 title:  May 2016 Challenge (Food) - Final Results
 date:   2016-05-29
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-05-29-may-challenge-food-update-2/grilling-out.jpg
 redirect_from:

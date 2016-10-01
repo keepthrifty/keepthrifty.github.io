@@ -2,7 +2,7 @@
 layout: post
 title: "Our Path to Minimalism"
 date: 2016-09-14
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-09-19-cut-the-cords/cut-cords.jpg
 image-folder: /img/posts/2016-09-19-cut-the-cords

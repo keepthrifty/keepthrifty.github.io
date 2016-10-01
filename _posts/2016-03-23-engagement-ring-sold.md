@@ -2,7 +2,7 @@
 layout: post
 title: After 7 years of marriage, my wife sold her engagement ring
 date:   2016-03-23 15:30:00 -0500
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-03-23-engagement-ring-sold/wedding-carriage.jpg
 

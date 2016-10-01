@@ -2,7 +2,7 @@
 layout: post
 title:  May 2016 Challenge (Food) - Mid-month Update
 date:   2016-05-16
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-05-16-may-challenge-food-update-1/pasta.jpg
 image-folder: /img/posts/2016-05-16-may-challenge-food-update-1

@@ -2,7 +2,7 @@
 layout: post
 title: What We All (Hopefully) Learned from 2007 via The Big Short
 date:   2016-04-28 00:00:01 -0500
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-04-28-the-big-short/the-big-short.jpg
 image-folder: /img/posts/2016-04-28-the-big-short
@@ -68,7 +68,7 @@ Most people spend more time researching what they want in a new TV than consider
 
 If you're going to make a $200,000+ purchase (or more once you figure in interest), shouldn't you take the time to figure out what that signature on the loan means?
 
-You can see my thoughts on [the basic math of mortgages][mortgage-math-101] and [how understanding mortgages can save you tons][how-we-saved-on-our-mortgage] here on KeepThrifty.
+You can see my thoughts on [the basic math of mortgages][mortgage-math-101] and [how understanding mortgages can save you tons][how-we-saved-on-our-mortgage] here on Keep Thrifty.
 
 I also highly recommend [Khan Academy's videos on mortgages][khan-academy-mortgages] for a great walkthrough.
 

@@ -2,7 +2,7 @@
 layout: post
 title: When to Prepay Your Mortgage Instead of Investing
 date:   2016-06-05 19:30:00 -0500
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-06-05-prepay-vs-invest/cheers.jpg
 redirect_from:

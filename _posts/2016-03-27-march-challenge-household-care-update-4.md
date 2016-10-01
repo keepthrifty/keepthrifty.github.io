@@ -2,7 +2,7 @@
 layout: post
 title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 4 Results"
 date:   2016-03-27
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-03-27-march-challenge-household-care-update-4/makeup-brush.jpg
 redirect_from:

@@ -6,14 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: KeepThrifty
+title: Keep Thrifty
 email: chris@keepthrifty.com
 description: > # this means to ignore newlines until "baseurl:"
-  Thoughts, tools, and lessons learned to help you reduce your spending,
-  achieve financial freedom, and live better
+  Personal finance blogger pursuing complete debt freedom through frugality, minimalism, and a whole bunch of awesome spreadsheets
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.keepthrifty.com" # the base hostname & protocol for your site
 twitter_username: keepthrifty
+twitter:
+  username: keepthrifty
 
 permalink: /:year/:month/:day/:title/
 
@@ -35,4 +36,5 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-seo-tag
   - jemoji

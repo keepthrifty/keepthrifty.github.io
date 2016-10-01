@@ -2,7 +2,7 @@
 layout: post
 title:  "How kicking my soda habit is fueling my retirement"
 date:   2016-03-14 12:00:00 -0600
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-03-14-soda-for-retirement/soda-cans.jpg
 image-folder: /img/posts/2016-03-14-soda-for-retirement

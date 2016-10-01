@@ -2,7 +2,7 @@
 layout: post
 title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 2 Results"
 date:   2016-03-13
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-03-13-march-challenge-household-care-update-2/jars.jpg
 image-folder: /img/posts/2016-03-13-march-challenge-household-care-update-2

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Real Root of All Evil"
 date:   2016-01-30 06:00:00 -0600
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-01-30-real-root-of-all-evil/tree.jpg
 related-posts: [

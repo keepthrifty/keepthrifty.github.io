@@ -2,7 +2,7 @@
 layout: post
 title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Final Results"
 date:   2016-04-03
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-04-03-march-challenge-household-care-update-5/kitchen-sink.jpg
 redirect_from:

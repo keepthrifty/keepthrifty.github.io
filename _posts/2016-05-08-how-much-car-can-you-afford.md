@@ -2,7 +2,7 @@
 layout: post
 title: How Much Car Can You Afford?
 date:   2016-05-08 20:15:00 -0500
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-05-08-how-much-car-can-you-afford/fancy-car.jpg
 image-folder: /img/posts/2016-05-08-how-much-car-can-you-afford

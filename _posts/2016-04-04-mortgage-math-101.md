@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mortgage Math 101
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-04-04-mortgage-math-101/calculator.jpg
 image-folder: /img/posts/2016-04-04-mortgage-math-101

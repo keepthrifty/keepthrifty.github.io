@@ -2,7 +2,7 @@
 layout: post
 title:  April 2016 Challenge (Grocery) - Final Results
 date:   2016-05-01
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-05-01-april-challenge-grocery-update-2/strawberries.jpg
 redirect_from:

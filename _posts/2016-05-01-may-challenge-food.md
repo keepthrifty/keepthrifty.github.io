@@ -3,7 +3,7 @@ layout: post
 title:  "KeepThrifty Experiment May 2016 — Challenge: Food"
 date:   2016-05-01
 timeline: May 2016
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-05-01-may-challenge-food/happy-pancake.jpg
 redirect_from:
@@ -139,7 +139,7 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [thrifty-link]: http://tools.keepthrifty.com/
 {: target="_blank"}
 
-[tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20KeepThrifty%20Experiment!
+[tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20Keep%20Thrifty%20Experiment!
 {: target="_blank"}
 
 [usda-cost]: http://www.cnpp.usda.gov/sites/default/files/CostofFoodFeb2016.pdf

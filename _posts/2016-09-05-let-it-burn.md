@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When it's Best to Let It Burn"
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-09-05-let-it-burn/forest-fire.jpg
 image-folder: /img/posts/2016-09-05-let-it-burn

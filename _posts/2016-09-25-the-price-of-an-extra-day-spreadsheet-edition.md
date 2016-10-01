@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guide: Create a Spreadsheet Dashboard for the Price of a Day of Retirement"
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 date: 2016-09-25
 image: /img/posts/2016-09-25-the-price-of-an-extra-day-spreadsheet-edition/s-51.jpg

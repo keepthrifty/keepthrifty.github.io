@@ -16,7 +16,7 @@ permalink: /:year/:month/:day/:title.html
 tags: [guest post, inspiration, minimalism]
 ---
 
-_We've got a first this week for KeepThrifty - our first guest post! This one comes to you from Elsie Brown from [GundoMoney.com][gundo-money]_
+_We've got a first this week for Keep Thrifty - our first guest post! This one comes to you from Elsie Brown from [GundoMoney.com][gundo-money]_
 
 _Elsie is a blogger, student, and all around cheapskate who writes about how we can all live better on less._
 

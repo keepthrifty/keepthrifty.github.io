@@ -2,7 +2,7 @@
 layout: post
 title: "15 Lessons from my First Seven Jobs"
 date:   2016-08-12 16:00:00 -0500
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-08-12-first-seven-jobs/parking-lot.jpg
 image-folder: /img/posts/2016-08-12-first-seven-jobs

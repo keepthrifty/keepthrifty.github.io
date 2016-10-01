@@ -3,7 +3,7 @@ layout: post
 title:  "KeepThrifty Experiment March 2016 — Challenge: Household Care"
 date:   2016-02-28
 timeline: March 2016
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image:  /img/posts/2016-02-28-march-challenge-household-care/laundromat-jump.jpg
 image-folder: /img/posts/2016-02-28-march-challenge-household-care
@@ -36,7 +36,7 @@ affiliate: true
 
 Thrifters,
 
-I’m happy to let you know that the first [KeepThrifty Experiment][keepthrifty-experiment] challenge is ready. For March 2016, your goal is to attack your spending in Household Care items.
+I’m happy to let you know that the first [Keep Thrifty Experiment][keepthrifty-experiment] challenge is ready. For March 2016, your goal is to attack your spending in Household Care items.
 
 Household care includes: Paper towels, toilet paper, cleaning products, dinnerware; basically anything needed to keep your house “running” outside of food, electricity, etc. If that’s not clear enough, I’ve got a big list of the items I’ve put in this category for myself later in this post.
 
@@ -157,7 +157,7 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [thrifty]: http://tools.keepthrifty.com/
 {: target="_blank"}
 
-[tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20KeepThrifty%20Experiment!
+[tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20Keep%20Thrifty%20Experiment!
 {: target="_blank"}
 
 [household-care-chart]: {{ page.image-folder }}/household-care-feb.png

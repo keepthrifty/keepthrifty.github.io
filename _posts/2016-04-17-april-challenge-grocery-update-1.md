@@ -2,7 +2,7 @@
 layout: post
 title:  April 2016 Challenge (Grocery) - Mid-month Results
 date:   2016-04-17
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-04-17-april-challenge-grocery-update-1/box-of-food.jpg
 redirect_from:

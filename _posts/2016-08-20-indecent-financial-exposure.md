@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Indecent (Financial) Exposure: Every Penny We Spent in the Last 12 Months"
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-08-20-indecent-financial-exposure/indecent-financial-exposure.jpg
 image-folder: /img/posts/2016-08-20-indecent-financial-exposure

@@ -2,7 +2,7 @@
 layout: post
 title: "Escaping the Fashion Money Trap (Part 2)"
 date:   2016-06-26 05:00:00 -0500
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-06-13-escape-fashion-trap-part-1/fancy-suit.jpg
 image-folder: /img/posts/2016-06-26-escape-fashion-trap-part-2

@@ -2,7 +2,7 @@
 layout: post
 title:  "The KeepThrifty Experiment - Keep Thrifty, Live Better"
 date:   2016-02-22 06:00:00 -0600
-author: Chris
+author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-02-22-keepthrifty-experiment/arches_panorama.jpg
 related-posts: [
@@ -36,7 +36,7 @@ We’re at our best when we’re working together to accomplish something. It wa
 
 We needed a goal — something we could work on together and something that we could hit, but that wouldn’t be too easy. It needed to be something that would march us in the direction of our goal but we had done the numbers and knew that no single action was going to magically get us there in the next year.
 
-We debated and deliberated and decided. We’re going to challenge ourselves to be more sustainably thrifty each month than the last. We’re calling it the KeepThrifty Experiment and it’s something you can join in on too if you’re looking for something to help move you toward financial freedom.
+We debated and deliberated and decided. We’re going to challenge ourselves to be more sustainably thrifty each month than the last. We’re calling it the Keep Thrifty Experiment and it’s something you can join in on too if you’re looking for something to help move you toward financial freedom.
 
 ***
 
