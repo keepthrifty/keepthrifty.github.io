@@ -26,6 +26,7 @@ main.page {
   background-color: white;
   padding: 2rem;
   max-width: 54rem;
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
 }
 
 .post__title {
@@ -389,6 +390,7 @@ nav.navbar {
   justify-content: flex-end;
   align-content: stretch;
   background-color: white;
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
 }
 
 .navbar-list {
@@ -467,6 +469,7 @@ nav.navbar {
       opacity: 0.7;
     }
   }
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
 }
 
 .footer-row {
