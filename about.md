@@ -1,28 +1,43 @@
 ---
 layout: page
-title: About
+title: Welcome!
 permalink: /about/
 ---
 
-## A single-income family on the path to financial independence ##
+If you're looking for a blog about personal finance, spreadsheets, frugality, minimalism, faith, and living a purposeful life with intention, you've come to the right place. Welcome to Keep Thrifty!
 
-<img src="/img/us.png" class="page-image left">
+I'm Chris - a husband, proud father of 3, and complete personal finance nerd.
 
-Hi! I'm Chris and it's great to have you here. I'm a proud husband and father working on achieving financial independence for our family despite living on only a single income.
+I'm on a mission to get our family 100% debt-free (including our mortgage) by 2020. I started this blog as a way to share what I'm learning along the way so you can replicate my successes and avoid my mistakes.
 
-We've been working at it seriously for about two years now and have made some great progress. We're down to no consumer debt (just our mortgage) and we're on track to pay that off in the next 4 or so years.
+## Featured on ##
 
-KeepThrifty is where I can share what we've learned about finance and provide insight into what we're doing to get to financial freedom so others can do the same.
+__TK__
 
-In addition, KeepThrifty is a place where I can pursue another of my passions - software development. I'll be bringing you tools and calculators to help you better understand and visualize your finances.
+## Achieve 100% debt freedom by 2020 ##
 
-The big kahuna here is [Thrifty][thrifty-link] - the expense tracking tool I created and have been using to figure out where we spend our money so we can spend less and live better.
+__TK__
 
-You can find me here or on [Twitter][twitter-link].
+Money isn't the end goal; it's just a tool that we can use to help us get where we want to be.
 
-Keep in touch and as always, Keep Thrifty!
+## Travel to all 50 states in the United States with our kids before they turn 18 ##
 
--Chris
+Right now, we are on-track to get there by the time our oldest is 10! Every trip we take brings us closer as a family, builds memories we'll carry for a lifetime, and challenges us as a family to grow and mature as we encounter new situations.
 
-[thrifty-link]: http://tools.keepthrifty.com
-[twitter-link]: http://www.twitter.com/keepthrifty
+Our preferred method is [road tripping]({% post_url 2016-07-06-roadtrip-recap %}), but we're excited to do portions by trains and planes as well.
+
+## other goals? ##
+
+__TK__
+
+## Our Approach ##
+
+__TK__
+
+## Posts to Get You Started ##
+
+__TK__
+
+## Contact me ##
+
+__TK__
