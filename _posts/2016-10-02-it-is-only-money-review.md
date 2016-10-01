@@ -22,6 +22,8 @@ related-posts: [
 tags: [book review, faith]
 
 affiliate: true
+
+date: 2016-09-30
 ---
 
 Most personal finance resources around (blogs, books, etc) do a great job of telling you what to do with your money. _Rent! Buy! Sell! Hold! Earn! Save! Spend!_
