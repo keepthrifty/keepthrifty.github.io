@@ -70,13 +70,9 @@ Beyond this, the book does a good job giving some sound guidelines for good pers
 
 Cara puts them in a way that explains not just what they are, but what experiences and influences in our lives have made it tougher for us to actually follow through.
 
-<<<<<<< HEAD
-This book tackles marketing, consumerism, investment, and charity. Beyond simply covering these in the book, Cara is obviously doing these on her own as she's stated in an appendix that 10% of revenues from sale of her book go to a charitable organization ([Development and Peace](https://www.devp.org/en){: target="_blank"}).
-=======
 This book tackles marketing, consumerism, investment, and charity; giving you a solid foundation on which to build your own belief set.
 
-Beyond simply covering these in the book, Cara puts her money where her mouth is: 10% of revenues from sale of her book go to a charitable organization ([Development and Peace](https://www.devp.org/en)). Pretty cool :)
->>>>>>> master
+Beyond simply covering these in the book, Cara puts her money where her mouth is: 10% of revenues from sale of her book go to a charitable organization ([Development and Peace](https://www.devp.org/en){: target="_blank"}). Pretty cool :)
 
 # Summary #
 
