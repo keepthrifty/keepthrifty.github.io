@@ -28,13 +28,13 @@ Most personal finance resources around (blogs, books, etc) do a great job of tel
 
 For as much time as we spend talking about what to do with money, I think we'd all benefit from taking a step back every once in a while and having a discussion about what money really is, what it means to us, and how that meaning shapes our behavior.
 
-[It is Only Money and It Grows on Trees][it-is-only-money-amazon] by Cara MacMillan does exactly this. With a super-readable narrative, Cara explores how different cultures, religions, and personal backgrounds shape peoples' view of money and how those views can lead people toward or away from happy, productive lives.
+[It is Only Money and It Grows on Trees][it-is-only-money-amazon] by Cara MacMillan does exactly this. With a super-readable narrative, Cara explores how different cultures, religions, and personal backgrounds shape peoples' views of money and how those views can lead people toward or away from happy, productive lives.
 
 I was fortunate enough to get this book by happenstance; a fellow blogger (Elsie at [Gundo Money](http://www.gundomoney.com)) had gotten a copy and mailed it to me as she thought I might enjoy the analysis.
 
-There are about 100 pages of core content and then a really useful workbook section at the end that guides you through discovering your own perception of money.
+There are about 100 pages of core content as well as a really useful workbook section at the end that guides you through discovering and exploring your own perception of money.
 
-My advice if you get the book is to do the workbook along the way - don't save it for the end like I did or you'll probably have to go back and re-read some portions.
+My advice is to do the workbook along the way - don't save it for the end like I did or you'll probably have to go back and re-read some portions.
 
 {% assign tweet-text = "This is an easy read and well worth the time for the introspection you'll go through as you read it" %}
 
@@ -44,7 +44,7 @@ My advice if you get the book is to do the workbook along the way - don't save i
 
 > Hindus do not see money as evil. Interestingly, it is seen as a duty in the middle stage of life to want money, to pray for money, and to earn lots of money.
 
-The book is set in a fictional classroom with a professor meeting with her students to talk about money. Cara skilfully uses characters with a diverse set of backgrounds to help portray the different cultural and religious views of money not just in theoretical terms, but with "real people".
+The book is set in a fictional classroom with a professor meeting with her students to talk about money. Cara skillfully uses characters with a diverse set of backgrounds to help portray the different cultural and religious views of money not just in theoretical terms, but with "real people".
 
 One thing I really appreciated was how the book highlighted each culture or religion's view of money in a way that focused on the positive learning that could be gleaned from that mindset.
 
@@ -68,13 +68,15 @@ If you're not strong on the technical details of money, this book could be a gre
 
 Beyond this, the book does a good job giving some sound guidelines for good personal money practices. These are the things we all know we should do, but may not find ourselves doing on a daily basis.
 
-Cara puts them in a way that explains not just what they are, but why we should do them, and what experiences and influences in our lives have made it tougher for us to do the right thing in the past.
+Cara puts them in a way that explains not just what they are, but what experiences and influences in our lives have made it tougher for us to actually follow through.
 
-This book tackles marketing, consumerism, investment, and charity. Beyond simply covering these in the book, Cara is obviously doing these on her own as she's stated in an appendix that 10% of revenues from sale of her book go to a charitable organization ([Development and Peace](https://www.devp.org/en)).
+This book tackles marketing, consumerism, investment, and charity; giving you a solid foundation on which to build your own belief set.
+
+Beyond simply covering these in the book, Cara puts her money where her mouth is: 10% of revenues from sale of her book go to a charitable organization ([Development and Peace](https://www.devp.org/en)). Pretty cool :)
 
 # Summary #
 
-Overall, [It is Only Money and It Grows on Trees][it-is-only-money-amazon] is a great resource to force you to pause and reflect on where your views about money come from.
+Overall, [It is Only Money and It Grows on Trees][it-is-only-money-amazon] is a great resource to help you to pause and reflect on where your views about money come from and what you can do to approach money in a healthier way.
 
 With that new knowledge and the lessons you'll learn about the other views out there, you'll find yourself in a better position to make sound choices about how to handle your money and build a better future for yourself and those around you.
 
