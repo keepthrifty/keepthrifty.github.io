@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Keep Thrifty
 ---
 
@@ -10,30 +10,38 @@ title: Keep Thrifty
   </a>
 </h1>
 
-{% for post in paginator.posts %}
-  <div class="post-card col s12 m12 l10 offset-l1">
-    <div class="card">
-      <a href="{{ post.url | prepend: site.baseurl }}">
-        <div class="card-image">
-          <img src="{{ post.image }}" class="post-index">
-          <span class="card-title">
-            {{ post.title }}<br>
-            <span class="card-subtitle">{{ post.subtitle }}</span>
-          </span>
+<div class="posts">
+  <h3 class="meta-header">
+    Blog Posts
+  </h3>
+  <div class="mini-post-list">
+    {% for post in paginator.posts %}
+      {% if post == paginator.posts.first %}
         </div>
-        <div class="card-date">
-          <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+        <div class="featured-post">
+          <div class="image"><img class="featured-post__image" src="{{ post.image }}" alt="" /></div>
+          <div class="featured-post__caption">
+            <h5>{{ post.date | date: "%B %d, %Y" }}</h5>
+            <h3>{{ post.title }}</h3>
+            <p>{{ post.excerpt }}</p>
+          </div>
+          <a href="{{ post.url }}" class="featured-post__link"></a>
         </div>
-        <div class="card-read-btn">
-          <i class="large circle right fa fa-arrow-right"></i>
+        <div class="mini-post-list">
+      {% else %}
+      <div class="mini-post">
+        <div class="image"><img class="mini-post__image" src="{{ post.image | replace: '.', '-mini.' }}" alt="" /></div>
+        <div class="mini-post__caption">
+          <h5>{{ post.date | date: "%B %d, %Y" }}</h5>
+          <h3>{{ post.title }}</h3>
         </div>
-      </a>
-      <div class="card-content">
-        <p>{{ post.excerpt | strip_html }}</p>
+        <a href="{{ post.url }}" class="mini-post__link"></a>
       </div>
-    </div>
+      {% endif %}
+    {% endfor %}
   </div>
-{% endfor %}
+</div>
+
 
 <div class="col s12">
 {% include pagination_links.html %}

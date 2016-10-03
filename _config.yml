@@ -24,7 +24,7 @@ timezone: America/Chicago
 markdown: kramdown
 
 # Pagination settings
-paginate: 5
+paginate: 7
 paginate_path: "/pg:num/"
 
 
