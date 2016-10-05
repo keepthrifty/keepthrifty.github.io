@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How kicking my soda habit is fueling my retirement"
+description: "I used to love Diet Mountain Dew. By kicking that habit I'm saving a ton of money - here's how"
 date:   2016-03-14 12:00:00 -0600
 author: keepthrifty
 author_email: chris@keepthrifty.com

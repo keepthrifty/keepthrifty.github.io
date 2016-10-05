@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What I Learned from Living with Less"
+description: "We've drastically changed our lifestyle in the last few years and have learned a ton from going more minimalist, living with less"
 date:   2016-01-20 06:00:00 -0600
 author: keepthrifty
 author_email: chris@keepthrifty.com

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The KeepThrifty Experiment - Keep Thrifty, Live Better"
+description: "Starting the Keep Thrifty Challenge - how can you spend less and live better?"
 date:   2016-02-22 06:00:00 -0600
 author: keepthrifty
 author_email: chris@keepthrifty.com

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Escaping the Fashion Money Trap (Part 2)"
+description: "Don't get caught in the fast fashion trap; break out and save money and your sanity"
 date:   2016-06-26 05:00:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com

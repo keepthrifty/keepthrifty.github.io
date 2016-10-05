@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "We Wish You a Merry Debt-mas"
+description: "Holiday loans are a terrible idea; here are all the reasons why"
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-09-12-holiday-loans/santa-dog.jpg

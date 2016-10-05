@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Road Trip Recap - It Wasn't Easy But It Was Worth It"
+description: "Nine states in twelve days covering 4600 miles; we're exhausted but man it was worth it"
 date:   2016-07-06 05:00:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com

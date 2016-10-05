@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When it's Best to Let It Burn"
+description: "Sometimes you're better off starting over on a piece of your life"
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-09-05-let-it-burn/forest-fire.jpg

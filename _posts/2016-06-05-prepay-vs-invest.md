@@ -1,6 +1,7 @@
 ---
 layout: post
 title: When to Prepay Your Mortgage Instead of Investing
+description: "Common wisdom says you should probably invest instead of prepaying your mortgage if your rate is low; but history shows there's a chance that prepaying is the better option"
 date:   2016-06-05 19:30:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dominate your Debt with Spreadsheet Fu"
+description: "Spreadsheets are awesome and you can be too. Learn how to understand (and dominate) your debt using spreadsheets."
 author: keepthrifty
 author_email: chris@keepthrifty.com
 date:   2016-08-05 00:30:00 -0500

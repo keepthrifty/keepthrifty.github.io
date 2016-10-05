@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Book Review: The Simple Path to Wealth by JL Collins"
+description: "Book review for 'The Simple Path to Wealth' by JL Collins, an awesome book on investing, personal finance, and building a better life"
 date:   2016-06-18 05:00:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to Trick Yourself into Paying Off Your 30-year Mortgage in 12.4 years and Saving $68,000"
+description: "By avoiding lifestyle inflation, you can pay off your mortgage way early and save a ton of money"
 date:   2016-01-15 06:00:00 -0600
 author: keepthrifty
 author_email: chris@keepthrifty.com

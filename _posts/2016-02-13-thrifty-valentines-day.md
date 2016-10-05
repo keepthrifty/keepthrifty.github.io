@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to have a Thrifty Valentine's Day"
+description: "Here's how we had an awesome Valentine's day for less than $100"
 date:   2016-02-13 06:00:00 -0600
 author: keepthrifty
 author_email: chris@keepthrifty.com
@@ -25,7 +26,7 @@ Here’s what I did differently this year that made for a great day with my wife
 
 I wanted this to be a good time for us to focus on each other, so I talked to my mother-in-law a few weeks ago and set up a sleepover for our kids so my wife and I could have uninterrupted focus-time.
 
-Family babysiting = free and the kids love going to their grandparents’ house — it’s a win for everyone involved.
+Family babysitting = free and the kids love going to their grandparents’ house — it’s a win for everyone involved.
 
 # Focus on the Spirit over the Letter #
 

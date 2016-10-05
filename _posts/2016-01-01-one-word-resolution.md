@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My One-Word Resolution for 2016 - Thrifty"
+description: "A new year, a new one-word resolution: Thrifty. Here's what that means to us."
 date:   2016-01-01 06:00:00 -0600
 author: keepthrifty
 author_email: chris@keepthrifty.com

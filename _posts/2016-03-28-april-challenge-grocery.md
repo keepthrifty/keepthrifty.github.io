@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "KeepThrifty Experiment April 2016 — Challenge: Grocery"
+description: "Keep Thrifty challenge for April 2016: spend less on groceries"
 date:   2016-03-28
 timeline: April 2016
 author: keepthrifty

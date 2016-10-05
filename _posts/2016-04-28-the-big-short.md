@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What We All (Hopefully) Learned from 2007 via The Big Short
+description: "'The Big Short' taught us a lot about money and how people behave based on their incentives. Did we actually learn from what happened in 2007?"
 date:   2016-04-28 00:00:01 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com

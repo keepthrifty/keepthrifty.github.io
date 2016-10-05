@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  KeepThrifty Challenge - Entertainment (June 2016)
+description: "Keep Thrifty challenge for June 2016: spend less on entertainment"
 date:   2016-05-29
 timeline: June 2016
 author: keepthrifty

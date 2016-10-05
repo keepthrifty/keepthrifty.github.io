@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Book Review: The More of Less by Joshua Becker"
+description: "Book review of 'The More of Less' by Joshua Becker - an amazing book to introduce you to minimalism"
 share-hashtag: "TheMoreOfLess"
 author: keepthrifty
 author_email: chris@keepthrifty.com

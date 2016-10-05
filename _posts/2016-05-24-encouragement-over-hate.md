@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 7 Quotes to Help Keep the Course
+description: "Amazing quotes to help silence the haters when you're pursuing your dreams"
 date:   2016-05-24 00:30:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com

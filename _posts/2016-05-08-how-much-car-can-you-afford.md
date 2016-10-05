@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Much Car Can You Afford?
+description: "Wondering how much car you can afford? Maybe you're asking the wrong question"
 date:   2016-05-08 20:15:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com

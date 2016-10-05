@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 1 Results"
+description: "Keep Thrifty challenge for March 2016: spend less on household items; see our week 1 results"
 date:   2016-03-06
 author: keepthrifty
 author_email: chris@keepthrifty.com

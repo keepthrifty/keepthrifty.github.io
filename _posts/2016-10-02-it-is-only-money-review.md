@@ -5,6 +5,7 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 
 title: "Book Review: It Is Only Money and It Grows on Trees by Cara MacMillan"
+description: "Most personal finance resources around (blogs, books, etc) do a great job of telling you what to do with your money. Rent! Buy! Sell! Hold! Earn! Save! Spend!"
 
 image: /img/posts/2016-10-02-it-is-only-money-review/it-is-only-money-book-cover.jpg
 image-folder: /img/posts/2016-10-02-it-is-only-money-review

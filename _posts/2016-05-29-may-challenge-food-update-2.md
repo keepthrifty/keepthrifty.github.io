@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  May 2016 Challenge (Food) - Final Results
+description: "Keep Thrifty challenge for May 2016: spend less on food; see our final results"
 date:   2016-05-29
 author: keepthrifty
 author_email: chris@keepthrifty.com

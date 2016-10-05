@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Secret to Success is... wait for it..."
+description: "Patience is a virtue and it may very well be the secret to success"
 date:   2016-07-27 05:00:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  May 2016 Challenge (Food) - Mid-month Update
+description: "Keep Thrifty challenge for May 2016: spend less on food; see our mid-month results"
 date:   2016-05-16
 author: keepthrifty
 author_email: chris@keepthrifty.com

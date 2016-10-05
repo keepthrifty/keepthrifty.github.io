@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "KeepThrifty Experiment March 2016 — Challenge: Household Care"
+description: "Keep Thrifty challenge for March 2016: spend less on household items"
 date:   2016-02-28
 timeline: March 2016
 author: keepthrifty

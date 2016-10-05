@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How we saved $160,000 on our mortgage
+description: "Learn the strategies we used to save thousands of dollars on our mortgage and what we're doing to save even more"
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-04-10-how-we-saved-on-our-mortgage/old-bank.jpg

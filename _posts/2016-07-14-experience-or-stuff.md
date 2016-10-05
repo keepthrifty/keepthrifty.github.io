@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Experience is Better Than Stuff - Except When It's Not"
+description: "Bloggers often extol the benefits of experiences over stuff but sometimes stuff is better"
 date:   2016-07-14 05:00:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com
