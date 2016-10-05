@@ -14,6 +14,7 @@ related-posts: [
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]
 featured: true
+rockstar: true
 affiliate: true
 ---
 

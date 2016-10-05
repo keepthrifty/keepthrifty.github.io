@@ -274,8 +274,9 @@ main.page {
   }
 }
 
-.mini-post__image{
+img.mini-post__image{
   max-width: 100%;
+  margin: 0;
   vertical-align: top;
   position: relative;
 }
@@ -383,7 +384,7 @@ main.page {
   text-align: center;
 }
 
-.form--subscribe {
+form {
   font-size: 1.2rem;
   font-weight: 300;
   input {
@@ -391,9 +392,14 @@ main.page {
     margin: 0.5rem auto;
     padding: 0.4rem;
   }
-}
-
-form {
+  textarea {
+    display: block;
+    margin: 0.5rem auto;
+    padding: 0.4rem;
+  }
+  input, textarea {
+    border: 1px solid $meta-color;
+  }
   button {
     background-color: $meta-color;
     color: white;
@@ -405,6 +411,14 @@ form {
     &:hover {
       opacity: 0.7;
     }
+  }
+}
+
+.form--contact {
+  input, textarea, button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
