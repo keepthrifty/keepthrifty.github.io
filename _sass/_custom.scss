@@ -29,6 +29,19 @@ main.page {
   box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
 }
 
+.post-cards {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: stretch;
+}
+
+.post--summary-card {
+  margin-bottom: 4rem;
+  max-width: 27rem;
+}
+
 .post__title {
   font-size: 2.5rem;
   text-align: center;
@@ -45,6 +58,18 @@ main.page {
 }
 
 .post__title--subtitle {
+  font-size: 2.0rem;
+  color: $meta-color;
+  margin: 0;
+}
+
+.post-card__title--main {
+  font-size: 1.5rem;
+  color: black;
+  margin: 0 0 0.5rem 0;
+  font-weight: 300;
+}
+.post-card__title--subtitle {
   font-size: 2.0rem;
   color: $meta-color;
   margin: 0;
@@ -282,60 +307,6 @@ main.page {
   z-index: 1;
 }
 
-.featured-post {
-  position: relative;
-  margin: 1rem 2%;
-  width: 100%;
-  text-align: center;
-  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
-  background-color: white;
-  display: block;
-  &:hover {
-    opacity: 0.7;
-  }
-  .image {
-    display: inline;
-    width: 25%
-  }
-}
-
-.featured-post__image{
-  display: block;
-  max-width: 100%;
-  vertical-align: top;
-  position: relative;
-}
-
-.featured-post__caption {
-  width: 75%;
-  display: inline-block;
-  padding: 10%;
-  h3 {
-    text-transform: uppercase;
-    font-size: 1.2rem;
-    font-weight: 300;
-    line-height: 1.4rem;
-    margin: 0.2rem 0;
-  }
-  h5 {
-    font-weight: 300;
-    margin: 0 0 0.5rem 0;
-    text-transform: uppercase;
-    color: $meta-color;
-    font-size: 0.9rem;
-  }
-}
-
-.featured-post__link {
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  position: absolute;
-  z-index: 1;
-}
-
-
 .post-list-text {
   display: block;
 }
@@ -550,5 +521,16 @@ nav.navbar {
 .calculator {
   input, button {
     float: right;
+  }
+}
+
+.image--right {
+  img {
+    max-width: 300px;
+    border-radius: 4px;
+  }
+  @media (min-width:600px) {
+    float: right;
+    padding: 0 0 0 2rem;
   }
 }
