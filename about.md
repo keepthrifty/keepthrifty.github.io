@@ -42,22 +42,29 @@ Every trip we take brings us closer as a family, builds memories we'll carry for
 
 <hr />
 
-# Featured on #
+# As Featured On... #
 
-With the amazing support of other bloggers and resources out there, the Keep Thrifty message has made it's way to people all over the world. In particular, I've been featured:
+![Featured on list - see below](/img/featured/featured.png)
 
-* Lifehacker - [When Buying "Experiences" Isn't Actually Better than Buying Stuff](http://lifehacker.com/when-buying-experiences-isnt-actually-better-than-buy-1784756372){: target="_blank"}
-* MortgageLoan.com - [Smart Financial Moves with Your Current Mortgage](https://www.mortgageloan.com/smart-financial-moves-with-your-current-mortgage){: target="_blank"}
-* The Penny Hoarder - [Why This Woman Doesn’t Regret Selling Her Engagement Ring](http://www.thepennyhoarder.com/would-you-sell-your-engagement-ring-to-make-extra-money/){: target="_blank"}
-* The Street - [Young Americans Are Shunning Credit Cards](https://www.thestreet.com/story/13499131/1/young-americans-are-shunning-credit-cards.html){: target="_blank"}
-* US News and World Report - [The Financial Benefits of Living with Less](http://money.usnews.com/money/blogs/my-money/articles/2016-05-10/the-financial-benefits-of-living-with-less){: target="_blank"}
-* EQ Bank - [Should you go to Italy or buy a car? Here's how to decide](https://www.eqbank.ca/the-exchange/article-detail?urlName=should-you-go-to-italy-or-buy-a-car-here-s-how-to-decide){: target="_blank"}
+With the amazing support of other bloggers and resources out there, the Keep Thrifty message has made it's way to people all over the world. In particular,
 
-In addition, I've been blessed to have articles from the Keep Thrifty blog featured on [Rockstar Finance](http://www.rockstarfinance.com){: target="_blank"} four times. Here are the "Rockstar Posts":
+I've been blessed to have articles from the Keep Thrifty blog featured on [Rockstar Finance](http://www.rockstarfinance.com){: target="_blank"} four times. Here are the "Rockstar Posts":
 
 {% include post-list-rockstar.html %}
 
-## Contact me ##
+Beyond this, I've also been featured on a number of great sites:
+
+* Lifehacker - [When Buying "Experiences" Isn't Actually Better than Buying Stuff](http://lifehacker.com/when-buying-experiences-isnt-actually-better-than-buy-1784756372){: target="_blank"}
+* The Penny Hoarder - [Why This Woman Doesn’t Regret Selling Her Engagement Ring](http://www.thepennyhoarder.com/would-you-sell-your-engagement-ring-to-make-extra-money/){: target="_blank"}
+* The Street - [Young Americans Are Shunning Credit Cards](https://www.thestreet.com/story/13499131/1/young-americans-are-shunning-credit-cards.html){: target="_blank"}
+* MortgageLoan.com - [Smart Financial Moves with Your Current Mortgage](https://www.mortgageloan.com/smart-financial-moves-with-your-current-mortgage){: target="_blank"}
+* US News and World Report - [The Financial Benefits of Living with Less](http://money.usnews.com/money/blogs/my-money/articles/2016-05-10/the-financial-benefits-of-living-with-less){: target="_blank"}
+* EQ Bank - [Should you go to Italy or buy a car? Here's how to decide](https://www.eqbank.ca/the-exchange/article-detail?urlName=should-you-go-to-italy-or-buy-a-car-here-s-how-to-decide){: target="_blank"}
+
+
+<hr />
+
+# Contact me #
 
 I'd love to hear from you - you can find me on Twitter ([@keepthrifty](http://www.twitter.com/keepthrifty){: target="_blank"}) or you can use the form below:
 
