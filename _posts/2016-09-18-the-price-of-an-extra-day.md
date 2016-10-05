@@ -13,6 +13,8 @@ related-posts: [
   "/2016/06/18/the-simple-path-to-wealth-review",
   "/2016/06/05/prepay-vs-invest"
 ]
+redirect_from:
+  - /calculators/
 tags: [calculators, our numbers]
 custom_js:
   - calcfidays
