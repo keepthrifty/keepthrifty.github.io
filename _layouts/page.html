@@ -21,7 +21,9 @@ layout: default
 
     <fooder class="post__footer">
       <hr>
-      {% include share_buttons.html %}
+      {% unless page.no-share %}
+        {% include share-buttons.html %}
+      {% endunless %}
       {% if page.comments %}
         <hr>
         {% include comments.html %}

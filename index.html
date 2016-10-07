@@ -1,35 +1,37 @@
 ---
 layout: default
-title: Keep Thrifty
 ---
 
-<h1>
-  Latest Posts
-  <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
-    <i class="fa fa-rss-square"></i>
-  </a>
-</h1>
-
-<div class="post-cards">
-  {% for post in paginator.posts %}
-  <article class="post post--summary-card">
+<div class="col s12 m12 l9">
+{% for post in paginator.posts %}
+  <article class="post">
     <header class="post__header">
       <div class="post__meta">
         <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
       </div>
       <div class="post__title">
-        <h3 class="post-card__title--main">{{ post.title }}</h3>
-        {% if post.subtitle %}<h4 class="post-card__title--subtitle">{{ post.subtitle }}</h4>{% endif %}
+        <h1 class="post__title--main"><a href="{{ post.url}}">{{ post.title }}</a></h1>
+        {% if post.subtitle %}<h2 class="post__title--subtitle"><a href="{{ post.url}}">{{ post.subtitle }}</h2></a>{% endif %}
       </div>
       {% if post.image %}
-      <img src="{{ post.image }}" class="post__header__image"/>
+      <img src="{{ post.image }}" class="post__header__image" />
       {% endif %}
     </header>
+
+    <main class="post__body">
+      <p>{{ post.excerpt | strip_html }}</p>
+      <p class="call-to-action"><a href="{{ post.url }}">Read the rest...</a></p>
+    </main>
   </article>
-  {% endfor %}
+{% endfor %}
+
+{% include pagination-links.html %}
 </div>
 
-
-<div class="col s12">
-{% include pagination_links.html %}
+<div class="side-column col s12 m12 l3">
+  <div class="side-column__content">
+    {% include about.html %}
+    {% include subscribe.html %}
+    {% include post-list-featured.html %}
+  </div>
 </div>
