@@ -1,3 +1,20 @@
+html {
+ box-sizing: border-box;
+}
+*, *:before, *:after {
+ box-sizing: inherit;
+}
+
+ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+a {
+	color: $secondary-color;
+	text-decoration: none;
+}
+
 body {
   display: flex;
   min-height: 100vh;
@@ -9,6 +26,34 @@ main.page {
   flex: 1 0 auto;
   padding-top: 4rem;
   padding-bottom: 4rem;
+}
+
+.center {
+  text-align: center;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.col {
+  min-width: 25%;
+  -webkit-flex: 1 200px;
+  flex: 1 200px;
+}
+
+.col-three-quarters {
+  -webkit-flex: 1 991px;
+  flex: 1 991px;
+  min-width: 75%;
 }
 
 a {
@@ -90,7 +135,6 @@ a {
   width: 100%;
   height: auto;
   max-width: 800px;
-  max-height: 24rem;
   object-fit: cover;
   object-position: center center;
 }
@@ -345,18 +389,18 @@ form {
   font-weight: 300;
   input {
     display: inline;
-    margin: 0.5rem auto;
-    padding: 0.4rem;
   }
   textarea {
     display: block;
+  }
+  input, textarea {
+    font-size: 1.1rem;
+    border: 1px solid $meta-color;
     margin: 0.5rem auto;
     padding: 0.4rem;
   }
-  input, textarea {
-    border: 1px solid $meta-color;
-  }
   button {
+    font-size: 1.1rem;
     background-color: $meta-color;
     color: white;
     border: none;
@@ -389,12 +433,13 @@ nav.navbar {
 }
 
 .navbar-list {
+  padding-left: 0;
   flex-grow: 1;
   align-self: center;
   font-size: 1rem;
   letter-spacing: 1.5px;
   line-height: 1.2rem;
-  margin: 15px 40px;
+  margin: 1rem 0;
   text-transform: uppercase;
   font-weight: 300;
 }
@@ -467,6 +512,15 @@ nav.navbar {
   box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
 }
 
+.post-list-text {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.post-list-text__item {
+  font-size: 1rem;
+  padding-bottom: 0.4rem;
+}
 
 
 .footer-row {
@@ -476,11 +530,13 @@ nav.navbar {
 }
 
 .footer-row__element {
-  flex: 1 0 25%;
+  -webkit-flex: 1 20rem;
+  flex: 1 20rem;
   color: $meta-color;
   padding: 0 2rem;
   min-width: 20rem;
 }
+
 
 .copyright {
   margin-top: 2rem;
@@ -510,4 +566,49 @@ nav.navbar {
 p.call-to-action {
   text-align: right;
   font-size: 1.6rem;
+}
+
+#next-post {
+  margin-left: 0.4rem;
+}
+#previous-post {
+  margin-right: 0.4rem;
+}
+
+.pagination {
+
+  li {
+    display: inline-block;
+    font-size: 1.2rem;
+    padding: 0 10px;
+    line-height: 30px;
+    border-radius: 2px;
+    text-align: center;
+
+    a { color: $meta-color; }
+
+    &.active a {
+      color: #fff;
+      cursor: default;
+      &:hover {
+        opacity: 1;
+      }
+    }
+
+    &.active { background-color: $secondary-color; }
+
+    &.disabled a {
+      cursor: default;
+      color: #999;
+    }
+
+    i {
+      font-size: 2.2rem;
+      vertical-align: middle;
+    }
+  }
+  li.pages ul li {
+    display: inline-block;
+    float: none;
+  }
 }

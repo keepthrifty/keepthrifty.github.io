@@ -2,31 +2,19 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-
-@import "color";
-
 /*** Colors ***/
 $primary-color: #558B2F; //color("light-green", "darken-3") !default;
-
-$secondary-color: #2962FF; //color("blue", "accent-4") !default;
-
+$secondary-color: #039BE5; //color("blue", "accent-4") !default;
 $meta-color: #9E9E9E; //color("grey", "base") !default;
-
 $bg-color: #F5F5F5; //color("grey", "lighten-4") !default;
-
 $code-color: #DCEDC8; //color("light-green", "lighten-4") !default;
+
+$medium-screen: 992px;
+$large-screen: 1200px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "prefixer",
-        "variables",
-        "normalize",
-        "global",
-        "grid",
-        "roboto",
         "typography",
-        "cards",
-        "buttons",
         "custom",
         "../assets/font-awesome-4.6.3/scss/font-awesome"
 ;

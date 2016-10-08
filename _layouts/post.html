@@ -3,7 +3,7 @@ layout: default
 comments: true
 ---
 
-<div class="col s12 m12 l9">
+<div class="col-three-quarters">
   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
     <header class="post__header">
       <div class="post__meta">
@@ -40,10 +40,11 @@ comments: true
   </article>
 </div>
 
-<div class="side-column col s12 m12 l3">
+<div class="side-column col">
   <div class="side-column__content">
     {% include about.html %}
     {% include subscribe.html %}
+    {% include featured.html %}
     {% include post-list-featured.html %}
   </div>
 </div>

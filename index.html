@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="col s12 m12 l9">
+<div class="col-three-quarters">
 {% for post in paginator.posts %}
   <article class="post">
     <header class="post__header">
@@ -28,10 +28,11 @@ layout: default
 {% include pagination-links.html %}
 </div>
 
-<div class="side-column col s12 m12 l3">
+<div class="side-column col">
   <div class="side-column__content">
     {% include about.html %}
     {% include subscribe.html %}
+    {% include featured.html %}
     {% include post-list-featured.html %}
   </div>
 </div>
