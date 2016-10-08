@@ -1,3 +1,5 @@
+$roboto-font-path: "/font/roboto/";
+
 @font-face {
     font-family: "Roboto";
     src: local(Roboto Thin), url('#{$roboto-font-path}Roboto-Thin.eot');

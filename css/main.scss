@@ -14,6 +14,7 @@ $large-screen: 1200px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "roboto",
         "typography",
         "custom",
         "../assets/font-awesome-4.6.3/scss/font-awesome"

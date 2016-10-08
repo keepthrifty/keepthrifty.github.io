@@ -51,9 +51,9 @@ main.page {
 }
 
 .col-three-quarters {
-  -webkit-flex: 1 991px;
-  flex: 1 991px;
-  min-width: 75%;
+  -webkit-flex: 1 700px;
+  flex: 1 700px;
+  min-width: 66%;
 }
 
 a {
@@ -611,4 +611,8 @@ p.call-to-action {
     display: inline-block;
     float: none;
   }
+}
+
+img.full {
+  max-width: 100%;
 }
