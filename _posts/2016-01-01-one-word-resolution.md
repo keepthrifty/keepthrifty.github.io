@@ -9,7 +9,8 @@ image: /img/posts/2016-01-01-one-word-resolution/rock_climbing.jpg
 related-posts: [
   "/2016/08/20/indecent-financial-exposure",
   "/2016/07/06/roadtrip-recap",
-  "/2016/08/28/the-more-of-less-review"
+  "/2016/08/28/the-more-of-less-review",
+  "/2016/10/09/twice-as-happy-with-half-as-much"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]

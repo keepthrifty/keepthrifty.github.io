@@ -11,7 +11,8 @@ related-posts: [
   "/2016/03/23/engagement-ring-sold",
   "/2016/01/20/living-with-less",
   "/2016/07/27/the-secret-to-success",
-  "/2016/09/05/let-it-burn"
+  "/2016/09/05/let-it-burn",
+  "/2016/10/09/twice-as-happy-with-half-as-much"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [guest post, inspiration, minimalism]
