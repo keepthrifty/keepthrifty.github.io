@@ -15,7 +15,7 @@ related-posts: [
   "/2016/01/20/living-with-less",
   "/2016/06/13/escape-fashion-trap-part-1",
   "/2016/03/23/engagement-ring-sold",
-  "/2016/10/09/twice-as-happy-with-half-as-much"
+  "/2016/10/10/become-twice-as-happy-with-half-as-much"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism, book review]

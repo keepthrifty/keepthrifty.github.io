@@ -10,7 +10,7 @@ related-posts: [
   "/2016/09/04/let-it-burn",
   "/2016/08/28/the-more-of-less-review",
   "/2016/07/21/spending-on-free",
-  "/2016/10/09/twice-as-happy-with-half-as-much"
+  "/2016/10/10/become-twice-as-happy-with-half-as-much"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism, inspiration]
