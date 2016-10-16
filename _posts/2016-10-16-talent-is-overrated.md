@@ -6,7 +6,7 @@ author_email: chris@keepthrifty.com
 
 title: "Talent is Overrated"
 subtitle: "Everyone Starts at Zero"
-description: "___TK___"
+description: "Talent is overrated - true success comes from hard work"
 
 image: /img/posts/2016-10-16-talent-is-overrated/baby-rock.jpg
 image-folder: /img/posts/2016-10-16-talent-is-overrated
@@ -21,8 +21,6 @@ related-posts: [
 tags: [inspiration]
 
 affiliate: true
-
-date: 2016-10-15
 ---
 
 We're loyal fans of the HGTV show "[Fixer Upper](http://amzn.to/2dX33dc)". It's incredible to see the transformation in these homes that have seemingly lost all their value. They deliver magazine-quality design, bringing new life to the house and the neighborhood. Some lucky people get all the talent, right? Maybe not...

@@ -28,8 +28,12 @@ body {
 
 main.page {
   flex: 1 0 auto;
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  @media(min-width: $minimum-break) {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
 }
 
 .center {
@@ -565,7 +569,7 @@ nav.navbar {
     max-width: 300px;
     border-radius: 4px;
   }
-  @media (min-width:600px) {
+  @media (min-width: $minimum-break) {
     float: right;
     padding: 0 0 0 2rem;
   }
