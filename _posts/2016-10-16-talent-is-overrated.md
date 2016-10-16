@@ -23,7 +23,7 @@ tags: [inspiration]
 affiliate: true
 ---
 
-We're loyal fans of the HGTV show "[Fixer Upper](http://amzn.to/2dX33dc)". It's incredible to see the transformation in these homes that have seemingly lost all their value. They deliver magazine-quality design, bringing new life to the house and the neighborhood. Some lucky people get all the talent, right? Maybe not...
+We're loyal fans of the HGTV show "[Fixer Upper](http://amzn.to/2dX33dc){: target="_blank"}". It's incredible to see the transformation in these homes that have seemingly lost all their value. They deliver magazine-quality design, bringing new life to the house and the neighborhood. Some lucky people get all the talent, right? Maybe not...
 
 After starting to watch the show, my wife and I were browsing homes on Zillow in Waco, Texas to see what was out there. Man, were we surprised when we found a house that was for sale that indicated it had actually been remodeled by Chip Gaines himself!
 
@@ -31,7 +31,7 @@ We opened the listing to see how it looked and didn't get what we were expecting
 
 It looked pretty nice, but...well, it wasn't _"Fixer Upper" nice_. What's the deal?
 
-I couldn't find the original one we had seen, but [here's a house that sold in 2015](http://www.zillow.com/homedetails/3204-Pioneer-Cir-Waco-TX-76712/52067623_zpid/) that was remodeled by Chip. Based on the price and tax history, it looks like he must have bought the house in 2009, fixed it up, and sold it in 2010.
+I couldn't find the original one we had seen, but [here's a house that sold in 2015](http://www.zillow.com/homedetails/3204-Pioneer-Cir-Waco-TX-76712/52067623_zpid/){: target="_blank"} that was remodeled by Chip. Based on the price and tax history, it looks like he must have bought the house in 2009, fixed it up, and sold it in 2010.
 
 To put things into context, the first episode of "Fixer Upper" was in 2013. What changed in these three years?
 
@@ -51,13 +51,13 @@ I don't know one great musician, artist, author, scientist, athlete, or blogger 
 
 ## A Successful Writer ##
 
-Tsh Oxenreider, who started the incredibly popular blog, [The Art of Simple](http://theartofsimple.net/), in 2008 didn't kick off with some amazing, inspirational post about changing your life and changing the world.
+Tsh Oxenreider, who started the incredibly popular blog, [The Art of Simple](http://theartofsimple.net/){: target="_blank"}, in 2008 didn't kick off with some amazing, inspirational post about changing your life and changing the world.
 
-She started off with a [gumbo recipe](http://theartofsimple.net/crock-pot-chicken-and-sausage-gumbo/).
+She started off with a [gumbo recipe](http://theartofsimple.net/crock-pot-chicken-and-sausage-gumbo/){: target="_blank"}.
 
-On the flip side, go [check out a recent post of hers](http://theartofsimple.net/permissiontorest/) and you'll find practical tips and inspiration that might literally change your day.
+On the flip side, go [check out a recent post of hers](http://theartofsimple.net/permissiontorest/){: target="_blank"} and you'll find practical tips and inspiration that might literally change your day.
 
-Since her start, Tsh has grown a fiercely loyal audience and helped thousands (perhaps millions) of people through her [blog](http://theartofsimple.net/), [books](https://www.amazon.com/Tsh-Oxenreider/e/B003GMBD32/ref=sr_ntt_srch_lnk_1?qid=1476582139&sr=8-1), [podcasts](http://theartofsimple.net/thepodcast/), and other channels.
+Since her start, Tsh has grown a fiercely loyal audience and helped thousands (perhaps millions) of people through her [blog](http://theartofsimple.net/){: target="_blank"}, [books](https://www.amazon.com/Tsh-Oxenreider/e/B003GMBD32/ref=sr_ntt_srch_lnk_1?qid=1476582139&sr=8-1){: target="_blank"}, [podcasts](http://theartofsimple.net/thepodcast/){: target="_blank"}, and other channels.
 
 And it all started with a gumbo recipe.
 
@@ -69,9 +69,9 @@ None of these come easy - they all take hard work to improve at, but they all ar
 
 ### Software Developer ###
 
-I've been dabbling in Ruby on Rails (the framework I use for the [Thrifty tool](http://tools.keepthrifty.com)) for about 6 years in small bits. It took me about 5 years of playing around before I built enough of a skill set to be effective in developing something useful and beautiful.
+I've been dabbling in Ruby on Rails (the framework I use for the [Thrifty tool](http://tools.keepthrifty.com){: target="_blank"}) for about 6 years in small bits. It took me about 5 years of playing around before I built enough of a skill set to be effective in developing something useful and beautiful.
 
-I launched [Thrifty](http://tools.keepthrifty.com) at the start of this year and am proud of what I've put together. The years leading up to this, though, felt like ages and there were numerous times I stepped out and came back in.
+I launched [Thrifty](http://tools.keepthrifty.com){: target="_blank"} at the start of this year and am proud of what I've put together. The years leading up to this, though, felt like ages and there were numerous times I stepped out and came back in.
 
 It was only after seeing that house listing that I got really serious and dedicated myself to making something real using what I had learned.
 
