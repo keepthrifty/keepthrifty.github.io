@@ -10,7 +10,8 @@ image-folder: /img/posts/2016-08-12-first-seven-jobs
 related-posts: [
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",
   "/2016/02/13/thrifty-valentines-day",
-  "/2016/05/24/encouragement-over-hate"
+  "/2016/05/24/encouragement-over-hate",
+  "/2016/10/15/talent-is-overrated"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]

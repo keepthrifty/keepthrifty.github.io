@@ -10,7 +10,8 @@ nodisqus: true
 related-posts: [
   "/2016/07/21/spending-on-free",
   "/2016/06/05/prepay-vs-invest",
-  "/2016/01/20/living-with-less"
+  "/2016/01/20/living-with-less",
+  "/2016/10/16/talent-is-overrated"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]

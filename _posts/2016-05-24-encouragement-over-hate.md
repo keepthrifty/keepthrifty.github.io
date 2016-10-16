@@ -10,7 +10,8 @@ image-folder: /img/posts/2016-05-24-encouragement-over-hate
 related-posts: [
   "/2016/09/04/let-it-burn",
   "/2016/07/21/spending-on-free",
-  "/2016/02/13/thrifty-valentines-day"
+  "/2016/02/13/thrifty-valentines-day",
+  "/2016/10/16/talent-is-overrated"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]
