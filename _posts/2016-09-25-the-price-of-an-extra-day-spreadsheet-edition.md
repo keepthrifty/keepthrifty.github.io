@@ -31,6 +31,8 @@ It's got everything from last week's online calculators and then some; here's wh
 
 Beyond calculating the cost of a day of retirement and the impact on retirement time of a given contribution, we're going to plot out the retirement account balance against the target balance and put it all in a nice interactive dashboard.
 
+> If you are having trouble getting the sheet put together, he's a [completed version on Google Drive that you can use for reference](https://docs.google.com/spreadsheets/d/1RkmJHjrsnCHP9GeLPjnQLwDqCIiEv2FrUOuMGqivUrk/copy). If you go here, it'll prompt you whether you want to make a copy of this sheet. This way you can modify the sheet to your heart's content without changing the master copy for other readers.
+
 # Set Up #
 
 You can use just about any spreadsheet software to put together this tool, but I'm going to be using [Google Sheets](http://sheets.google.com/){: target="_blank"} (it's free!). [Microsoft Excel](https://office.live.com/start/Excel.aspx){: target="_blank"} is another good option. If you only care about the calculator portion, either should work fine for this tutorial. For the part where I turn everything into a pretty dashboard, I'm only going to show the steps in Google Sheets.
