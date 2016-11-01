@@ -7,11 +7,11 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 image: /img/posts/2016-06-18-the-simple-path-to-wealth-review/the-simple-path-to-wealth.jpg
 related-posts: [
+  "/2016/10/31/moneysmart-family-system-review",
   "/2016/10/02/it-is-only-money-review",
   "/2016/08/28/the-more-of-less-review",
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",
   "/2016/03/23/engagement-ring-sold",
-  "/2016/08/12/fifteen-lessons-first-seven-jobs"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [book review]
@@ -68,7 +68,7 @@ I really recommend you pick up a copy of [_The Simple Path to Wealth_][the-simpl
 
 ___To get your own copy, here's a [link to the book on Amazon*][the-simple-path-to-wealth-amazon]___
 
-![the-simple-path-to-wealth][the-simple-path-to-wealth-cover]
+[![the-simple-path-to-wealth][the-simple-path-to-wealth-cover]][the-simple-path-to-wealth-amazon]
 
 [jl-collins-investing]: http://jlcollinsnh.com/stock-series/
 {: target="_blank"}

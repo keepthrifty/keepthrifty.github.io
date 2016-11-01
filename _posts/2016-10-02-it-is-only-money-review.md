@@ -14,6 +14,7 @@ subscribe-line: Want future reviews and posts in your inbox?
 social-line: Share this with someone important to you
 
 related-posts: [
+  "/2016/10/31/moneysmart-family-system-review",
   "/2016/08/28/the-more-of-less-review",
   "/2016/06/18/the-simple-path-to-wealth-review",
   "/2016/09/18/the-price-of-an-extra-day",
@@ -82,6 +83,8 @@ Overall, [It is Only Money and It Grows on Trees][it-is-only-money-amazon] is a 
 With that new knowledge and the lessons you'll learn about the other views out there, you'll find yourself in a better position to make sound choices about how to handle your money and build a better future for yourself and those around you.
 
 ___To get your own copy, here's a [link to the book on Amazon][it-is-only-money-amazon]___
+
+[![It Is Only Money and It Grows On Trees cover]({{ page.image-folder}}/it-is-only-money-full.jpg)][it-is-only-money-amazon]
 
 > What does money mean to you? Success or stress? Obligation or opportunity? Freedom or burden? How does that meaning shape your behavior?
 
