@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html>
 
@@ -18,6 +16,7 @@
     </main>
 
     {% include footer.html %}
+    {% if page.affiliate %}{% include amazon-mobile-popover.html %}{% endif %}
   </body>
 
 </html>
