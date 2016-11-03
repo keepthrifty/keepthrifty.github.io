@@ -19,7 +19,7 @@ We're focused on three big goals and approaches at the moment:
 
 # Living Better with Less #
 
-We don't get much enjoyment out of stuff, so we tend to focus on experiences instead ([with a few exceptions]({% post_url 2016-07-14-experience-or-stuff %})). We'd describe ourselves as minimalists, mostly because we've found that life is a lot more fun when you don't have the "mental tax" of too much stuff weighing you down.
+We don't get much enjoyment out of stuff, so we tend to focus on experiences instead ([with a few exceptions]({% post_url 2016-07-14-experience-or-stuff %})). We'd describe ourselves as minimalists, mostly because we've found that [life is a lot more fun]({% post_url 2016-10-10-become-twice-as-happy-with-half-as-much %}) when you don't have the "mental tax" of too much stuff weighing you down.
 
 In addition, keeping our possessions to a reasonable level gives us additional flexibility and keeps our money in our bank accounts instead of tied up in items in our closets.
 
@@ -55,12 +55,15 @@ I've been blessed to have articles from the Keep Thrifty blog featured on [Rocks
 
 Beyond this, I've also been featured on a number of great sites:
 
-* Lifehacker - [When Buying "Experiences" Isn't Actually Better than Buying Stuff](http://lifehacker.com/when-buying-experiences-isnt-actually-better-than-buy-1784756372){: target="_blank"}
+* Lifehacker - [Find Out How Many Days of Retirement Your Contributions Can Buy With This Tool](http://lifehacker.com/find-out-how-many-days-of-retirement-your-contributions-1788228175){: target="_blank"}
 * The Penny Hoarder - [Why This Woman Doesn’t Regret Selling Her Engagement Ring](http://www.thepennyhoarder.com/would-you-sell-your-engagement-ring-to-make-extra-money/){: target="_blank"}
+* The Financial Diet - [The 7 Personal Finance Articles We Loved This Week](http://thefinancialdiet.com/7-personal-finance-articles-loved-week-3/){: target="_blank"}
 * The Street - [Young Americans Are Shunning Credit Cards](https://www.thestreet.com/story/13499131/1/young-americans-are-shunning-credit-cards.html){: target="_blank"}
 * MortgageLoan.com - [Smart Financial Moves with Your Current Mortgage](https://www.mortgageloan.com/smart-financial-moves-with-your-current-mortgage){: target="_blank"}
 * US News and World Report - [The Financial Benefits of Living with Less](http://money.usnews.com/money/blogs/my-money/articles/2016-05-10/the-financial-benefits-of-living-with-less){: target="_blank"}
 * EQ Bank - [Should you go to Italy or buy a car? Here's how to decide](https://www.eqbank.ca/the-exchange/article-detail?urlName=should-you-go-to-italy-or-buy-a-car-here-s-how-to-decide){: target="_blank"}
+* Lifehacker - [When Buying "Experiences" Isn't Actually Better than Buying Stuff](http://lifehacker.com/when-buying-experiences-isnt-actually-better-than-buy-1784756372){: target="_blank"}
+
 
 
 <hr />
