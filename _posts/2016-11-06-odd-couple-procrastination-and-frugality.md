@@ -4,8 +4,7 @@ layout: post
 author: keepthrifty
 author_email: chris@keepthrifty.com
 
-title: "An Odd Couple"
-subtitle: "The Surprising Truth About Frugality and Procrastination"
+title: "An Odd Couple: The Surprising Truth About Frugality and Procrastination"
 description: "This guest post from Mystery Money Man shows that frugality and procrastination aren't always at odds - sometimes they even work together"
 
 image: /img/posts/2016-11-06-odd-couple-procrastination-and-frugality/odd-couple.jpg
