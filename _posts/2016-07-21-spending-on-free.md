@@ -11,7 +11,7 @@ related-posts: [
   "/2016/03/23/engagement-ring-sold",
   "/2016/01/20/living-with-less",
   "/2016/07/27/the-secret-to-success",
-  "/2016/09/05/let-it-burn",
+  "/2016/11/06/odd-couple-procrastination-and-frugality",
   "/2016/10/10/become-twice-as-happy-with-half-as-much"
 ]
 permalink: /:year/:month/:day/:title.html
