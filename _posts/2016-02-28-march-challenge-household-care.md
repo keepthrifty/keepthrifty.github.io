@@ -21,7 +21,7 @@ related-posts: [
   "/2016/05/29/june-challenge-entertainment"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [our numbers]
+tags: [challenge]
 affiliate: true
 ---
 

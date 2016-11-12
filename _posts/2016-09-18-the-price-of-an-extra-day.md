@@ -15,7 +15,7 @@ related-posts: [
 ]
 redirect_from:
   - /calculators/
-tags: [calculators, our numbers]
+tags: [calculators, how we money]
 custom_js:
   - calcfidays
 

@@ -17,7 +17,7 @@ related-posts: [
   "/2016/05/01/may-challenge-food"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [our numbers]
+tags: [challenge]
 ---
 
 Thrifters,
