@@ -61,7 +61,7 @@ One of the things that can make budgeting intimidating is that monthly income an
 
 For expenses, some things come weekly, some monthly, some once a year, and some just when you least expect them.
 
-Income is a bit easier but is still isn't consistent month-to-month if you're a part of the [69% of American workers that are paid bi-weekly or weekly](http://www.bls.gov/opub/btn/volume-3/how-frequently-do-private-businesses-pay-workers.htm){: target="_blank"}.
+Income is a bit easier but it still isn't consistent month-to-month if you're a part of the [69% of American workers that are paid bi-weekly or weekly](http://www.bls.gov/opub/btn/volume-3/how-frequently-do-private-businesses-pay-workers.htm){: target="_blank"}.
 
 If you're paid bi-weekly, you have 10 months a year where you only get two paychecks and 2 months a year where you get three.
 
@@ -149,7 +149,7 @@ Add up your monthly totals for __paycheck cycle__, __monthly cycle__, and __long
 
 Compare this to your monthly reasonable minimum income that you figured out in the Smoothing Out Income section.
 
-If your monthly reasonable minimum income is _less_ thank your total monthly expenses, it's time to go back and reassess. You've got a budget that's out of balance and you're going to have to make some cuts. Revisit your expenses in each category and see what you can reduce. Then go back through the math until your monthly reasonable minimum income is bigger.
+If your monthly reasonable minimum income is _less_ than your total monthly expenses, it's time to go back and reassess. You've got a budget that's out of balance and you're going to have to make some cuts. Revisit your expenses in each category and see what you can reduce. Then go back through the math until your monthly reasonable minimum income is bigger.
 
 ![Total expenses compared to toal income](/img/posts/2016-11-13-how-we-budget-four-branch-system/step-4.jpg)
 
@@ -185,7 +185,7 @@ We have money in an account to cover anything we purchase before we go ahead and
 
 You'll see that each paycheck has a line item for __targeted goals__ that gets us up to our total paycheck amount. This means that every dollar from each paycheck is accounted for.
 
-The beauty of applying things this way is that we are making measurable steps (even if they are small ones) toward your big financial goals _every single month_.
+The beauty of applying things this way is that you are making measurable steps (even if they are small ones) toward your big financial goals _every single month_.
 
 ## Step 6: Set Up Your Accounts
 
