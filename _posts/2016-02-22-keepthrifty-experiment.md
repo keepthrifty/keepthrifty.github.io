@@ -15,6 +15,7 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]
+affiliate: true
 ---
 My wife and I had some intense financial discussions this weekend.
 
@@ -58,7 +59,7 @@ Guidance:
 
 # Support System #
 
-You can certainly participate without using an expense tracking tool, but I’d highly recommend that you use one. Many out there are using Mint or Personal Capital, but I’m using my own tool — [Thrifty][thrifty].
+You can certainly participate without using an expense tracking tool, but I’d highly recommend that you use one. Many out there are using Mint or [Personal Capital](http://track.flexlinkspro.com/a.ashx?foid=1094139.201382&foc=1&fot=9999&fos=1){: target="_blank"}, but I’m using my own tool — [Thrifty][thrifty].
 
 Thrifty is free and has no ads — it runs completely on donations. If you’re interested, take a look, sign up, and get a better understanding of your spending so you can be even better equipped to take on the challenge.
 
