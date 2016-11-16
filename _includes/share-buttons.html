@@ -6,46 +6,5 @@
       Like this{% if page.layout == "post" %} post{% endif %}? Spread the love!
     {% endif %}
   </h3>
-  <ul class="share-buttons__list">
-    <li class="share-buttons__button">
-      <a class="twitter" href="http://twitter.com/share?text={{page.title | url_encode}}&amp;url={{site.url}}{{page.url}}&amp;via={{site.twitter_username}}{% if page.share-hashtag %}&amp;hashtags={{page.share-hashtag}}{% endif %}" title="Share on Twitter" target="_blank">
-        <i class="fa fa-twitter-square fa-2x"></i>
-      </a>
-    </li>
-    <li class="share-buttons__button">
-      <a class="facebook" href="http://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}&amp;t={{page.title | url_encode}}" title="Share on Facebook" target="_blank">
-        <i class="fa fa-facebook-square fa-2x"></i>
-      </a>
-    </li>
-    <li class="share-buttons__button">
-      <a class="google-plus" href="https://plus.google.com/share?url={{site.url}}{{page.url}}" title="Share on Google+" target="_blank">
-        <i class="fa fa-google-plus-square fa-2x"></i>
-      </a>
-    </li>
-    <li class="share-buttons__button">
-      <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url={{site.url}}{{page.url}}&amp;title={{page.title | url_encode}}&amp;summary={{page.excerpt | strip_html}}&amp;source=" title="Share on Linkedin" target="_blank">
-        <i class="fa fa-linkedin-square fa-2x"></i>
-      </a>
-    </li>
-    <li class="share-buttons__button">
-      <a class="pinterest" href="https://pinterest.com/pin/create/button/?url={{site.url}}{{page.url}}&amp;media={{site.url}}{{page.image}}&amp;description={{page.title | url_encode}}" title="Share on Pinterest" target="_blank">
-        <i class="fa fa-pinterest-square fa-2x"></i>
-      </a>
-    </li>
-    <li class="share-buttons__button">
-      <a class="reddit" href="https://reddit.com/submit?url={{site.url}}{{page.url}}&amp;title={{page.title | url_encode}}" title="Share on Reddit" target="_blank">
-        <i class="fa fa-reddit-square fa-2x"></i>
-      </a>
-    </li>
-    <li class="share-buttons__button">
-      <a class="tumblr" href="https://www.tumblr.com/widgets/share/tool?canonicalUrl={{site.url}}{{page.url}}&amp;title={{page.title | url_encode}}" title="Share on Tumblr" target="_blank">
-        <i class="fa fa-tumblr-square fa-2x"></i>
-      </a>
-    </li>
-    <li class="share-buttons__button">
-      <a class="email" href="mailto:?&subject=Keep%20Thrifty:%20{{page.title | url_encode}}&amp;body={{page.excerpt | strip_html}}" title="Share via e-mail">
-        <i class="fa fa-envelope fa-2x"></i>
-      </a>
-    </li>
-  </ul>
+  {% include share-buttons-only.html %}
 </div>
