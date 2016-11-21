@@ -33,7 +33,7 @@ There are lots of versions of the game that have come out over the years. If you
 
 Hopefully that didn't divert you for too long :)
 
-I've been wanting to write a post on this for a while and, thanks to some encouragement from some blogger friends on the new [Rockstar Finance Forums](http://forums.rockstarfinance.com){: target="_blank"} (Thanks J. Money and Ms. Montana!), I'm ready to share some of the most important lessons I learned from _The Oregon Trail_.
+I've been wanting to write a post on this for a while and, thanks to some encouragement from some blogger friends on the new [Rockstar Finance Forums](http://forums.rockstarfinance.com){: target="_blank"} (Thanks Ms. Montana, J. Money, and Mystery Money Man!), I'm ready to share some of the most important lessons I learned from _The Oregon Trail_.
 
 ## Income Matters
 
