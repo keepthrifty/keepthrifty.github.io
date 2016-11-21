@@ -16,7 +16,8 @@ related-posts: [
   "/2016/08/12/fifteen-lessons-first-seven-jobs",
   "/2016/05/24/encouragement-over-hate",
   "/2016/07/27/the-secret-to-success",
-  "/2016/11/06/odd-couple-procrastination-and-frugality"
+  "/2016/11/06/odd-couple-procrastination-and-frugality",
+  "/2016/11/20/money-life-lessons-oregon-trail"
 ]
 
 tags: [inspiration]

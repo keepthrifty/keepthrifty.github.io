@@ -11,7 +11,8 @@ related-posts: [
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",
   "/2016/02/13/thrifty-valentines-day",
   "/2016/05/24/encouragement-over-hate",
-  "/2016/10/15/talent-is-overrated"
+  "/2016/10/15/talent-is-overrated",
+  "/2016/11/20/money-life-lessons-oregon-trail"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]
