@@ -39,7 +39,7 @@ The benefits of budgeting on our end have been clear:
 - We're doing a better job putting our money where are hearts are - spending on things that are true priorities
 - We're kicking butt at paying off our debt and staying on track in our savings goals
 
-{% capture tweet-text %}The net effect here is not just a better financial situation but also a better _marriage_{% endcapture %}{% include tweet-link.html %}
+{% capture tweet-text %}The net effect of budgeting is not just a better financial situation but also a better _marriage_{% endcapture %}{% include tweet-link.html %}
 
 Our system has helped us communicate better about our financial goals and make sure we are on the same page.
 
