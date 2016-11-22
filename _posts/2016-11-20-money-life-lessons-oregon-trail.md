@@ -199,4 +199,6 @@ That ended on a pretty deep note. Not sure that's what the creators of the game 
 
 Regardless, it's a fantastic game and well worth spending a half hour to try out.
 
+I also recommend you check out I, Vigilante's awesome thoughts on [what you can learn from some other popular video games](http://www.ivigilante.com/the-blizzard-investment-strategy/){: target="_blank" } (though these were more from middle and high school for me)
+
 If you've played _The Oregon Trail_, maybe you had your own set of lessons. Share your takeaways here - I'd love to hear what you learned!
