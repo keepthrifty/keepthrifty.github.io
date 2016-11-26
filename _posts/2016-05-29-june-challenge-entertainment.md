@@ -139,12 +139,12 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20Keep%20Thrifty%20Experiment!
 {: target="_blank"}
 
-[may-challenge-post]: {% post_url 2016-05-01-may-challenge-food %}
+[may-challenge-post]: {{ site.url }}{% post_url 2016-05-01-may-challenge-food %}
 
 [fixer-upper]: http://www.hgtv.com/shows/fixer-upper
 {: target="_blank"}
 
-[the-more-of-less]: {% post_url 2016-08-28-the-more-of-less-review %}
+[the-more-of-less]: {{ site.url }}{% post_url 2016-08-28-the-more-of-less-review %}
 {: target="_blank"}
 
 [becoming-minimalist]: http://www.becomingminimalist.com/
@@ -171,4 +171,4 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [google-opinion-rewards]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi7lMPL3oDNAhULTFIKHelPDG4QFggcMAA&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.google.android.apps.paidtasks%26hl%3Den&usg=AFQjCNF2-dQaI8rABQ-EQxXTRPp_F5_0ag&sig2=cnVRZd4gNdrYO5QzZ8KkYQ
 {: target="_blank"}
 
-[challenge-chart-entertainment]: /img/posts/2016-05-29-june-challenge-entertainment/may-2016-entertainment-chart.png
+[challenge-chart-entertainment]: {{ site.url }}/img/posts/2016-05-29-june-challenge-entertainment/may-2016-entertainment-chart.png

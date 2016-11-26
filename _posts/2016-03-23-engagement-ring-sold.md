@@ -139,4 +139,4 @@ These trade-offs are everywhere and can be a big accelerator for getting to wher
 [thrifty-tool]: http://tools.keepthrifty.com
 {: target="_blank"}
 
-[usa-map]: /img/posts/2016-03-23-engagement-ring-sold/usa-map.jpg
+[usa-map]: {{ site.url }}/img/posts/2016-03-23-engagement-ring-sold/usa-map.jpg

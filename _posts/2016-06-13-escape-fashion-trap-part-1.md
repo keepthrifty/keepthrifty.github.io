@@ -146,7 +146,7 @@ If all of this is starting to sound like a really bad deal for you, then we're o
 
 Let's take a look at how to escape the fashion money trap in [Part 2][part-2].
 
-[part-2]: {% post_url 2016-06-26-escape-fashion-trap-part-2 %}
+[part-2]: {{ site.url }}{% post_url 2016-06-26-escape-fashion-trap-part-2 %}
 
 [bcg-paper]: http://www.baynote.com/infographic/millennials-love-retail-spending/
 {: target="_blank"}
@@ -160,19 +160,19 @@ Let's take a look at how to escape the fashion money trap in [Part 2][part-2].
 [plenitude-link]: http://amzn.to/1UPCQ8C
 {: target="_blank"}
 
-[hammer-pants]: {{ page.image-folder }}/hammer-pants.jpg
+[hammer-pants]: {{ site.url }}{{ page.image-folder }}/hammer-pants.jpg
 
-[clothing-lifecycle-good]: {{ page.image-folder }}/clothes-cycle-good.png
-[clothing-lifecycle-bad]: {{ page.image-folder }}/clothes-cycle-bad.png
+[clothing-lifecycle-good]: {{ site.url }}{{ page.image-folder }}/clothes-cycle-good.png
+[clothing-lifecycle-bad]: {{ site.url }}{{ page.image-folder }}/clothes-cycle-bad.png
 
 [lightbulb]: http://i.giphy.com/L7DUwZJZc4agU.gif
 
 [lightbulb-source]: http://giphy.com/gifs/despicable-me-idea-gru-L7DUwZJZc4agU
 {: target="_blank"}
 
-[apple-faces]: {{ page.image-folder }}/happy-apple-sad-apple.jpg
+[apple-faces]: {{ site.url }}{{ page.image-folder }}/happy-apple-sad-apple.jpg
 
-[baby-escape]: {{ page.image-folder }}/baby-escape.jpg
+[baby-escape]: {{ site.url }}{{ page.image-folder }}/baby-escape.jpg
 
 [30-year-sweatshirt]: http://www.tomcridland.com/collections/the-30-year-sweatshirt
 {: target="_blank"}

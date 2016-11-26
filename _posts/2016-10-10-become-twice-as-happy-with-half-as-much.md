@@ -28,7 +28,7 @@ While our family didn't do this in one fell swoop, we've been trending this dire
 
 ## Example 1: Half the TVs ##
 
-![TVs for sale in a big box store]({{ page.image-folder }}/tvs.jpg)
+![TVs for sale in a big box store]({{ site.url }}{{ page.image-folder }}/tvs.jpg)
 
 <div class="image-caption">"I find television very educating. Every time somebody turns on the set, I go into the other room and read a book.” ― Groucho Marx</div>
 
@@ -99,7 +99,7 @@ For the next example, we'll move out of the living room and into the kitchen...
 
 ## Example 2: Half the Dinnerware ##
 
-![Stacks of plates and bowls]({{ page.image-folder }}/dinnerware.jpg)
+![Stacks of plates and bowls]({{ site.url }}{{ page.image-folder }}/dinnerware.jpg)
 
 <div class="image-caption">Honey, I forgot to tell you, but I invited the whole town over for dinner</div>
 
@@ -176,7 +176,7 @@ Our next example is tucked back in the closet...
 
 ## Example 3: Half the Wardrobe ##
 
-![Clothes rack with dozens of shirts]({{ page.image-folder }}/shirts.jpg)
+![Clothes rack with dozens of shirts]({{ site.url }}{{ page.image-folder }}/shirts.jpg)
 
 <div class="image-caption">From the blindingly-neon collection...</div>
 
@@ -227,7 +227,7 @@ Here's the thinking behind how I got to this wardrobe:
 
 ### Keeping Style ###
 
-If you've been reading this blog, you know that [I'm not exactly a fan of fast fashion]({% post_url 2016-06-13-escape-fashion-trap-part-1 %}). That said, I do still want to feel like I look good in the clothes that I wear so I developed a simple strategy.
+If you've been reading this blog, you know that [I'm not exactly a fan of fast fashion]({{ site.url }}{% post_url 2016-06-13-escape-fashion-trap-part-1 %}). That said, I do still want to feel like I look good in the clothes that I wear so I developed a simple strategy.
 
 {% assign tweet-text = 'For any item to become a resident of my closet, I ask, "Would I be willing to wear this every day?"' %}
 
@@ -263,7 +263,7 @@ For the last example, lets close with some time in the garage...
 
 ## Example 4: Half the Cars ##
 
-![Line of cars in a parking garage]({{ page.image-folder }}/cars.jpg)
+![Line of cars in a parking garage]({{ site.url }}{{ page.image-folder }}/cars.jpg)
 
 [Americans own, on average, 0.8 cars per person](http://www.nationmaster.com/country-info/stats/Transport/Road/Motor-vehicles-per-1000-people){: target="_blank"}. In our family, that would translate to 4 cars. Given that only two of us can legally drive, it's probably reasonable that we would own two :)
 
@@ -309,7 +309,7 @@ Going down to one car gave us more time together, more exercise, and one less lo
 
 With these four big changes, we've gotten more time to focus on things we enjoy, improved our health, kept organized, saved money and gotten more quality time together as a family.
 
-If you've got more stuff than us, remember - this isn't about judgment. The way we do things works well for us but it might not be right for you. If your extra [stuff is bringing you joy]({% post_url 2016-07-14-experience-or-stuff %}), more power to you.
+If you've got more stuff than us, remember - this isn't about judgment. The way we do things works well for us but it might not be right for you. If your extra [stuff is bringing you joy]({{ site.url }}{% post_url 2016-07-14-experience-or-stuff %}), more power to you.
 
 If it isn't though, maybe it's time to ask yourself whether you could be happier with less.
 
@@ -347,6 +347,6 @@ As you think about what areas you could cut in half, consider these guidelines t
 
     Harness this to find the things in your life that don't bring you happiness but eat up a lot of your attention and figure out how much you can cut
 
-![Axe stuck in log]({{ page.image-folder }}/axe.jpg)
+![Axe stuck in log]({{ site.url }}{{ page.image-folder }}/axe.jpg)
 
 _What do you think? What area of your life have you cut to create more happiness? If you don't have any yet, where could you start?_

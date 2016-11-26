@@ -25,10 +25,10 @@ It's no secret that I'm a _bit_ of a Microsoft Excel geek. It started with my ba
 
 I've written a number of detailed posts so far about the numbers behind all sorts of scenarios in life:
 
-- [How to Trick Yourself into Paying Off Your 30-year Mortgage in 12.4 years and Saving $68,000]({% post_url 2016-01-15-prepaying-mortgage-trick %})
-- [How kicking my soda habit is fueling my retirement]({% post_url 2016-03-14-soda-for-retirement %})
-- [How we saved $160,000 on our mortgage]({% post_url 2016-04-10-how-we-saved-on-our-mortgage %})
-- [When to Prepay Your Mortgage Instead of Investing]({% post_url 2016-06-05-prepay-vs-invest %})
+- [How to Trick Yourself into Paying Off Your 30-year Mortgage in 12.4 years and Saving $68,000]({{ site.url }}{% post_url 2016-01-15-prepaying-mortgage-trick %})
+- [How kicking my soda habit is fueling my retirement]({{ site.url }}{% post_url 2016-03-14-soda-for-retirement %})
+- [How we saved $160,000 on our mortgage]({{ site.url }}{% post_url 2016-04-10-how-we-saved-on-our-mortgage %})
+- [When to Prepay Your Mortgage Instead of Investing]({{ site.url }}{% post_url 2016-06-05-prepay-vs-invest %})
 
 I honestly had a ton of fun working out the spreadsheetery behind these (_yes, I'm going to pretend that "spreadsheetery" is a word. don't judge_) and I'm a firm believer that everyone can benefit knowing how use Excel to understand their financial options.
 
@@ -439,43 +439,43 @@ Go out and apply that knowledge!
 
 _Want to become a Spreadsheet black belt? Subscribe to my email list below to make sure you don't miss future posts and opportunities to learn more!_
 
-[amortization-1]: {{ page.image-folder }}/amortization-1-payment.png
-[amortization-2]: {{ page.image-folder }}/amortization-2-structure.png
-[amortization-3]: {{ page.image-folder }}/amortization-3-principal-start-month-1.png
-[amortization-4]: {{ page.image-folder }}/amortization-4-interest-month-1.png
-[amortization-5]: {{ page.image-folder }}/amortization-5-payment-month-1.png
-[amortization-6]: {{ page.image-folder }}/amortization-6-ppmt-month-1.png
-[amortization-7]: {{ page.image-folder }}/amortization-7-principal-end-month-1.png
-[amortization-8]: {{ page.image-folder }}/amortization-8-month-2.png
-[amortization-9]: {{ page.image-folder }}/amortization-9-principal-start-month-2.png
-[amortization-10]: {{ page.image-folder }}/amortization-10-month-2-fill.png
-[amortization-11]: {{ page.image-folder }}/amortization-11-paste-all.png
-[amortization-12]: {{ page.image-folder }}/amortization-12-prepay-problem-1.png
-[amortization-13]: {{ page.image-folder }}/amortization-13-prepay-fix-1.png
-[amortization-14]: {{ page.image-folder }}/amortization-14-prepay-problem-2.png
-[amortization-15]: {{ page.image-folder }}/amortization-15-prepay-fix-2.png
-[amortization-16]: {{ page.image-folder }}/amortization-16-prepay-problem-3.png
-[amortization-17]: {{ page.image-folder }}/amortization-17-prepay-fix-3.png
-[amortization-18]: {{ page.image-folder }}/amortization-18-summarize-interest.png
-[amortization-19]: {{ page.image-folder }}/amortization-19-summarize-total.png
-[amortization-20]: {{ page.image-folder }}/amortization-20-prepay-100.png
-[amortization-21]: {{ page.image-folder }}/amortization-21-prepay-100-summary.png
-[amortization-22]: {{ page.image-folder }}/amortization-22-prepay-200-summary.png
-[loan-1]: {{ page.image-folder }}/loan-1-inputs.png
-[loan-2]: {{ page.image-folder }}/loan-2-payment.png
-[loan-3]: {{ page.image-folder }}/loan-3-total-interest.png
-[loan-4]: {{ page.image-folder }}/loan-4-total-cost.png
-[loan-5]: {{ page.image-folder }}/loan-5-total-principal.png
-[loan-6]: {{ page.image-folder }}/loan-6-interest-remaining.png
-[loan-7]: {{ page.image-folder }}/loan-7-principal-remaining.png
-[loan-8]: {{ page.image-folder }}/loan-8-total-cost.png
-[refi-1]: {{ page.image-folder }}/refi-1-highlight.png
-[refi-2]: {{ page.image-folder }}/refi-2-paste.png
-[refi-3]: {{ page.image-folder }}/refi-3-principal.png
-[refi-4]: {{ page.image-folder }}/refi-4-compare.png
-[refi-5]: {{ page.image-folder }}/refi-5-savings.png
-[refi-6]: {{ page.image-folder }}/refi-6-payment.png
-[grasshopper]: {{ page.image-folder }}/grasshopper.jpg
+[amortization-1]: {{ site.url }}{{ page.image-folder }}/amortization-1-payment.png
+[amortization-2]: {{ site.url }}{{ page.image-folder }}/amortization-2-structure.png
+[amortization-3]: {{ site.url }}{{ page.image-folder }}/amortization-3-principal-start-month-1.png
+[amortization-4]: {{ site.url }}{{ page.image-folder }}/amortization-4-interest-month-1.png
+[amortization-5]: {{ site.url }}{{ page.image-folder }}/amortization-5-payment-month-1.png
+[amortization-6]: {{ site.url }}{{ page.image-folder }}/amortization-6-ppmt-month-1.png
+[amortization-7]: {{ site.url }}{{ page.image-folder }}/amortization-7-principal-end-month-1.png
+[amortization-8]: {{ site.url }}{{ page.image-folder }}/amortization-8-month-2.png
+[amortization-9]: {{ site.url }}{{ page.image-folder }}/amortization-9-principal-start-month-2.png
+[amortization-10]: {{ site.url }}{{ page.image-folder }}/amortization-10-month-2-fill.png
+[amortization-11]: {{ site.url }}{{ page.image-folder }}/amortization-11-paste-all.png
+[amortization-12]: {{ site.url }}{{ page.image-folder }}/amortization-12-prepay-problem-1.png
+[amortization-13]: {{ site.url }}{{ page.image-folder }}/amortization-13-prepay-fix-1.png
+[amortization-14]: {{ site.url }}{{ page.image-folder }}/amortization-14-prepay-problem-2.png
+[amortization-15]: {{ site.url }}{{ page.image-folder }}/amortization-15-prepay-fix-2.png
+[amortization-16]: {{ site.url }}{{ page.image-folder }}/amortization-16-prepay-problem-3.png
+[amortization-17]: {{ site.url }}{{ page.image-folder }}/amortization-17-prepay-fix-3.png
+[amortization-18]: {{ site.url }}{{ page.image-folder }}/amortization-18-summarize-interest.png
+[amortization-19]: {{ site.url }}{{ page.image-folder }}/amortization-19-summarize-total.png
+[amortization-20]: {{ site.url }}{{ page.image-folder }}/amortization-20-prepay-100.png
+[amortization-21]: {{ site.url }}{{ page.image-folder }}/amortization-21-prepay-100-summary.png
+[amortization-22]: {{ site.url }}{{ page.image-folder }}/amortization-22-prepay-200-summary.png
+[loan-1]: {{ site.url }}{{ page.image-folder }}/loan-1-inputs.png
+[loan-2]: {{ site.url }}{{ page.image-folder }}/loan-2-payment.png
+[loan-3]: {{ site.url }}{{ page.image-folder }}/loan-3-total-interest.png
+[loan-4]: {{ site.url }}{{ page.image-folder }}/loan-4-total-cost.png
+[loan-5]: {{ site.url }}{{ page.image-folder }}/loan-5-total-principal.png
+[loan-6]: {{ site.url }}{{ page.image-folder }}/loan-6-interest-remaining.png
+[loan-7]: {{ site.url }}{{ page.image-folder }}/loan-7-principal-remaining.png
+[loan-8]: {{ site.url }}{{ page.image-folder }}/loan-8-total-cost.png
+[refi-1]: {{ site.url }}{{ page.image-folder }}/refi-1-highlight.png
+[refi-2]: {{ site.url }}{{ page.image-folder }}/refi-2-paste.png
+[refi-3]: {{ site.url }}{{ page.image-folder }}/refi-3-principal.png
+[refi-4]: {{ site.url }}{{ page.image-folder }}/refi-4-compare.png
+[refi-5]: {{ site.url }}{{ page.image-folder }}/refi-5-savings.png
+[refi-6]: {{ site.url }}{{ page.image-folder }}/refi-6-payment.png
+[grasshopper]: {{ site.url }}{{ page.image-folder }}/grasshopper.jpg
 
 [google-drive]: http://drive.google.com
 {: target="_blank"}

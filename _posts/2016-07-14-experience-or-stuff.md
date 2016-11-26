@@ -116,7 +116,7 @@ It pays to hear different viewpoints and understand how different people live, b
 [thrifty-link]: http://tools.keepthrifty.com
 {: target="_blank"}
 
-[roadtrip-post]: {% post_url 2016-07-06-roadtrip-recap %}
+[roadtrip-post]: {{ site.url }}{% post_url 2016-07-06-roadtrip-recap %}
 
 [gruen-transfer]: https://m.signalvnoise.com/the-gruen-transfer-getting-your-business-noticed-6b0c526bac5d#.h5lvxsj7i
 {: target="_blank"}

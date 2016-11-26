@@ -111,7 +111,7 @@ ___To get your own copy, here's a [link to the book on Amazon][the-more-of-less-
 
 [![The More of Less by Joshua Becker cover photo][the-more-of-less-cover]][the-more-of-less-amazon]
 
-[the-more-of-less-cover]: {{ page.image-folder }}/the-more-of-less-cover.jpg
+[the-more-of-less-cover]: {{ site.url }}{{ page.image-folder }}/the-more-of-less-cover.jpg
 
 [the-more-of-less-amazon]: http://amzn.to/2bExSjT
 {: target="_blank"}
@@ -125,4 +125,4 @@ ___To get your own copy, here's a [link to the book on Amazon][the-more-of-less-
 [the-hope-effect]: http://hopeeffect.com/
 {: target="_blank"}
 
-[living-with-less-post]: {% post_url 2016-01-20-living-with-less %}
+[living-with-less-post]: {{ site.url }}{% post_url 2016-01-20-living-with-less %}

@@ -70,9 +70,9 @@ Find me on [twitter][twitter-profile] and let me know how your challenges are go
 [thrifty-link]: http://tools.keepthrifty.com
 {: target="_blank"}
 
-[may-challenge-post]: {% post_url 2016-05-01-may-challenge-food %}
-[mid-month-update]: {% post_url 2016-05-16-may-challenge-food-update-1 %}
-[final-results]: {% post_url 2016-05-29-may-challenge-food-update-2 %}
+[may-challenge-post]: {{ site.url }}{% post_url 2016-05-01-may-challenge-food %}
+[mid-month-update]: {{ site.url }}{% post_url 2016-05-16-may-challenge-food-update-1 %}
+[final-results]: {{ site.url }}{% post_url 2016-05-29-may-challenge-food-update-2 %}
 
 [twitter-profile]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
@@ -89,5 +89,5 @@ Find me on [twitter][twitter-profile] and let me know how your challenges are go
 [frugalwoods-2]: http://www.frugalwoods.com/2014/07/14/breakfast-the-hidden-destroyer/
 {: target="_blank"}
 
-[may-2016-final-eating-out]: /img/posts/2016-05-29-may-challenge-food-update-2/may-2016-final-update-eating-out.png
-[may-2016-final-grocery]: /img/posts/2016-05-29-may-challenge-food-update-2//may-2016-final-update-grocery.png
+[may-2016-final-eating-out]: {{ site.url }}/img/posts/2016-05-29-may-challenge-food-update-2/may-2016-final-update-eating-out.png
+[may-2016-final-grocery]: {{ site.url }}/img/posts/2016-05-29-may-challenge-food-update-2//may-2016-final-update-grocery.png

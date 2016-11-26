@@ -202,18 +202,18 @@ Our mortgage is the last piece of that and as you can see we've been working har
 
 What's your financial journey look like? Drop me a note in the comments below or [tweet me][tweet-me] with your thoughts.
 
-[mortgage-math-101]: {% post_url 2016-04-04-mortgage-math-101 %}
+[mortgage-math-101]: {{ site.url }}{% post_url 2016-04-04-mortgage-math-101 %}
 
 [tweet-me]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
 
-[original-vs-refinance]: {{ page.image-folder }}/original-vs-refinance.png
-[original-vs-15-yr]: {{ page.image-folder }}/original-vs-15-yr.png
+[original-vs-refinance]: {{ site.url }}{{ page.image-folder }}/original-vs-refinance.png
+[original-vs-15-yr]: {{ site.url }}{{ page.image-folder }}/original-vs-15-yr.png
 
-[original-vs-refi-1]: {{ page.image-folder }}/mortgage-refi1.png
-[refi1-vs-refi-2]: {{ page.image-folder }}/mortgage-refi2.png
-[refi2-vs-refi-3]: {{ page.image-folder }}/mortgage-refi3.png
-[refi3-vs-current-plan]: {{ page.image-folder }}/mortgage-current-plan.png
-[total-picture]: {{ page.image-folder }}/mortgage-total-picture.png
+[original-vs-refi-1]: {{ site.url }}{{ page.image-folder }}/mortgage-refi1.png
+[refi1-vs-refi-2]: {{ site.url }}{{ page.image-folder }}/mortgage-refi2.png
+[refi2-vs-refi-3]: {{ site.url }}{{ page.image-folder }}/mortgage-refi3.png
+[refi3-vs-current-plan]: {{ site.url }}{{ page.image-folder }}/mortgage-current-plan.png
+[total-picture]: {{ site.url }}{{ page.image-folder }}/mortgage-total-picture.png
 
-[bam]: {{ page.image-folder }}/bam.jpg
+[bam]: {{ site.url }}{{ page.image-folder }}/bam.jpg

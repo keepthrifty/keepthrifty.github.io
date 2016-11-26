@@ -264,7 +264,7 @@ Stay tuned!
 [tweet-me]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
 
-[save-on-mortgage]: {% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
+[save-on-mortgage]: {{ site.url }}{% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
 
-[mortgage-formula]: {{ page.image-folder }}/monthly-payment.jpg
-[amortization-table]: {{ page.image-folder }}/amortization-table.png
+[mortgage-formula]: {{ site.url }}{{ page.image-folder }}/monthly-payment.jpg
+[amortization-table]: {{ site.url }}{{ page.image-folder }}/amortization-table.png

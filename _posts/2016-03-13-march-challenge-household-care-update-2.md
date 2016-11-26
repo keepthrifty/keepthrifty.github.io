@@ -55,11 +55,11 @@ Hope you're on track as well. Find me on [twitter][twitter-profile] and let me k
 [twitter-profile]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
 
-[march-week-2-summary]: {{ page.image-folder }}/march-2016-w2-summary.png
+[march-week-2-summary]: {{ site.url }}{{ page.image-folder }}/march-2016-w2-summary.png
 
-[march-challenge-post]: {% post_url 2016-02-28-march-challenge-household-care %}
-[week-1-update]: {% post_url 2016-03-06-march-challenge-household-care-update-1 %}
-[week-2-update]: {% post_url 2016-03-13-march-challenge-household-care-update-2 %}
-[week-3-update]: {% post_url 2016-03-20-march-challenge-household-care-update-3 %}
-[week-4-update]: {% post_url 2016-03-27-march-challenge-household-care-update-4 %}
-[final-results]: {% post_url 2016-04-03-march-challenge-household-care-update-5 %}
+[march-challenge-post]: {{ site.url }}{% post_url 2016-02-28-march-challenge-household-care %}
+[week-1-update]: {{ site.url }}{% post_url 2016-03-06-march-challenge-household-care-update-1 %}
+[week-2-update]: {{ site.url }}{% post_url 2016-03-13-march-challenge-household-care-update-2 %}
+[week-3-update]: {{ site.url }}{% post_url 2016-03-20-march-challenge-household-care-update-3 %}
+[week-4-update]: {{ site.url }}{% post_url 2016-03-27-march-challenge-household-care-update-4 %}
+[final-results]: {{ site.url }}{% post_url 2016-04-03-march-challenge-household-care-update-5 %}

@@ -175,4 +175,4 @@ Head to [http://tools.keepthrifty.com/][thrifty] to try it out!
 [thrifty]: http://tools.keepthrifty.com/
 {: target="_blank"}
 
-[paydown-chart]: {{ page.image-folder }}/mortgage-paydown-chart.png "Mortgage paydown chart"
+[paydown-chart]: {{ site.url }}{{ page.image-folder }}/mortgage-paydown-chart.png "Mortgage paydown chart"

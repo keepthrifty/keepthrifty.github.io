@@ -57,7 +57,7 @@ It was the time to clear out the unused and old to make room for the new.
 
 # Beyond technology #
 
-One of my favorite anecdotes from The More of Less by Joshua Becker (see my [recent review here]({% post_url 2016-08-28-the-more-of-less-review %})) was a story from Ryan Nicodemus of The Minimalists.
+One of my favorite anecdotes from The More of Less by Joshua Becker (see my [recent review here]({{ site.url }}{% post_url 2016-08-28-the-more-of-less-review %})) was a story from Ryan Nicodemus of The Minimalists.
 
 Frustrated with the life he had been leading, Ryan needed to do something drastic to make a change. He and Joshua Fields Millburn came up with the idea of a "[Packing Party](http://www.theminimalists.com/packing/){: target="_blank"}"
 
@@ -91,4 +91,4 @@ Whether it's digital clutter, physical clutter, or even mental clutter (maybe yo
 
 On the flip side: {% include tweet-link.html %}
 
-![Picture of seedling growing]({{ page.image-folder }}/new-growth.jpg)
+![Picture of seedling growing]({{ site.url }}{{ page.image-folder }}/new-growth.jpg)

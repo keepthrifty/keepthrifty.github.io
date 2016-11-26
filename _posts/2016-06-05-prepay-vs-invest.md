@@ -137,9 +137,9 @@ As always, you can find me on [twitter][twitter-link] or leave a comment in the 
 
 Thrift on, rockstars!
 
-[how-we-saved-on-mortgage]: {% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
-[prepaying-mortgage-trick]: {% post_url 2016-01-15-prepaying-mortgage-trick %}
-[mortgage-math-101]:        {% post_url 2016-04-04-mortgage-math-101 %}
+[how-we-saved-on-mortgage]: {{ site.url }}{% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
+[prepaying-mortgage-trick]: {{ site.url }}{% post_url 2016-01-15-prepaying-mortgage-trick %}
+[mortgage-math-101]:        {{ site.url }}{% post_url 2016-04-04-mortgage-math-101 %}
 
 [twitter-link]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
@@ -147,8 +147,8 @@ Thrift on, rockstars!
 [tweet-quote]: https://twitter.com/intent/tweet?text=%22Before%20you%20make%20any%20major%20financial%20decision%2C%20do%20the%20math%20and%20know%20your%20mentality%22%20https%3A%2F%2Fwww.keepthrifty.com%2Fmortgages%2F2016%2F06%2F05%2Fprepay-vs-invest.html%20via%20%40keepthrifty&source=clicktotweet&related=clicktotweet
 {: target="_blank"}
 
-[mortgage-balance]: /img/posts/2016-06-05-prepay-vs-invest/june-2016-mortgage.png
+[mortgage-balance]: {{ site.url }}/img/posts/2016-06-05-prepay-vs-invest/june-2016-mortgage.png
 {: target="_blank"}
 
-[prepay-vs-invest-chart]: /img/posts/2016-06-05-prepay-vs-invest/prepay-vs-invest-chart.png
+[prepay-vs-invest-chart]: {{ site.url }}/img/posts/2016-06-05-prepay-vs-invest/prepay-vs-invest-chart.png
 {: target="_blank"}

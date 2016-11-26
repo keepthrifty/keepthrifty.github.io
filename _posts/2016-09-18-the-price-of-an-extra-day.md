@@ -65,7 +65,7 @@ The most fun part for me here was to crunch my numbers and see a few things:
 2. For every day of work, I bank 3.1 days of retirement just based on 401k contributions (mine and company match). When you throw in our current additional savings from take-home pay, it goes up to 6.3 days banked per day worked
 3. For the low price of $24.47, I can buy a day of retirement
 
-![Barney Stinson from How I Met Your Mother - Mind Blown]({{ page.image-folder }}/mind-blown.gif)
+![Barney Stinson from How I Met Your Mother - Mind Blown]({{ site.url }}{{ page.image-folder }}/mind-blown.gif)
 <div class="image-caption">Mind blown!</div>
 
 {% assign tweet-text = "I can buy a day of FI for $25" %}
@@ -95,12 +95,12 @@ I apologize for the poor quality; I had to do this on paper and take pictures to
 
 Someday I'll have an awesome whiteboard in our house and I can make these kinds of presentations prettier :)
 
-![Computation of balance required for 4% safe withdrawal rate]({{ page.image-folder }}/math-1.jpg)
-![Computations of account balance and expected expenses based on growth and inflation respectively]({{ page.image-folder }}/math-2.jpg)
-![Computation of estimated years to retirement]({{ page.image-folder }}/math-3.jpg)
-![Explanation of adding some small contribution today]({{ page.image-folder }}/math-4.jpg)
-![Computation of time saved due to additional contribution]({{ page.image-folder }}/math-5.jpg)
-![Computation of cost of a known time amount]({{ page.image-folder }}/math-6.jpg)
+![Computation of balance required for 4% safe withdrawal rate]({{ site.url }}{{ page.image-folder }}/math-1.jpg)
+![Computations of account balance and expected expenses based on growth and inflation respectively]({{ site.url }}{{ page.image-folder }}/math-2.jpg)
+![Computation of estimated years to retirement]({{ site.url }}{{ page.image-folder }}/math-3.jpg)
+![Explanation of adding some small contribution today]({{ site.url }}{{ page.image-folder }}/math-4.jpg)
+![Computation of time saved due to additional contribution]({{ site.url }}{{ page.image-folder }}/math-5.jpg)
+![Computation of cost of a known time amount]({{ site.url }}{{ page.image-folder }}/math-6.jpg)
 
 {% assign tweet-text = "Did you ever think you'd use logarithms again?" %}
 
@@ -116,7 +116,7 @@ I anticipate creating more calculators like these in the future. People who want
 
 # Spreadsheet Teaser #
 
-For the spreadsheet fanatics out there, I've got a treat for you. Next weeks post will revisit today's topic and we'll go through putting all of this in a spreadsheet. I'll show you from scratch how to take these simple calculators and juice them up with graphs into a nice little dashboard. Check out the [Price of a Day of Retirement Spreadsheet Guide]({% post_url 2016-09-25-the-price-of-an-extra-day-spreadsheet-edition %}) now!
+For the spreadsheet fanatics out there, I've got a treat for you. Next weeks post will revisit today's topic and we'll go through putting all of this in a spreadsheet. I'll show you from scratch how to take these simple calculators and juice them up with graphs into a nice little dashboard. Check out the [Price of a Day of Retirement Spreadsheet Guide]({{ site.url }}{% post_url 2016-09-25-the-price-of-an-extra-day-spreadsheet-edition %}) now!
 
 # What's a Day Worth to You? #
 

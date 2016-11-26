@@ -86,8 +86,8 @@ Find me on [twitter][twitter-profile] and let me know how you're doing so far th
 [twitter-profile]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
 
-[april-2016-mid-month]: /img/posts/2016-04-17-april-challenge-grocery-update-1/april-2016-mid-month.png
+[april-2016-mid-month]: {{ site.url }}/img/posts/2016-04-17-april-challenge-grocery-update-1/april-2016-mid-month.png
 
-[april-challenge-post]: {% post_url 2016-03-28-april-challenge-grocery %}
-[mid-month-update]: {% post_url 2016-04-17-april-challenge-grocery-update-1 %}
-[final-results-post]: {% post_url 2016-05-01-april-challenge-grocery-update-2 %}
+[april-challenge-post]: {{ site.url }}{% post_url 2016-03-28-april-challenge-grocery %}
+[mid-month-update]: {{ site.url }}{% post_url 2016-04-17-april-challenge-grocery-update-1 %}
+[final-results-post]: {{ site.url }}{% post_url 2016-05-01-april-challenge-grocery-update-2 %}

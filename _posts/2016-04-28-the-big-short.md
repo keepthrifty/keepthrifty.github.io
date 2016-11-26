@@ -133,8 +133,8 @@ _Or maybe you wish you would have known something before you made a decision tha
 
 _I encourage you to share them in the comments section below so others can learn from your experience._
 
-[mortgage-math-101]: {% post_url 2016-04-04-mortgage-math-101 %}
-[how-we-saved-on-our-mortgage]: {% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
+[mortgage-math-101]: {{ site.url }}{% post_url 2016-04-04-mortgage-math-101 %}
+[how-we-saved-on-our-mortgage]: {{ site.url }}{% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
 
 [khan-academy-mortgages]: https://www.khanacademy.org/economics-finance-domain/core-finance/housing/mortgages-tutorial
 {: target="_blank"}
@@ -142,7 +142,7 @@ _I encourage you to share them in the comments section below so others can learn
 [bankrate-rates]: http://www.bankrate.com/finance/mortgage-rates-history-0112.aspx
 {: target="_blank"}
 
-[schmidt-picture]: {{ page.image-folder }}/the-big-short-schmidt.jpg
+[schmidt-picture]: {{ site.url }}{{ page.image-folder }}/the-big-short-schmidt.jpg
 
 [amazon-big-short]: http://amzn.to/25aPSsk
 {: target="_blank"}

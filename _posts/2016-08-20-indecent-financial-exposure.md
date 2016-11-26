@@ -208,7 +208,7 @@ If you haven't been tracking your finances, I encourage you to sign up for [Thri
 [thrifty-link]: http://tools.keepthrifty.com
 {: target="_blank"}
 
-[total-spending]: {{ page.image-folder }}/total-spending.jpg
+[total-spending]: {{ site.url }}{{ page.image-folder }}/total-spending.jpg
 
 [the-hope-effect]: http://www.hopeeffect.com
 {: target="_blank"}
@@ -216,13 +216,13 @@ If you haven't been tracking your finances, I encourage you to sign up for [Thri
 [becoming-minimalist]: http://www.becomingminimalist.com
 {: target="_blank"}
 
-[payoff-mortgage-post]: {% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
+[payoff-mortgage-post]: {{ site.url }}{% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
 
-[road-trip-post]: {% post_url 2016-07-06-roadtrip-recap %}
+[road-trip-post]: {{ site.url }}{% post_url 2016-07-06-roadtrip-recap %}
 
-[fashion-post]: {% post_url 2016-06-13-escape-fashion-trap-part-1 %}
+[fashion-post]: {{ site.url }}{% post_url 2016-06-13-escape-fashion-trap-part-1 %}
 
-[engagement-ring-post]: {% post_url 2016-03-23-engagement-ring-sold %}
+[engagement-ring-post]: {{ site.url }}{% post_url 2016-03-23-engagement-ring-sold %}
 
 [christmas-spending]: http://www.elledecor.com/life-culture/a8093/how-much-people-spend-on-christmas-gifts/
 {: target="_blank"}

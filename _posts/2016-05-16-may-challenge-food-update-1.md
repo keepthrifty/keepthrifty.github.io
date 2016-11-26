@@ -74,9 +74,9 @@ Stay tuned :)
 
 Find me on [twitter][twitter-profile] and let me know how you're doing so far this month!
 
-[may-challenge-post]: {% post_url 2016-05-01-may-challenge-food %}
-[mid-month-update]: {% post_url 2016-05-16-may-challenge-food-update-1 %}
-[final-results]: {% post_url 2016-05-29-may-challenge-food-update-2 %}
+[may-challenge-post]: {{ site.url }}{% post_url 2016-05-01-may-challenge-food %}
+[mid-month-update]: {{ site.url }}{% post_url 2016-05-16-may-challenge-food-update-1 %}
+[final-results]: {{ site.url }}{% post_url 2016-05-29-may-challenge-food-update-2 %}
 
 [twitter-profile]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
@@ -84,7 +84,7 @@ Find me on [twitter][twitter-profile] and let me know how you're doing so far th
 [thrifty-link]: http://tools.keepthrifty.com
 {: target="_blank"}
 
-[may-2016-mid-month-eating-out]: {{ page.image-folder }}/may-2016-mid-month-update-eating-out.png
-[may-2016-mid-month-grocery]: {{ page.image-folder }}/may-2016-mid-month-update-grocery.png
-[may-2016-mid-month-eating-out-detail]: {{ page.image-folder }}/may-2016-mid-month-update-eating-out-detail.png
-[may-2016-mid-month-grocery-detail]: {{ page.image-folder }}/may-2016-mid-month-update-grocery-detail.png
+[may-2016-mid-month-eating-out]: {{ site.url }}{{ page.image-folder }}/may-2016-mid-month-update-eating-out.png
+[may-2016-mid-month-grocery]: {{ site.url }}{{ page.image-folder }}/may-2016-mid-month-update-grocery.png
+[may-2016-mid-month-eating-out-detail]: {{ site.url }}{{ page.image-folder }}/may-2016-mid-month-update-eating-out-detail.png
+[may-2016-mid-month-grocery-detail]: {{ site.url }}{{ page.image-folder }}/may-2016-mid-month-update-grocery-detail.png

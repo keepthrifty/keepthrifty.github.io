@@ -37,7 +37,7 @@ I've been wanting to write a post on this for a while and, thanks to some encour
 
 ## Income Matters
 
-![Screen for selecting your career in Oregon Trail](/img/posts/2016-11-20-money-life-lessons-oregon-trail/income-matters-some.png)
+![Screen for selecting your career in Oregon Trail]({{ site.url }}/img/posts/2016-11-20-money-life-lessons-oregon-trail/income-matters-some.png)
 
 One of the first steps _The Oregon Trail_ is choose your profession. Do you want to be a banker and use your loads of cash to fund the trip? Maybe it's more fun to be a farmer and try to scrap your way through.
 
@@ -61,7 +61,7 @@ It's not that easy, but you __do__ have power to do something about it.
 
 ## Self-Provision to Make Up for Income
 
-![Screenshot of hunting bison in The Oregon Trail](/img/posts/2016-11-20-money-life-lessons-oregon-trail/self-provisioning.jpg)
+![Screenshot of hunting bison in The Oregon Trail]({{ site.url }}/img/posts/2016-11-20-money-life-lessons-oregon-trail/self-provisioning.jpg)
 
 For those of us that spent countless hours figuring out how to optimize our odds of making it in _The Oregon Trail_, one thing was clear:
 
@@ -87,7 +87,7 @@ Plant a garden in your backyard or change your own oil. You can save a ton of mo
 
 ## Don't Get Greedy - Be Judicious
 
-![Screenshot of food carrying limit in The Oregon Trail](/img/posts/2016-11-20-money-life-lessons-oregon-trail/dont-get-greedy.png)
+![Screenshot of food carrying limit in The Oregon Trail]({{ site.url }}/img/posts/2016-11-20-money-life-lessons-oregon-trail/dont-get-greedy.png)
 
 Hunting is one of the keys to making it through the game, but everyone inevitably ran into one frustrating scenario.
 
@@ -113,7 +113,7 @@ Don't make your life's goal to be the collection of money.
 
 ## Plan Ahead - Save for Risks
 
-![Screenshot of wagon tipped over in a river](/img/posts/2016-11-20-money-life-lessons-oregon-trail/plan-ahead.jpg)
+![Screenshot of wagon tipped over in a river]({{ site.url }}/img/posts/2016-11-20-money-life-lessons-oregon-trail/plan-ahead.jpg)
 
 Do you ford the river or caulk it and float across?
 
@@ -139,7 +139,7 @@ If you want some help, check out this article from Ms. Montana for some good poi
 
 ## Take Care of Yourself - And Others
 
-![Screenshot of losing the game because of dysentery](/img/posts/2016-11-20-money-life-lessons-oregon-trail/take-care-of-yourself-and-others.jpg)
+![Screenshot of losing the game because of dysentery]({{ site.url }}/img/posts/2016-11-20-money-life-lessons-oregon-trail/take-care-of-yourself-and-others.jpg)
 
 If you played _The Oregon Trail_ as a kid, then you know what it's like to die of dysentery. Not literally of course, but this way of losing was about the worst.
 

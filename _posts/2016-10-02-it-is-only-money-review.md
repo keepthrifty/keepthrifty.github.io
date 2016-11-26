@@ -84,7 +84,7 @@ With that new knowledge and the lessons you'll learn about the other views out t
 
 ___To get your own copy, here's a [link to the book on Amazon][it-is-only-money-amazon]___
 
-[![It Is Only Money and It Grows On Trees cover]({{ page.image-folder}}/it-is-only-money-full.jpg)][it-is-only-money-amazon]
+[![It Is Only Money and It Grows On Trees cover]({{ site.url }}{{ page.image-folder}}/it-is-only-money-full.jpg)][it-is-only-money-amazon]
 
 > What does money mean to you? Success or stress? Obligation or opportunity? Freedom or burden? How does that meaning shape your behavior?
 

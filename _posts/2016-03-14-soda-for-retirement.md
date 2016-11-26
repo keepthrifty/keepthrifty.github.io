@@ -138,9 +138,9 @@ _What is one recurring expense that you could really live without?_
 [tweet-me]: https://twitter.com/intent/tweet?text=%40keepthrifty%20I%27m%20filling%20my%20retirement%20savings%20by%20cutting%20___%20https%3A%2F%2Fwww.keepthrifty.com%2F2016%2F03%2F14%2Fsoda-for-retirement.html&source=clicktotweet&related=clicktotweet
 {: target="_blank"}
 
-[coffee-cup]: {{ page.image-folder }}/coffee-cup.jpg
-[coffee-vs-dew]: {{ page.image-folder }}/coffee-vs-dew.jpg
-[stop-the-music]: {{ page.image-folder }}/stop-the-music.jpg
+[coffee-cup]: {{ site.url }}{{ page.image-folder }}/coffee-cup.jpg
+[coffee-vs-dew]: {{ site.url }}{{ page.image-folder }}/coffee-vs-dew.jpg
+[stop-the-music]: {{ site.url }}{{ page.image-folder }}/stop-the-music.jpg
 
 [ham-beach-80350]: http://amzn.to/203QIju
 {: target="_blank"}

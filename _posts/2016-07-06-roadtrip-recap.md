@@ -141,17 +141,17 @@ We're already starting to draft our trip next year - covering the Northeast. If 
 [tweet-quote]: https://twitter.com/intent/tweet?text=You%20get%20to%20write%20the%20tone%20of%20your%20story%20-%20how%20will%20it%20read%3F%20https%3A%2F%2Fwww.keepthrifty.com%2F2016%2F07%2F06%2Froadtrip-recap.html%20via%20%40keepthrifty&source=clicktotweet&related=clicktotweet
 {: target="_blank"}
 
-[yellowstone-image]: {{ page.image-folder }}/roadtrip-yellowstone.jpg
-[rushmore-image]: {{ page.image-folder }}/roadtrip-rushmore.jpg
-[rainier-image]: {{ page.image-folder }}/roadtrip-rainier.jpg
-[kootenai-image]: {{ page.image-folder }}/roadtrip-kootenai.jpg
-[glacier-image]: {{ page.image-folder }}/roadtrip-glacier.jpg
-[cannon-beach-image]: {{ page.image-folder }}/roadtrip-cannon-beach.jpg
-[cannon-beach-family]: {{ page.image-folder }}/roadtrip-beach.jpg
+[yellowstone-image]: {{ site.url }}{{ page.image-folder }}/roadtrip-yellowstone.jpg
+[rushmore-image]: {{ site.url }}{{ page.image-folder }}/roadtrip-rushmore.jpg
+[rainier-image]: {{ site.url }}{{ page.image-folder }}/roadtrip-rainier.jpg
+[kootenai-image]: {{ site.url }}{{ page.image-folder }}/roadtrip-kootenai.jpg
+[glacier-image]: {{ site.url }}{{ page.image-folder }}/roadtrip-glacier.jpg
+[cannon-beach-image]: {{ site.url }}{{ page.image-folder }}/roadtrip-cannon-beach.jpg
+[cannon-beach-family]: {{ site.url }}{{ page.image-folder }}/roadtrip-beach.jpg
 
-[happy-van]: {{ page.image-folder }}/happy-van.jpg
+[happy-van]: {{ site.url }}{{ page.image-folder }}/happy-van.jpg
 
-[engagement-ring-post]: {% post_url 2016-03-23-engagement-ring-sold %}
+[engagement-ring-post]: {{ site.url }}{% post_url 2016-03-23-engagement-ring-sold %}
 
 [shawn-achor-happiness-ted]: https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work?language=en]
 {: target="_blank"}

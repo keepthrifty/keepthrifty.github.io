@@ -60,11 +60,11 @@ Find me on [twitter][twitter-profile] and let me know how your challenges are go
 [twitter-profile]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
 
-[april-2016-final]: /img/posts/2016-05-01-april-challenge-grocery-update-2/april-2016-final.png
-[april-2016-grocery-chart]: /img/posts/2016-05-01-april-challenge-grocery-update-2/april-2016-grocery-chart.png
+[april-2016-final]: {{ site.url }}/img/posts/2016-05-01-april-challenge-grocery-update-2/april-2016-final.png
+[april-2016-grocery-chart]: {{ site.url }}/img/posts/2016-05-01-april-challenge-grocery-update-2/april-2016-grocery-chart.png
 
-[april-challenge-post]: {% post_url 2016-03-28-april-challenge-grocery %}
-[mid-month-update]: {% post_url 2016-04-17-april-challenge-grocery-update-1 %}
-[final-results-post]: {% post_url 2016-05-01-april-challenge-grocery-update-2 %}
+[april-challenge-post]: {{ site.url }}{% post_url 2016-03-28-april-challenge-grocery %}
+[mid-month-update]: {{ site.url }}{% post_url 2016-04-17-april-challenge-grocery-update-1 %}
+[final-results-post]: {{ site.url }}{% post_url 2016-05-01-april-challenge-grocery-update-2 %}
 
-[may-challenge-post]: {% post_url 2016-05-01-may-challenge-food %}
+[may-challenge-post]: {{ site.url }}{% post_url 2016-05-01-may-challenge-food %}

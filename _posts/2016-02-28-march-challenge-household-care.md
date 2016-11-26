@@ -132,7 +132,7 @@ Will all of these changes add up to $155 a month? We know from January that itâ€
 
 Are you ready to join the challenge? Share your thoughts in the comments below or [tweet me][tweet-link] with your goals, plan, or progress!
 
-[keepthrifty-experiment]: {% post_url 2016-02-22-keepthrifty-experiment %}
+[keepthrifty-experiment]: {{ site.url }}{% post_url 2016-02-22-keepthrifty-experiment %}
 
 [cleaning-out-wallet]: http://www.mrmoneymustache.com/2013/12/30/are-you-cleaning-out-your-own-wallet/
 {: target="_blank"}
@@ -161,15 +161,15 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20Keep%20Thrifty%20Experiment!
 {: target="_blank"}
 
-[household-care-chart]: {{ page.image-folder }}/household-care-feb.png
-[household-care-summary]: {{ page.image-folder }}/household-care-feb-summary.png
+[household-care-chart]: {{ site.url }}{{ page.image-folder }}/household-care-feb.png
+[household-care-summary]: {{ site.url }}{{ page.image-folder }}/household-care-feb-summary.png
 
-[march-challenge-post]: {% post_url 2016-02-28-march-challenge-household-care %}
-[week-1-update]: {% post_url 2016-03-06-march-challenge-household-care-update-1 %}
-[week-2-update]: {% post_url 2016-03-13-march-challenge-household-care-update-2 %}
-[week-3-update]: {% post_url 2016-03-20-march-challenge-household-care-update-3 %}
-[week-4-update]: {% post_url 2016-03-27-march-challenge-household-care-update-4 %}
-[final-results]: {% post_url 2016-04-03-march-challenge-household-care-update-5 %}
+[march-challenge-post]: {{ site.url }}{% post_url 2016-02-28-march-challenge-household-care %}
+[week-1-update]: {{ site.url }}{% post_url 2016-03-06-march-challenge-household-care-update-1 %}
+[week-2-update]: {{ site.url }}{% post_url 2016-03-13-march-challenge-household-care-update-2 %}
+[week-3-update]: {{ site.url }}{% post_url 2016-03-20-march-challenge-household-care-update-3 %}
+[week-4-update]: {{ site.url }}{% post_url 2016-03-27-march-challenge-household-care-update-4 %}
+[final-results]: {{ site.url }}{% post_url 2016-04-03-march-challenge-household-care-update-5 %}
 
 [worm-composter]: http://amzn.to/1Xi5ja1
 {: target="_blank"}

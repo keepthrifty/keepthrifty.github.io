@@ -122,8 +122,8 @@ One hitch this month is the fact that we grocery shop on Saturdays and this mont
 
 Are you ready to join the challenge? Share your thoughts in the comments below or [tweet me][tweet-link] with your goals, plan, or progress!
 
-[keepthrifty-experiment]: {% post_url 2016-02-22-keepthrifty-experiment %}
-[march-challenge-post]: {% post_url 2016-02-28-march-challenge-household-care %}
+[keepthrifty-experiment]: {{ site.url }}{% post_url 2016-02-22-keepthrifty-experiment %}
+[march-challenge-post]: {{ site.url }}{% post_url 2016-02-28-march-challenge-household-care %}
 
 [soylent]: https://www.soylent.com/
 {: target="_blank"}
@@ -155,9 +155,9 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20Keep%20Thrifty%20Experiment!
 {: target="_blank"}
 
-[challenge-chart]: /img/posts/2016-03-28-april-challenge-grocery/groceries-mar.png
-[challenge-summary]: /img/posts/2016-03-28-april-challenge-grocery/groceries-mar-summary.png
+[challenge-chart]: {{ site.url }}/img/posts/2016-03-28-april-challenge-grocery/groceries-mar.png
+[challenge-summary]: {{ site.url }}/img/posts/2016-03-28-april-challenge-grocery/groceries-mar-summary.png
 
-[april-challenge-post]: {% post_url 2016-03-28-april-challenge-grocery %}
-[mid-month-update]: {% post_url 2016-04-17-april-challenge-grocery-update-1 %}
-[final-results-post]: {% post_url 2016-05-01-april-challenge-grocery-update-2 %}
+[april-challenge-post]: {{ site.url }}{% post_url 2016-03-28-april-challenge-grocery %}
+[mid-month-update]: {{ site.url }}{% post_url 2016-04-17-april-challenge-grocery-update-1 %}
+[final-results-post]: {{ site.url }}{% post_url 2016-05-01-april-challenge-grocery-update-2 %}

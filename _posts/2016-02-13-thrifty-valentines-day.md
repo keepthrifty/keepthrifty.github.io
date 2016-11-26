@@ -109,10 +109,10 @@ Overall, I’d say it’s the best one we’ve had yet and I can attribute a lot
 
 I hope your Valentine’s day is filled with love, experiences, and togetherness. As always, don’t forget to Keep Thrifty.
 
-[thrifty-resolution-post]: {% post_url 2016-01-01-one-word-resolution %}
+[thrifty-resolution-post]: {{ site.url }}{% post_url 2016-01-01-one-word-resolution %}
 [charlies-on-main]: http://charliesmainevent.com/
 {: target="_blank"}
 
-[jaime-on-the-square]: {{ page.image-folder }}/jaime-on-the-square.jpg "My wife on our walk outside"
-[chris-on-the-square]: {{ page.image-folder }}/chris-on-the-square.jpg "Me on our walk outside with a cross-country ski track in the road"
+[jaime-on-the-square]: {{ site.url }}{{ page.image-folder }}/jaime-on-the-square.jpg "My wife on our walk outside"
+[chris-on-the-square]: {{ site.url }}{{ page.image-folder }}/chris-on-the-square.jpg "Me on our walk outside with a cross-country ski track in the road"
 [snow-sculptures]: {{ page.image-folder }}/snow-sculptures.jpg "Snow sculptures in progress"

@@ -273,13 +273,13 @@ Search for a challenge; search for purpose; search for a chance to work on your 
 [karate-kid]: https://www.youtube.com/watch?v=Bg21M2zwG9Q
 {: target="_blank"}
 
-[cubicles]: {{ page.image-folder }}/cubicles.jpg
-[files]: {{ page.image-folder }}/files.jpg
-[old-computer]: {{ page.image-folder }}/old-computer.jpg
-[restaurant]: {{ page.image-folder }}/restaurant.jpg
-[babysitting]: {{ page.image-folder }}/babysitting.jpg
-[cigarette-butts]: {{ page.image-folder }}/cigarette-butts.jpg
-[storage-units]: {{ page.image-folder }}/storage-units.jpg
-[parking-lot]: {{ page.image-folder }}/parking-lot.jpg
+[cubicles]: {{ site.url }}{{ page.image-folder }}/cubicles.jpg
+[files]: {{ site.url }}{{ page.image-folder }}/files.jpg
+[old-computer]: {{ site.url }}{{ page.image-folder }}/old-computer.jpg
+[restaurant]: {{ site.url }}{{ page.image-folder }}/restaurant.jpg
+[babysitting]: {{ site.url }}{{ page.image-folder }}/babysitting.jpg
+[cigarette-butts]: {{ site.url }}{{ page.image-folder }}/cigarette-butts.jpg
+[storage-units]: {{ site.url }}{{ page.image-folder }}/storage-units.jpg
+[parking-lot]: {{ site.url }}{{ page.image-folder }}/parking-lot.jpg
 
-[fashion-trap]: {% post_url 2016-06-13-escape-fashion-trap-part-1 %}
+[fashion-trap]: {{ site.url }}{% post_url 2016-06-13-escape-fashion-trap-part-1 %}

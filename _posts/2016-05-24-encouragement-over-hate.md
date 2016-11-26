@@ -115,7 +115,7 @@ That said, you're on the right track and you'll accomplish great things if you k
 
 _Any other thoughts on dealing with the naysayers and haters? Leave a comment below or find me on [Twitter][twitter-link] with your thoughts!_
 
-[one-word-resolution-post]: {% post_url 2016-01-01-one-word-resolution %}
+[one-word-resolution-post]: {{ site.url }}{% post_url 2016-01-01-one-word-resolution %}
 
 [romans-2-12]: https://www.biblegateway.com/passage/?search=Romans+12&version=NIV
 {: target="_blank"}
@@ -141,5 +141,5 @@ _Any other thoughts on dealing with the naysayers and haters? Leave a comment be
 [twitter-link]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
 
-[quote-theodore-roosevelt]: {{ page.image-folder }}/quote-theodore-roosevelt.jpg
-[quote-helen-keller]: {{ page.image-folder}}/quote-helen-keller.jpg
+[quote-theodore-roosevelt]: {{ site.url }}{{ page.image-folder }}/quote-theodore-roosevelt.jpg
+[quote-helen-keller]: {{ site.url }}{{ page.image-folder}}/quote-helen-keller.jpg

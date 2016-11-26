@@ -142,9 +142,9 @@ Good luck and keep thrifty!
 
 _Did you have a great/terrible experience with your last car purchase? Help others with what you learned in the comments below or find me on [twitter][twitter-link]_
 
-[smokey-bear]: {{ page.image-folder }}/smokey-bear.jpg
-[garbage-haul]: {{ page.image-folder }}/garbage-haul.jpg
-[banker-cat]: {{ page.image-folder}}/banker-cat.jpg
+[smokey-bear]: {{ site.url }}{{ page.image-folder }}/smokey-bear.jpg
+[garbage-haul]: {{ site.url }}{{ page.image-folder }}/garbage-haul.jpg
+[banker-cat]: {{ site.url }}{{ page.image-folder}}/banker-cat.jpg
 
 [twitter-link]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
@@ -152,8 +152,8 @@ _Did you have a great/terrible experience with your last car purchase? Help othe
 [mind-the-gap]: http://affordanything.com/2014/06/02/the-most-crucial-money-lesson-in-three-words-mind-the-gap/
 {: target="_blank"}
 
-[mortgage-post]: {% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
-[prepaying-mortgage-post]: {% post_url 2016-01-15-prepaying-mortgage-trick %}
+[mortgage-post]: {{ site.url }}{% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
+[prepaying-mortgage-post]: {{ site.url }}{% post_url 2016-01-15-prepaying-mortgage-trick %}
 
 [blonde-on-a-budget]: http://blondeonabudget.ca/2013/05/27/how-i-paid-off-30000-of-debt-in-two-years/
 {: target="_blank"}

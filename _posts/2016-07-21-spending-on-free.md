@@ -123,4 +123,4 @@ _If you liked this post, head on over to [GundoMoney.com][gundo-money] to see mo
 [gundo-money]: http://www.gundomoney.com
 {: target="_blank"}
 
-[experience-vs-stuff]: {% post_url 2016-07-14-experience-or-stuff %}
+[experience-vs-stuff]: {{ site.url }}{% post_url 2016-07-14-experience-or-stuff %}

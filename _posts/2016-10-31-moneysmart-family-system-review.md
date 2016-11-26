@@ -34,7 +34,7 @@ Great, so at 3 kids, I should expect to spend $43,500 a year?
 
 Neither do I and neither should you.
 
-When I first checked out this book from our library,I wasn't sure what to expect. I'd heard of Steve and Annette before and had even referred to their site in one of my [challenge posts on groceries]({% post_url 2016-03-28-april-challenge-grocery %}), but didn't know much more than the fact that they have a reputation for frugal living.
+When I first checked out this book from our library,I wasn't sure what to expect. I'd heard of Steve and Annette before and had even referred to their site in one of my [challenge posts on groceries]({{ site.url }}{% post_url 2016-03-28-april-challenge-grocery %}), but didn't know much more than the fact that they have a reputation for frugal living.
 
 What I didn't realize was that this book would not only resonate with my views on money, but also my views on parenting and the values I hope to instill in my kids.
 
@@ -131,7 +131,7 @@ If you've got kids of any age, I really recommend picking up a copy of The Money
 
 ___To get your own copy, here's a [link to the book on Amazon][amazon-link]___
 
-[![The MoneySmart Family System book cover](/img/posts/2016-10-31-moneysmart-family-system-review/cover.jpg)][amazon-link]
+[![The MoneySmart Family System book cover]({{ site.url }}/img/posts/2016-10-31-moneysmart-family-system-review/cover.jpg)][amazon-link]
 
 [amazon-link]: http://amzn.to/2f3CiQG
 {: target="_blank" }
