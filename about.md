@@ -73,5 +73,3 @@ Beyond this, I've also been featured on a number of great sites:
 I'd love to hear from you - you can find me on Twitter ([@keepthrifty](http://www.twitter.com/keepthrifty){: target="_blank"}) or you can use the form below:
 
 {% include contact.html %}
-
-<h6 class="meta-header">{{ site.github.url }}</h6>
