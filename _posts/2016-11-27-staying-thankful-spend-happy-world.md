@@ -51,7 +51,7 @@ In addition to giving our house a festive feel, the kids were incredibly proud o
 
 Before we knew it, every interior door had a paper turkey and there were little slips of paper all over our house with the word "Gobbl" (sp) on them.
 
-{% capture tweet-text %}You couldn't walk into any room in our house in the last week without seeing a Thanksgiving decoration{% endcapture %}{% include tweet-link.html %}
+{% capture tweet-text %}You couldn’t walk into any room in our house last week without seeing a Thanksgiving decoration{% endcapture %}{% include tweet-link.html %}
 
 It was awesome for us and our kids were excited to have helped decorate.
 
