@@ -18,5 +18,7 @@
     {% endfor %}
   {% endif %}
 
-  {% seo %}
+  <title>{% if page.title %}{{ page.title }} - Keep Thrifty{% elsif paginator.previous_page %}Page {{ paginator.page}} - Keep Thrifty{% else %}Keep Thrifty - {{ site.description }}{% endif %}</title>
+
+  {% seo title=false %}
 </head>
