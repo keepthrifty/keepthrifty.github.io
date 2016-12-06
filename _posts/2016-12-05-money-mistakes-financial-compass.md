@@ -85,7 +85,7 @@ Any money that doesn't go toward our necessities for living or one of those goal
 
 ## Blooper Reel - Other Financial Missteps
 
-![Foot about to step on a banana peel](/img/posts/2016-12-05-money-mistakes-financial-compass/banana-slip.jpg)
+![Foot about to step on a banana peel]({{ site.url }}/img/posts/2016-12-05-money-mistakes-financial-compass/banana-slip.jpg)
 
 Now that we've got our compass set, its easy to look back and see all the missteps we've made over the years. We've wasted tens of thousands of dollars on things that didn't get us closer to our goals.
 
@@ -133,7 +133,7 @@ After we got married, however, the ring spent most of its time in a box in our c
 
 After a few years and a shift in our family mindset toward minimalism, we took a big step earlier this year.
 
-We went to a jewelry shop and [sold the ring...for $1900]({% post_url 2016-03-23-engagement-ring-sold %}).
+We went to a jewelry shop and [sold the ring...for $1900]({{ site.url }}{% post_url 2016-03-23-engagement-ring-sold %}).
 
 In the 9 years we had it, the ring __lost $4100__ in value.
 
@@ -155,7 +155,7 @@ All told, we probably spent $5,000 a year (for just the two of us) on eating out
 
 {% capture tweet-text %}Eating out less could have paid for a yearly vacation. Want a trip to Mexico or plates of nachos?{% endcapture %}{% include tweet-link.html %}
 
-These days, our family of 5 spends less eating out than what we spent as a couple and [my soda addiction has been replaced by a healthier and cheaper option - coffee]({% post_url 2016-03-14-soda-for-retirement %}).
+These days, our family of 5 spends less eating out than what we spent as a couple and [my soda addiction has been replaced by a healthier and cheaper option - coffee]({{ site.url }}{% post_url 2016-03-14-soda-for-retirement %}).
 
 ## Don't Live in Financial Regret
 
@@ -171,7 +171,7 @@ Whatever your financial mistakes have been, don't get down about them. Use them 
 
 ## Finding Steady Financial Footing
 
-![Hiking boots on a mountain](/img/posts/2016-12-05-money-mistakes-financial-compass/financial-footing.jpg)
+![Hiking boots on a mountain]({{ site.url }}/img/posts/2016-12-05-money-mistakes-financial-compass/financial-footing.jpg)
 
 If you want to improve your finances, you need to set your financial compass.
 
