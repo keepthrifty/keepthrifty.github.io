@@ -48,7 +48,7 @@ We're averaging $1048 a month at this point and while I'd like to do better, I'm
 
 With that in mind, I'm going to _repeat_ the grocery [challenge for May][may-challenge] but this time with a new target that also includes eating out.
 
-# How did you do? #
+## How did you do? #
 
 Hopefully you did a bit better than me this month. Whether you did or not, I'm looking forward to trying to tackle food as a whole in May!
 

@@ -44,7 +44,7 @@ We'll cover some common questions you might ask about fixed loans (mortgage, aut
 
 > Note: whenever you see me reference "Excel", remember that you can almost always do the same stuff in Google Sheets (a part of Google Drive). For those that don't have Excel installed - don't fret; [Google Drive][google-drive] is a free option :)
 
-# Set Up #
+## Set Up #
 
 This is a bit more interactive than my average post, so I'd advise tackling this one when you've got access to a computer with some spreadsheet software (Excel, Google Sheets, etc)
 
@@ -61,7 +61,7 @@ For the examples below, put the following pieces in your spreadsheet the same wa
 
 ![Screenshot of loan inputs][loan-1]
 
-# 1. What should I expect my monthly payment to be? #
+## 1. What should I expect my monthly payment to be? #
 
 One of the fundamental financial formulas in Excel is the `PMT` function, which tells you the total payment for a standard fixed-rate loan.
 
@@ -92,7 +92,7 @@ __Well done - no more googling "loan payment calculator" for you, young grasshop
 
 ![Grasshopper][grasshopper]
 
-# 2. How much total interest am I going to pay on my loan? #
+## 2. How much total interest am I going to pay on my loan? #
 
 Excel has a perfect function for this question - the `CUMIPMT` function.
 
@@ -114,7 +114,7 @@ With all of this, we can put this formula in our spreadsheet to get a "total int
 
 On a $200,000 loan for 30 years at 3%, the total cost of interest is $103,554.90. _That's right; even with surprisingly low interest rates, a 30-year loan can still cost you an extra 50% of your loan value in interest_
 
-# 3. Wait, how much am I really paying back in total? #
+## 3. Wait, how much am I really paying back in total? #
 
 All you need to do here is to add the "Total Interest" amount to the "Loan Amount" and you'll get a picture of what the total cost is. For our mortgage example, the $200k loan quickly turned into over $300k once the interest gets added in:
 
@@ -122,7 +122,7 @@ All you need to do here is to add the "Total Interest" amount to the "Loan Amoun
 
 ![Screenshot of total loan computation][loan-4]
 
-# 4. Ok, what's done is done - how much interest and principal do I have to go from here? #
+## 4. Ok, what's done is done - how much interest and principal do I have to go from here? #
 
 As you may have guessed, the `CUMIPMT` function has a counterpart - the `CUMPRINC` function, which calculates the cumulative principal payment over a portion (or all of) a loan.
 
@@ -163,7 +163,7 @@ Adding the two together, we get:
 
 ![Screenshot of total remaining computation][loan-8]
 
-# 5. Maybe I want to refinance; is that a good idea? #
+## 5. Maybe I want to refinance; is that a good idea? #
 
 Here's where you can start informing the "what if" scenarios in your head. Let's use Excel to analyze refinancing the loan to see what the pros and cons are.
 
@@ -197,7 +197,7 @@ In our $200k loan example, refinancing to a 15-year at 2.75% would increase our 
 
 Now we've got payments, interest, and refinancing down - you've completed level 2 of Spreadsheet Fu. Well done! Are you ready for the next challenge? This one's big but when you're done you'll be ready to give your debt a thrashing.
 
-# 6. What kind of impact would prepayments make? #
+## 6. What kind of impact would prepayments make? #
 
 The formulas above are great if you're only ever going to make normal payments - they aren't built to allow prepayment math.
 
@@ -211,13 +211,13 @@ If you can put together an amortization table, you can model just about any scen
 
 Lets get started with a new sheet.
 
-## Step 1 - Entering the loan inputs ##
+### Step 1 - Entering the loan inputs ##
 
 Start by putting in the basic loan information; we'l use the same assumptions as we have for the other examples:
 
 ![Screenshot of computing loan payment][amortization-1]
 
-## Step 2 - Structure the table ##
+### Step 2 - Structure the table ##
 
 Next, we'll set up the structure of the table by labeling the columns we intend to fill:
 
@@ -233,7 +233,7 @@ I'll give details in the steps below on how to write the formulas for each of th
 
 ![Screenshot of structuring amortization table][amortization-2]
 
-## Step 3 - Set up month one ##
+### Step 3 - Set up month one ##
 
 Now we're ready to get started with the formulas. First let's fill in month one.
 
@@ -271,7 +271,7 @@ We can then subtract the `Contribution to Principal` from our `Principal Start` 
 
 Awesome - you've got month one all set up.
 
-## Step 4 - Set up month two ##
+### Step 4 - Set up month two ##
 
 Next we'll fill out month two. Before you get worried, no I'm not going to do one month at a time for all 360 months of a 30-year loan.
 
@@ -293,7 +293,7 @@ For the other formulas, highlight cells `F2` through `J2` and copy (`ctrl-c` for
 
 Because of the way we wrote the absolute references and relative references in our formulas, we've made filling in month two easy and now filling in the rest of the table is even easier
 
-## Step 5 - Fill the rest of the table ##
+### Step 5 - Fill the rest of the table ##
 
 Now we can use the formulas for Month two (`D3` through `J3`) to fill in the rest of the table.
 
@@ -305,7 +305,7 @@ Next, highlight `D4` through `J361` and paste.
 
 You should see the whole table fill in and ad the very end you should see a `Principal End` of `$0.00` showing the loan paid off after 360 months.
 
-## Step 6 - Fix the table to handle a non-standard normal payment at the end of the loan ##
+### Step 6 - Fix the table to handle a non-standard normal payment at the end of the loan ##
 
 We're in pretty good shape but our table isn't quite set up to handle prepayments perfectly. Let's take a look at the first problem.
 
@@ -327,7 +327,7 @@ This makes sure that the `Normal Payment` will never exceed the remaining princi
 
 Now that we've fixed it for month 360, fix it for the rest of the table by copying `G361` and pasting for the range of cells from `G2` to `G361`
 
-## Step 7 - Fix the table to prevent overpayment at the end of the loan from a prepayment ##
+### Step 7 - Fix the table to prevent overpayment at the end of the loan from a prepayment ##
 
 That fixed the problem of "overpaying" because of a normal payment. But what about "overpaying" because of a prepayment?
 
@@ -355,7 +355,7 @@ This ensures that the total payment toward principal doesn't exceed the principa
 
 Once again, we've fixed this for one cell (`I361`) but need this across the whole table. Copy `I361` and paste the formula for the whole range of `I2` to `I361`
 
-## Step 8 - Fix the table to prevent a negative principal balance ##
+### Step 8 - Fix the table to prevent a negative principal balance ##
 
 You might think we've got everything covered, but there's actually one more case that can trip us up - what if we end up overpaying because of __both__ `Normal Payment` __and__ `Additional Payment`?
 
@@ -375,7 +375,7 @@ Once you've fixed this for `J360`, copy and paste for `J2` through `J361` to fix
 
 Now that we've fixed all our issues, let's have some fun summarizing the data for ourselves so we can quickly assess how awesome our "what-if" scenarios are for prepayment.
 
-## Step 9 - Add some awesome summary data ##
+### Step 9 - Add some awesome summary data ##
 
 Exciting piece of info number one is computing the `Total Interest` paid on a loan. As you apply prepayments, the total amount of interest you pay will go down because you've reduced the principal for that month and every month thereafter.
 
@@ -413,7 +413,7 @@ We can accomplish this using the `MATCH` formula:
 
 ![Screenshot of prepayment 100 summary][amortization-21]
 
-## Step 10 - Play with the scenarios and marvel at your awesomeness ##
+### Step 10 - Play with the scenarios and marvel at your awesomeness ##
 
 You can exhale - that's it! Our table is all set up so now we're ready for the fun part - playing with the different scenarios.
 

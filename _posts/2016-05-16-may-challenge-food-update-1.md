@@ -35,7 +35,7 @@ My goal for this month was $1270 total between the two categories with a rough i
 * _Eating Out:_ $175 - $245 (5 - 7 meals at $35 each)
 * __Total:__ $1270
 
-# Where are we at so far? #
+## Where are we at so far? #
 
 From our expense tracking in [Thrifty][thrifty-link], here's what we've got by category so far this month:
 
@@ -70,7 +70,7 @@ We'll see if we're able to bring these back to our original targets by the end o
 
 Stay tuned :)
 
-# How is your month looking? #
+## How is your month looking? #
 
 Find me on [twitter][twitter-profile] and let me know how you're doing so far this month!
 

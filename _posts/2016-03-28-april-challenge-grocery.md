@@ -41,7 +41,7 @@ As always, keep the following guidance in mind:
 * Don’t get discouraged if you don’t achieve every goal — any progress is a step in the right direction
 * Be creative and have fun :)
 
-# Helpful Resources & Ideas for Saving #
+## Helpful Resources & Ideas for Saving #
 
 Thankfully, the web is full of advice on how to slash your grocery bill since this is a sizable portion of most families' expenses in a month. One issue with this though is that not everyone's advice will apply to you as an individual.
 
@@ -53,30 +53,30 @@ Or maybe you're sick of the whole cooking game and want to go extreme and give [
 
 No matter what, your goal should be to optimize financially without compromising on your priorities. As an example, if you buy organic because that's important to you, find a way to get your organic food for less money.
 
-## General Tips ##
+### General Tips ##
 
 * Don't go to the grocery store hungry; you're more likely to make unhealthy impulse purchases
 * Go with a list and stick to the list; predictability is the first step to optimization
 * Make as much as possible from raw ingredients, but be aware of what's "in-season" so you don't pay $3.99 for a pound of apples :)
 
-## Recommended Links and Resources ##
+### Recommended Links and Resources ##
 
 * [Killing your $1000 Grocery Bill][killing-1000-grocery-bill] (Mr. Money Mustache)
 * [Feeding a family of 7 for $350/month][moneysmart-family] (MoneySmart Family)
 * [Find local farms and ranches to get great local food][eat-wild] (Eat Wild)
 * [29 ways to save hundreds on groceries][twenty-nine-ways] (Time Magazine)
 
-## Coupons ##
+### Coupons ##
 
 I'm going to avoid linking to coupon sites here. You can easily find thousands by googling "grocery coupons" but I have an aversion to these because I think you end up sacrificing nutrition for cost. Eating 60 boxes of hamburger helper isn't going to help my waistline even if it does help my wallet.
 
-# My Challenge #
+## My Challenge #
 
 I’m doing this challenge right along with you, so here’s my analysis, goal, and plan for how I plan to tackle Grocery spending in our family this month.
 
 ![Monthly spending chart][challenge-chart]
 
-## Analysis ##
+### Analysis ##
 
 Using [Thrifty][thrifty], I’ve got a good sense of where our family stands on spending on groceries for the last 7 months.
 
@@ -92,7 +92,7 @@ In general, our groceries come from just a handful of locations:
 
 We started going to Willy Street in September and it's taken us a bit to adjust and find our rhythym. You can see from the chart that we've been working our way down over the last several months and have gotten to a better state than before we went in.
 
-## Goal ##
+### Goal ##
 
 For our family of 5, the [USDA estimates a monthly food cost][usda-cost] of $1140 for a "Moderate-Cost plan".  Given our desire for organic, natural products we expect to be paying a bit of a premium but I don't want to target the "Liberal plan", where we'd be at about $1400.
 
@@ -100,7 +100,7 @@ With that in mind, I'll subtract our $260 a month of eating out (don't worry, th
 
 This way, when we target dropping our "eating out" spending, we'll end up moving toward the "Low-Cost plan" number of $925 a month.
 
-## Plan ##
+### Plan ##
 
 We were under this for February and I think we should be for March as well. Some of that though is due to bulk purchases that may be coming up again soon. Next time we fill up our maple syrup bottle for $40, I'll have to take a picture and put it on here :)
 
@@ -118,7 +118,7 @@ Going forward, I plan to do a mid-month checkin and end-of-month wrap-up rather 
 
 One hitch this month is the fact that we grocery shop on Saturdays and this month has 5; with that in mind we'll see how mid-month is looking and whether I should be targeting a total monthly amount or a weekly amount instead.
 
-# Your Turn #
+## Your Turn #
 
 Are you ready to join the challenge? Share your thoughts in the comments below or [tweet me][tweet-link] with your goals, plan, or progress!
 

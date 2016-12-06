@@ -51,7 +51,7 @@ Based on our schedule this week, we delayed our normal grocery trip (which is wh
 
 We're looking good for the month - I'll give the final total next Sunday/Monday and will plan to include updates on how well we're sticking to the $100 a month target in future challenge posts.
 
-# How is your month looking? #
+## How is your month looking? #
 
 Unexpected expenses are bound to come up, so it's important to leave a little wiggle room and always remember that it is ok to spend on priorities even if that puts you a little over. Financial discipline is a tool to help you live in alignment with your priorities.
 

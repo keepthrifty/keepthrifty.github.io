@@ -28,7 +28,7 @@ Welcome to the state of the United States circa 2016 as eloquently captured in J
 
 Joshua runs the incredibly popular blog [Becoming Minimalist][becoming-minimalist], is an author of [four books][joshua-becker-amazon], and co-founded [The Hope Effect][the-hope-effect] charity with his wife, which focuses on providing family-style homes to orphans around the world.
 
-# Joshua's Story #
+## Joshua's Story #
 
 Joshua's journey into minimalism began years ago when he found himself spending a whole weekend day cleaning out and organizing his garage while his son begged him to play catch. As he looked at how he was spending his time, he came to realize something critically important about how he and his family were living.
 
@@ -40,7 +40,7 @@ Joshua and his family jumped into minimalism, working on shedding their possessi
 
 As you read [The More of Less][the-more-of-less-amazon], you come to realize that Joshua's definition of minimalism may not be what you expect but it beautifully highlights why the concept is so powerful and why it's gaining steam in mainstream society.
 
-# Accessible Minimalism #
+## Accessible Minimalism #
 
 For many people, minimalism has a strong connotation of depriving oneself, foregoing material goods and conveniences in the name of being nonconformist.
 
@@ -52,7 +52,7 @@ Joshua's definition doesn't talk about the _what_ of minimalism as much as it ta
 
 {% include tweet-link.html %}
 
-# Practical Steps #
+## Practical Steps #
 
 While [The More of Less][the-more-of-less-amazon] has a great foundation on the philosophy and mindset behind minimalism, it also has a healthy dose of practical guidance to get you started in your journey.
 
@@ -65,7 +65,7 @@ This book gives a great step-by-step approach to getting started in minimalism b
 
 Beyond this, Joshua does a great job highlighting one of my favorite life-hacking tools - running personal experiments to test your limits and see what you really need.
 
-# Experiments are Key #
+## Experiments are Key #
 
 Here's an actual template from the book:
 
@@ -95,7 +95,7 @@ In the words of the stoic Seneca:
 
 >  Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: "Is this the condition that I feared?"
 
-# A Challenge to You #
+## A Challenge to You #
 
 By the time you're done with Joshua's book you'll either have already made some significant changes in your life or you'll be energized and motivated to get started.
 

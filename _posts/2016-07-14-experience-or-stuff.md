@@ -32,7 +32,7 @@ Some of the more interesting demographic differences the paper surfaced include:
 - The effect was bigger for urban or suburban residents (56% experience vs 35% material and 59% vs 31%) than rural residents (49% vs 40%)
 - As income increased, the percent reporting experiential purchases went up (roughly 45% vs 40% for the lowest income range and 70% vs 20% for the highest income range)
 
-# Experiences All the Way, Right? #
+## Experiences All the Way, Right? #
 
 Our family just got back from our [annual road trip][roadtrip-post], where we spent 12 days traveling the northwest United States and dropped about $3400. Would I trade that for a 75-inch, 4K ultra HD flatscreen?
 
@@ -50,7 +50,7 @@ The paper included a quote from [Luxury Fever][luxury-fever] by Robert H. Frank 
 
 At this point, I'd be easy to say, "Stop buying stuff - experiences would make you happier!", but I have to admit that while reading the paper, I felt like something was missing.
 
-# Defending the Other Side #
+## Defending the Other Side #
 
 While more people indicated that spending on experiences increased their happiness higher than spending on material goods, there was still a _significant_ percentage of people that indicated the opposite.
 
@@ -64,7 +64,7 @@ The risk of making this black and white is that we alienate and misdirect people
 
 Is it really the best advice to everyone to bail on stuff and focus exclusively on experiences?
 
-# We All Can Benefit From Both #
+## We All Can Benefit From Both #
 
 Earlier I said that I wouldn't take a ridiculous TV over going on our road trip.
 
@@ -86,7 +86,7 @@ This brings us back to the point of being thrifty, frugal, or whatever term you 
 >
 > <cite>[Tweet this][tweet-quote-1]</cite>
 
-# Spend on Your Priorities #
+## Spend on Your Priorities #
 
 Thinking about where I'd put extra money for both experiences and stuff, there are things that would bring me sustained joy in both categories.
 

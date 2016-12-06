@@ -47,9 +47,9 @@ As always, keep the following guidance in mind:
 * Don’t get discouraged if you don’t achieve every goal — any progress is a step in the right direction
 * Be creative and have fun :)
 
-# Helpful Resources & Ideas for Saving #
+## Helpful Resources & Ideas for Saving #
 
-## The Library ##
+### The Library ##
 
 There's a magical place that will literally give you stuff for free. All you have to do is agree to bring it back in a reasonable time and they'll give it to you absolutely free.
 
@@ -63,7 +63,7 @@ The biggest leap about using the library is that you probably will have to ditch
 
 A bit of patience is a good thing to develop, so use your library as a way to build your character and protect your wallet :)
 
-## Selling Your Information ##
+### Selling Your Information ##
 
 If you own an Android phone, I really recommend downloading the [Google Opinion Rewards][google-opinion-rewards] app.
 
@@ -75,7 +75,7 @@ In the two years I've been using the app, I've earned $54 for probably about an 
 
 It's not mind-blowing, but it means that I haven't ever paid for an app on my phone (despite having some good ones) and I've gotten quite a few movies and books for free.
 
-## Free in Your Town ##
+### Free in Your Town ##
 
 One thing that has really helped in keeping our entertainment spending down is taking the time to research the free things offered in our area.
 
@@ -94,7 +94,7 @@ Just picking a few of our favorites over the summer in Madison, we have:
 
 This is just scratching the surface; throw in all the local parks, festivals, and other free shows and you can easily keep busy without spending a dime :)
 
-# My Challenge #
+## My Challenge #
 
 Given the strange month for us, I actually won't be doing the challenge since any spending we do while travelling gets lumped under __travel__.
 
@@ -104,7 +104,7 @@ Here's our [Thrifty][thrifty-link] data from August of 2015 through April of 201
 
 ![Monthly entertainment spending chart][challenge-chart-entertainment]
 
-## Analysis ##
+### Analysis ##
 
 Looking at the details in [Thrifty][thrifty-link], I’ve got a good sense of where our family stands on spending on entertainment for the last 9 months.
 
@@ -129,7 +129,7 @@ You'll notice that cable and streaming services (Netflix, Amazon, etc) are all a
 
 If you're willing to be patient, take a few surveys, and do your research on what's offered to the public in your area, you can get a lot of great stuff for free!
 
-# Your Turn #
+## Your Turn #
 
 Are you ready to join the challenge? Share your thoughts in the comments below or [tweet me][tweet-link] with your goals, plan, or progress!
 

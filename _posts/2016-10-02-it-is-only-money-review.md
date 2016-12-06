@@ -42,7 +42,7 @@ My advice is to do the workbook along the way - don't save it for the end like I
 
 {% include tweet-link.html %}
 
-# Something for Everyone #
+## Something for Everyone
 
 > Hindus do not see money as evil. Interestingly, it is seen as a duty in the middle stage of life to want money, to pray for money, and to earn lots of money.
 
@@ -52,7 +52,7 @@ One thing I really appreciated was how the book highlighted each culture or reli
 
 Whether you're Christian, Jewish, Muslim, agnostic, atheist, or anything else, you'll learn something about yourself and others that can help you better understand your money.
 
-# Covering the Fundamentals #
+## Covering the Fundamentals
 
 {% assign tweet-text = "Financial management is a gift we give ourselves; when we get to wealth, we can give back even more" %}
 
@@ -62,7 +62,7 @@ Another highlight of the book was the way that Cara broke down money and busines
 
 If you're not strong on the technical details of money, this book could be a great resource for you to get a basic understanding.
 
-# Solid Guidelines #
+## Solid Guidelines
 
 {% assign tweet-text = "Change the way you spend. Be aware of what you spend, and you are on your way. Choose to spend less" %}
 
@@ -76,7 +76,7 @@ This book tackles marketing, consumerism, investment, and charity; giving you a 
 
 Beyond simply covering these in the book, Cara puts her money where her mouth is: 10% of revenues from sale of her book go to a charitable organization ([Development and Peace](https://www.devp.org/en){: target="_blank"}). Pretty cool :)
 
-# Summary #
+## Summary
 
 Overall, [It is Only Money and It Grows on Trees][it-is-only-money-amazon] is a great resource to help you to pause and reflect on where your views about money come from and what you can do to approach money in a healthier way.
 

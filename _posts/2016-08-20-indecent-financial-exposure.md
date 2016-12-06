@@ -27,7 +27,7 @@ Maybe you won't learn anything but you just enjoy reading other people's numbers
 
 No matter what, I hope you're at least a bit entertained :)
 
-# Total Spending: $81,141.38 #
+## Total Spending: $81,141.38 #
 
 ![Chart showing spending by month][total-spending]
 
@@ -41,7 +41,7 @@ For August 1, 2016 through July 31, 2016, we _spent_ a grand total of $81,141.38
 
 Here's the category-by-category breakdown (from most spending to least) with commentary on each:
 
-## Groceries: $11,916.86 ($993 per month) ##
+### Groceries: $11,916.86 ($993 per month) ##
 
 What can I say? We like to eat!
 
@@ -49,7 +49,7 @@ For a family of 5 this isn't terrible especially when most of what we buy is org
 
 We also tend to have a lot of meat and cheese, which I know puts us higher in the cost range for food. It's hard to be in Wisconsin and not have an addiction to meat and cheese :)
 
-## Home Updates: $11,532.11 ($961 per month)##
+### Home Updates: $11,532.11 ($961 per month)##
 
 We had some big ticket items here in the last year:
 
@@ -62,7 +62,7 @@ We had some big ticket items here in the last year:
 
 Overall, our house is in transformation but we're making great progress. We have some projects yet to do, but I can't imagine another year being as investment-heavy as this one
 
-## Transportation: $9,231.07 ($193 per month now that our auto loan is paid off) ##
+### Transportation: $9,231.07 ($193 per month now that our auto loan is paid off) ##
 
 About half of this was paying off the rest of our car loan on our minivan by selling our Prius and becoming a one-car family.
 
@@ -70,7 +70,7 @@ So, while it was high in the last year, this should be significantly lower for f
 
 We've been going strong with just one car - only a handful of times that I had to take an Uber but it was still _significantly_ cheaper than owning a second car!
 
-## Charity: $8,747.86 ($729 per month) ##
+### Charity: $8,747.86 ($729 per month) ##
 
 This is something that's really important to us and we continually want to do more of.
 
@@ -78,85 +78,85 @@ Most of our money is "scheduled" payments that we give to our church and to [The
 
 Beyond these, we usually have a few thousand we set aside to give to causes "on-the-fly" for when opportunities come up.
 
-## Shelter: $8,195.84 ($683 per month) ##
+### Shelter: $8,195.84 ($683 per month) ##
 
 Property taxes in our neck of the woods are over half of this; the remainder goes to interest on the mortgage and homeowner's insurance
 
 Pretty bland, but we're hoping to continue to crush this one down with a goal of paying the mortgage off entirely by the end of 2020. [We think we know how we'll get there too][payoff-mortgage-post].
 
-## Travel: $4,957.55 ##
+### Travel: $4,957.55 ##
 
 Most of this was our [road trip][road-trip-post] from the summer though we did have one or two smaller trips thrown in (weekends out of the house).
 
 This is something we plan to increase in the future as we cut spending elsewhere. We love traveling together and hope we can make it more frequent throughout our lives.
 
-## Healthcare: $4,756.89 ($396 per month) ##
+### Healthcare: $4,756.89 ($396 per month) ##
 
 This is a combination of premiums and actual payments; we have a few unexpected items every year so this is a number I generally plan on seeing year-to-year.
 
-## Household Care: $3,575.19 ($298 per month) ##
+### Household Care: $3,575.19 ($298 per month) ##
 
 All of the stuff that makes a house run - from lightbulbs and toilet paper to diapers, shampoo, and replacement tires for our gas grill.
 
-## Eating Out: $3,419.51 ($285 per month) ##
+### Eating Out: $3,419.51 ($285 per month) ##
 
 Yes, this is definitely a category we could improve in. That said, a lot of this (right now) is in our weekly movie night routine that we've really come to appreciate and enjoy. We get pizza and ice cream from our local, amazing, pizza shop and watch a movie together as a family.
 
 Maybe someday we'll switch that to some home-cooked food but in the meantime, we're going to focus on other opportunities to cut costs :)
 
-## Utilities: $3,241.06 ($270 per month) ##
+### Utilities: $3,241.06 ($270 per month) ##
 
 With our new, energy efficient water-softener (see home updates above), we're hopefully a bit better off here but many of our appliances are now coming up on 20 years old.
 
 I expect we'll have some replacements to make in the coming years and hopefully the new ones will help bring our utility bills down!
 
-## Hobbies: $3,054.17 ($255 per month) ##
+### Hobbies: $3,054.17 ($255 per month) ##
 
 Most of our spending on this is on kids activities. What's amazing is that we generally have our kids only involved in one organized sport at a time. Aside from that, our oldest took piano lessons this year, but that's all we've really done here.
 
 Costs add up quickly in this with kids. I can't imagine how much the families with kids in 2-3 sports are spending!
 
-## Education: $2,950.60 ($246 per month) ##
+### Education: $2,950.60 ($246 per month) ##
 
 Our twins were in preschool this last year which had a tuition cost. That said, we're now through it so the upcoming year should be a _lot_ less here! At this point we're pretty much just talking school supplies and activities.
 
-## Clothing/Shoes: $2,430.20 ($203 per month) ##
+### Clothing/Shoes: $2,430.20 ($203 per month) ##
 
 This one can probably come down a bit, especially based on everything we've [learned about fashion][fashion-post]. My wife came up with a great idea for an "approved shopping list" for clothes which would identify the _only_ clothes we're allowed to buy in the next year outside of replacements for items that have worn out.
 
 Check back on the site here - I imagine we'll have a post on the approved shopping list at some point in the near future :)
 
-## Gifts: $1,149.54 ($96 per month) ##
+### Gifts: $1,149.54 ($96 per month) ##
 
 It's amazing how much one can spend on gifts for your family and others. I feel like we're doing pretty well though, since [most people spend nearly this much on just Christmas gifts alone][christmas-spending].
 
 Our total includes any gift we buy for any purpose for anyone - holidays, birthdays, anniversaries, mother's day, etc.
 
-## Services: $691.41 ($58 per month) ##
+### Services: $691.41 ($58 per month) ##
 
 This mostly ends up being haircuts for me (my wife cuts her own hair) and lawn fertilizing/weed spraying.
 
-## Fitness: $566.66 ($47 per month) ##
+### Fitness: $566.66 ($47 per month) ##
 
 Our contract at the gym is finally up this month, so we're looking forward to using the ultimate gym - the outdoors!
 
 It's not perfect year-round, but it's still usable :)
 
-## Entertainment: $274.86 ($23 per month) ##
+### Entertainment: $274.86 ($23 per month) ##
 
 We really don't do much here - an occasional movie or TV series (like Fixer Upper) or taking the kids someplace fun like the Children's Museum or a pumpkin patch.
 
-## Childcare: $235.00 ($20 per month) ##
+### Childcare: $235.00 ($20 per month) ##
 
 This covers date nights for us as well as some time for my wife and I to go on a walk once a week.
 
-## Other: $215.00 ($18 per month) ##
+### Other: $215.00 ($18 per month) ##
 
 All the other spending has to do with this blog or the [Thrifty][thrifty-link] tool.
 
 That said, hopefully the investment here is paying for itself in other ways as time goes on.
 
-# Looking Forward #
+## Looking Forward #
 
 None of this information is any good if we don't put it to use. One of the coolest parts here for me is seeing what we now expect to spend in the next 12 months once we find some opportunities to cut spending where we can.
 
@@ -196,7 +196,7 @@ We also get the double-benefit of extra money toward savings and a lower target 
 
 Longer-term, my goal is to whittle our spending down to $60,000 a year while still giving significantly to charity and getting lots of travel in. If we can pull this off, it puts our retirement savings goal at $1.5 million based on the 4% safe withdraw rate rule. A million and a half is not a small number but not completely out of reach in the long haul either :)
 
-# Your Turn (?) #
+## Your Turn (?) #
 
 > Now that you've gotten a chance to see our finances, are you brave enough to do the same? Take the [#indecentfinancialexposure][twitter-exposure] challenge! Put your numbers up on a page and send me a link - I'll include it here!
 

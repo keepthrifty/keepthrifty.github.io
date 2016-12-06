@@ -23,7 +23,7 @@ Last time, I put up a couple calculators to help you understand your [personal e
 
 {% include tweet-link.html %}
 
-# The Goal #
+## The Goal
 
 It's got everything from last week's online calculators and then some; here's what we're going to make:
 
@@ -33,11 +33,11 @@ Beyond calculating the cost of a day of retirement and the impact on retirement 
 
 > If you are having trouble getting the sheet put together, he's a [completed version on Google Drive that you can use for reference](https://docs.google.com/spreadsheets/d/1RkmJHjrsnCHP9GeLPjnQLwDqCIiEv2FrUOuMGqivUrk/copy). If you go here, it'll prompt you whether you want to make a copy of this sheet. This way you can modify the sheet to your heart's content without changing the master copy for other readers.
 
-# Set Up #
+## Set Up
 
 You can use just about any spreadsheet software to put together this tool, but I'm going to be using [Google Sheets](http://sheets.google.com/){: target="_blank"} (it's free!). [Microsoft Excel](https://office.live.com/start/Excel.aspx){: target="_blank"} is another good option. If you only care about the calculator portion, either should work fine for this tutorial. For the part where I turn everything into a pretty dashboard, I'm only going to show the steps in Google Sheets.
 
-# Part 1 - Compute Impact of a Contribution #
+## Part 1 - Compute Impact of a Contribution
 
 First, create a section where you can put in the known "inputs" (Current retirement account balance, expected investment growth, and expected expense growth AKA inflation). Add the titles and some example data like this:
 
@@ -65,7 +65,7 @@ Now you can change `C6` to your heart's desire and see what impact you can make 
 
 We've got the impact of a known amount down, so now lets use the other equation to figure out the cost of a day of retirement.
 
-# Part 2 - Compute Cost of a Day of Retirement #
+## Part 2 - Compute Cost of a Day of Retirement
 
 The nice part here is that we can use the same initial data (B2 to C4) in our new formulas. Thus, we can put in our cost of a day formula
 
@@ -85,7 +85,7 @@ And there we have it.
 
 I don't know if you agree but, aside from figuring out what the formulas should be, this seemed too easy. Let's juice this up with a predicted retirement date
 
-# Part 3 - Compute Retirement Date #
+## Part 3 - Compute Retirement Date
 
 This would be a lot more fun if this included what your actual retirement age is (presuming no more contributions).
 
@@ -109,7 +109,7 @@ You're certainly going to do that, right? Especially now that you've seen how ch
 
 The reason we're computing things this way is to isolate the impact of today's contribution.
 
-# Part 4 - Chart All the Things #
+## Part 4 - Chart All the Things
 
 {% assign tweet-text = "Let's be honest, every spreadsheet is better with a chart" %}
 
@@ -229,7 +229,7 @@ That said, I always like at this point in a project to make things look just a b
 
 {% include tweet-link.html %}
 
-# Extra Credit - Prettying It Up #
+## Extra Credit - Prettying It Up
 
 One thing I can't stand about most spreadsheets I see is how ugly they are. If we're presenting cool information, we should make it look cool as well :)  
 
@@ -243,7 +243,7 @@ While not a work of art, here's the finished product we're going to be working t
 
 ![]({{ site.url }}{{ page.image-folder }}/s-51.jpg)
 
-## Step 1 - Rearrange ##
+### Step 1 - Rearrange
 
 One of the biggest problems with this sheet the way it stands is the fact that inputs and outputs are mixed together - it's not clear what you're supposed to enter vs what you're supposed to read.
 
@@ -271,7 +271,7 @@ That's a bit better. Now we can move our chart to sit more nicely in the open sp
 
 This is looking quite a bit better. Next, we'll fix some number formatting and column width issues that are making parts of the sheet look a little awkward.
 
-## Step 2 - Number Formats and Sizing ##
+### Step 2 - Number Formats and Sizing
 
 First, let's make sure the number format for all our cells makes sense.
 
@@ -319,7 +319,7 @@ Once you do that, we're looking a ton better here:
 
 Everything is sized pretty well; now we just need to do some intuitive coloring and we'll be all done!
 
-## Step 3 - Color the Chart ##
+### Step 3 - Color the Chart
 
 In general, I try to make my spreadsheets intuitive so that the person using them knows what they need to enter and what they are just supposed to read. The last thing you want is to accidentally blow away a formula by typing over it because you thought you were supposed to enter something!
 
@@ -373,7 +373,7 @@ It's not the Mona Lisa, but it isn't bad either :)
 
 There are just one more optimization/tweak to make our dashboard a bit more polished. Let's tackle that and then we can step back and enjoy what we've created.
 
-## Step 4 - Final Optimization ##
+### Step 4 - Final Optimization
 
 You may have noticed that the labels for our chart are cut off because of where they are placed (squished into the right side).
 
@@ -383,7 +383,7 @@ You can fix this by putting the legend at the bottom. Click on the chart, then t
 
 Got it? We're good to go!
 
-# Final Product #
+## Final Product
 
 ![]({{ site.url }}{{ page.image-folder }}/s-51.jpg)
 

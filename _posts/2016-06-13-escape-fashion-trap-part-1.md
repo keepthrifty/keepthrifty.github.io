@@ -25,7 +25,7 @@ Millennial males spend _twice as much_ each year on apparel when compared to men
 
 This is part 1 of a two-part series on figuring out how to bail out of our addiction to fashion. Once part two is up (late June), look for the link here!
 
-# The Useful Life of Clothes #
+## The Useful Life of Clothes #
 
 First a bit of a history lesson from _[True Wealth by Juliet Schor][plenitude-link]_:
 
@@ -54,7 +54,7 @@ Native Americans (and many other cultures) make sure that when they kill an anim
 
 This feels much the same to me - it shows a respect for what we've been blessed with and helps ensure the continuity of the system.
 
-# The Fashion Mentality #
+## The Fashion Mentality #
 
 Fast-forward to today and we've got a whole different mentality driving how people approach their clothing.
 
@@ -72,7 +72,7 @@ This led to a push to discard clothing __before__ it reached the end of its usef
 
 Through years of careful practice, many industries have perfected this to the point most people feel that they _need_ to purchase (keep up with) the latest styles and fashions.
 
-## We Humans are Weird ##
+### We Humans are Weird ##
 
 To put things like this that many accept as "normal" in perspective, it can be helpful to draw an extreme parallel example.
 
@@ -98,7 +98,7 @@ Or even better, what about the awesome, impractical, clothing styles that get ad
 
 <div class="image-caption">Sadly, I never owned a pair of these. Zubas, yes. Hammer Pants, no.</div>
 
-# Financial Aspects of Modern Clothing #
+## Financial Aspects of Modern Clothing #
 
 Regardless of the logic, we live in a fashion-based world and we're all subject to the pressures in varying degrees.
 
@@ -118,7 +118,7 @@ Plus, I've got this cool brand name and logo and you saw that one A-list celebri
 
 Or maybe I'm sneakier and I make a $1 shirt and sell it to you for $5. You think you're getting a steal because hey, you spent more than that on lunch. In reality, I'm expecting you'll only wear it once or twice and then toss it for the next shiny one I put in front of you.
 
-# Modern Useful Life of Clothes #
+## Modern Useful Life of Clothes #
 
 Based on all of this, here's how clothing is treated by most people today:
 
@@ -138,7 +138,7 @@ My ripped jeans are because I spend a ton of time crawling around, playing with 
 
 Beyond all of this, we often see these clothes end up in the garbage because they aren't worth enough to donate. Once in the landfill, all of the valuable materials inside the clothing are locked up and unavailable to be nutrients for a new generation of plants.
 
-# How to Bail Out #
+## How to Bail Out #
 
 If all of this is starting to sound like a really bad deal for you, then we're on the right track. We need an escape plan to avoid all this nonsense.
 

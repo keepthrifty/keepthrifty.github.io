@@ -56,7 +56,7 @@ As I said when the challenge launched - these changes are intended to be sustain
 
 From here on out, I'll report how we're doing on household care in the monthly summary for other challenges. By the time I get enough challenges under my belt, you'll probably get to see the majority of our monthly budget :)
 
-# How is your month looking? #
+## How is your month looking? #
 
 I hope you were able to meet your goal as well. If you weren't, don't get discouraged - pick a new target and go from there.
 

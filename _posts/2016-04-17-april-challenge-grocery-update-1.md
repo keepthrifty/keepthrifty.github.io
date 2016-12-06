@@ -35,13 +35,13 @@ If you remember the ambitious goal we set at the start of the month, we were loo
 
 What gives?
 
-# 1. We're human #
+## 1. We're human #
 
 Put bluntly, nobody's perfect when it comes to money and we're not an exception :)
 
 Some of us going higher this month was us stocking up on some longer-term items and buying some treats outside our normal set.
 
-# 2. We're actually further through the month #
+## 2. We're actually further through the month #
 
 We do our grocery shopping on Friday or Saturday every week and this is one of those months where we get blessed with five Fridays.
 
@@ -55,7 +55,7 @@ If we took our $880/month goal but scaled it to accommodate differences in four-
 
 It's still going to be a stretch this month to hit $1015 based on number 1 and number 3, but it's a much more realistic target.
 
-# 3. We made some healthy trade-off calls #
+## 3. We made some healthy trade-off calls #
 
 Becoming financially free should bring the benefit of having more time to invest in our friendships and relationships - but there's no reason we should wait until we're financially free to spend good time with people we care about.
 
@@ -65,13 +65,13 @@ We had a beautiful Sunday afternoon with friends we really enjoy spending time w
 
 Money is best spent on the things that are important to you and this was a key example of that.
 
-# Looking forward #
+## Looking forward #
 
 Obviously this will be an interesting month for this challenge since our chances of making it through the next 2 weekend shopping trips on under $50 is zero.
 
 That said, we're still going to watch what we're spending, see what we can learn from this month, and focus on how to find the right ways to improve in the future without sacrificing what's truly important to us.
 
-# How is your month looking? #
+## How is your month looking? #
 
 I hope your month is going well.
 

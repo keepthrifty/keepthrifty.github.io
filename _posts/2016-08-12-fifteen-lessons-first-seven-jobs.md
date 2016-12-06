@@ -27,7 +27,7 @@ Here's my first seven jobs and what I learned in each:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/firstsevenjobs?src=hash">#firstsevenjobs</a> <br>Babysitter<br>Pick up Garbage in Parking Lots<br>Wax Storage Unit Doors<br>Busboy<br>Data Entry<br>Filing<br>Medical Device Engineer, Manager</p>&mdash; Chris Durheim (@keepthrifty) <a href="https://twitter.com/keepthrifty/status/763034495578677248">August 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-# 1. Babysitter (age 11-12) #
+## 1. Babysitter (age 11-12) #
 
 For most young kids looking to hustle this one shows up on the list; decent hours, good pay, and hey, you're just getting paid to play, right?
 
@@ -53,7 +53,7 @@ After I got done with that session, I told my mom to never sign me up for work a
 
 Babysitting only lasted for a couple of years for me - I'm an introvert and preferred not having my time ruled by someone else's needs. That's when a surprisingly sweet opportunity dropped in my lap.
 
-# 2. Picking up Garbage in Parking Lots (age 12-18) #
+## 2. Picking up Garbage in Parking Lots (age 12-18) #
 
 My dad had a business friend that owned a few office buildings around the Twin Cities, where I grew up. He'd noticed the amount of garbage that piled up along the curbs, in the sidewalks, and around the grounds of his buildings and wanted a cheap way to make his properties nicer.
 
@@ -79,7 +79,7 @@ There was one major difference between this and what I learned in _Lesson 1_ ear
 
 > Lesson 4: {% include tweet-link.html %}
 
-# 3. Waxing Storage Unit Doors (age 13)
+## 3. Waxing Storage Unit Doors (age 13)
 
 Shortly after starting in our parking lot cleaning job, we got another opportunity for some seemingly thankless (but well-paying) work over the summer.
 
@@ -131,7 +131,7 @@ His solution? He refused to pay us. We spent the better part of a summer doing t
 
 > Lesson 8: {% include tweet-link.html %}
 
-# 4. Busboy (age 14) #
+## 4. Busboy (age 14) #
 
 At this point, I still had the parking lot cleaning job, but it was one that didn't scale well. You couldn't clean when it was dark out and setting up with other property managers would have complicated getting paid to drive (who pays for which miles if I group buildings in the same trip?).
 
@@ -159,7 +159,7 @@ I lasted for about 6 months, then gave up my shift to my other brother who seeme
 
 Time for something a bit more up my alley...
 
-# 5. Data Entry (age 15-19, 21) #
+## 5. Data Entry (age 15-19, 21) #
 
 I'd always had an interest in computers and had spent plenty of time using them, so when an opportunity came up to do some data-entry work at a local company, I jumped at the chance.
 
@@ -179,7 +179,7 @@ That said, I knew I wanted to head somewhere bigger with a higher ceiling when I
 
 > Lesson 11: {% include tweet-link.html %}
 
-# 6. Filing (age 20) #
+## 6. Filing (age 20) #
 
 You'll notice a 1-year blip in my data-entry timeline - the year that I couldn't find a company that needed my work.
 
@@ -225,7 +225,7 @@ They were both nice, but I was back to square one in a job that was just about g
 
 Thankfully there was only a month left in the summer, so I finished up my time and headed back to college.
 
-# 7. Medical Device Test Engineer (age 22) #
+## 7. Medical Device Test Engineer (age 22) #
 
 After one more year of data entry, I was getting to the point that graduation was getting near; I had 3 semesters left and no line-of-sight to a full-time job.
 
@@ -257,7 +257,7 @@ I feel lucky to have gotten here and to be paid well along with everything else 
 
 Since starting there, I've advanced to leading other engineers, leading projects, and for the last 7 years I've been managing other engineers, working hard to make their careers meaningful, exciting, and impactful.
 
-# The Rest of the Story
+## The Rest of the Story
 
 This only covers me through age 34. What the future holds is anyone's guess, but I know the things that have made for great work and what hasn't. The biggest thing I've learned is that you really have to own your career and push for what you want.
 

@@ -34,7 +34,7 @@ If I have to walk 5 miles to work everyday any car would improve my personal hap
 
 We are irrational human beings and we forget this simple fact over and over and over again so I make sure to bring it into consciousness as often as I can.
 
-# Happiness and Joy #
+## Happiness and Joy #
 
 The other day a wise friend of mine got to talking about happiness. Specifically, he was talking about the differences between happiness and joy. Joy is getting into a new car or drinking an expensive champagne, whereas happiness is just a general theme to your being in the world.
 
@@ -44,7 +44,7 @@ There are things we do that give us joy; things like helping an old lady across 
 
 Of course joy is not just for people with money. It's apart of everyone's lives, no matter the income. Imagine, there are some countries where no one has ever seen an iPod. Those people are just as joyful, happy, and fulfilled as we are. Their lack of electronics has not affected their joy one bit.
 
-# The Sandwich Taping Technique #
+## The Sandwich Taping Technique #
 
 In the personal finance community we tend to talk a lot about happiness but we rarely talk about joy. After all, if you aren't happy what's the point? 500k in the bank is amazing but if you're miserable it wasn't really worth it.
 
@@ -58,7 +58,7 @@ I think we know innately that short term "highs" from joy won't make us happy. I
 
 As I've quoted from George Carlin in the past, "trying to be happy by accumulating possessions is like trying to satisfy hunger by taping sandwiches all over your body." The answers you seek can only be inside you.
 
-# Joy Costs $0 #
+## Joy Costs $0 #
 
 So now that I've been a downer about happiness and all, I have good news for you! Happiness and joy cost $0.
 
@@ -70,7 +70,7 @@ In those two separate categories of joy I mentioned earlier, which one do you th
 
 That's right, we pursue joy from buying stuff way more often than the simple, $0 joys we get from interpersonal relationships and learning. There is a pervasive joy-seeking mentality in our society. One that encourages us to buy stuff that will give us a joyful experience. The problem is, joy is not a state of being and it will not stick around to keep you happy.
 
-# You Are Ok, Really #
+## You Are Ok, Really #
 
 We are biologically set up to be ok. Every human in history has experienced joy; wealthy and destitute, sickness and health, big house or small house, every human is born with the capacity for great happiness and intense joy.
 
@@ -78,7 +78,7 @@ As young kids we do a great job of getting joy from simple things like playing t
 
 In that cluttered state of mind it's no wonder we suddenly need big purchases to create joy. We get disconnected and it's not fault of our own. Just remember that the next time you're not feeling ok for whatever reason, you are ok. You have everything you need to experience joy within you. It generally takes getting your thoughts and expectations out of the way to experience what's actually there at the moment.
 
-# The Present Moment #
+## The Present Moment #
 
 I would argue that the reason we're left feeling unhappy much of the time is that our brain doesn't stick around to experience what's actually going on. We get very good at planning, anticipating, and problem solving and it doesn't leave much room to sit back and relax.
 
@@ -90,7 +90,7 @@ What I've learned over the last several months is that the more I can get myself
 
 Joy doesn't exist anywhere else except the present moment, and so if we're never "here" we are constantly missing the party.
 
-# Super Duper Serious #
+## Super Duper Serious #
 
 I'm the first person to point out someone who takes themselves too seriously. If you can't laugh at yourself come hang out with me I'll laugh at you.
 

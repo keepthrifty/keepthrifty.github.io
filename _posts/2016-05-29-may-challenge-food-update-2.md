@@ -50,7 +50,7 @@ So while I was a bit over/under on each of the categories, overall we ended up _
 
 Given that our average had been $1310 a month, getting down here saves us about $875 a year if we can keep it up. Not too shabby!
 
-# Additional resources #
+## Additional resources #
 
 In the course of this month, I've come across a few other resources that I think are worth taking a look at if you're looking to push further on your food spending.
 
@@ -61,7 +61,7 @@ In the course of this month, I've come across a few other resources that I think
 
 I love the concept of having the same breakfast and lunch every day; it'd keep dinner as the "special" meal that we can afford to be a bit more "premium" in. Not sure how the kids would react to the rice and beans for lunch, but maybe it's worth a shot :)
 
-# How did you do? #
+## How did you do? #
 
 How did your food spending turn out? Hopefully you're headed in the right direction. If not, definitely take a look at the resources above - they can help a lot if you're willing to change your habits!
 

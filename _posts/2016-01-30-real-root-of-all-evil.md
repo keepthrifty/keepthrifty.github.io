@@ -27,7 +27,7 @@ The problem is when we start treating money as an idol — something to be w
 
 As with most passages, everything makes more sense in context. Here’s the [NIV translation][niv-translation] with some commentary.
 
-# 1 Timothy 6:6 #
+## 1 Timothy 6:6 #
 
 > But godliness with contentment is great gain
 
@@ -35,7 +35,7 @@ Find peace and joy with your circumstances and what you have. Much in this world
 
 By all means, pursue the things that are important to you, but find contentment with what you have now and you’ll have a much happier life.
 
-# 1 Timothy 6:7 #
+## 1 Timothy 6:7 #
 
 > For we brought nothing into the world, and we can take nothing out of it
 
@@ -44,13 +44,13 @@ Even if you get all the material things you want, where does that leave you at t
 Focusing too much on the possessions in this world makes us forget about the more important things we can do while here — building our character and loving one another.
 
 
-# 1 Timothy 6:8 #
+## 1 Timothy 6:8 #
 
 > But if we have food and clothing, we will be content with that
 
 Most would consider this even beyond minimalism, but remember, this isn’t about not having other things — it’s about being content with less.
 
-# 1 Timothy 6:9 #
+## 1 Timothy 6:9 #
 
 > Those who want to get rich fall into temptation and a trap and into many foolish and harmful desires that plunge people into ruin and destruction
 
@@ -58,7 +58,7 @@ Here’s the warning: don’t make being rich your goal. From a common sense per
 
 When you make being rich your primary drive, you’re much more likely to sacrifice the truly important things in life — your relationships with others and your character.
 
-# 1 Timothy 6:10 #
+## 1 Timothy 6:10 #
 
 > For the love of money is a root of all kinds of evil. Some people, eager for money, have wandered from the faith and pierced themselves with many griefs.
 
@@ -66,7 +66,7 @@ There it is — the love of money. Don’t be afraid of money but don’t lo
 
 Now, how to avoid the trap?
 
-# 1 Timothy 6:11 #
+## 1 Timothy 6:11 #
 
 > But you, man of God, flee from all this, and pursue righteousness, godliness, faith, love, endurance, and gentleness.
 
@@ -74,7 +74,7 @@ There’s a lot to life that’s not dependent on money. Study after study shows
 
 Pursue things that are more valuable — love, character, faith, and you’ll find yourself much more satisfied with life.
 
-# Money— What is it good for? #
+## Money— What is it good for? #
 
 Money is a tool — a resource. You can do great things with it or terrible things with it. The key to any resource is to free yourself from dependency on it. Put yourself in a position where money serves you — not the other way around.
 

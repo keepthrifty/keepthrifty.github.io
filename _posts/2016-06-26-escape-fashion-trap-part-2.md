@@ -21,7 +21,7 @@ affiliate: true
 
 [Last time][part-1], we talked about the history behind the fashion money trap. With part 2, I'll give you the six tactics I use to escape the fashion money trap and help me live a richer life.
 
-# Picking Back Up #
+## Picking Back Up #
 
 If what we talked about in [part 1][part-1] made buying based on fashion sound like a really bad deal for you, then we're on the right track. We need an escape plan to avoid all this nonsense.
 
@@ -29,7 +29,7 @@ If what we talked about in [part 1][part-1] made buying based on fashion sound l
 
 Here are a few simple rules:
 
-## 1. Buy for Quality ##
+### 1. Buy for Quality ##
 
 Here's a tale of two t-shirts. Or, rather, a tale of 16 t-shirts.
 
@@ -45,7 +45,7 @@ Man, that's a lot to put down for a t-shirt, but hey - they guarantee it for __3
 
 Between the cost savings and the significant reduction in how much waste I'm creating, this sounds like a double-win.
 
-## 2. Shop Secondhand ##
+### 2. Shop Secondhand ##
 
 As an alternative to _buying for quality_, you can always try to pick up some reasonable-quality clothes that were discarded way too early. I've picked up a few "name brand " pairs of good jeans from Goodwill for $8 each.
 
@@ -53,7 +53,7 @@ All it took to get them ready was a run through the wash. That said, the "fashio
 
 The jeans from goodwill lasted about as long as new pants from the store, but any jeans that only last for 3 months just aren't built for a family with 3 active munchkins :)
 
-## 3. Buy What You Like ##
+### 3. Buy What You Like ##
 
 Parachute pants, zubaz, and hypercolor t-shirts - the list goes on of clothing fads from my youth. Every generation has them, but it's important to remember that you don't have to buy into them.
 
@@ -67,7 +67,7 @@ Ask yourself what you'll think when you look back on pictures of yourself 10 yea
 
 In addition, if it's not comfortable, don't buy it. There's no good reason to buy something that makes you uncomfortable; you're much more likely to get rid of it early.
 
-## 4. Consolidate and Simplify ##
+### 4. Consolidate and Simplify ##
 
 How many outfits do you have in your closet?
 
@@ -85,7 +85,7 @@ I get by on one jacket a year (my winter jacket good enough for Wisconsin weathe
 
 One woman even applied these concepts to the point of [wearing the same thing to work every day][same-thing-to-work]. If you really love an outfit, why not wear it every day?
 
-## 5. Fix What you Can ##
+### 5. Fix What you Can ##
 
 Somewhere along the way it became uncool to fix stuff that was broken instead of replacing it.
 
@@ -103,7 +103,7 @@ At best, get a sewing kit and figure out how to do some basic repair on your clo
 
 At worst, try to stretch things out by following the older "lifecycle" that our ancestors did. For me, a ripped pair of jeans becomes my new set of painting pants or pants for doing yard work.
 
-## 6. Only Buy to Replace ##
+### 6. Only Buy to Replace ##
 
 This one helps not only your wallet but also your sanity by keeping your house from getting cluttered.
 
@@ -113,7 +113,7 @@ The happiest people on earth tend to be those that find joy in what they have in
 
 One way to start living that today is to commit to not buying in a way that adds to your existing possessions - only buy to replace possessions that have exceeded their useful life.
 
-# Fashion is Universal #
+## Fashion is Universal #
 
 A final note here as you battle the pressures of the fashion culture. Remember that, while clothing probably the most obvious industry, this concept isn't limited to this alone.
 

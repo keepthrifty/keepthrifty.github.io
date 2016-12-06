@@ -23,19 +23,19 @@ This year, [our one word resolution is Thrifty][thrifty-resolution-post], so whe
 
 Here’s what I did differently this year that made for a great day with my wife while still keeping thrifty.
 
-# Take Care of the Details #
+## Take Care of the Details #
 
 I wanted this to be a good time for us to focus on each other, so I talked to my mother-in-law a few weeks ago and set up a sleepover for our kids so my wife and I could have uninterrupted focus-time.
 
 Family babysitting = free and the kids love going to their grandparents’ house — it’s a win for everyone involved.
 
-# Focus on the Spirit over the Letter #
+## Focus on the Spirit over the Letter #
 
 There’s nothing that says you have to celebrate Valentine’s day on February 14th. If we’re going to go to a restaurant, I’d rather avoid waiting for an hour or two or dealing with the stress of reservations and the sometimes higher prices.
 
 Instead, we celebrated Valentine’s day starting Friday evening (the 12th) through Saturday evening (the 13th).
 
-# Spend on what you Value #
+## Spend on what you Value #
 
 Friday night, we went out to dinner — something we don’t do together very often so it’s a real special treat for us. That said, if we’re going out, we’ve decided we’re not really interested in dropping our hard-earned money on chain places anymore.
 
@@ -51,7 +51,7 @@ All told, we spent $58 (including wine, appetizer, entrees, and desert) and it w
 
 After dinner we went back home and watched Jurrasic World, which I had checked out from the library earlier that week. By being patient and waiting a whole 9 months after the original theatrical release date (_gasp_), I was able to go from spending $20+ in the theater to instead spending a whopping $0 to see the movie in the comfort of our own home.
 
-# Experiences over Things #
+## Experiences over Things #
 
 Over the years, my wife has developed a real passion for remodeling and interior design. I’m not talking the “add 75 throw-pillows and move that coffee table to be feng shui” kind of interior design. I’m talking the “knock that closet out and build a bench with cubbies” kind of interior design.
 
@@ -61,7 +61,7 @@ With that in mind, I really got lucky this year — the Madison Build, Remod
 
 Paid admission was just $5 per person, but our free admittance was even better.
 
-# Leave Room to Explore #
+## Leave Room to Explore #
 
 We finished the show and had plenty of time before we needed to go pick up the kids, so we decided to go get some coffee and a muffin and then explore downtown Madison a bit.
 
@@ -96,7 +96,7 @@ After wishing her well and letting her know that she’d be in our prayers, we w
 
 None of this part of the date was planned, but because we had left ourselves extra time, we were able to have a small adventure, see some cool things in downtown Madison, and help out a woman who was going through a rough portion of her life.
 
-# Grand Total: $79.18 #
+## Grand Total: $79.18 #
 
 If I had pushed it, I could have spent a lot less for Valentine’s day this year — not eating out, not getting coffee, not getting the sleeping bag for the homeless woman, but overall the $80 we spent was worth it for us.
 

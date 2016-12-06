@@ -55,7 +55,7 @@ The mason jars are for my wife's new lunch plan - [salad-in-a-jar][salad-in-a-ja
 
 Overall, we're still on track. Keeping within budget despite the originally unplanned mason jars makes me feel good that we're in a maintainable state for the future :)
 
-# How is your month looking? #
+## How is your month looking? #
 
 Hope you are keeping on track as well. Find me on [twitter][twitter-profile] and let me know how you're doing!
 

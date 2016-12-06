@@ -30,7 +30,7 @@ Our IT staff does a great job porting over your files, but every new PC is a "cl
 
 {% include tweet-link.html %}
 
-# Funny thing about forest fires... #
+## Funny thing about forest fires... #
 
 > Fire ecologists recognize that fire is a natural process, and that it often operates as an integral part of the ecosystem in which it occurs.
 >
@@ -55,7 +55,7 @@ On the flip side, my browser extensions ported over automatically because I sync
 
 It was the time to clear out the unused and old to make room for the new.
 
-# Beyond technology #
+## Beyond technology #
 
 One of my favorite anecdotes from The More of Less by Joshua Becker (see my [recent review here]({{ site.url }}{% post_url 2016-08-28-the-more-of-less-review %})) was a story from Ryan Nicodemus of The Minimalists.
 
@@ -79,7 +79,7 @@ By packing up all of his belongings, Ryan cleared out the less meaningful items 
 
 By keeping only what he needed, Ryan is allowing for new, fresh growth of the values and ideas that are most important to him.
 
-# Could you use a controlled burn? #
+## Could you use a controlled burn? #
 
 Whether it's digital clutter, physical clutter, or even mental clutter (maybe you have an overcommitted schedule), could you use a controlled burn in your life?
 

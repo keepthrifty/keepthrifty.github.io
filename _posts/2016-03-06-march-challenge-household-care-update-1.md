@@ -47,7 +47,7 @@ With a goal of spending $100 total this month, we're roughly on-track.  So far w
 
 Overall, this should represent the bulk of our spending for the month with the exception of a purchase or two of diapers and wipes at some point. Potty training is in progress, but we only have so much control over the timing :)
 
-# How is your month looking? #
+## How is your month looking? #
 
 How is everything looking on your end? Hopefully you're making progress toward your goal. Keep focused, keep connected and, as always, keep thrifty!
 

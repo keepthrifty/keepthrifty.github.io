@@ -24,11 +24,11 @@ It was a whirlwind trip from Wisconsin to the Pacific coast of Oregon and back. 
 
 This is our third trip and each year we've learned more about our family, parenting, and the keys to keeping positive through challenging situations.
 
-# Two Different Trips #
+## Two Different Trips #
 
 Let's compare two trips from the perspective of a young kid to understand what helps make for a good experience:
 
-# Trip One - Melancholy Sadness #
+## Trip One - Melancholy Sadness #
 
 _Bummer:_ You can't eat your favorite food from a restaurant due to a painful loose tooth
 
@@ -54,7 +54,7 @@ _Bummer:_ Your tablet doesn't play the movie you really wanted to watch and you 
 
 Wow; this sounds like a rough one. Maybe we're not cut out for this travel stuff?
 
-# Trip Two - Everything is Awesome #
+## Trip Two - Everything is Awesome #
 
 _Awesome:_ You get to meet your new baby cousin for the first time
 
@@ -96,7 +96,7 @@ _Awesome:_ You get to play in yet another park and then get to settle in comfort
 
 I'll sign you up for another trip, right?
 
-# Reality #
+## Reality #
 
 I'm sure you've figured by now - these were the same trip. The highlights above are from the perspective of the same kid: the same places, the same experiences - just different highlights.
 
@@ -118,7 +118,7 @@ Will you focus on the "Bummers" or the "Awesomes"?
 
 <div class="image-caption">Fun fact: this was an ACCIDENTAL picture from our first road trip; my wife set her phone down in one of the car seat cupholders and accidentally hit the screen taking this photo</div>
 
-# We Choose Awesome #
+## We Choose Awesome #
 
 While the examples above came from one of our children, Jaime and I experienced a lot of the same feelings. There were times where we stood in awe of the beauty of the world around us and times where we felt stressed to our wits ends.
 
@@ -134,7 +134,7 @@ The amazing experiences we shared together are ones we'll remember and cherish f
 
 ![Mother and daughters at Cannon Beach][cannon-beach-family]
 
-# Coming Next #
+## Coming Next #
 
 We're already starting to draft our trip next year - covering the Northeast. If you've got any recommendations of places to stop with young kids (six, five, and five), let me know in the comments below!
 

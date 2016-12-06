@@ -26,7 +26,7 @@ If you don't know JL Collins, he's been referred to as "the Godfather of Financi
 
 With [_The Simple Path to Wealth_][the-simple-path-to-wealth-amazon], JL Collins gives an approachable, well-structured guide to understanding what money is (and is not), how to protect it, how to make it work for you, and ultimately how to make sure that you master money so it doesn't master you.
 
-# Be the Monk #
+## Be the Monk #
 
 After introductions, the book opens with a parable of a monk and a minister to the king. The minister passes judgment on the monk's life, stating _"If you could learn to cater to the king, you wouldn’t have to live on rice and beans."_
 
@@ -36,7 +36,7 @@ Despite all the references to wealth and money, this isn't really a book about m
 
 The parable was a perfect opening and really established the end game for readers of this book: __freedom__.
 
-# Nuggets of Wisdom #
+## Nuggets of Wisdom #
 
 As I read through, a few nuggets of wisdom stood out - lines or phrases that caught my attention and will undoubtedly find their way into my lexicon:
 
@@ -48,7 +48,7 @@ When it comes to the sound choices, JL Collins lays out the details on just abou
 
 Whether you want to understand the pros/cons for each type of tax-advantaged retirement account (401k, IRA, Roth IRA) or the right balance between stocks and bonds on your investment journey, he's got it covered.
 
-# Relatable Author #
+## Relatable Author #
 
 JL Collins ultimately started sharing his financial wisdom as lessons he hoped to teach his daughter.
 
@@ -58,7 +58,7 @@ He didn't write [_The Simple Path to Wealth_][the-simple-path-to-wealth-amazon] 
 
 In addition, while much of the book is focused on facts, figures, and strategies, there's an appealing dose of dry humor along the way to keep you going.
 
-# Take a Step #
+## Take a Step #
 
 Make no mistake; this isn't your average personal finance book. JL Collins doesn't promise a quick or easy fix, but he delivers a truly __simple__ strategy that everyone can harness.
 

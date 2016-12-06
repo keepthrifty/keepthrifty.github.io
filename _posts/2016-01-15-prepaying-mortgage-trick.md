@@ -37,7 +37,7 @@ And that’s if they live in the same home (or cheaper) for the rest of their li
 
 How do we ever get out of this mess?
 
-# The Mind-Hack: Pretend You Never Get a Raise #
+## The Mind-Hack: Pretend You Never Get a Raise #
 
 Here’s the plan: every time you get a raise, don’t change your budget to include the new money.
 Set up your budget as if you never got a raise and instead put that new money every month into prepaying your mortgage. Sound crazy? Maybe, but the results are astonishing.
@@ -46,7 +46,7 @@ If you follow this strategy, you can pay off a 30 year mortgage in 12.4 years. S
 
 ![paydown chart][paydown-chart]
 
-# The other benefit #
+## The other benefit #
 
 Not only do you pay off your mortgage almost 18 years faster, you also save a ton on interest. Because you are prepaying your mortgage (which all goes to paying down your principal balance), the interest portion of every normal payment after has less interest included. How much do you save?
 
@@ -54,7 +54,7 @@ By pre-paying with raises over the full period of your mortgage, you end up payi
 
 That’s right — almost $70 thousand dollars.
 
-# Does it apply to me? #
+## Does it apply to me? #
 
 All the math above is assuming:
 
@@ -65,7 +65,7 @@ All the math above is assuming:
 * A yearly wage increase of 3.36% (the USA annualized average from 1990–2014 via [Social Security Administration][wage-increase])
 * Federal, state, and Social Security/Medicaid taxes totaling 28.65% (15% federal, 6% state, 7.65% social security/medicaid)
 
-# How does it work? #
+## How does it work? #
 
 The power here is in the compounding and cumulative effect of each new year’s raise on top of all the raises before.
 
@@ -80,7 +80,7 @@ By the last year, you’re making $1,642.21 more per month than you were in the 
 If you want to see the fancy spreadsheet that did all the math here, you can find it on Google Drive here:
 [Mortgage Paydown with Raises][spreadsheet-read-only]
 
-# Variations on a theme #
+## Variations on a theme #
 
 So, what if your family makes less than the median? Or what if your raises are smaller?
 
@@ -93,7 +93,7 @@ With half the income ($28,373)and only a 1% annual raise, you pay off the mortga
 
 Even if your household income is half the median and you just get a 1% per year raise on average, you can still knock 8 years off your mortgage and save $29,000 in interest payments
 
-# A mortgage-free future #
+## A mortgage-free future #
 
 Once that mortgage is paid off, a family in the original situation above would have an extra $2,483.61 each month based on the money that was previously being committed to mortgage payments and prepayments. That’s $29,800 a year that you have the burden of figuring out what to do with.
 
@@ -103,13 +103,13 @@ Perhaps even better, you’ll have honed your financial discipline at this point
 
 Imagine the nest egg you can build up for retirement (maybe [even early retirement][mrmoneymustache]).
 
-# But what about… #
+## But what about… #
 
 You might be thinking about inflation — how can you possibly forego your raise? When raises only roughly match inflation, doesn’t that mean you need them? I’d argue that we can all be smarter about our spending.
 
 Using this plan forces you, in real terms, to find ways to whittle down your spending year-over-year because you’re going to spend the same $35,000 next year as you did this year despite the fact that the cost of a carton of eggs (and everything else) is going to go up by 3%.
 
-# Be disciplined #
+## Be disciplined #
 
 This takes discipline — you have to be willing to push outside your comfort zone. Consider buying your next pair of workout pants from a thrift store.
 

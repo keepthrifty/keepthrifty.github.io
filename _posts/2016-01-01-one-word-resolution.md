@@ -23,7 +23,7 @@ This year we’re ready to go a step further. This is the first year we’re goi
 
 This is the year of THRIFTY.
 
-# Thrifty for home #
+## Thrifty for home #
 
 The first place we’re applying this is at home. Jaime (my wife) and I worked together to define what being thrifty this year meant to us. We’ve done a lot over the years to cut back, refocus our finances, and simplify our life.
 
@@ -46,7 +46,7 @@ On the flip side, getting jeans from Goodwill is a certainty — I already d
 
 Beyond this, we’ve set our standard goals — such as how much we want to increase our emergency savings by, particular savings goals in other areas, investments in our house we want to make, etc.
 
-# The other Thrifty #
+## The other Thrifty #
 
 The other reason that Thrifty is our word for the year is because Thrifty is the name of the application I’ve been working on in the background over the last 8 or so months. I’ve now filed for an LLC in Wisconsin ([WhysWorks LLC][whysworks]) and am launching Thrifty today.
 
@@ -62,7 +62,7 @@ Thrifty’s now up and running at [keepthrifty.com][keepthrifty]. While it’s r
 
 I’ve got a huge list of features that I’m planning on adding as well as blog posts I hope to write throughout the year.
 
-# What’s your word? #
+## What’s your word? #
 
 I’m really excited for 2016, especially for our family’s Thrifty journey. I hope you and yours have your own things to be equally excited about. Please share them!
 

@@ -30,7 +30,7 @@ Surprisingly the transition wasn't as tough as I had thought and while I had a b
 
 While the health benefits are reason enough on their own, this is a personal finance blog, so let's talk about the surprisingly big financial impact this little change had.
 
-# Basic numbers #
+## Basic numbers #
 
 At my worst, I was drinking more than a bottle a day, but let's be conservative and go with one a day. At $1.50 each, that's $550 a year.
 
@@ -50,13 +50,13 @@ For current prices, I only spend $160 a year on coffee instead of $550 a year on
 
 From here, let's take a look both at the impact on how much I save between now and retirement by switching as well as the impact on how much I need to accumulate in my retirement account to fund my caffeine intake.
 
-# Impact on amount needed to retire #
+## Impact on amount needed to retire #
 
 Most financial aficionados will tell you to follow the [4% rule][four-percent-rule] to determine your target for how much to have in your retirement accounts to allow you to retire.
 
 If you're not familiar, take 4% of the number in your retirement account - if you can live for the next year spending that amount, you probably don't need this blog - there's a good chance you could go retire right now. :)
 
-## Determining savings needed from expenses ##
+### Determining savings needed from expenses ##
 
 To work from expenses to the amount needed in your account for retirement, you just reverse it:
 
@@ -67,7 +67,7 @@ That tells you how much you need in your retirement account in order to retire w
 
 The beauty of the 4% rule is that you can apply it to groups of expenses to calculate the retirement savings burden of each guilty pleasure you want to continue.
 
-## Soda retirement burden vs coffee retirement burden
+### Soda retirement burden vs coffee retirement burden
 
 If I want to cover my soda habit in retirement at age 65, I need 25 times the annual expense of my soda habit in my account when I retire.
 
@@ -89,7 +89,7 @@ At this point, you're probably thinking something like this:
 
 While I don't disagree, we can't stop here - we've only figured out one of the two benefits of the switch and - get this - that was the __smaller__ number :)
 
-# Impact on savings #
+## Impact on savings #
 
 On the flip side, let's look at what we can do with the money we save between now and retirement by switching.
 
@@ -101,7 +101,7 @@ Instead, by switching to coffee and investing the difference every year in retir
 
 That's the beauty of compound interest my friends - putting in a few hundred dollars a year over 33 years gets you a pretty healthy chunk of change at the end!
 
-# All together now #
+## All together now #
 
 So, at age 65, I have an extra $77,000 in my retirement account and I need $25,000 less than I would have if I were a lifelong soda drinker.
 
@@ -117,7 +117,7 @@ Let me put it back in perspective - by spending about $30 less per month on my c
 
 I'd consider getting one of those big novelty checks you see at golf tournaments but we're pretty minimalist and I don't think banks actually take those, do they?
 
-# What's in your cup? #
+## What's in your cup? #
 
 If a $30/month reduction now can benefit $102,000 at retirement, what would happen from whittling down expenses by $100, $200, or $500 a month?
 

@@ -43,13 +43,13 @@ As always, keep the following guidance in mind:
 * Don’t get discouraged if you don’t achieve every goal — any progress is a step in the right direction
 * Be creative and have fun :)
 
-# Helpful Resources & Ideas for Saving #
+## Helpful Resources & Ideas for Saving #
 
 For tips on how to save on groceries, check out [last month's challenge][april-challenge-post]
 
 For thoughts on how to save on eating out, check out these links and thoughts:
 
-## General Tips ##
+### General Tips ##
 
 * Most of your meal cost comes from appetizers, desserts, and drinks - these are the foods with the highest mark-ups. Avoid these if possible
 * If you're stuck on getting extras, agree ahead of time that you'll do either an appetizer or a dessert but not both
@@ -59,14 +59,14 @@ For thoughts on how to save on eating out, check out these links and thoughts:
 
 > Unplanned trips out are a double-whammy: the meal is more expensive than a home-cooked one and you're more likely to have your perishable groceries go bad before you get a chance to use them
 
-## Recommended Links and Resources ##
+### Recommended Links and Resources ##
 
 I don't have a ton here because these two articles hit great points and most other articles were similar in content. If you check out these two, you should be in pretty good shape!
 
 * [10 Ways to Save Money Eating Out at Restaurants][money-crashers-link] (Money Crashers)
 * [15 Strategies for Saving Money at a Restaurant][the-simple-dollar-link] (The Simple Dollar)
 
-# My Challenge #
+## My Challenge #
 
 I’m doing this challenge right along with you, so here’s my analysis, goal, and plan for how I intend to tackle food spending in our family this month.
 
@@ -76,7 +76,7 @@ On [Thrifty][thrifty-link], we keep Grocery and Eating Out as separate categorie
 
 ![Monthly eating out spending chart][challenge-chart-eating-out]
 
-## Analysis ##
+### Analysis ##
 
 Using [Thrifty][thrifty-link], I’ve got a good sense of where our family stands on spending on groceries and eating out for the last 9 months.
 
@@ -92,7 +92,7 @@ For the most part, we are creatures of habit; we've got just a few places that w
 
 The other regular addition here is __treats__. This is something that sneaks in more often than I'd like to admit and is typically between $20 and $60 a month for us when you add it all up.
 
-## Goal ##
+### Goal ##
 
 As we covered in the [April challenge][april-challenge-post], for our family of 5, the [USDA estimates a monthly food cost][usda-cost] of $1140 for a "Moderate-Cost plan".  Given our desire for organic, natural products we expect to be paying a bit of a premium but I don't want to target the "Liberal plan", where we'd be at about $1400.
 
@@ -102,7 +102,7 @@ With that in mind, our food target spending for May will be $1270, which is $40 
 
 If we can pull this off and make the changes sustainable, we'll be saving $480 a year!
 
-## Plan ##
+### Plan ##
 
 While we're targeting an overall number for food, it's still a good idea to make a plan for each category so we can have a rough idea of whether we're staying on-track.
 
@@ -127,7 +127,7 @@ In summary, here's what we're going to try to do:
 
 All in all, this isn't going to be easy, but I'm looking forward to the challenge :)
 
-# Your Turn #
+## Your Turn #
 
 Are you ready to join the challenge? Share your thoughts in the comments below or [tweet me][tweet-link] with your goals, plan, or progress!
 

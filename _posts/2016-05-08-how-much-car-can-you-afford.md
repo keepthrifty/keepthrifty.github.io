@@ -36,13 +36,13 @@ People who figure out what they "can afford" and spend that much don't end up ah
 
 People who are successful at beating the money game don't ask a question like "How much car can I afford"; they ask __"How much car do I really need?"__
 
-# How much car do you really need? #
+## How much car do you really need? #
 
 To really answer this, you have to take a step back - why are you getting a car and what is it for?
 
 The obvious high-level answer here is _transportation_ but it's not that simple. If you want to make sure you don't overspend, here's a list of questions to go through before pulling the trigger on your new ride:
 
-## What am I transporting? ##
+### What am I transporting? ##
 
 Take a serious look at what your normal driving conditions are and think about what vehicle types satisfy those conditions.
 
@@ -68,7 +68,7 @@ How many [Uber rides][uber-link] would it take to make up the price difference b
 
 You have a better job for that money - don't tie it up!
 
-## How can I finance my car? ##
+### How can I finance my car? ##
 
 ![Meme - Banker cat does not approve your loan][banker-cat]
 
@@ -86,7 +86,7 @@ Not that you should spend every last dime, but if you can't afford to pay cash, 
 
 Save up until you can pay cash in full - once you've got the car in-hand you'll have trained yourself to have extra money you can now start putting into other savings or [paying off your other debt][mortgage-post]
 
-## What do I value? ##
+### What do I value? ##
 
 Presuming you have a good grip on how you plan to use whatever vehicle you buy and you know what you can pay for in cash, you're in a good state to figure out where to add cost to align with the things you value.
 
@@ -104,13 +104,13 @@ You'll spend a whole lot less and still get a chance to see if the bells and whi
 
 Identify the elements of a car that are most valuable to you from a functionality and finances perspective; rate each car you're looking at on these and pay attention to the trade-offs.
 
-## How could I change my lifestyle? ##
+### How could I change my lifestyle? ##
 
 Have you considered how you could change your lifestyle to change your answers to these questions for the better? Do you really need a car in the first place? Could you bike instead?
 
 Could you take the bus, ride-share, or go down to one vehicle? Maybe you don't even need to buy a car at all!
 
-## What does this car say about me? ##
+### What does this car say about me? ##
 
 This is one of the trickiest parts. We live in a world today that judges you based on the clothes you wear and the car you drive.
 
@@ -124,7 +124,7 @@ You have to decide what's more important to you - getting the nod of approval fr
 
 Your self-worth isn't determined by what you drive.
 
-# Vroom Vroom #
+## Vroom Vroom #
 
 The world of car-buying decisions is vast - new vs used, body style from subcompact through oversized SUV, features, safety, fuel economy, and brands.
 

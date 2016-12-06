@@ -27,7 +27,7 @@ It's not easy to go against the grain but you can't let a few bad apples ruin yo
 
 Regardless of what your dreams are, here are some words of encouragement to help you rise above any hate you may get along the way:
 
-# Nobody knows you like you do #
+## Nobody knows you like you do #
 
 Whatever passion it is you are pursuing is precisely that: _your_ passion. Others don't have to share it or understand it.
 
@@ -41,7 +41,7 @@ Step one is to accept _yourself_ exactly as you are. Work hard to get to know yo
 
 From there, remember that you can trust yourself - you know what's important to you and what's not. You get to choose how to live your life.
 
-# You're not alone #
+## You're not alone #
 
 My experience since [launching this blog][one-word-resolution-post] has been overwhelmingly positive from the online community.
 
@@ -57,7 +57,7 @@ If you're not sure where to start, [Reddit][reddit] has a place for just about e
 
 If personal finance is your jam, Mr. Money Mustache has an awesome [forum][mr-m-forum] and there's even a whole section dedicated to [meetups for fellow mustachians][mr-m-meetups]. I attended one earlier this year in Madison and it was so cool to meet and talk with others that have the same nerdy passion I do :)
 
-# Different is ok #
+## Different is ok #
 
 > Do not conform to the pattern of this world, but be transformed by the renewing of your mind...
 >
@@ -73,7 +73,7 @@ Don't overvalue the tools of this world. The value of a painting isn't in the pa
 
 What are you trying to put on your canvas?
 
-# You're not average #
+## You're not average #
 
 We shouldn't waste our energy trying to fit the mold that society tells us is "normal" or spend our lives striving for an average existence.
 
@@ -87,7 +87,7 @@ Beyond being hilarious, there is real truth to the many messages in there. One o
 
 I don't know about you, but I'm not trying to live a merely average life - I'd like to strive for something better for myself and my family.
 
-# You can't change others #
+## You can't change others #
 
 > Haters gonna hate hate hate hate hate
 >
@@ -101,7 +101,7 @@ Unfortunately, you can't force others to change - you can only focus on you.
 
 Take joy in your own successes and try to be different than the haters - celebrate the successes of others even if those successes aren't something you'd strive for yourself.
 
-# Keep the course #
+## Keep the course #
 
 In all, much of this is about remaining confident in yourself - not letting self-doubt and negative talk creep in.
 

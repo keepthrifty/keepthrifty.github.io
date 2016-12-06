@@ -30,7 +30,7 @@ Surely, this is a joke, right?
 
 How on earth can we possibly be in a state where this sounds reasonable to anyone?
 
-# All the Times a Holiday Loan is Warranted #
+## All the Times a Holiday Loan is Warranted #
 
 Since this blog exists to share thoughts on personal finance and living an awesome life, I thought I'd help by providing a list of all times in which you should feel comfortable getting a holiday loan:
 
@@ -40,7 +40,7 @@ That's not a typo. There aren't any.
 
 Seriously, I can't think of one situation in which a holiday loan would be necessary or even a remotely reasonable idea.
 
-# Reason 1: If You Can Get Approved, You Shouldn't Need It #
+## Reason 1: If You Can Get Approved, You Shouldn't Need It #
 
 One of the tips from the article is about checking your credit reports to make sure you get the best rate and to ensure that you improve your chances of getting approved.
 
@@ -54,7 +54,7 @@ You know what that says to me?
 
 If you've proven yourself responsible enough to get approved for the loan, then you should be responsible enough to save up for holiday spending instead.
 
-# Reason 2: If You Need It, You Weren't Prioritizing Right #
+## Reason 2: If You Need It, You Weren't Prioritizing Right #
 
 If you're at this point in the year and unclear on whether you can afford gifts for the holidays, then you should view this as a reflection of what you've been prioritizing throughout the year.
 
@@ -64,7 +64,7 @@ Taking out a loan at this point is only going to make your life harder in the fu
 
 Please don't let this be the start of a downward spiral for your finances.
 
-# Reason 3: That's Not What The Holidays Are About #
+## Reason 3: That's Not What The Holidays Are About #
 
 Allow me to go on a brief rant-in-a-rant here about the commercialization of Christmas.
 
@@ -90,7 +90,7 @@ You are not any greater or lesser based on the number of presents you buy for yo
 
 If your focus is on loving one another, you'll do alright without all the unnecessary gifts.
 
-# Reason 4: Your Kids will be Fine #
+## Reason 4: Your Kids will be Fine #
 
 At this point the last cry I hear is from people who don't want their kids to have a "horrible Christmas." If they can't buy presents, their kids won't get any.
 
@@ -118,7 +118,7 @@ Games are a great way to spend quality time as a family, which is more what your
 
 For some good recommendations, check out this post at Brooklyn Bread listing their [Top Five Picks for Family Game Night](http://www.bklynbread.com/top-five-picks-family-game-night/){: target="_blank"}.
 
-# Just Say No #
+## Just Say No #
 
 Don't do it. Don't put yourself in a worse situation for all the wrong reasons. Say no to holiday loans.
 

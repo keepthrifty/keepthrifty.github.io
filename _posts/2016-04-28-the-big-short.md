@@ -32,7 +32,7 @@ I know, parts were confusing - I didn't get every last detail either. We both st
 
 There are 3 major things that this movie reinforced for me that build a foundation for good financial management in your personal life.
 
-# 1. You can't blindly trust "the experts" #
+## 1. You can't blindly trust "the experts" #
 
 Unfortunately most people in life are driven more by money than by morality. Even if it isn't an overt decision, we're all wired to optimize our own situation.
 
@@ -57,7 +57,7 @@ If you're getting advice from someone whose pay is dependent on you making a pur
 
 There _are_ good brokers and other financial experts out there, but you need to be careful.
 
-# 2. You need to know what you're signing up for #
+## 2. You need to know what you're signing up for #
 
 If you can't trust the experts, who can you trust?
 
@@ -77,7 +77,7 @@ The best consumer is an informed consumer.
 
 From my personal experience, it's incredibly satisfying to shut down a salesperson because you know the product and your options better than they do.
 
-# 3. You need to consider the non-rosy possibilities #
+## 3. You need to consider the non-rosy possibilities #
 
 Even if you understand the theory behind your financial options in life, many people get caught up in the optimistic scenarios.
 
@@ -119,7 +119,7 @@ None of this is to say that ARM's aren't a viable option in certain situations, 
 
 > There's something to be said for the certainty of a fixed mortgage - at least you know what your payment is going to be.
 
-# It's on you #
+## It's on you #
 
 The ___only___ person you can rely on to look out for your financial well-being is you.
 

@@ -29,7 +29,7 @@ In the past 2 years, my wife and I have tried some “non-conventional” things
 * brought [500 worms][worms] into our house where they lived in the kitchen for a few months before being moved to a longer-term home in the basement ([worm composting][worm-composter], people — it’s a thing)
 * and, most recently, sold our Prius and didn’t replace it with another vehicle
 
-# Why would I do all of this to myself? #
+## Why would I do all of this to myself? #
 
 I could go through the detailed story on each of these, but there’s an overarching theme that I think we too often miss in the “success”-driven world we live in today:
 
@@ -47,13 +47,13 @@ We fill our wedding registries with 8 each of 6 different types of glasses becau
 
 We have to start questioning what we see; so much of the world around us is artificial. We have to stop assuming that the way things are is the way things should be.
 
-# Get uncomfortable #
+## Get uncomfortable #
 
 So much of what we are sold on is how to make our lives more convenient and more comfortable. At what point did we decide that “convenient and comfortable” necessarily meant “optimal”?
 
 Whenever our family tried new, unconventional things in the last 2 years, we found benefits that far outweighed the inconvenience and discomfort.
 
-# Disaster preparedness #
+## Disaster preparedness #
 
 If you lost your job tomorrow and couldn’t pay your mortgage, what would you do? It’d be a real challenge to have to sell your house and move into something smaller while also dealing with the stress of job loss and finding new work.
 
@@ -67,7 +67,7 @@ We know what adjustments we’d have to make and how to find joy in our situatio
 
 Either way, we don’t have to worry about whether we could make it work — we already know we could.
 
-# Building our confidence #
+## Building our confidence #
 
 That whole statement of “yeah, but I could never do that” loses its power over you when you prove it to be false through actual application.
 
@@ -81,7 +81,7 @@ That said, I’ve spent a fair amount of time researching how to do worm compost
 
 Building on that momentum, I’ve got added confidence to take on other new things.
 
-# Learning that many things are reversible #
+## Learning that many things are reversible #
 
 One of the biggest barriers to trying to make positive changes in your life is fear — “What if I choose the wrong thing?”. One of the biggest benefits to experimenting with life changes is demonstrating to yourself just how reversible things are.
 
@@ -97,7 +97,7 @@ What’s our worst case scenario here? If we decide we can’t make things work 
 
 In all, we know we’re not making permanent decisions — just going with what we believe to be best at the time and stretching to learn more every day.
 
-# How to start experimenting #
+## How to start experimenting #
 
 The best advice I can give is to just get started now. Challenge yourself to do something in your personal life that you don’t have to do. Here are some thoughts to get you set up:
 

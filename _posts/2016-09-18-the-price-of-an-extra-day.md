@@ -33,7 +33,7 @@ It's not often you get to hear a lineup like this all at the same time, so I dov
 >
 > So, anyway, I was like, “Yeah, I just subtracted another 39 days from my work life.” Little mental games like that just made it feel like I had accomplished a lot in one boring day.
 
-# Whoa #
+## Whoa #
 
 It's a cool thought - correlating the impact your day at work has on your retirement.
 
@@ -45,7 +45,7 @@ With my addiction to [spreadsheets]({{ site.url }}/tags#spreadsheets), I took so
 
 I translated these back into a couple web-based tools below that you can use - feel free to put your own numbers in and see how it turns out!
 
-# Calculating Retirement Days Earned #
+## Calculating Retirement Days Earned #
 
 {% include /calculators/calcfidays.html %}
 
@@ -53,11 +53,11 @@ I translated these back into a couple web-based tools below that you can use - f
 >
 > The cool part is that you can then use this in the MMM example of understanding how much retirement time you bank for every day you work by simply plugging in the amount you put into retirement savings for each work day
 
-# Calculating the Price of a Day (or Year) #
+## Calculating the Price of a Day (or Year) #
 
 {% include /calculators/calcfidollars.html %}
 
-# My Numbers #
+## My Numbers #
 
 The most fun part for me here was to crunch my numbers and see a few things:
 
@@ -78,14 +78,14 @@ Next step is to  find some $25 things to forego and invest the money instead so 
 
 On the grander scale, the cost of an extra year of FI at this point in my journey would be $9,175.61
 
-# General Rules #
+## General Rules #
 
 Playing around with the calculators, there are some interesting truisms that surface:
 
 1. The earlier you are in your FI journey, the bigger the impact. If you've got $30,000 in retirement accounts today, you can buy an extra day of retirement for $5; a whole year only costs $1,878.
 2. Notice (strangely) that we can do all this math without even knowing what your expected expenses are in retirement. While it may seem counterintuitive, the math backs it up (see below).
 
-# The Math Behind the Tools #
+## The Math Behind the Tools #
 
 _If you're not interested in seeing the math that backs up the calculators, [skip to the bottom](#post-closing) for an announcement related to this post and a teaser of what's coming up soon. In addition, you can leave a comment, share the post, or subscribe to my e-mail list so more awesomeness like this just magically appears in your inbox!_
 
@@ -110,15 +110,15 @@ I definitely had to look up some of the logarithm rules to simplify the equation
 
 <div id="post-closing"></div>
 
-# Announcement - Easy Link to Calculators #
+## Announcement - Easy Link to Calculators #
 
 I anticipate creating more calculators like these in the future. People who want a quick way to find them can head to the archives and look at [all the posts tagged "Calculators"](/tags/#calculators). If you have any suggestions for calculators you'd like to see, I'd love it if you'd shoot me an e-mail at [chris@keepthrifty.com](mailto:chris@keepthrifty.com)!
 
-# Spreadsheet Teaser #
+## Spreadsheet Teaser #
 
 For the spreadsheet fanatics out there, I've got a treat for you. Next weeks post will revisit today's topic and we'll go through putting all of this in a spreadsheet. I'll show you from scratch how to take these simple calculators and juice them up with graphs into a nice little dashboard. Check out the [Price of a Day of Retirement Spreadsheet Guide]({{ site.url }}{% post_url 2016-09-25-the-price-of-an-extra-day-spreadsheet-edition %}) now!
 
-# What's a Day Worth to You? #
+## What's a Day Worth to You? #
 
 > You've got the tools now to figure it out - what's a extra day of FI cost you? Can you find a regular expense around that amount that you could eliminate?
 >

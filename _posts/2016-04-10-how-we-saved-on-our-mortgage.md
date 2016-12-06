@@ -25,7 +25,7 @@ After putting down 20% ($44,000), we still had $405,000 left in mortgage payment
 
 > Note: there's a bunch of mortgage math in this article; for a refresher on the basics, check out my [Mortgage Math 101][mortgage-math-101] post.
 
-# How does $219,900 turn into $450,000? #
+## How does $219,900 turn into $450,000? #
 
 Here's the breakdown:
 
@@ -44,7 +44,7 @@ Because the down payment and principal payments cover the purchase price (which 
 
 With only that one option, I got to work using the 3 methods I had to bring that interest payment down :)
 
-# 1. Refinance with a lower rate #
+## 1. Refinance with a lower rate #
 
 Refinancing is working with a bank to "re-do" your mortgage. If interest rates have dropped, you can get a new mortgage at the lower rate.
 
@@ -58,7 +58,7 @@ By refinancing to a slightly lower rate, we would save roughly $31,000 on the mo
 
 _More money in the long-run and more each month along the way? What's not to like?_
 
-## The reality ##
+### The reality ##
 
 Refinancing costs between a few hundred and a few thousand dollars. Because we weren't exactly rolling in cash, we ended up paying for our refinancing by putting the cost back into the mortgage.
 
@@ -78,7 +78,7 @@ Overall, the decision was still worthwhile, but not exactly glamorous. Here's wh
 
 Dropping our interest payment by $18,000 was progress. This was better but definitely not good enough, so I kept looking for ways to improve our situation.
 
-# 2. Refinance with a shorter loan #
+## 2. Refinance with a shorter loan #
 
 Above, I covered how we refinanced with a lower interest rate as one way to improve your mortgage situation. Our next move was to refinance with a shorter term - dropping from a 30-year mortgage to a 15-year mortgage.
 
@@ -92,7 +92,7 @@ Of course, there's always a flip side - the monthly payment here goes up quite a
 
 The good news is that reality in _this_ case is often sweeter than the theory.
 
-## The reality ##
+### The reality ##
 
 The coolest part about doing this is that rates for 15-year mortgages are typically less than those for a 30-year.
 
@@ -112,7 +112,7 @@ We dropped our total cost another $120,000 and brought in our payoff date by 12.
 
 > Lesson: dropping from a 30-year to 15-year mortgage can have a huge impact on our total cost; that said, do the math and understand what the impact will be on your monthly payment
 
-## Going around again ##
+### Going around again ##
 
 We got lucky that rates kept on dropping so 25 months later we took advantage and refinanced again, this time for a 15-year at 2.75%.  
 
@@ -124,7 +124,7 @@ Overall, still a positive impact in our book:
 
 Another $11,500 saved, but we're out another 2.1 years on our date.
 
-# 3. Making additional principal payments (prepaying) #
+## 3. Making additional principal payments (prepaying) #
 
 At this point, we're at probably the lowest rate we'll see in our lifetimes and in a short timeline (at least as mortgages go).
 
@@ -138,7 +138,7 @@ A prepayment is simply you giving extra money to the bank now in order to knock 
 
 > __An important note here__: for most mortgages, this is allowed free-of-charge, but some have prepayment penalties - be sure to check with your lender ahead of time to understand what your mortgage's rules for prepayment are
 
-## Example ##
+### Example ##
 
 Pretend your monthly payment of $1000 is $800 of interest and only $200 of principal early on in your loan.
 
@@ -150,7 +150,7 @@ In comes the pre-payment - after you make your normal monthly payment, you pay _
 
 <div class="image-caption">Take that interest!</div>
 
-# The reality
+## The reality
 
 Right after we re-financed to the 2.75% mortgage, our monthly payment dropped from $1200/month to $937/month but we _pretended_ that our payment stayed the same.
 
@@ -174,7 +174,7 @@ Combining this with the prepayments we did for the first 8 months we got:
 
 > Lesson: prepayments allow you to knock down your principal extra fast since every dollar of prepayment avoids interest - that said, if you've got a low interest rate they don't make quite as much of a difference
 
-# Put it all together #
+## Put it all together #
 
 When you put it all together, here's what our mortgage journey looks like vs what it would have been if we had just stuck with our original mortgage:
 
@@ -182,7 +182,7 @@ When you put it all together, here's what our mortgage journey looks like vs wha
 
 Through all the moves we've made and what we have planned going forward, we will __save over $160,000__ and cut our total mortgage time down from 30 years down to 13 years and 5 months.
 
-# Looking forward #
+## Looking forward #
 
 I expect some may raise questions about why we're so aggressive about paying off our mortgage rather than using the extra prepayment money for investing.
 
@@ -194,7 +194,7 @@ It's crazy to think that we'll be done with our mortgage payments less than 5 ye
 
 The crazier thought is that we'll have an extra $1936.55 a month to figure out what to do with once we're there :)
 
-# What's your journey look like? #
+## What's your journey look like? #
 
 In the end, everyone has their own path to financial freedom. For us, stop one is complete debt elimination.
 

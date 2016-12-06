@@ -42,7 +42,7 @@ We debated and deliberated and decided. We’re going to challenge ourselves to 
 
 ***
 
-# The Basics #
+## The Basics #
 
 In the spirit of J. Money’s “[Challenge Everything][challenge-everything]” at [Budgets Are Sexy][budgets-are-sexy], lets work together to attack one area of your spending each month.
 
@@ -57,7 +57,7 @@ Guidance:
 * Don’t get discouraged if you don’t achieve every goal — any progress is a step in the right direction
 * Be creative and have fun :)
 
-# Support System #
+## Support System #
 
 You can certainly participate without using an expense tracking tool, but I’d highly recommend that you use one. Many out there are using Mint or [Personal Capital](http://track.flexlinkspro.com/a.ashx?foid=1094139.201382&foc=1&fot=9999&fos=1){: target="_blank"}, but I’m using my own tool — [Thrifty][thrifty].
 

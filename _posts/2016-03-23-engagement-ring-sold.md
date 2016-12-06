@@ -34,7 +34,7 @@ We're not in a bad financial situation either. We didn't _need_ to sell the ring
 
 So what's the deal?
 
-# It's all about goals #
+## It's all about goals #
 
 When we got engaged, if you had asked us what our goals were, we would have said to start a family, and live a safe, comfortable life in a nice house, with nice stuff.
 
@@ -44,7 +44,7 @@ Over the last few years, we've pushed ourselves to dream bigger. We've stretched
 
 We've gone through a lot in the last few years and have reframed what our goals in life are:
 
-## Our family ##
+### Our family ##
 
 _Maximizing the time we can spend together and the quality of that time_
 
@@ -56,7 +56,7 @@ In addition, we've built some fun family traditions for us to spend good quality
 
 Another part of this is managing our time commitments - to work, kids activities and other things - to make sure we are spending time together throughout each week.
 
-## Our passions ##
+### Our passions ##
 
 _Ensuring time for us to pursue the things that we get true joy out of working on_
 
@@ -66,7 +66,7 @@ For my wife: decluttering/simplifying and remodeling our house
 
 As our kids get older and their interests and passions become more clear, we'll be putting their passions right alongside ours to make sure they get focus as well.
 
-## Our faith ##
+### Our faith ##
 
 _Living a life that reflects God's calling for us_
 
@@ -76,7 +76,7 @@ We do this through our giving to our church and other charities we're passionate
 
 In addition, our faith guides how we treat our children and those around us.
 
-# Priorities make trade-offs clearer #
+## Priorities make trade-offs clearer #
 
 Something amazing happened once we got clarity on what our priorities are - we found tons of trade-offs that we were happy to make to get us closer to our goals.
 
@@ -86,7 +86,7 @@ The concept of dropping down to one car became an enabler of our dreams once we 
 
 Downsizing our home is the next big opportunity we're working toward; lower property taxes, electricity, insurance, and mortgage all get us closer to financial independence which opens up our options for spending more time together.
 
-# Back to the ring #
+## Back to the ring #
 
 My wife wears her wedding band nearly 24/7 but her engagement ring was usually sitting on a shelf since it was impractical when cleaning or doing remodeling jobs around the house and too expensive to risk damaging.
 
@@ -100,7 +100,7 @@ God, I love this woman. I was pretty sure I was ok with her idea of selling the 
 
 I married a minimalist badass who can see the path to her goals more clearly than just about anyone I've met.
 
-# Where the money is going #
+## Where the money is going #
 
 By selling the ring, we have more money to do the remodeling necessary to sell our house. When we sell our house, we'll downsize into something smaller and will hopefully be able to purchase that house mortgage-free.
 
@@ -108,13 +108,13 @@ By having no mortgage and saving on electricity, property tax, insurance, and al
 
 With much smaller financial needs, we open up a world of flexibility that will allow us to spend more time together as a family.
 
-# The mentality #
+## The mentality #
 
 _At a certain point, you decide what your real goals are and what changes are worth making to help you achieve them_
 
 For us, the engagement ring was simply no longer a part of our goals. By selling the ring, we were able to instead use that money for something that is, pushing our life even further in the positive direction we've been headed.
 
-# Other lessons #
+## Other lessons #
 
 I paid $6,000 for the ring in 2006 and sold it for just $1,900 in 2016. For those of you looking to buy (or receive) engagement rings in the future, I have a couple suggestions:
 
@@ -123,7 +123,7 @@ I paid $6,000 for the ring in 2006 and sold it for just $1,900 in 2016. For thos
 
 I don't regret buying this ring for my wife as it was a part of our journey to where we are today. That said, I'm really happy with our decision to sell it and use that money for something that aligns with our current goals.
 
-# What's your real dream?
+## What's your real dream?
 
 If there's anything you take away from this, I hope you spend some time dreaming big - think about what you really want out of life. Then think about what you could give up today that isn't a part of those dreams.
 

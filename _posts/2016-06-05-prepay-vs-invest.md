@@ -32,7 +32,7 @@ I've [posted][how-we-saved-on-mortgage] ([frequently][prepaying-mortgage-trick])
 
 Given the big milestone in our financial freedom journey, I thought this would be a great time to celebrate our progress with a detailed answer to that question.
 
-# The math #
+## The math #
 
 The first thing to tackle in this question is what the math says about the return rate.
 
@@ -42,7 +42,7 @@ I __know__ if I prepay the mortgage that I'm going to get a 2.75% return rate on
 
 Putting a dollar in the stock market today, however, could yield pretty wildly varying results depending on the amount of time I'm investing over. How can you profile what you're likely to get in returns to figure this out?
 
-## My approach - replay the market ##
+### My approach - replay the market ##
 
 While past performance of the market is not a perfect predictor of future performance, you can certainly use historic stock market data to get a sense for how the market behaves _in general_ over different spans of time.
 
@@ -66,7 +66,7 @@ But look, I got to make this pretty graph:
 
 <div class="image-caption">The bar chart shows the likely outcomes by "investment benefit" (Investment Balance minus Remaining Principal at 54 Months)</div>
 
-## Interpreting the results ##
+### Interpreting the results ##
 
 Based on playing out the scenarios, I ended up with the fancy chart above.
 
@@ -88,7 +88,7 @@ Wasn't this supposed to be a post about why I'm prepaying instead of investing? 
 
 You can probably guess by the fact that haven't changed the title to this post that I'm sticking to my guns on prepaying. Why?
 
-# The mentality #
+## The mentality #
 
 For my personality, the analysis above does a great job of showing the numbers in _absolute_ terms, but there's a _relative_ value of these scenarios that only _you_ can assess based on your personal risk profile.
 
@@ -112,7 +112,7 @@ When I look at the numbers and consider the _relative downside_ and how much I'd
 
 As much as we think everything can be handled by logic and math, much of investing is about your personality and how you'd react to the different scenarios.
 
-# Is prepaying right for you? #
+## Is prepaying right for you? #
 
 Pre-paying your mortgage, like most investment strategies, is largely a question of risk tolerance. You've got to decide what downsides you're willing to risk in order to have a shot at the upsides.
 
@@ -122,7 +122,7 @@ That said, don't assume that the "8% return" of the market is a sure thing; over
 
 > Before you make any major financial decision, do the math and know your mentality! ([_Tweet this_][tweet-quote])
 
-# An offer for you
+## An offer for you
 
 If you want to see how the prepay vs invest scenarios play out for you, I'd be happy to run your scenarios through my spreadsheet and e-mail you the results.
 

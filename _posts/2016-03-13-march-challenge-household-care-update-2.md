@@ -48,7 +48,7 @@ Since [last week][week-1-update, we've added $18.82 with just a couple items:
 
 Still going strong here - the glass spice jar is an investment in our continuing move toward buying food in bulk - containers are a needed up-front expense but you save a ton from going in the trash and save money in the long run!
 
-# How is your month looking? #
+## How is your month looking? #
 
 Hope you're on track as well. Find me on [twitter][twitter-profile] and let me know how you're doing!
 

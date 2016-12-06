@@ -48,7 +48,7 @@ As always, keep the following guidance in mind:
 * Don’t get discouraged if you don’t achieve every goal — any progress is a step in the right direction
 * Be creative and have fun :)
 
-# Helpful Resources & Ideas for Saving #
+## Helpful Resources & Ideas for Saving #
 
 Most items in Household Care are consumables, making them a regular part of your budget.
 
@@ -56,28 +56,28 @@ There are some good opportunities here to swap out consumables for reusables �
 
 Other than that, focus on reducing this category to only buying what you need and to find less expensive options where possible. Check out the links below for advice from the experts.
 
-## Cleaning Products ##
+### Cleaning Products ##
 
 * [Are You Cleaning Out Your Wallet?][cleaning-out-wallet] (Mr. Money Mustache)
 * Buy baking soda, vinegar, and borax and [google][google-baking-soda-vinegar] what you need to clean to figure out how to use these safe, inexpensive basics. Lots cheaper and less harsh chemicals = lower impact on you and your family, lower impact on the environment
 
-## Personal Care & Makeup ##
+### Personal Care & Makeup ##
 
 * [Zero Waste Bathroom][zero-waste-bathroom] (Zero Waste Home)
 * [Mrs. Money Mustache — Eliminating Lady Temptations][mrs-money-mustache-lady] (Mr. Money Mustache)
 * Use [hankybooks][hankybooks] instead of tissues
 
-## Other ##
+### Other ##
 * [Light Bulb Showdown: LED vs CFL vs Incandescent][light-bulb-showdown] (The Simple Dollar)
 * [8 Tips to Save BIG Money on Diapers][save-big-on-diapers] (The Thrifty Couple)
 
-# My Challenge #
+## My Challenge #
 
 I’m doing this challenge right along with you, so here’s my analysis, goal, and plan for how I plan to tackle Household Care spending in our family this month.
 
 ![Monthly spending chart][household-care-chart]
 
-## Analysis ##
+### Analysis ##
 
 Using [Thrifty][thrifty], I’ve got a good sense of where our family stands on spending in Household Care for the last 6 months.
 
@@ -110,13 +110,13 @@ Looking at the details, our last 6 months of household care has included a laund
 
 At first, I was amazed we were spending about $255 a month but once you get the list out there you can see how everything can add up.
 
-## Goal ##
+### Goal ##
 
 My goal for our family is to drop from $255 per month to $100 per month.
 
 If we can do this sustainably, we’ll save $1865 a year — not too shabby!
 
-## Plan ##
+### Plan ##
 
 The good news is that many of the expenses above shouldn’t be repeating ones — we only (presumably) need one worm composter and now that we’ve got enough bulk jars, we should be good to go.
 
@@ -128,7 +128,7 @@ Actions we’re planning on taking to drop our amount:
 
 Will all of these changes add up to $155 a month? We know from January that it’s possible for our family to spend less than $100 total, but can we repeat in March and set ourselves up for the future? We’ll see as the month progresses!
 
-# Your Turn #
+## Your Turn #
 
 Are you ready to join the challenge? Share your thoughts in the comments below or [tweet me][tweet-link] with your goals, plan, or progress!
 
