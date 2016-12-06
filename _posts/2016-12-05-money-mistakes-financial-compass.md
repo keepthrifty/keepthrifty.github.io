@@ -85,7 +85,7 @@ Any money that doesn't go toward our necessities for living or one of those goal
 
 ## Blooper Reel - Other Financial Missteps
 
-![Foot about to step on a banana peel]({{ site.url }}/img/posts/2016-12-05-money-mistakes-financial-compass/banana-slip.jpg)
+![Foot about to step on a banana peel]({{ site.url}}/img/posts/2016-12-05-money-mistakes-financial-compass/banana-slip.jpg)
 
 Now that we've got our compass set, its easy to look back and see all the missteps we've made over the years. We've wasted tens of thousands of dollars on things that didn't get us closer to our goals.
 
@@ -171,7 +171,7 @@ Whatever your financial mistakes have been, don't get down about them. Use them 
 
 ## Finding Steady Financial Footing
 
-![Hiking boots on a mountain]({{ site.url }}/img/posts/2016-12-05-money-mistakes-financial-compass/financial-footing.jpg)
+![Hiking boots on a mountain]({{ site.url}}/img/posts/2016-12-05-money-mistakes-financial-compass/financial-footing.jpg)
 
 If you want to improve your finances, you need to set your financial compass.
 
