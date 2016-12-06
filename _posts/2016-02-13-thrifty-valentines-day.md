@@ -10,7 +10,8 @@ image-folder: /img/posts/2016-02-13-thrifty-valentines-day
 related-posts: [
   "/2016/08/12/fifteen-lessons-first-seven-jobs",
   "/2016/09/04/let-it-burn",
-  "/2016/08/28/the-more-of-less-review"
+  "/2016/08/28/the-more-of-less-review",
+  "/2016/11/27/staying-thankful-spend-happy-world"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration, how we money]

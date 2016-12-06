@@ -10,7 +10,8 @@ image-folder: /img/posts/2016-05-08-how-much-car-can-you-afford
 related-posts: [
   "/2016/04/28/the-big-short",
   "/2016/01/20/living-with-less",
-  "/2016/08/28/the-more-of-less-review"
+  "/2016/08/28/the-more-of-less-review",
+  "/2016/12/05/money-mistakes-financial-compass"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]
