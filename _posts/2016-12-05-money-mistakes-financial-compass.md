@@ -19,7 +19,7 @@ related-posts: [
 tags: [how we money]
 ---
 
-Just a couple years ago though, we were wasting thousands of dollars every year and had no idea how to make things better. Now, we're riding a financial high; our spending is at an all-time low and our net worth is up 25% over the last twelve months. What changed that allowed us to get where we're at today?
+Just a couple years ago though, we were wasting thousands of dollars every year and had no idea how to make things better. Now, we're riding a financial high; our spending is at an all-time low and our net worth is up 25% over the last twelve months. What changed? What allowed us to get where we're at today?
 
 For the answer, you'll have to suffer through a bit of back story...
 
@@ -49,7 +49,7 @@ To add to the stress, we had always wanted to go on vacation but told ourselves 
 
 {% capture tweet-text %}We put our money where our mouth was but our mouth was only focused on necessities and furniture.{% endcapture %}{% include tweet-link.html %}
 
-We spent thousands of dollars on high-end furnishings that didn't make us happy. To compound matters, our two, clawed cats put deep scratches into just about every piece.
+We spent thousands of dollars on high-end furnishings that didn't make us happy. To compound matters, our cats put deep scratches into just about every piece.
 
 We might as well have flushed money down the drain.
 
@@ -78,10 +78,10 @@ We set our financial compass and the results have been phenomenal.
 Our financial compass includes:
 
 - Maximizing the time we can spend together and the quality of that time
-- Ensuring time for us to pursue the things that we get true joy out of working on
+- Making time to pursue the work that brings us joy
 - Living a life that reflects God’s calling for us
 
-Any money that doesn't go toward our necessities for living or one of those goals is a waste and misstep.
+Any money that doesn't go toward our necessities or our goals is a waste and a misstep.
 
 ## Blooper Reel - Other Financial Missteps
 
