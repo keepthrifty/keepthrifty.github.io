@@ -19,7 +19,7 @@ related-posts: [
 tags: [how we money]
 ---
 
-Just a couple years ago though, we were wasting thousands of dollars every year and had no idea how to make things better. Now, we're riding a financial high; our spending is at an all-time low and our net worth is up 25% over the last twelve months. What changed? What allowed us to get where we're at today?
+Just a couple years ago, we were wasting thousands of dollars every year and had no idea how to make things better. Now, we're riding a financial high; our spending is at an all-time low and our net worth is up 25% over the last twelve months. What changed? What allowed us to get where we're at today?
 
 For the answer, you'll have to suffer through a bit of back story...
 
