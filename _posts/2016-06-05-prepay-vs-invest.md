@@ -12,7 +12,8 @@ related-posts: [
   "/2016/09/25/the-price-of-an-extra-day-spreadsheet-edition",
   "/2016/04/04/mortgage-math-101",
   "/2016/04/10/how-we-saved-on-our-mortgage",
-  "/2016/08/05/dominate-debt-with-spreadsheet-fu"
+  "/2016/08/05/dominate-debt-with-spreadsheet-fu",
+  "/2016/12/12/ultimate-refinancing-spreadsheet-calculator"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [spreadsheets, mortgages, how we money]

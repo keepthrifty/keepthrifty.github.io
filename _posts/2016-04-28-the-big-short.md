@@ -11,7 +11,8 @@ related-posts: [
   "/2016/06/18/the-simple-path-to-wealth-review",
   "/2016/04/04/mortgage-math-101",
   "/2016/04/10/how-we-saved-on-our-mortgage",
-  "/2016/05/08/how-much-car-can-you-afford"
+  "/2016/05/08/how-much-car-can-you-afford",
+  "/2016/12/12/ultimate-refinancing-spreadsheet-calculator"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [mortgages]

@@ -12,6 +12,7 @@ related-posts: [
   "/2016/04/04/mortgage-math-101",
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",
   "/2016/01/15/prepaying-mortgage-trick",
+  "/2016/12/12/ultimate-refinancing-spreadsheet-calculator",
   "/2016/06/05/prepay-vs-invest",
   "/2016/11/13/four-keys-successful-budget"
 ]

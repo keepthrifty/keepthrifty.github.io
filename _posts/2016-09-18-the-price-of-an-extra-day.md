@@ -11,7 +11,8 @@ related-posts: [
   "/2016/09/25/the-price-of-an-extra-day-spreadsheet-edition",
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",
   "/2016/06/18/the-simple-path-to-wealth-review",
-  "/2016/06/05/prepay-vs-invest"
+  "/2016/06/05/prepay-vs-invest",
+  "/2016/12/12/ultimate-refinancing-spreadsheet-calculator"
 ]
 redirect_from:
   - /calculators/
