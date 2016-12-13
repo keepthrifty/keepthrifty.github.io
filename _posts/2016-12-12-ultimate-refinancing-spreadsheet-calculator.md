@@ -56,7 +56,7 @@ With that in mind, I present the ultimate refinancing spreadsheet:
 
 ## Enter the Dragon
 
-![Screenshot of the ultimate refinancing spreadsheet]({{site.url}}/img/posts/2016-12-12-ultimate-refinancing-spreadsheet-calculator/ultimate-refinance-spreadsheet.jpg)
+[![Screenshot of the ultimate refinancing spreadsheet]({{site.url}}/img/posts/2016-12-12-ultimate-refinancing-spreadsheet-calculator/ultimate-refinance-spreadsheet.jpg)][spreadsheet-link]
 
 I've got the spreadsheet available for free on Google Sheets. [Click here to get your own copy][spreadsheet-link]
 
