@@ -2,6 +2,7 @@
 layout: page
 permalink: /subscribe/
 image: /img/mailboxes.jpg
+description: Subscribe to my once-a-week newsletter; includes the latest blog post, links to my favorite articles, and updates on projects I'm working on.
 title: Subscribe
 ---
 
