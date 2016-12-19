@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /subscribe/
+image: /img/mailboxes.jpg
 title: Subscribe
 ---
 
