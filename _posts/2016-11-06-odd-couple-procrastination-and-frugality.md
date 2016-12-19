@@ -1,8 +1,9 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: Mystery Money Man
+author_site: Mystery Money Man
+author_site_url: http://www.mysterymoneyman.com
 
 title: "An Odd Couple: The Surprising Truth About Frugality and Procrastination"
 description: "This guest post from Mystery Money Man shows that frugality and procrastination aren't always at odds - sometimes they even work together"
@@ -13,7 +14,8 @@ related-posts: [
   "/2016/07/21/spending-on-free",
   "/2016/10/16/talent-is-overrated",
   "/2016/07/27/the-secret-to-success",
-  "/2016/09/05/let-it-burn"
+  "/2016/09/05/let-it-burn",
+  "/2016/12/18/4-financial-no-noes-from-grandparents"
 ]
 
 tags: [guest post, inspiration]

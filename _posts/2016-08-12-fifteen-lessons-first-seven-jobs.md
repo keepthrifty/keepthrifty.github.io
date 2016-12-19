@@ -9,10 +9,10 @@ image: /img/posts/2016-08-12-first-seven-jobs/parking-lot.jpg
 image-folder: /img/posts/2016-08-12-first-seven-jobs
 related-posts: [
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",
-  "/2016/02/13/thrifty-valentines-day",
   "/2016/05/24/encouragement-over-hate",
   "/2016/10/15/talent-is-overrated",
-  "/2016/11/20/money-life-lessons-oregon-trail"
+  "/2016/11/20/money-life-lessons-oregon-trail",
+  "/2016/12/18/4-financial-no-noes-from-grandparents"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]

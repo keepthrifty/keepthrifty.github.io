@@ -10,9 +10,9 @@ image: /img/posts/2016-07-21-spending-on-free/sunset-heart.jpg
 related-posts: [
   "/2016/03/23/engagement-ring-sold",
   "/2016/01/20/living-with-less",
-  "/2016/07/27/the-secret-to-success",
   "/2016/11/06/odd-couple-procrastination-and-frugality",
-  "/2016/10/10/become-twice-as-happy-with-half-as-much"
+  "/2016/10/10/become-twice-as-happy-with-half-as-much",
+  "/2016/12/18/4-financial-no-noes-from-grandparents"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [guest post, inspiration, minimalism]
