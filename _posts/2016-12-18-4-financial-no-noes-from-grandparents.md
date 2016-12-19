@@ -89,8 +89,6 @@ Most of us are behind on our retirement planning…_and it’s a big mistake_.  
 
 I would imagine that many of you had great grandparents…and if you didn’t, then I’m sure you had another adult figure that has influenced you over the years.  I recognize that we are living in a much different day and age than our grandparents, but that doesn’t give us an excuse to handle our finances any different than they did!
 
-{% capture tweet-text %}Don’t go into debt for a car, don’t buy new clothes, don’t pay for entertainment, and don’t forget about your retirement{% endcapture %}{% include tweet-link.html %}
-
-Those are four no-noes that I believe my grandpa would give me to help me get my finances back on track, and quite frankly, it’s just good sound advice.
+Don’t go into debt for a car, don’t buy new clothes, don’t pay for entertainment, and don’t forget about your retirement. Those are four no-noes that I believe my grandpa would give me to help me get my finances back on track, and quite frankly, it’s just good sound advice.
 
 _After spending six years in the accounting, retirement, and financial realm, Jacob turned his attention to teaching others about important life skills.  He works with clients one on one, in addition to teaching others through his website [PowerOverLife](http://www.poweroverlife.com){: target="_blank"}.  Jacob currently lives in Gilbert, AZ with his wife and one-year-old daughter._
