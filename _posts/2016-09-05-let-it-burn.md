@@ -10,9 +10,9 @@ social-line: Get someone else fired up too!
 related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/03/23/engagement-ring-sold",
-  "/2016/01/20/living-with-less",
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
-  "/2016/11/06/odd-couple-procrastination-and-frugality"
+  "/2016/11/06/odd-couple-procrastination-and-frugality",
+  "/2016/12/26/thrifty-year-in-review"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration, minimalism]

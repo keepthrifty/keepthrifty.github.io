@@ -13,7 +13,8 @@ pinterest-image: /img/posts/2016-11-27-staying-thankful-spend-happy-world/thankf
 related-posts: [
   "/2016/02/13/thrifty-valentines-day",
   "/2016/03/23/engagement-ring-sold",
-  "/2016/07/06/roadtrip-recap"
+  "/2016/07/06/roadtrip-recap",
+  "/2016/12/26/thrifty-year-in-review"
 ]
 
 tags: [inspiration, minimalism, faith]
