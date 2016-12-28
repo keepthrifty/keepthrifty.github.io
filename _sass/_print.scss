@@ -17,25 +17,17 @@
 
   .post {
     max-width: 100%;
-    .post__footer {
+    .post__footer, .post__print-icon {
       display: none;
     }
   }
-  .side-column {
-    display: none;
-  }
-
-  .tweet-link {
+  .side-column, .tweet-link {
     display: none;
   }
 
   *,
   *:before,
   *:after,
-  p:first-letter,
-  div:first-letter,
-  blockquote:first-letter,
-  li:first-letter,
   p:first-line,
   div:first-line,
   blockquote:first-line,
@@ -52,8 +44,14 @@
       text-decoration: underline;
   }
 
-  a[href^="http"]:not([href*="keepthrifty.com"]):after {
-    content: " (" attr(href) ")";
+  a[href^="http"]:not([href*="keepthrifty.com"]){
+    &:after {
+      content: " <" attr(href) ">";
+      text-decoration: none;
+    }
+  }
+  a[href^="http"][href*="keepthrifty.com"]{
+    text-decoration: none;
   }
 
   abbr[title]:after {

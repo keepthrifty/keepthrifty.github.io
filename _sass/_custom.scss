@@ -30,7 +30,7 @@ main.page {
   flex: 1 0 auto;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  @media(min-width: $minimum-break) {
+  @media screen and (min-width: $minimum-break) {
     padding-top: 4rem;
     padding-bottom: 4rem;
   }
@@ -146,6 +146,12 @@ a {
   max-width: 800px;
   object-fit: cover;
   object-position: center center;
+}
+
+.post__print-icon {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
 }
 
 .post__body {
@@ -265,10 +271,14 @@ a {
 
 .share-buttons__list {
   text-align: center;
+  :first-child { margin-left: 0 !important; }
+  :last-child { margin-right: 0 !important; }
 }
 
 .share-buttons__button {
   display: inline;
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
 }
 
 .twitter { color: #55ACEE; }
@@ -279,6 +289,7 @@ a {
 .reddit { color: #FF4500; }
 .tumblr { color: #35465C; }
 .email { color: #C4C9CC; }
+.print { color: $meta-color }
 
 .mini-post-list {
   text-align: center;

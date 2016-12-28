@@ -20,6 +20,11 @@ comments: true
       {% if page.image %}
       <img src="{{ site.url }}{{ page.image }}" class="post__header__image" itemprop="image" alt="" />
       {% endif %}
+      <div class="post__print-icon">
+        <a class="print" href="javascript:window.print()" title="Print this page">
+          <i class="fa fa-print fa-1x"></i>
+        </a>
+      </div>
     </header>
 
     <main class="post__body" itemprop="articleBody">
