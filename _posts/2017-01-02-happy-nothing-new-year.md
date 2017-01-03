@@ -9,6 +9,7 @@ subtitle: "Buying Nothing New in 2017"
 description: "___TK___"
 
 image: /img/posts/2017-01-02-happy-nothing-new-year/empty-shopping-list.jpg
+pinterest-image: /img/posts/2017-01-02-happy-nothing-new-year/nothing-new-year-pinterest.jpg
 
 related-posts: [
 
