@@ -6,13 +6,16 @@ author_email: chris@keepthrifty.com
 
 title: "Happy Nothing New Year"
 subtitle: "Buying Nothing New in 2017"
-description: "___TK___"
+description: "Our family's goal for 2017? To buy nothing new. How are we going to do it?"
 
 image: /img/posts/2017-01-02-happy-nothing-new-year/empty-shopping-list.jpg
-pinterest-image: /img/posts/2017-01-02-happy-nothing-new-year/nothing-new-year-pinterest.jpg
+pinterest-image: /img/posts/2017-01-02-happy-nothing-new-year/nothing-new-year-pinterest.png
 
 related-posts: [
-
+  "/2016/10/10/become-twice-as-happy-with-half-as-much",
+  "/2016/08/28/the-more-of-less-review",
+  "/2016/06/13/escape-fashion-trap-part-1",
+  "/2016/01/20/living-with-less"
 ]
 
 tags: [minimalism, nothing new year]

@@ -15,7 +15,8 @@ related-posts: [
   "/2016/01/20/living-with-less",
   "/2016/12/05/money-mistakes-financial-compass",
   "/2016/09/05/let-it-burn",
-  "/2016/12/18/4-financial-no-noes-from-grandparents"
+  "/2016/12/18/4-financial-no-noes-from-grandparents",
+  "/2017/01/02/happy-nothing-new-year"
 ]
 
 tags: [minimalism, inspiration]

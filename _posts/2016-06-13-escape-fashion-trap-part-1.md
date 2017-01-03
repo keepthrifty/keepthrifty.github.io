@@ -12,7 +12,8 @@ related-posts: [
   "/2016/06/13/escape-fashion-trap-part-1",
   "/2016/03/23/engagement-ring-sold",
   "/2016/01/20/living-with-less",
-  "/2016/06/18/the-simple-path-to-wealth-review"
+  "/2016/06/18/the-simple-path-to-wealth-review",
+  "/2017/01/02/happy-nothing-new-year"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism]
