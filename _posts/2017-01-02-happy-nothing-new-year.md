@@ -73,7 +73,7 @@ For non-consumables, we do have a few exceptions we're going to give ourselves o
 - Photo prints (school pictures and for our road trip map)
 - Stainless steel baking sheet (though we'll look for used options if we can find them)
 - Car maintenance parts (we know we need new tires next year)
-- Home remodeling (though we'll try to buy from [Habitat for Humanity Restores](http://www.habitat.org/restores) when possible)
+- Home remodeling (though we'll try to buy from [Habitat for Humanity Restores](http://www.habitat.org/restores){: target="_blank"} when possible)
 
 That's it. Did we miss anything?
 
