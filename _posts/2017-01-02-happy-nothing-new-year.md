@@ -4,7 +4,7 @@ layout: post
 author: keepthrifty
 author_email: chris@keepthrifty.com
 
-title: "Happy Nothing New Year"
+title: "Happy Nothing New Year!"
 subtitle: "Buying Nothing New in 2017"
 description: "Our family's goal for 2017? To buy nothing new. How are we going to do it?"
 
