@@ -21,7 +21,7 @@ tags: [inspiration]
 
 ---
 
-You can hardly open your eyes these days without being bombarded by advertisements. By some estimates, we are exposed to around [3500 advertisements every day](https://www.theguardian.com/media/2005/nov/19/advertising.marketingandpr){: target="_blank"}. In a world that's constantly telling you that you need to spend more, the best defense is to understand the tactics marketers use and arm yourself against them.
+You can hardly open your eyes these days without being bombarded by advertisements. By some estimates, we are exposed to around [3500 advertisements every day](https://www.theguardian.com/media/2005/nov/19/advertising.marketingandpr){: target="_blank"}. In a world that's constantly telling you that you need to spend more, the best defense is to understand the tactics marketers use and immunize yourself against them.
 
 While many marketing ploys are obvious, there are some that are so nuanced that you might miss if you're not paying attention. Here are four of the most devious tactics marketers use against you and some tips on how to retool your thinking to avoid them.
 
@@ -140,6 +140,10 @@ Instead of having the option to buy a new bulb, you now have to spend _extra mon
 What was sold to you as a benefit is actually more expensive, more wasteful, and less convenient!
 
 __Your Defense:__ Constantly question what you're being told by advertisers. {% capture tweet-text %}Most companies are more concerned about your dollars than your well-being{% endcapture %}{% include tweet-link.html %}
+
+## Bonus Tactic - Anchoring
+
+I'd be remiss if I didn't also send you to this great post from Maggie from Northern Expenditure (hosted on FrugalToFree) about [how to combat the effect of "Anchor Pricing"](http://www.fromfrugaltofree.com/guest-post-save-money-beating-anchor-pricing/){: target="_blank"}. Maggie does an awesome job giving you the behavioral economics theory that drives anchor pricing and guides you on how to beat the tactic altogether.
 
 ## Stay Vigilant
 
