@@ -159,7 +159,7 @@ Let's take a look at how to escape the fashion money trap in [Part 2][part-2].
 {: target="_blank"}
 
 [plenitude-link]: http://amzn.to/1UPCQ8C
-{: target="_blank"}
+{: target="_blank" rel="nofollow" }
 
 [hammer-pants]: {{ site.url }}{{ page.image-folder }}/hammer-pants.jpg
 

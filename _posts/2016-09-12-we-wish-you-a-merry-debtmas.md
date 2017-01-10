@@ -11,7 +11,8 @@ subscribe-line: Want a weekly present in your inbox?
 related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",
-  "/2016/07/21/spending-on-free"
+  "/2016/07/21/spending-on-free",
+  "/2017/01/09/defeat-four-devious-marketing-tactics"
 ]
 tags: [inspiration, faith]
 ---

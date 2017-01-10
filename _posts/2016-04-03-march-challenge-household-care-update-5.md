@@ -77,4 +77,4 @@ Find me on [twitter][twitter-profile] and let me know how you did this month!
 [final-results]: {{ site.url }}{% post_url 2016-04-03-march-challenge-household-care-update-5 %}
 
 [mason-jars]: http://amzn.to/203TlSw
-{: target="_blank"}
+{: target="_blank" rel="nofollow" }

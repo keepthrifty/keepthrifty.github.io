@@ -89,4 +89,4 @@ ___To get your own copy, here's a [link to the book on Amazon][it-is-only-money-
 > What does money mean to you? Success or stress? Obligation or opportunity? Freedom or burden? How does that meaning shape your behavior?
 
 [it-is-only-money-amazon]: http://amzn.to/2dgKhLj
-{: target="_blank"}
+{: target="_blank" rel="nofollow" }

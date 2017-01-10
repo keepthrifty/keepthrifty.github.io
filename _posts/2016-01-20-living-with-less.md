@@ -116,7 +116,7 @@ As you go through, I hope you’ll share your story, successes, and lessons lear
 {: target="_blank"}
 
 [worm-composter]: http://amzn.to/1Xi5ja1
-{: target="_blank"}
+{: target="_blank" rel="nofollow" }
 
 [worms]: http://amzn.to/1X2LFAD
-{: target="_blank"}
+{: target="_blank" rel="nofollow" }

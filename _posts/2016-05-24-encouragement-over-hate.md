@@ -11,7 +11,8 @@ related-posts: [
   "/2016/09/04/let-it-burn",
   "/2016/07/21/spending-on-free",
   "/2016/02/13/thrifty-valentines-day",
-  "/2016/10/16/talent-is-overrated"
+  "/2016/10/16/talent-is-overrated",
+  "/2017/01/09/defeat-four-devious-marketing-tactics"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]

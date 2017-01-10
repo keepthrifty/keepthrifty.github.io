@@ -77,4 +77,4 @@ Hope you are keeping on track as well. Find me on [twitter][twitter-profile] and
 [final-results]: {{ site.url }}{% post_url 2016-04-03-march-challenge-household-care-update-5 %}
 
 [mason-jars]: http://amzn.to/203TlSw
-{: target="_blank"}
+{: target="_blank" rel="nofollow" }

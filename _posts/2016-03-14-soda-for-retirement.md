@@ -143,10 +143,10 @@ _What is one recurring expense that you could really live without?_
 [stop-the-music]: {{ site.url }}{{ page.image-folder }}/stop-the-music.jpg
 
 [ham-beach-80350]: http://amzn.to/203QIju
-{: target="_blank"}
+{: target="_blank" rel="nofollow" }
 
 [french-press]: http://amzn.to/25aQ4b0
-{: target="_blank"}
+{: target="_blank" rel="nofollow" }
 
 [folgers]: http://amzn.to/25aPMRr
-{: target="_blank"}
+{: target="_blank" rel="nofollow" }

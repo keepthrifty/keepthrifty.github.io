@@ -146,4 +146,4 @@ _I encourage you to share them in the comments section below so others can learn
 [schmidt-picture]: {{ site.url }}{{ page.image-folder }}/the-big-short-schmidt.jpg
 
 [amazon-big-short]: http://amzn.to/25aPSsk
-{: target="_blank"}
+{: target="_blank" rel="nofollow" }

@@ -147,7 +147,7 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 {: target="_blank"}
 
 [hankybooks]: http://amzn.to/25aQ3Um
-{: target="_blank"}
+{: target="_blank" rel="nofollow" }
 
 [light-bulb-showdown]: http://www.thesimpledollar.com/the-light-bulb-showdown-leds-vs-cfls-vs-incandescent-bulbs-whats-the-best-deal-now-and-in-the-future/
 {: target="_blank"}
@@ -172,10 +172,10 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [final-results]: {{ site.url }}{% post_url 2016-04-03-march-challenge-household-care-update-5 %}
 
 [worm-composter]: http://amzn.to/1Xi5ja1
-{: target="_blank"}
+{: target="_blank" rel="nofollow" }
 
 [worms]: http://amzn.to/1X2LFAD
-{: target="_blank"}
+{: target="_blank" rel="nofollow" }
 
 [two-L-jars]: http://amzn.to/1UXuUaO
-{: target="_blank"}
+{: target="_blank" rel="nofollow" }

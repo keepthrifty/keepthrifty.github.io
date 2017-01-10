@@ -9,7 +9,8 @@ image: /img/posts/2016-07-14-experience-or-stuff/mountaintop.jpg
 related-posts: [
   "/2016/03/23/engagement-ring-sold",
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",
-  "/2016/07/06/roadtrip-recap"
+  "/2016/07/06/roadtrip-recap",
+  "/2017/01/09/defeat-four-devious-marketing-tactics"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]
@@ -134,4 +135,4 @@ It pays to hear different viewpoints and understand how different people live, b
 {: target="_blank"}
 
 [luxury-fever]: http://amzn.to/29SXEjn
-{: target="_blank"}
+{: target="_blank" rel="nofollow" }

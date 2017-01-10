@@ -14,7 +14,7 @@ image-folder: /img/posts/2016-10-16-talent-is-overrated
 related-posts: [
   "/2016/09/05/let-it-burn",
   "/2016/08/12/fifteen-lessons-first-seven-jobs",
-  "/2016/05/24/encouragement-over-hate",
+  "/2017/01/09/defeat-four-devious-marketing-tactics",
   "/2016/07/27/the-secret-to-success",
   "/2016/11/06/odd-couple-procrastination-and-frugality",
   "/2016/11/20/money-life-lessons-oregon-trail"
@@ -25,7 +25,7 @@ tags: [inspiration]
 affiliate: true
 ---
 
-We're loyal fans of the HGTV show "[Fixer Upper](http://amzn.to/2dX33dc){: target="_blank"}". It's incredible to see the transformation in these homes that have seemingly lost all their value. They deliver magazine-quality design, bringing new life to the house and the neighborhood. Some lucky people get all the talent, right? Maybe not...
+We're loyal fans of the HGTV show "[Fixer Upper](http://amzn.to/2dX33dc){: target="_blank" rel="nofollow" }". It's incredible to see the transformation in these homes that have seemingly lost all their value. They deliver magazine-quality design, bringing new life to the house and the neighborhood. Some lucky people get all the talent, right? Maybe not...
 
 After starting to watch the show, my wife and I were browsing homes on Zillow in Waco, Texas to see what was out there. Man, were we surprised when we found a house that was for sale that indicated it had actually been remodeled by Chip Gaines himself!
 

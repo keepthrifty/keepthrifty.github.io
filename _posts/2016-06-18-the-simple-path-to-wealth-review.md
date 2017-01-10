@@ -76,4 +76,4 @@ ___To get your own copy, here's a [link to the book on Amazon*][the-simple-path-
 [the-simple-path-to-wealth-cover]: {{ site.url }}/img/posts/2016-06-18-the-simple-path-to-wealth-review/the-simple-path-to-wealth-cover.jpg
 
 [the-simple-path-to-wealth-amazon]: http://amzn.to/1ZYURpb
-{: target="_blank"}
+{: target="_blank" rel="nofollow" }

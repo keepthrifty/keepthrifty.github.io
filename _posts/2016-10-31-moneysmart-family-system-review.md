@@ -134,4 +134,4 @@ ___To get your own copy, here's a [link to the book on Amazon][amazon-link]___
 [![The MoneySmart Family System book cover]({{ site.url }}/img/posts/2016-10-31-moneysmart-family-system-review/cover.jpg)][amazon-link]
 
 [amazon-link]: http://amzn.to/2f3CiQG
-{: target="_blank" }
+{: target="_blank" rel="nofollow" }

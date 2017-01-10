@@ -86,7 +86,7 @@ If you're not tracking your spending, you should really give it a try. Right now
 
 > While I really believe that manually tracking your expenses can help you understand them better and will even deter you from some unnecessary spending, I understand not everyone is ready to go that route.
 >
-> If you're looking for an automated tracking solution, check out [Personal Capital](http://track.flexlinkspro.com/a.ashx?foid=1094139.201382&foc=1&fot=9999&fos=1){: target="_blank"} - it's free and connects automatically to your bank accounts to help you track your spending and net worth.
+> If you're looking for an automated tracking solution, check out [Personal Capital](http://track.flexlinkspro.com/a.ashx?foid=1094139.201382&foc=1&fot=9999&fos=1){: target="_blank" rel="nofollow"} - it's free and connects automatically to your bank accounts to help you track your spending and net worth.
 
 The blog portion of Keep Thrifty was originally intended just to support the Thrifty tool, but I quickly found great enjoyment in writing and it's become the primary focus of this site.
 
