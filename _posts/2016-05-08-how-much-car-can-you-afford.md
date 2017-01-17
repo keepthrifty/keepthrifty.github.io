@@ -11,7 +11,8 @@ related-posts: [
   "/2016/04/28/the-big-short",
   "/2016/01/20/living-with-less",
   "/2016/08/28/the-more-of-less-review",
-  "/2016/12/05/money-mistakes-financial-compass"
+  "/2016/12/05/money-mistakes-financial-compass",
+  "/2017/01/16/one-car-suburbs"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]
@@ -163,4 +164,4 @@ _Did you have a great/terrible experience with your last car purchase? Help othe
 {: target="_blank"}
 
 [uber-link]: https://www.uber.com/invite/chrisd21975ue
-{: target="_blank"}
+{: target="_blank" rel="nofollow"}

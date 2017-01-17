@@ -12,6 +12,7 @@ related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",
   "/2016/03/23/engagement-ring-sold",
+  "/2017/01/16/one-car-suburbs"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [book review]

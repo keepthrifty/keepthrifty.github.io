@@ -85,7 +85,7 @@ No more mindless "A new show started and I'm too lazy to turn it off"
 
 We chose a small set of network TV shows that both wanted to watch together (about 2 hours a week - all online streaming through the network sites)
 
-In addition, we are loyal fans of [Fixer Upper](http://amzn.to/2dCQ3H8){: target="_blank" rel="nofollow" } and [Tiny House Nation](http://amzn.to/2e2FaMV){: target="_blank" rel="nofollow" } - the only video media we actually pay for 
+In addition, we are loyal fans of [Fixer Upper](http://amzn.to/2dCQ3H8){: target="_blank" rel="nofollow" } and [Tiny House Nation](http://amzn.to/2e2FaMV){: target="_blank" rel="nofollow" } - the only video media we actually pay for
 
 
 For the kids, we get 1-2 kid-friendly movies once a week from the library (yay free!) and we have about 5 kid movies that we own on DVD. We actually donated most of our DVDs to the library for the same reason - we can still have them when the kids want to watch them, but it's now a _conscious choice_ - not just "pop in another DVD".
@@ -272,9 +272,9 @@ For the last example, lets close with some time in the garage...
 
 Add in the facts that we live in the suburbs and my wife is a stay-at-home mom (she needs to be around when the kids go to and come home from school) and you've got a sure-fire argument for a two-car family.
 
-That was us until January 2016 when we sold our Toyota Prius and became a one-car family.
+That was us until January 2016 [when we sold our Toyota Prius and became a one-car family]({% post_url 2017-01-16-one-car-suburbs %}).
 
-We're big fans of experimenting before committing to something, so we actually had a "dry run" of being a one-car family in the summer of 2014. We parked our Prius in the garage for 3 months and pretended it didn't exist so we could see how we'd fare as a busy family of five.
+We're big fans of experimenting before committing to something, so we actually had a "dry run" of being a one-car family in the spring of 2014. We parked our Prius in the garage for 3 months and pretended it didn't exist so we could see how we'd fare as a busy family of five.
 
 We managed so well that we actually put the car up for sale but didn't get offers at a price we liked. We took it down and went back to our two-car lifestyle, but held on to the confidence that we could make it with just one if the right opportunity came up.
 
