@@ -3,7 +3,7 @@ layout: page
 permalink: /subscribe/
 image: /img/mailboxes.jpg
 description: Subscribe to my once-a-week newsletter; includes my latest blog post, links to my favorite articles, and updates on projects I'm working on.
-title: Subscribe
+title: Subscribe for the Weekly Keep Thrifty Update
 ---
 
 If you'd like to get weekly updates on what's going on at Keep Thrifty, fill out the form below.
