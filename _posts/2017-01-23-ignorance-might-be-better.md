@@ -5,7 +5,7 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 
 title: "Ignorance Might Be Better"
-description: "___TK___"
+description: "Just because something is common knowledge doesn't mean it's actually right. Some say ignorance is bliss; I think ignorance might just be better."
 
 image: /img/posts/2017-01-23-ignorance-might-be-better/confused-deer.jpg
 
