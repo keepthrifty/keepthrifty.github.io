@@ -12,7 +12,7 @@ image-folder: /img/posts/2016-10-10-become-twice-as-happy-with-half-as-much
 
 related-posts: [
   "/2016/08/28/the-more-of-less-review",
-  "/2016/01/20/living-with-less",
+  "/2017/01/23/ignorance-might-be-better",
   "/2016/12/05/money-mistakes-financial-compass",
   "/2016/09/05/let-it-burn",
   "/2016/12/18/4-financial-no-noes-from-grandparents",
