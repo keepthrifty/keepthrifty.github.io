@@ -14,7 +14,7 @@ related-posts: [
   "/2016/05/08/how-much-car-can-you-afford",
   "/2016/06/18/the-simple-path-to-wealth-review",
   "/2016/11/13/how-we-budget-four-branch-system",
-  "/2017/01/23/ignorance-might-be-better"
+  "/2017/01/23/ignorance-better"
 ]
 
 tags: [minimalism, inspiration]

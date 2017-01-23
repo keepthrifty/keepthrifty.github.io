@@ -17,7 +17,7 @@ related-posts: [
   "/2017/01/09/defeat-four-devious-marketing-tactics",
   "/2016/07/27/the-secret-to-success",
   "/2016/11/06/odd-couple-procrastination-and-frugality",
-  "/2017/01/23/ignorance-might-be-better"
+  "/2017/01/23/ignorance-better"
 ]
 
 tags: [inspiration]

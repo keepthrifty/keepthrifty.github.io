@@ -19,7 +19,7 @@ related-posts: [
   "/2016/06/18/the-simple-path-to-wealth-review",
   "/2016/09/18/the-price-of-an-extra-day",
   "/2016/07/14/experience-or-stuff",
-  "/2017/01/23/ignorance-might-be-better"
+  "/2017/01/23/ignorance-better"
 ]
 
 tags: [book review, faith]
