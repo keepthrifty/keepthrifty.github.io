@@ -14,7 +14,8 @@ related-posts: [
   "/2016/02/22/keepthrifty-experiment",
   "/2016/02/28/march-challenge-household-care",
   "/2016/03/28/april-challenge-grocery",
-  "/2016/05/29/june-challenge-entertainment"
+  "/2016/05/29/june-challenge-entertainment",
+  "/2017/02/06/nothing-new-year-month-one"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [challenge]

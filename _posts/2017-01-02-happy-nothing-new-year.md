@@ -15,7 +15,8 @@ related-posts: [
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
   "/2016/08/28/the-more-of-less-review",
   "/2016/06/13/escape-fashion-trap-part-1",
-  "/2016/01/20/living-with-less"
+  "/2016/01/20/living-with-less",
+  "/2017/02/06/nothing-new-year-month-one"
 ]
 
 tags: [minimalism, nothing new year]
@@ -135,7 +136,7 @@ Since we're at the start, let's set the baseline on where we're at with our mort
 
 The red line shows our outstanding mortgage principal if we had stuck with our original mortgage back in 2007. The blue line shows our actual mortgage principal to-date (as well as projections based on our current prepayments). The faint lines show all the different mortgage paths we've been on based on different refinancing and prepayment strategies.
 
-Based on our aggressive prepayments and taking advantage of refinancing, we're due to save $161,000 and finish 17 years earlier than our original plan! Right now, we're coming in a bit after our 2020 goal with an expected payoff date of July 1, 2020. I haven't built in additional prepayments I think we should be able to make, so hopefully that means we're going to get there before 2020 still :)
+Based on our aggressive prepayments and taking advantage of refinancing, we're due to save $161,000 and finish 17 years earlier than our original plan! Right now, we're coming in a bit after our 2020 goal with an expected payoff date of August 1, 2020. I haven't built in additional prepayments I think we should be able to make, so hopefully that means we're going to get there before 2020 still :)
 
 ## Your Thoughts?
 
