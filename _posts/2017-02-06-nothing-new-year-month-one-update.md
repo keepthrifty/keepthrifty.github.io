@@ -7,7 +7,7 @@ author_email: chris@keepthrifty.com
 title: "Nothing New Year: Month 1 Update"
 description: "We're one month in to our nothing new year. How did we do and where are we at on our mortgage? Read on to find out!"
 
-image: /img/posts/2017-02-06-nothing-new-year-month-one/shopping-cart.jpg
+image: /img/posts/2017-02-06-nothing-new-year-month-one-update/shopping-cart.jpg
 
 related-posts: [
   "/2017/01/02/happy-nothing-new-year",
@@ -28,7 +28,7 @@ By buying nothing new, we hope to reduce our impact on our bank accounts _and_ t
 
 Here's a snapshot of our spending summary from [Thrifty](http://thrifty.keepthrifty.com):
 
-![Overall spending $3,516.06]({{site.url}}/img/posts/2017-02-06-nothing-new-year-month-one/nny-month-one-spending.png)
+![Overall spending $3,516.06]({{site.url}}/img/posts/2017-02-06-nothing-new-year-month-one-update/nny-month-one-spending.png)
 
 Managing our spending this month was a success - we spent _$750 less than we did in January 2016_! Despite some non-regular expenses (tax filing, life insurance), we still ended up with our __second-lowest month__ in the [18 months we've been tracking our spending]({% post_url 2016-08-20-indecent-financial-exposure %})!
 

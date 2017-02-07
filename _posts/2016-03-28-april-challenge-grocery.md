@@ -16,7 +16,7 @@ related-posts: [
   "/2016/02/28/march-challenge-household-care",
   "/2016/05/01/may-challenge-food",
   "/2016/05/29/june-challenge-entertainment",
-  "/2017/02/06/nothing-new-year-month-one"
+  "/2017/02/06/nothing-new-year-month-one-update"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [challenge]

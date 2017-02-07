@@ -16,7 +16,7 @@ related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/06/13/escape-fashion-trap-part-1",
   "/2016/01/20/living-with-less",
-  "/2017/02/06/nothing-new-year-month-one"
+  "/2017/02/06/nothing-new-year-month-one-update"
 ]
 
 tags: [minimalism, nothing new year]
