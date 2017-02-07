@@ -1,8 +1,12 @@
 html {
- box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 *, *:before, *:after {
- box-sizing: inherit;
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 body {
@@ -155,8 +159,13 @@ a {
 }
 
 .post__body {
+  @media (min-width: $minimum-break) {
+    img {
+      max-width: 80%;
+    }
+  }
   img {
-    max-width: 80%;
+    max-width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -247,6 +256,37 @@ a {
     background-color: $code-color;
     padding: 0.2rem;
     font-size: 1rem;
+  }
+
+  table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+
+    border-spacing: 0px;
+
+    th,
+    td {
+      padding: 0.3rem;
+      @media (min-width: $minimum-break) {
+        padding: 0.75rem;
+      }
+      vertical-align: top;
+      border-bottom: 1px solid $meta-color;
+    }
+
+    thead th {
+      vertical-align: bottom;
+      border-bottom: 2px solid $meta-color;
+    }
+
+    tbody + tbody {
+      border-top: 2px solid $meta-color;
+    }
+
+    tbody tr:nth-of-type(odd) {
+      background-color: $bg-color;
+    }
   }
 }
 
