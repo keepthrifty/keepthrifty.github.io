@@ -18,8 +18,6 @@ related-posts: [
 
 tags: [minimalism]
 
-published: false
-
 affiliate: true
 
 ---
