@@ -14,7 +14,8 @@ related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/06/13/escape-fashion-trap-part-1",
   "/2016/09/05/let-it-burn",
-  "/2016/11/27/staying-thankful-spend-happy-world"
+  "/2016/10/10/become-twice-as-happy-with-half-as-much",
+  "/2017/02/13/how-much-is-your-stuff-costing-you"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism, inspiration]

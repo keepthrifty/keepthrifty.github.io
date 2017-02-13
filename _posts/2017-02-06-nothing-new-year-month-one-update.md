@@ -16,7 +16,7 @@ related-posts: [
   "/2016/06/05/prepay-vs-invest"
 ]
 
-tags: [how we money]
+tags: [how we money, nothing new year]
 
 ---
 

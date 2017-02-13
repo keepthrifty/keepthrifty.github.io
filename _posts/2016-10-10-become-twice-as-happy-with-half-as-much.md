@@ -15,8 +15,8 @@ related-posts: [
   "/2017/01/23/ignorance-better",
   "/2016/12/05/money-mistakes-financial-compass",
   "/2016/09/05/let-it-burn",
-  "/2016/12/18/4-financial-no-noes-from-grandparents",
-  "/2017/01/02/happy-nothing-new-year"
+  "/2017/01/02/happy-nothing-new-year",
+  "/2017/02/13/how-much-is-your-stuff-costing-you"
 ]
 
 tags: [minimalism, inspiration]
