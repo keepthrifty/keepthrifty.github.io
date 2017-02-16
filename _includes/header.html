@@ -6,7 +6,16 @@
     <ul class="navbar-list">
       <li class="navbar-list__item {% if page.url == "/about/" %}navbar-list__item--current{% endif %}"><a href="/about/" data-hover="About">About</a></li>
       <li class="navbar-list__item {% if page.url == "/archive/" %}navbar-list__item--current{% endif %}"><a href="/archive/" data-hover="Archive">Archive</a></li>
-      <li class="navbar-list__item"><a href="http://thrifty.keepthrifty.com" data-hover="Thrifty">Thrifty</a></li>
+      {% if true %}
+      <li class="navbar-list__item {% if page.url == "http://thrifty.keepthrifty.com" %}navbar-list__item--current{% endif %}"><a href="http://thrifty.keepthrifty.com" data-hover="Thrifty">Thrifty</a></li>
+      {% else %}
+      <li class="navbar-list__item"><a href="#!" data-hover="Resources">Resources <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+        <ul>
+          <li><a href="http://thrifty.keepthrifty.com">Thrifty</a></li>
+          <li><a href="/favorite-resources/">Favorites</a></li>
+        </ul>
+      </li>
+      {% endif %}
     </ul>
   </nav>
 </header>

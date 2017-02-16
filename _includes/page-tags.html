@@ -1,4 +1,4 @@
-{% if page.tags %}
+{% if page.tags.size > 0 ) %}
   <span class="tags">
   {% assign sorted_tags = page.tags | sort %}
   <i class="fa fa-tags"></i>

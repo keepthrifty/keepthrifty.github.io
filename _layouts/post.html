@@ -6,17 +6,21 @@ comments: true
 <div class="col-three-quarters">
   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
     <header class="post__header">
+      {% unless page.nometa %}
       <div class="post__meta">
         {% include page-date.html %}
       </div>
+      {% endunless %}
       <div class="post__title">
         <h1 class="post__title--main" itemprop="name headline">{{ page.title }}</h1>
         {% if page.subtitle %}<h2 class="post__title--subtitle">{{ page.subtitle }}</h2>{% endif %}
       </div>
+      {% unless page.nometa %}
       <div class="post__meta">
         {% include page-tags.html %}
         {% include reading-time.html %}
       </div>
+      {% endunless %}
       {% if page.image %}
       <img src="{{ site.url }}{{ page.image }}" class="post__header__image" itemprop="image" alt="" />
       {% endif %}
@@ -37,8 +41,10 @@ comments: true
       {% include subscribe.html %}
       <hr>
       {% include share-buttons.html %}
+      {% if page.related-posts.size > 0 %}
       <hr>
       {% include post-list-related.html %}
+      {% endif %}
       <hr>
       {% include post-navigation.html %}
       <hr>
