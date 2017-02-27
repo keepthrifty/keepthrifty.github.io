@@ -16,8 +16,6 @@ permalink: /favorite-resources/
 affiliate: true
 
 nometa: true
-
-published: true
 ---
 
 This week was a big milestone - I turned 35 last week Tuesday. As my birthday present to you all, I thought I could share the personal finance resources that have had the biggest impact on us in our financial journey. It's a one-stop shop; I hope you find everything here as useful as we have!
