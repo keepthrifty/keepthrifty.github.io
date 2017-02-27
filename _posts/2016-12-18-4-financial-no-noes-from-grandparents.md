@@ -14,7 +14,8 @@ related-posts: [
   "/2016/11/06/odd-couple-procrastination-and-frugality",
   "/2016/07/21/spending-on-free",
   "/2016/08/12/fifteen-lessons-first-seven-jobs",
-  "/2016/10/10/become-twice-as-happy-with-half-as-much"
+  "/2016/10/10/become-twice-as-happy-with-half-as-much",
+  "/2017/02/27/hot-cheeto-called-harambe"
 ]
 
 tags: [guest post]

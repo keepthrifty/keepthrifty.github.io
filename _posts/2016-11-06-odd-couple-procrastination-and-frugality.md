@@ -15,7 +15,8 @@ related-posts: [
   "/2016/10/16/talent-is-overrated",
   "/2016/07/27/the-secret-to-success",
   "/2016/09/05/let-it-burn",
-  "/2016/12/18/4-financial-no-noes-from-grandparents"
+  "/2016/12/18/4-financial-no-noes-from-grandparents",
+  "/2017/02/27/hot-cheeto-called-harambe"
 ]
 
 tags: [guest post, inspiration]
