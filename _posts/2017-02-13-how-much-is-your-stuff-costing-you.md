@@ -5,7 +5,7 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 
 title: "How Much is Your Stuff Costing You?"
-description: "ow much stuff is in your house? Your garage? Or, heaven forbid, in a storage unit? Beyond the nuisance of clutter, I've been wondering something recently - how much is all this stuff costing us?"
+description: "How much stuff is in your house? Your garage? Or, heaven forbid, in a storage unit? Beyond the nuisance of clutter, I've been wondering something recently - how much is all this stuff costing us?"
 
 image: /img/posts/2017-02-13-how-much-is-your-stuff-costing-you/clutter.jpg
 
