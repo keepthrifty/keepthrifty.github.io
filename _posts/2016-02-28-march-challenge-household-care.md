@@ -140,7 +140,7 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [google-baking-soda-vinegar]: https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=cleaning%20with%20baking%20soda%20and%20vinegar
 {: target="_blank"}
 
-[zero-waste-bathroom]: http://www.zerowastehome.com/2010/01/zero-waste-bathroom.html
+[zero-waste-bathroom]: http://www.zerowastehome.com/2010/01/zero-waste-bathroo/
 {: target="_blank"}
 
 [mrs-money-mustache-lady]: http://www.mrmoneymustache.com/2011/06/05/mrs-money-mustache-eliminating-lady-temptations/
