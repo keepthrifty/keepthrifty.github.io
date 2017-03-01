@@ -25,7 +25,7 @@ One of the biggest challenges for people working toward financial freedom is _pa
 
 As a refresher, _financial freedom_ is the point when you no longer have to bring in active income to maintain your lifestyle. A rough rule of thumb is that you'll need to save 25 times your anticipated annual expenses. This is the granddaddy of all financial goals - once you achieve financial freedom, money shouldn't have a hold on you anymore.
 
-But I didn't want to wait until I'm all the way there to celebrate - so I invented ___Retirement Freedom___ as an intermediate milestone. Here's my definition:
+But I didn't want to wait until I'm all the way there to celebrate - so I created ___Retirement Freedom___ as an intermediate milestone. Here's my definition:
 
 {% capture tweet-text %}_Your retirement accounts are big enough for you to retire at 65 even if you stop contributing today_{% endcapture %}{% include tweet-link.html %}
 
@@ -45,7 +45,7 @@ Let's call `Et` your expected retirement annual expenses (in today's dollars). W
 
     E65 = Et * (1+i)^(65-age) / (1-t) * 25
 
-If `R65` is greater than `E65` _and your assumptions hold true_, you already have enough set aside to cover your retirement expenses.
+If `R65` is greater than `E65` _and your assumptions hold true_, you already have enough set aside to cover your retirement expenses. Congrats - you've achieved retirement freedom for age 65 (RF65).
 
 Pretty awesome, right?
 
@@ -61,7 +61,7 @@ Whenever I think about Retirement Freedom and financial freedom, I have a vision
 
 Retirement Freedom is getting you off of earth's surface and into outer space. At that point, you've taken care of the toughest part. Armed with the security of your imminent retirement, you can direct your attention to the fun of navigating the financial cosmos.
 
-Do you want to speed up your retirement - _maybe instead of R65 and E65, you want to target R45 and E45_? Or do you want to spend your time working only on things you find fun that can cover the bills?
+Do you want to speed up your retirement - _maybe instead of RF65, you want to target RF45_? Or do you want to spend your time working only on things you find fun that can cover the bills?
 
 If your income no longer has to cover retirement, all you're responsible for covering in the interim is your annual expenses and a bit of a safety fund. With that, you can have the flexibility to try a whole lot of new things with your career, living situation, etc.
 
