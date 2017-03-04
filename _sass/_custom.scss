@@ -100,7 +100,7 @@ a {
   font-size: 2.5rem;
   text-align: center;
   color: black;
-  margin: 2rem 0 2rem 0;
+  margin: 2rem 0 1rem 0;
   text-transform: uppercase;
   a {
     color: inherit;
@@ -125,21 +125,31 @@ a {
   color: $meta-color;
   text-align: center;
   display: block;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   .date {
     padding: 0.5rem 0 0.5rem 0;
     border-top: 1px solid $meta-color;
     border-bottom: 1px solid $meta-color;
     text-transform: uppercase;
   }
-  .reading-time {
-    display: block;
-    text-align: right;
-  }
   .tags {
     display: inline-block;
     float: left;
   }
+  .post__reading-time {
+    display: block;
+    text-align: right;
+    color: $meta-color;
+  }
+  .post__comment-count {
+    display: block;
+    text-align: right;
+    color: $meta-color;
+    a {
+      color: $meta-color;
+    }
+  }
+
 }
 
 .post__header__image {
@@ -152,10 +162,23 @@ a {
   object-position: center center;
 }
 
-.post__print-icon {
+.post__top-right {
   position: absolute;
   top: 2rem;
   right: 2rem;
+  color: $meta-color;
+  a {
+    color: $meta-color;
+  }
+}
+.post__meta--center {
+  display: block;
+  margin: 1rem 0;
+  text-align: center;
+  color: $meta-color;
+  a {
+    color: $meta-color;
+  }
 }
 
 .post__body {
@@ -673,6 +696,10 @@ nav.navbar {
 p.call-to-action {
   text-align: right;
   font-size: 1.6rem;
+  margin-bottom: 0rem;
+  a {
+    color: $meta-color;
+  }
 }
 
 #next-post {

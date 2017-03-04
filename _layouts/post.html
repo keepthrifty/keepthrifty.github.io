@@ -18,13 +18,15 @@ comments: true
       {% unless page.nometa %}
       <div class="post__meta">
         {% include page-tags.html %}
-        {% include reading-time.html %}
+        <div class="post__comment-count">
+          {% include comment-count.html %}
+        </div>
       </div>
       {% endunless %}
       {% if page.image %}
       <img src="{{ site.url }}{{ page.image }}" class="post__header__image" itemprop="image" alt="" />
       {% endif %}
-      <div class="post__print-icon">
+      <div class="post__top-right">
         <a class="print" href="javascript:window.print()" title="Print this page">
           <i class="fa fa-print fa-1x"></i>
         </a>

@@ -13,8 +13,18 @@ layout: default
         <h1 class="post__title--main"><a href="{{ post.url}}">{{ post.title }}</a></h1>
         {% if post.subtitle %}<h2 class="post__title--subtitle"><a href="{{ post.url}}">{{ post.subtitle }}</h2></a>{% endif %}
       </div>
+      {% unless post.nodisqus %}
+      <div class="post__meta--center">
+        <span class="comment-count" title="Comments">
+          <a href="{{ post.url }}#disqus_thread">
+            <i class="fa fa-comments"></i>
+            <span class="disqus-comment-count" data-disqus-identifier="{{ post.title }}"> comments</span>
+          </a>
+        </span>
+      </div>
+      {% endunless %}
       {% if post.image %}
-      <a href="{{ post.url}}"><img src="{{ post.image }}" class="post__header__image" alt="" /></a>
+      <a href="{{ post.url }}"><img src="{{ post.image }}" class="post__header__image" alt="" /></a>
       {% endif %}
     </header>
 
@@ -36,3 +46,5 @@ layout: default
     {% include post-list-featured.html %}
   </div>
 </div>
+
+<script id="dsq-count-scr" src="//keepthrifty.disqus.com/count.js" async></script>
