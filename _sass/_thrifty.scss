@@ -1,0 +1,83 @@
+.hero-image {
+  max-width: 30rem;
+  width: 75%;
+  height: 75%;
+}
+.login-link {
+  color: $meta-color;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+.thrifty {
+  position: relative;
+  display: block;
+  margin-top: -2rem;
+  @media screen and (min-width: $minimum-break) {
+    margin-top: -4rem;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+  	font-weight: 300;
+  	line-height: 1.1;
+  }
+
+  $h1-size: 3rem !default;
+  $h2-size: 2.5rem !default;
+  $h3-size: 2rem !default;
+  $h4-size: 1.5rem !default;
+  $h5-size: 1rem !default;
+  $h6-size: 0.5rem !default;
+
+  // Header Styles
+  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
+  h1 { font-size: $h1-size; margin: ($h1-size / 2) 0 ($h1-size / 2.5) 0; text-align: center;}
+  h2 { font-size: $h2-size; margin: ($h2-size / 2) 0 ($h2-size / 2.5) 0; text-align: center;}
+  h3 { font-size: $h3-size; margin: ($h3-size / 2) 0 ($h3-size / 2.5) 0; text-align: center;}
+  h4 { font-size: $h4-size; margin: ($h4-size / 2) 0 ($h4-size / 2.5) 0; text-align: center;}
+  h5 { font-size: $h5-size; margin: ($h5-size / 2) 0 ($h5-size / 2.5) 0; text-align: center;}
+  h6 { font-size: $h6-size; margin: ($h6-size / 2) 0 ($h6-size / 2.5) 0; text-align: center;}
+
+  .button {
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 1rem;
+    color: $secondary-color;
+    background-color: $bg-color;
+    border: 1px solid $secondary-color;
+    border-radius: .2rem;
+    padding: 0.4rem;
+    margin: 0rem;
+    &:hover {
+      color: white;
+      background-color: $secondary-color;
+      opacity: 1;
+    }
+  }
+
+  .button--sign-up {
+    font-size: 1.1rem;
+    padding: 1rem;
+    margin: auto 0.2rem;
+  }
+
+}
+
+.nugget {
+  margin: 0rem 2rem;
+}
+
+.nugget__title {
+  display: block;
+  text-transform: uppercase;
+
+}
+
+.nugget__image {
+  display: block;
+}
+
+.nugget__text {
+  display: block;
+}
