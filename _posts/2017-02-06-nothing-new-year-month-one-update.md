@@ -26,7 +26,7 @@ By buying nothing new, we hope to reduce our impact on our bank accounts _and_ t
 
 ## Spending Overview
 
-Here's a snapshot of our spending summary from [Thrifty](http://thrifty.keepthrifty.com):
+Here's a snapshot of our spending summary from [Thrifty](/thrifty/):
 
 ![Overall spending $3,516.06]({{site.url}}/img/posts/2017-02-06-nothing-new-year-month-one-update/nny-month-one-spending.png)
 
@@ -45,7 +45,7 @@ That's not to say there's not room for improvement though. By category, here's o
 | Hobbies | $259.27 | Gymnastics fees are most of this. The only other things we bought were a couple coloring books and new colored pencils for the kids. We have a __lot__ of coloring in this house :) |
 | Home Updates | $58.39 | Door hinges, outlets, light switches (and panels), and painters tape. We're still chipping away on remodeling and hit a big milestone this month - all our doors have now been painted and re-hung! |
 | Household Care | $196.08 | The regulars: pull-ups, toilet paper, wipes, dish soap, vinegar, shampoo, deodorant, laundry soap, facial soap, washing soda. Only one major outlier this month - $60 on carbon monoxide detectors. Our old ones were expired and needed to be replaced |
-| Other | $21.00 | Hosting fees and source code storage for [Thrifty](http://thrifty.keepthrifty.com) |
+| Other | $21.00 | Hosting fees and source code storage for [Thrifty](/thrifty/) |
 | Services | $219.88 | In most months, this is just life insurance through my work, but this month we also paid to file our taxes and for my wife's life insurance policy for the full year (not through my work) |
 | Shelter | $199.72 | The only expense in here is for our mortgage interest. We don't log our principal payments as an expense since we consider them to be net-worth-building payments |
 | Transportation | $163.04 | This isn't too shabby for a family of five [surviving on one car in the suburbs]({% post_url 2017-01-16-one-car-suburbs %}). We had to fill up our minivan four times this month and pay $2 for parking when we brought one of our daughters in for an after-hours doctor visit. |

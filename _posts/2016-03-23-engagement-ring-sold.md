@@ -138,7 +138,7 @@ These trade-offs are everywhere and can be a big accelerator for getting to wher
 [tweet-me]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
 
-[thrifty-tool]: http://tools.keepthrifty.com
+[thrifty-tool]: /thrifty/
 {: target="_blank"}
 
 [usa-map]: {{ site.url }}/img/posts/2016-03-23-engagement-ring-sold/usa-map.jpg

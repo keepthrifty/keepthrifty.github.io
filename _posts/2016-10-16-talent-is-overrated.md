@@ -71,9 +71,9 @@ None of these come easy - they all take hard work to improve at, but they all ar
 
 ### Software Developer ###
 
-I've been dabbling in Ruby on Rails (the framework I use for the [Thrifty tool](http://tools.keepthrifty.com){: target="_blank"}) for about 6 years in small bits. It took me about 5 years of playing around before I built enough of a skill set to be effective in developing something useful and beautiful.
+I've been dabbling in Ruby on Rails (the framework I use for the [Thrifty tool](/thrifty/){: target="_blank"}) for about 6 years in small bits. It took me about 5 years of playing around before I built enough of a skill set to be effective in developing something useful and beautiful.
 
-I launched [Thrifty](http://tools.keepthrifty.com){: target="_blank"} at the start of this year and am proud of what I've put together. The years leading up to this, though, felt like ages and there were numerous times I stepped out and came back in.
+I launched [Thrifty](/thrifty/){: target="_blank"} at the start of this year and am proud of what I've put together. The years leading up to this, though, felt like ages and there were numerous times I stepped out and came back in.
 
 It was only after seeing that house listing that I got really serious and dedicated myself to making something real using what I had learned.
 

@@ -33,7 +33,7 @@ Are you in control of your finances?
 
 I mean _really in control?_
 
-I'd like to think that we're doing a good job. Since starting to track our spending using [Thrifty](http://tools.keepthrifty.com), we've done a much better job of putting our money toward the things that matter most to us. But we've still got areas we can improve on.
+I'd like to think that we're doing a good job. Since starting to track our spending using [Thrifty](/thrifty/), we've done a much better job of putting our money toward the things that matter most to us. But we've still got areas we can improve on.
 
 The average American family [spends 3.5% of their income on clothes](http://www.forbes.com/sites/emmajohnson/2015/01/15/the-real-cost-of-your-shopping-habits/#7d20378b21ae){: target="_blank"}, to the tune of $1,700 a year. _We spent over $3,000 last year._
 

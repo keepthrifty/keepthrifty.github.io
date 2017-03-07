@@ -72,7 +72,7 @@ If you're looking for a list of hundreds of amazing bloggers in the personal fin
 
 ## Favorite Tools and Spreadsheets
 
-- [Thrifty](https://thrifty.keepthrifty.com/) - There are lots of ways to track your finances. I didn't love any of them, so I created my own web app to get exactly what I needed and I provide it _free_ for anyone to use.
+- [Thrifty](/thrifty/) - There are lots of ways to track your finances. I didn't love any of them, so I created my own web app to get exactly what I needed and I provide it _free_ for anyone to use.
 - [Mad FIentist Lab](https://lab.madfientist.com/sign_up){: target="_blank"} - The Mad FIentist has some great calculators here but the biggest thing is the Financial Independence calculator. Just log a few numbers each month and he'll tell you when you're due to hit financial independence.
 - [The Price of a Day of Retirement Calculator]({% post_url 2016-09-18-the-price-of-an-extra-day %}) - How much would you have to invest today to retire a day earlier? I've got a calculator for that :)
 - [Retirement Freedom Spreadsheet]({% post_url 2017-01-30-introducing-retirement-freedom %}) - Wouldn't it be awesome if you had enough money today to know you could retire at age 65 even if you never contributed another penny? I put together a spreadsheet to tell you if you're there and, if not, how much further you've got to go.

@@ -150,7 +150,7 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [usda-cost]: http://www.cnpp.usda.gov/sites/default/files/CostofFoodFeb2016.pdf
 {: target="_blank"}
 
-[thrifty]: http://tools.keepthrifty.com/
+[thrifty]: /thrifty/
 {: target="_blank"}
 
 [tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20Keep%20Thrifty%20Experiment!
