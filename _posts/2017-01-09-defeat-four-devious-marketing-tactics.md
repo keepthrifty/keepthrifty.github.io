@@ -58,7 +58,7 @@ __Your Defense:__ If you're buying something known to be "rare" or "uncommon", d
 
 This one is best exposed by looking at an example. Here's a recent one I ran across:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0ckUPpvVJ_Q" frameborder="0" allowfullscreen></iframe>
+{% capture video-link %}https://www.ispot.tv/share/Abl6{% endcapture %}{% include video-embed.html %}
 
 At first glance, this seems pretty innocent. A loving mother and father want what's best for their children. So, they invest in their kids' future by buying a house with a 30-year mortgage.
 
