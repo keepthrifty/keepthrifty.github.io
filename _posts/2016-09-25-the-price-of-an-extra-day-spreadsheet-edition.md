@@ -394,4 +394,4 @@ From here, I leave the rest to you - play with the numbers to better understand 
 
 ___CHALLENGE:___ If you're up for it, try adding another column of data to the data table (and corresponding line to the chart) showing the account balance _without_ the extra contribution. To really get intense, you could show a zoomed in chart on the timeline where the two intersect with the expected expenses line to visualize the impact of that contribution even better.
 
-> If you come up with some cool options or any additions to the sheet, let me know in the comments below or e-mail me at [chris@keepthrifty.com](mailto:chris@keepthrifty.com) - I'd love to hear what you come up with. Happy spreadsheeting!
+> If you come up with some cool options or any additions to the sheet, let me know in the comments below or [contact me](/about/#contact) - I'd love to hear what you come up with. Happy spreadsheeting!
