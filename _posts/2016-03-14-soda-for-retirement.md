@@ -127,7 +127,7 @@ Knowing what kind of impact small changes can have on long-term finances, here's
 
 _What is one recurring expense that you could really live without?_
 
-[Tweet me][tweet-me], comment below, or email me at chris@keepthrifty.com - I'd love to hear from you and cheer you on!
+[Tweet me][tweet-me], comment below, or [email me](/about/#contact) - I'd love to hear from you and cheer you on!
 
 [coffee-lb-to-tablespoons]: http://leverheadcoffee.com/faq-about-coffee?id=86
 {: target="_blank"}

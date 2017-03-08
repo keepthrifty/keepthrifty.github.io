@@ -68,6 +68,7 @@ Beyond this, I've also been featured on a number of great sites:
 
 <hr />
 
+<a name="contact" />
 ## Contact me
 
 I'd love to hear from you - you can find me on Twitter ([@keepthrifty](http://www.twitter.com/keepthrifty){: target="_blank"}) or you can use the form below:
