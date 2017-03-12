@@ -1,21 +1,22 @@
 .hero-image {
   max-width: 30rem;
-  width: 75%;
-  height: 75%;
+  width: 66.67%;
+  height: 66.67%;
 }
 .login-link {
   color: $meta-color;
   position: absolute;
-  top: 1rem;
-  right: 1rem;
+  right: 0;
 }
 
 .thrifty {
+  max-width: 80rem;
+  width: 90%;
   position: relative;
   display: block;
-  margin-top: -2rem;
+  margin-top: 0rem;
   @media screen and (min-width: $minimum-break) {
-    margin-top: -4rem;
+    margin-top: -2rem;
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -23,12 +24,12 @@
   	line-height: 1.1;
   }
 
-  $h1-size: 3rem !default;
-  $h2-size: 2.5rem !default;
-  $h3-size: 2rem !default;
-  $h4-size: 1.5rem !default;
-  $h5-size: 1rem !default;
-  $h6-size: 0.5rem !default;
+  $h1-size: 2.4rem !default;
+  $h2-size: 2rem !default;
+  $h3-size: 1.6rem !default;
+  $h4-size: 1.2rem !default;
+  $h5-size: 0.8rem !default;
+  $h6-size: 0.4rem !default;
 
   // Header Styles
   h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
@@ -38,6 +39,8 @@
   h4 { font-size: $h4-size; margin: ($h4-size / 2) 0 ($h4-size / 2.5) 0; text-align: center;}
   h5 { font-size: $h5-size; margin: ($h5-size / 2) 0 ($h5-size / 2.5) 0; text-align: center;}
   h6 { font-size: $h6-size; margin: ($h6-size / 2) 0 ($h6-size / 2.5) 0; text-align: center;}
+
+  h1 { text-transform: uppercase; }
 
   .button {
     display: inline-block;
@@ -60,24 +63,39 @@
     font-size: 1.1rem;
     padding: 1rem;
     margin: auto 0.2rem;
+    color: white;
+    background-color: $secondary-color;
+    &:hover {
+      opacity: 0.7;
+    }
   }
 
 }
 
+.thrifty__footer {
+  margin-top: 6rem;
+}
+
 .nugget {
-  margin: 0rem 2rem;
-}
-
-.nugget__title {
-  display: block;
-  text-transform: uppercase;
-
-}
-
-.nugget__image {
-  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4rem;
+  @media screen and (min-width: $minimum-break) {
+    margin-top: 6rem;
+  }
+  text-align: center;
+  max-width: 40rem;
+  hr {
+    width: 60%;
+    background-color: $meta-color;
+  }
 }
 
 .nugget__text {
-  display: block;
+  p {
+    font-size: 1.2rem;
+    margin: 0.6rem 0;
+    font-weight: 300;
+    text-align: center;
+  }
 }
