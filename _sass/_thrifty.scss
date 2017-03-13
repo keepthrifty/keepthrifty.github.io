@@ -76,6 +76,73 @@
   margin-top: 6rem;
 }
 
+.testimonial {
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.15);
+  color: $meta-color;
+  display: block;
+  position: relative;
+  font-size: 1.2rem;
+  margin: 4rem auto 4rem;
+  @media screen and (min-width: $minimum-break) {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+  }
+  max-width: 40rem;
+  text-align: center;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 0.2rem;
+  border-top: 0.5rem solid $meta-color;
+}
+
+.testimonial *,
+.testimonial *:before {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.1s ease-out;
+  transition: all 0.1s ease-out;
+}
+
+.testimonial figcaption {
+  padding: 5% 10% 5%;
+}
+
+.testimonial figcaption:before {
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  background-color: #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.25);
+  color: $meta-color;
+  content: "\f10e";
+  font-family: 'FontAwesome';
+  font-size: 1.6rem;
+  font-style: normal;
+  left: 50%;
+  line-height: 5rem;
+  position: absolute;
+  top: -2.5rem;
+  width: 5rem;
+}
+
+.testimonial h3 {
+  color: #3c3c3c;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.8rem;
+  margin: 1rem 0 0.5rem;
+}
+
+.testimonial h4 {
+  margin: 0;
+}
+
+.testimonial blockquote {
+  font-style: italic;
+  font-weight: 300;
+  margin: 0 0 1.5rem;
+}
+
 .nugget {
   margin-left: auto;
   margin-right: auto;
