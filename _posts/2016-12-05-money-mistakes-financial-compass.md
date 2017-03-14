@@ -13,7 +13,8 @@ related-posts: [
   "/2016/05/08/how-much-car-can-you-afford",
   "/2016/08/28/the-more-of-less-review",
   "/2016/08/20/indecent-financial-exposure",
-  "/2016/10/10/become-twice-as-happy-with-half-as-much"
+  "/2016/10/10/become-twice-as-happy-with-half-as-much",
+  "/2017/03/13/spend-without-fear"
 ]
 
 tags: [how we money]

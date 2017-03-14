@@ -12,7 +12,8 @@ image: /img/posts/2016-11-20-money-life-lessons-oregon-trail/you-made-it.png
 related-posts: [
   "/2016/08/12/fifteen-lessons-first-seven-jobs",
   "/2016/10/16/talent-is-overrated",
-  "/2016/07/06/roadtrip-recap"
+  "/2016/07/06/roadtrip-recap",
+  "/2017/03/13/spend-without-fear"
 ]
 
 affiliate: true

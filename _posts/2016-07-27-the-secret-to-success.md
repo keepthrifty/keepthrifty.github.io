@@ -12,7 +12,8 @@ related-posts: [
   "/2016/06/05/prepay-vs-invest",
   "/2016/01/20/living-with-less",
   "/2016/10/16/talent-is-overrated",
-  "/2016/11/06/odd-couple-procrastination-and-frugality"
+  "/2016/11/06/odd-couple-procrastination-and-frugality",
+  "/2017/03/13/spend-without-fear"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]

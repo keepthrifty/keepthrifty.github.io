@@ -51,12 +51,13 @@ Every trip we take brings us closer as a family, builds memories we'll carry for
 
 With the amazing support of other bloggers and resources out there, the Keep Thrifty message has made it's way to people all over the world. In particular,
 
-I've been blessed to have articles from the Keep Thrifty blog featured on [Rockstar Finance](http://www.rockstarfinance.com){: target="_blank"} four times. Here are the "Rockstar Posts":
+I've been blessed to have articles from the Keep Thrifty blog featured on [Rockstar Finance](http://www.rockstarfinance.com){: target="_blank"} several times. Here are the "Rockstar Posts":
 
 {% include post-list-rockstar.html %}
 
 Beyond this, I've also been featured on a number of great sites:
 
+* Budgets Are Sexy - [Are You Retirement Free?](http://www.budgetsaresexy.com/2017/03/retirement-freedom-calculator/){: target="_blank"}
 * Lifehacker - [Find Out How Many Days of Retirement Your Contributions Can Buy With This Tool](http://lifehacker.com/find-out-how-many-days-of-retirement-your-contributions-1788228175){: target="_blank"}
 * The Penny Hoarder - [Why This Woman Doesn’t Regret Selling Her Engagement Ring](http://www.thepennyhoarder.com/would-you-sell-your-engagement-ring-to-make-extra-money/){: target="_blank"}
 * The Financial Diet - [The 7 Personal Finance Articles We Loved This Week](http://thefinancialdiet.com/7-personal-finance-articles-loved-week-3/){: target="_blank"}

@@ -19,6 +19,9 @@ related-posts: [
 
 tags: [calculators, spreadsheets]
 
+featured: true
+rockstar: true
+
 ---
 
 One of the biggest challenges for people working toward financial freedom is _patience_. You've got all the right systems set up to get you there but there aren't many victories to celebrate along the way. With that in mind, I'm going to give you one to add to the list.
