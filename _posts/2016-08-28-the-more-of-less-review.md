@@ -19,7 +19,6 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism, book review]
-featured: true
 affiliate: true
 ---
 
