@@ -23,9 +23,11 @@ We're focused on three big goals and approaches at the moment:
 
 We don't get much enjoyment out of stuff, so we tend to focus on experiences instead ([with a few exceptions]({% post_url 2016-07-14-experience-or-stuff %})). We'd describe ourselves as minimalists, mostly because we've found that [life is a lot more fun]({% post_url 2016-10-10-become-twice-as-happy-with-half-as-much %}) when you don't have the "mental tax" of too much stuff weighing you down.
 
-In addition, keeping our possessions to a reasonable level gives us additional flexibility and keeps our money in our bank accounts instead of tied up in items in our closets.
+In addition, keeping our possessions to a reasonable level gives us additional flexibility and [keeps our money in our bank accounts]({% post_url 2017-02-13-how-much-is-your-stuff-costing-you %}) instead of [tied up in items in our closets]({% post_url 2016-06-13-escape-fashion-trap-part-1 %}).
 
-We even [sold my wife's engagement ring]({% post_url 2016-03-23-engagement-ring-sold %}), not because we needed to - because we could free ourselves of one more possession and redirect that money to our current goals.
+We downsized to [one car while living in the suburbs]({% post_url 2017-01-16-one-car-suburbs %}) and even [sold my wife's engagement ring]({% post_url 2016-03-23-engagement-ring-sold %}), not because we needed to - because we could free ourselves of one more possession and redirect that money to our current goals.
+
+One radical method we're using in 2017 is to commit to [only buying used items]({% post_url 2017-01-02-happy-nothing-new-year %}) (with a handful of exceptions). It's a challenge but is helping us stretch our thriftiness!
 
 ## Achieving 100% debt freedom by 2020
 
@@ -34,6 +36,8 @@ One of our biggest goals is free ourselves from as many financial burdens in lif
 As a single-income family of five, this isn't always easy, but we are blessed to be free of student loans, [auto loans]({% post_url 2016-05-08-how-much-car-can-you-afford %}), and any consumer debt.
 
 All that's left is our mortgage and [we're paying it down as fast as we can]({% post_url 2016-04-10-how-we-saved-on-our-mortgage %}).
+
+In addition, we're trying to find other motivating milestones to shoot for including a fun one I came up with called [Retirement Freedom]({% post_url 2017-01-30-introducing-retirement-freedom %})
 
 ## Traveling to all 50 states in the United States with our kids before they turn 18
 
