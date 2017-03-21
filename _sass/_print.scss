@@ -3,6 +3,10 @@
     display: none;
   }
 
+  main.page {
+    padding-top: 0;
+  }
+
   .col {
     min-width: 100%;
   }
@@ -17,7 +21,7 @@
 
   .post {
     max-width: 100%;
-    .post__footer, .post__print-icon {
+    .post__footer, .print {
       display: none;
     }
   }
