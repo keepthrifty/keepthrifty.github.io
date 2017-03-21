@@ -8,7 +8,7 @@ author_email: chris@keepthrifty.com
 image: /img/posts/2016-01-15-prepaying-mortgage-trick/usa_house.jpg
 image-folder: /img/posts/2016-01-15-prepaying-mortgage-trick
 related-posts: [
-  "/2016/08/05/dominate-debt-with-spreadsheet-fu",
+  "/2017/03/20/home-mortgage-interest-deduction",
   "/2016/04/10/how-we-saved-on-our-mortgage",
   "/2016/04/04/mortgage-math-101",
   "/2016/06/05/prepay-vs-invest",

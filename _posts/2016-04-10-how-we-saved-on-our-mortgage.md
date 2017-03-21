@@ -14,7 +14,7 @@ related-posts: [
   "/2016/01/15/prepaying-mortgage-trick",
   "/2016/12/12/ultimate-refinancing-spreadsheet-calculator",
   "/2016/06/05/prepay-vs-invest",
-  "/2016/11/13/four-keys-successful-budget"
+  "/2017/03/20/home-mortgage-interest-deduction"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [spreadsheets, mortgages, how we money]

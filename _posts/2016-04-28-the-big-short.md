@@ -8,7 +8,7 @@ author_email: chris@keepthrifty.com
 image: /img/posts/2016-04-28-the-big-short/the-big-short.jpg
 image-folder: /img/posts/2016-04-28-the-big-short
 related-posts: [
-  "/2016/06/18/the-simple-path-to-wealth-review",
+  "/2017/03/20/home-mortgage-interest-deduction",
   "/2016/04/04/mortgage-math-101",
   "/2016/04/10/how-we-saved-on-our-mortgage",
   "/2016/05/08/how-much-car-can-you-afford",

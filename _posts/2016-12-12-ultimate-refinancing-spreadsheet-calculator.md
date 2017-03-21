@@ -11,10 +11,10 @@ image: /img/posts/2016-12-12-ultimate-refinancing-spreadsheet-calculator/ultimat
 
 related-posts: [
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",
-  "/2016/09/18/the-price-of-an-extra-day",
   "/2016/09/25/the-price-of-an-extra-day-spreadsheet-edition",
   "/2016/04/04/mortgage-math-101",
-  "/2017/01/30/introducing-retirement-freedom"
+  "/2017/01/30/introducing-retirement-freedom",
+  "/2017/03/20/home-mortgage-interest-deduction"
 ]
 
 tags: [spreadsheets, calculators]
