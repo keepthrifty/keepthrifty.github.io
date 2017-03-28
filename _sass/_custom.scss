@@ -469,6 +469,18 @@ img.mini-post__image{
   max-width: 25rem;
 }
 
+.work--note {
+  font-size: 1.0rem;
+  font-weight: 300;
+  color: $meta-color;
+}
+
+.work--price {
+  font-size: 1.2rem;
+  font-weight: 300;
+  margin: 1rem 0;
+  color: $meta-color;
+}
 
 form {
   font-size: 1.2rem;
@@ -476,10 +488,13 @@ form {
   input {
     display: inline;
   }
-  textarea {
+  textarea, select {
     display: block;
   }
-  input, textarea {
+  textarea {
+    min-width: 50%;
+  }
+  input, textarea, select {
     font-size: 1.1rem;
     border: 1px solid $meta-color;
     margin: 0.5rem auto;
@@ -501,7 +516,7 @@ form {
 }
 
 .form--contact {
-  input, textarea, button {
+  input, textarea, button, select {
     display: block;
     margin-left: auto;
     margin-right: auto;

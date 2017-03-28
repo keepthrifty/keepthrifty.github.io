@@ -61,11 +61,13 @@ I've been blessed to have articles from the Keep Thrifty blog featured on [Rocks
 
 Beyond this, I've also been featured on a number of great sites:
 
-* Budgets Are Sexy - [Are You Retirement Free?](http://www.budgetsaresexy.com/2017/03/retirement-freedom-calculator/){: target="_blank"}
+* Chris Guillebeau - [Use this "Freedom Calculator" to Project Your Retirement Date](https://chrisguillebeau.com/freedom-calculator/){: target="_blank"}
+* Millennial Money Minutes Podcast - [Interview with Chris @ Keep Thrifty](http://podcast.millennialmoney.com/e/interview-chris-keepthrifty/){: target="_blank"}
 * Lifehacker - [Find Out How Many Days of Retirement Your Contributions Can Buy With This Tool](http://lifehacker.com/find-out-how-many-days-of-retirement-your-contributions-1788228175){: target="_blank"}
 * The Penny Hoarder - [Why This Woman Doesn’t Regret Selling Her Engagement Ring](http://www.thepennyhoarder.com/would-you-sell-your-engagement-ring-to-make-extra-money/){: target="_blank"}
 * The Financial Diet - [The 7 Personal Finance Articles We Loved This Week](http://thefinancialdiet.com/7-personal-finance-articles-loved-week-3/){: target="_blank"}
 * The Street - [Young Americans Are Shunning Credit Cards](https://www.thestreet.com/story/13499131/1/young-americans-are-shunning-credit-cards.html){: target="_blank"}
+* Budgets Are Sexy - [Are You Retirement Free?](http://www.budgetsaresexy.com/2017/03/retirement-freedom-calculator/){: target="_blank"}
 * MortgageLoan.com - [Smart Financial Moves with Your Current Mortgage](https://www.mortgageloan.com/smart-financial-moves-with-your-current-mortgage){: target="_blank"}
 * US News and World Report - [The Financial Benefits of Living with Less](http://money.usnews.com/money/blogs/my-money/articles/2016-05-10/the-financial-benefits-of-living-with-less){: target="_blank"}
 * EQ Bank - [Should you go to Italy or buy a car? Here's how to decide](https://www.eqbank.ca/the-exchange/article-detail?urlName=should-you-go-to-italy-or-buy-a-car-here-s-how-to-decide){: target="_blank"}
