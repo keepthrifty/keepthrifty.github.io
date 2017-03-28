@@ -5,12 +5,16 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 
 title: "Dealing with Unsolicited Advice"
-description: "___TK___"
+description: "Don't let some know-it-all tell you that your frugal lifestyle is the wrong way to go. Here's how to combat those naysayers."
 
 image: /img/posts/2017-03-27-dealing-with-unsolicited-advice/megaphone.jpg
 
 related-posts: [
-
+  "/2017/01/23/ignorance-better",
+  "/2016/11/27/staying-thankful-spend-happy-world",
+  "/2016/05/24/encouragement-over-hate",
+  "/2016/10/10/become-twice-as-happy-with-half-as-much",
+  "/2016/10/16/talent-is-overrated"
 ]
 
 tags: [guest post, inspiration]

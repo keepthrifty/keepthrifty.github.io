@@ -14,7 +14,8 @@ related-posts: [
   "/2016/02/13/thrifty-valentines-day",
   "/2016/03/23/engagement-ring-sold",
   "/2016/07/06/roadtrip-recap",
-  "/2016/12/26/thrifty-year-in-review"
+  "/2016/12/26/thrifty-year-in-review",
+  "/2017/03/27/dealing-with-unsolicited-advice"
 ]
 
 tags: [inspiration, minimalism, faith]

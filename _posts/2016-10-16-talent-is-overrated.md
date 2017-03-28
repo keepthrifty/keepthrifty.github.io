@@ -14,7 +14,7 @@ image-folder: /img/posts/2016-10-16-talent-is-overrated
 related-posts: [
   "/2016/09/05/let-it-burn",
   "/2016/08/12/fifteen-lessons-first-seven-jobs",
-  "/2017/01/09/defeat-four-devious-marketing-tactics",
+  "/2017/03/27/dealing-with-unsolicited-advice",
   "/2016/07/27/the-secret-to-success",
   "/2016/11/06/odd-couple-procrastination-and-frugality",
   "/2017/01/23/ignorance-better"

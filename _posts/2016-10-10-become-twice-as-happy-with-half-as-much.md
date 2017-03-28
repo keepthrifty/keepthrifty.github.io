@@ -14,7 +14,7 @@ related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2017/01/23/ignorance-better",
   "/2016/12/05/money-mistakes-financial-compass",
-  "/2016/09/05/let-it-burn",
+  "/2017/03/27/dealing-with-unsolicited-advice",
   "/2017/01/02/happy-nothing-new-year",
   "/2017/02/13/how-much-is-your-stuff-costing-you"
 ]
