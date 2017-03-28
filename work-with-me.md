@@ -17,6 +17,10 @@ If you're interested or want to learn more, use the contact form below and provi
 
 <div class="work--price">$200 per hour</div>
 
+## Media Requests
+
+Got a podcast or writing an article or book? Let me know if you'd like me to chime in using the form at the bottom.
+
 ## Speaking Engagements
 
 I'm open for speaking engagements for your group, business, or conference. Use the contact form below to reach out. We'll talk about what you're looking for and how I can help!
@@ -49,11 +53,12 @@ Got something else in mind? Don't hesitate to reach out. I'm always up for heari
 <form class="form--contact" action="https://www.formingo.co/submit/d41b5c55-bba4-4a56-9117-6187bb2c02c8" method="POST">
     <input type="hidden" name="__redirect" value="http://www.keepthrifty.com/thank-you/">
     <select name="__subject">
-      <option value="coaching">Coaching</option>
-      <option value="speaking">Speaking Engagement</option>
-      <option value="guest-post">Guest Post</option>
-      <option value="affiliate">Affiliate</option>
-      <option value="other">Other Collaboration</option>
+      <option value="Coaching">Coaching</option>
+      <option value="Media">Media Request</option>
+      <option value="Speaking">Speaking Engagement</option>
+      <option value="Guest-post">Guest Post</option>
+      <option value="Affiliate">Affiliate</option>
+      <option value="Other">Other Collaboration</option>
     </select>
     <input type="email" name="__replyto" placeholder="Email Address">
     <textarea name="message" placeholder="What do you have in mind?" rows="5"></textarea>
