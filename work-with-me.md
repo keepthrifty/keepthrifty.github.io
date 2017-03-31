@@ -42,7 +42,7 @@ At this time, I am not accepting requests for display advertising or submissions
 
 ## Affiliate Relationships
 
-If you've got a product or service you think I'd like, use the form below to reach out with details. I only put affiliate links to products or services I use can can recommend to others. If you've got something that you think would be up my alley, reach out and tell me about it.
+If you've got a product or service you think I'd like, use the form below to reach out with details. I only put affiliate links to products or services I use and can recommend to others. If you've got something that you think would be up my alley, reach out and tell me about it.
 
 ## Other Collaboration
 
