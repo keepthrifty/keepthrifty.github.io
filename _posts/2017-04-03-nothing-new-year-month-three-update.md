@@ -21,7 +21,7 @@ affiliate: true
 
 ---
 
-We kicked off this year with a goal to [buy nothing new]({% post_url 2017-01-02-happy-nothing-new-year %}). We're now through our third month. It's accountability time and this month is going to be interesting. We _spent a ton_ and are have a _big strategy shift_ in our quest to become debt-free.
+We kicked off this year with a goal to [buy nothing new]({% post_url 2017-01-02-happy-nothing-new-year %}). We're now through our third month. It's accountability time and this month is going to be interesting. We _spent a ton_ and made a _big strategy shift_ in our quest to become debt-free.
 
 Here's a look at our finances for the month, our progress on the nothing new year goal, and how we're doing on paying off our mortgage by 2020.
 
@@ -55,7 +55,7 @@ How did we get here? Let's break everything down:
 | Eating Out | $365.62 | About $125 was our regular "Friday night pizza and ice cream", and $75 was our date night - both "good" spending in my book. The remainder ($165) was convenience-driven food. Whether at home or at work, we spent extra because it was easier to grab food than cook. If we can eliminate this, we'll have an extra $2000 every year! |
 | Entertainment | $12.10 | We did our best to wait until I had enough Google Play credits to get [Tiny House Nation](http://amzn.to/2oqYRWU){: target="_blank" rel="nofollow"} for free. Our best wasn't good enough and we caved this month. That said, we love our time watching this together so it's worth it to me. |
 | Gifts | $167.56 | My wife's sister was due last month so we spent on gifts for the second baby shower and the baby's pending arrival. In addition, we bought [seed bombs from Seedles](https://growtherainbow.com/){: target="_blank"} for our kids for a fun Easter gift. |
-| Groceries | $806.97 | My wife has been killing it on bringing our grocery bill down. This time last year, we were averaging about $1050 a month and she's been able to bring it down to $850 a month (and it's still falling). That's $2400 a year savings people! |
+| Groceries | $806.97 | My wife has been killing it on bringing our grocery bill down. This time last year, we were averaging about $1050 a month and she's been able to bring it down to $850 a month (and it's still falling). That's $2400 less in groceries every year! |
 | Healthcare | $2,266.63 | ___Boom___. There's one of the big reasons we were high this month. The ER bills from our visit in February finally came in to the tune of $1500. Throw in a couple unplanned clinic visits, our premiums, and you've got a rough month in the healthcare department. |
 | Hobbies | $230.47 | Gymnastics fees, markers, and a couple used dress-up dresses off Craigslist for the girls. Their old ones had gotten pretty tattered - time for a refresh :) |
 | Home Updates | $6,809.49 | ___Ba-boom___. I wrote earlier this month about how we managed to [shell out $3,200 for a new furnace]({% post_url 2017-03-13-spend-without-fear %}) without losing our minds. On top of that, we did _just a few_ home updates in our quest to get our house ready to sell. We got all three bathrooms tiled, a new backsplash, and new vanities, sinks, and faucets for two of the bathrooms. |
