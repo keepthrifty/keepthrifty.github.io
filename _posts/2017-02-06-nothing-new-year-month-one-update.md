@@ -11,6 +11,8 @@ image: /img/posts/2017-02-06-nothing-new-year-month-one-update/shopping-cart.jpg
 
 related-posts: [
   "/2017/01/02/happy-nothing-new-year",
+  "/2017/03/06/nothing-new-year-month-two-update",
+  "/2017/04/03/nothing-new-year-month-three-update",
   "/2016/03/28/april-challenge-grocery",
   "/2016/05/01/may-challenge-food",
   "/2016/06/05/prepay-vs-invest"

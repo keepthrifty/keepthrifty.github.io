@@ -15,8 +15,9 @@ related-posts: [
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
   "/2016/08/28/the-more-of-less-review",
   "/2016/06/13/escape-fashion-trap-part-1",
-  "/2016/01/20/living-with-less",
-  "/2017/02/06/nothing-new-year-month-one-update"
+  "/2017/02/06/nothing-new-year-month-one-update",
+  "/2017/03/06/nothing-new-year-month-two-update",
+  "/2017/04/03/nothing-new-year-month-three-update",
 ]
 
 tags: [minimalism, nothing new year]
