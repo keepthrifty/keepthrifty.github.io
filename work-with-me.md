@@ -15,7 +15,7 @@ I'd love to help you tackle your financial and life challenges. Whether you've g
 
 If you're interested or want to learn more, use the contact form below and provide a brief description of what you'd like to work on.
 
-<div class="work--price">$200 per hour</div>
+<div class="work--price">$95 per half-hour</div>
 
 ## Media Requests
 
