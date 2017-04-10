@@ -13,7 +13,8 @@ related-posts: [
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
   "/2016/08/28/the-more-of-less-review",
   "/2016/03/23/engagement-ring-sold",
-  "/2016/09/05/let-it-burn"
+  "/2016/09/05/let-it-burn",
+  "/2017/04/10/living-in-half-of-our-house"
 ]
 
 tags: [minimalism]
