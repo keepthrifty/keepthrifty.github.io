@@ -353,6 +353,13 @@ a {
 .email { color: #C4C9CC; }
 .print { color: $meta-color }
 
+.pinterest {
+  img {
+    max-width: 75%;
+    max-height: 40rem;
+  }
+}
+
 .mini-post-list {
   text-align: center;
   display: flex;
