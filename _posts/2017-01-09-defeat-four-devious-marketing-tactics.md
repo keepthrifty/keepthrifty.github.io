@@ -14,7 +14,8 @@ related-posts: [
   "/2016/05/24/encouragement-over-hate",
   "/2016/07/14/experience-or-stuff",
   "/2016/09/12/we-wish-you-a-merry-debtmas",
-  "/2016/10/16/talent-is-overrated"
+  "/2016/10/16/talent-is-overrated",
+  "/2017/04/17/three-phases-money-feelings"
 ]
 
 tags: [inspiration]

@@ -11,8 +11,14 @@ image: /img/posts/2017-04-17-three-phases-money-feelings/money-feelings.jpg
 pinterest-image: /img/posts/2017-04-17-three-phases-money-feelings/money-feelings-pinterest.png
 
 related-posts: [
-
+  "/2017/01/09/defeat-four-devious-marketing-tactics",
+  "/2016/11/20/money-life-lessons-oregon-trail",
+  "/2016/01/30/real-root-of-all-evil",
+  "/2016/07/21/spending-on-free"
 ]
+
+redirect_from:
+  - /2017/04/17/three-phrases-money-feelings/
 
 tags: [inspiration]
 

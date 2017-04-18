@@ -9,7 +9,8 @@ image: /img/posts/2016-01-30-real-root-of-all-evil/tree.jpg
 related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/07/21/spending-on-free",
-  "/2016/01/20/living-with-less"
+  "/2016/01/20/living-with-less",
+  "/2017/04/17/three-phases-money-feelings"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [faith]
