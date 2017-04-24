@@ -108,6 +108,8 @@ Imagine the freedom of turning down the huge promotion that comes with a fat pay
 
 When you can become hyper-focused on what you hope to do during your 85-or-so orbits around the sun, you can start to view money for what it really is - a tool to help you accomplish something bigger.
 
+To be clear, this stage is full of excitement - it's just not excitement _about money_. The excitement here is about being in a stage of life where money acts only as a tool to support your goals - not as a goal itself.
+
 If I can get to the point that money is only serving to support my family in accomplishing our goals, living in our values, and making an impact on the world around us, I'll consider this all a success.
 
 What about you?
