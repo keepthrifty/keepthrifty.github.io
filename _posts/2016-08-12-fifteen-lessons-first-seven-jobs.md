@@ -12,7 +12,8 @@ related-posts: [
   "/2016/05/24/encouragement-over-hate",
   "/2016/10/15/talent-is-overrated",
   "/2016/11/20/money-life-lessons-oregon-trail",
-  "/2016/12/18/4-financial-no-noes-from-grandparents"
+  "/2016/12/18/4-financial-no-noes-from-grandparents",
+  "/2017/04/24/grown-up-lessons-from-lemonade-stand"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]
