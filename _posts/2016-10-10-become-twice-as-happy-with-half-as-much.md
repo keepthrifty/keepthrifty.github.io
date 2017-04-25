@@ -11,8 +11,8 @@ image: /img/posts/2016-10-10-become-twice-as-happy-with-half-as-much/cupcake.jpg
 image-folder: /img/posts/2016-10-10-become-twice-as-happy-with-half-as-much
 
 related-posts: [
+  "/2017/04/10/living-in-half-our-house",
   "/2016/08/28/the-more-of-less-review",
-  "/2017/01/23/ignorance-better",
   "/2016/12/05/money-mistakes-financial-compass",
   "/2017/03/27/dealing-with-unsolicited-advice",
   "/2017/01/02/happy-nothing-new-year",

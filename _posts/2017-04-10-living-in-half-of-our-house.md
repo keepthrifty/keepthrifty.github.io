@@ -10,6 +10,7 @@ description: "Half of our house sits empty, unused. Why are we living like this?
 image: /img/posts/2017-04-10-living-in-half-of-our-house/living-room.jpg
 
 related-posts: [
+  "/2016/10/10/become-twice-as-happy-with-half-as-much",
   "/2016/03/23/engagement-ring-sold",
   "/2016/08/28/the-more-of-less-review",
   "/2017/01/16/one-car-suburbs",
