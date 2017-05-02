@@ -8,6 +8,7 @@ title: "Living In Half of Our House"
 description: "Half of our house sits empty, unused. Why are we living like this?"
 
 image: /img/posts/2017-04-10-living-in-half-of-our-house/living-room.jpg
+pinterest-image: /img/posts/2017-04-10-living-in-half-of-our-house/half-our-house-pinterest.jpg
 
 related-posts: [
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
@@ -186,6 +187,8 @@ Maybe we'll find a great plot of land that we can buy and build a really nice sm
 Whatever that path is, you can be sure you'll hear about it here :)
 
 _When have you had to go without something only to find that you never really needed it in the first place? Do you really use all of your house?_
+
+{% include pinterest-image.html %}
 
 ## Hide and Seek Challenge
 
