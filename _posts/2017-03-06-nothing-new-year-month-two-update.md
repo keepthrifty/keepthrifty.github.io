@@ -13,8 +13,8 @@ related-posts: [
   "/2017/01/02/happy-nothing-new-year",
   "/2017/02/06/nothing-new-year-month-one-update",
   "/2017/04/03/nothing-new-year-month-three-update",
-  "/2016/04/10/how-we-saved-on-our-mortgage",
-  "/2016/05/29/june-challenge-entertainment"
+  "/2017/05/01/nothing-new-year-month-four-update",
+  "/2016/04/10/how-we-saved-on-our-mortgage"
 ]
 
 tags: [how we money, nothing new year]
@@ -61,14 +61,14 @@ Back to the finances, here's our breakdown this month by category:
 | Hobbies | $234.50 | Gymnastics fees |
 | Home Updates | $681.53 | Kitchen island and two stools that arrived today. After finishing putting them together, I'm christening them by writing this blog post sitting on a stool at the island :) |
 | Household Care | $143.22 | A fairly typical month: pull-ups, dish soap, bandaids, two sharpies, salt for the water softener, shampoo, conditioner, floss, cocoa powder (my wife uses this for blush), hair gel, and bars of soap for our laundry detergent |
-| Other | $11.52 | Hosting fees and source code storage for [Thrifty](http://thrifty.keepthrifty.com) |
 | Services | $33.28 | Life insurance through my work and a haircut for me on February 12th. According to Thrifty, the last time I got a haircut before this was November 12th. Holy cow - that's three whole months. I might have been a _bit_ shaggy in February... |
 | Shelter | $195.37 | The only expense in here is for our mortgage interest. Every month this drops by about $4 as more of our payment goes to principal - it's a beautiful thing to watch :) _We don't log our principal payments as an expense since we consider them to be net-worth-building payments._  |
+| Thrifty | $11.52 | Hosting fees and source code storage for [Thrifty](/thrifty/) |
 | Transportation | $736.26 | Two tanks of gas, a renewal of my driver's license and the doozy - $620 in ___new___ tires |
 | Travel | $1027.34 | All told, the trip was actually $1536.34; we had paid for our villa in Hilton Head back in August when we booked through [AirBnB](http://www.airbnb.com/c/chrisd5956){: target="_blank" rel="nofollow" }. This includes food, hotel, gas, groceries, laundry, activities, and - oh yeah - coffee and ice cream. |
 | Utilities | $162.75 | Gas, electric, and internet |
 |-------+----------+----|
-| __Total__ | __$5,812.15__ |    |
+| __Total__ | __$5,812.15__ | (without home updates: $5130.62)   |
 |-------+----------+----|
 
 ## Did We Buy Anything New?

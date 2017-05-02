@@ -13,6 +13,7 @@ related-posts: [
   "/2017/01/02/happy-nothing-new-year",
   "/2017/02/06/nothing-new-year-month-one-update",
   "/2017/03/06/nothing-new-year-month-two-update",
+  "/2017/05/01/nothing-new-year-month-four-update"
 ]
 
 tags: [how we money, nothing new year]
@@ -66,7 +67,7 @@ How did we get here? Let's break everything down:
 | Transportation | $192.37 | Five tanks of gas (four for us and one for a friend who helped us get into our locked car) |
 | Utilities | $162.75 | Gas, electric, and internet |
 |-------+----------+----|
-| __Total__ | __$12,281.90__ |    |
+| __Total__ | __$12,281.90__ | (without home updates: $5472.41)   |
 |-------+----------+----|
 
 ## Did We Buy Anything New?
