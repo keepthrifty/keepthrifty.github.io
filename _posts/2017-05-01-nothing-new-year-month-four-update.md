@@ -7,6 +7,8 @@ author_email: chris@keepthrifty.com
 title: "Nothing New Year: Month 4 Update"
 description: "With our new plan to sell our house and downsize to an apartment, we still had a big spending month - getting our home updates close to finished."
 
+date: 2017-05-01 06:15:01
+
 image: /img/posts/2017-05-01-nothing-new-year-month-four-update/facepalm.jpg
 
 related-posts: [
