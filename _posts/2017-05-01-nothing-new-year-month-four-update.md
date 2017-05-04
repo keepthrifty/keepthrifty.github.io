@@ -92,11 +92,11 @@ So, how did we do?
 We failed not once, but _twice_ this month by buying new.
 
 - The power cord for my wife's laptop frayed to the point that it was no longer functioning so we finally caved and got a replacement.
-- Our twins turned 5 this month, which is incredibly exciting and mind-boggling (man, time flies). For gifts, we wanted to focus a bit more on the creative side so we got one of the girls a 3-month subscription to [Kiwi Crate](http://www.kiwicrate.com/){: target="_blank" rel="nofollow"} and the other a costume/experience box from [My Pretend Place](https://mypretendplace.com/){: target="_blank" rel="nofollow"}.
+- Our twins turned 5 this month, which is incredibly exciting and mind-boggling (man, time flies). For gifts, we wanted to focus a bit more on the creative side so we got one of the girls a 3-month subscription to [Kiwi Crate](http://kiwi-crate.7eer.net/c/379722/330332/4034){: target="_blank" rel="nofollow"} and the other a costume/experience box from [My Pretend Place](https://mypretendplace.com/){: target="_blank" rel="nofollow"}.
 
 The power cord became a tough trade-off between buying used from Apple for mucho dinero (more than $70) or a new knock-off version from Amazon for $20. This is one of those cases where we had to make the trade-off call and I just couldn't bring myself to spend 3.5 times the cost.
 
-One of the birthday gifts (from [Kiwi Crate](http://www.kiwicrate.com/){: target="_blank" rel="nofollow"}) was craft supplies, so that actually falls in the exceptions list, but the other ended up being a costume with some accessories. When we ordered it, we were thinking "experience" but it really did turn out to be stuff.
+One of the birthday gifts (from Kiwi Crate) was craft supplies, so that actually falls in the exceptions list, but the other ended up being a costume with some accessories. When we ordered it, we were thinking "experience" but it really did turn out to be stuff.
 
 Neither the power cord nor the costumer were on the exception list. As a result, {% capture tweet-text %}I'm obligated to declare that _we failed at our goal of buying nothing new this year_{% endcapture %}{% include tweet-link.html %}
 
@@ -139,3 +139,5 @@ Well, we stumbled a bit this month with our $23 power cord and a $50 birthday pr
 What I'm really excited for is to see how our finances change once we're finally out of our house and in a rental. Without all the maintenance and updates, I anticipate things will be a whole lot more steady :)
 
 _Are you still on-track with the resolutions you made for this year? How have you gotten back on track when you fail a goal?_
+
+> Update: The gift from Kiwi Crate was a huge hit with our kids. The craft was a __build-your-own pinball machine kit__. The girls loved putting it together and have spent a ton of time reconfiguring it. You can get 30% off your first box from Kiwi Crate by clicking on [this link](http://kiwi-crate.7eer.net/c/379722/330332/4034){: target="_blank" rel="nofollow"} and entering coupon code _SHARE30_ at checkout.
