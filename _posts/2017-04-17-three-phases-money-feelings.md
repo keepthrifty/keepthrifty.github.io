@@ -8,7 +8,7 @@ title: "Three Phases of Money Feelings"
 description: "How does money make you feel? Stressed? Excited? Or do you generally feel indifferent? Each of these is a step in your path to financial independence"
 
 image: /img/posts/2017-04-17-three-phases-money-feelings/money-feelings.jpg
-pinterest-image: /img/posts/2017-04-17-three-phases-money-feelings/money-feelings-pinterest.png
+pinterest-image: /img/posts/2017-04-17-three-phases-money-feelings/money-feelings-pinterest
 
 related-posts: [
   "/2017/01/09/defeat-four-devious-marketing-tactics",

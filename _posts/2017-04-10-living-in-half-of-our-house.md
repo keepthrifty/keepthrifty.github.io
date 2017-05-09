@@ -8,7 +8,7 @@ title: "Living In Half of Our House"
 description: "Half of our house sits empty, unused. Why are we living like this?"
 
 image: /img/posts/2017-04-10-living-in-half-of-our-house/living-room.jpg
-pinterest-image: /img/posts/2017-04-10-living-in-half-of-our-house/half-our-house-pinterest.jpg
+pinterest-image: /img/posts/2017-04-10-living-in-half-of-our-house/half-our-house-pinterest
 
 related-posts: [
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
