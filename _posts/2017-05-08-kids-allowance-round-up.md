@@ -54,7 +54,7 @@ Jim from __Route to Retire__ goes with a pure earning mentality - he [pays his 5
 
 Tom from __High Income Parents__ has two requirements for his kids' allowances - they [have to remember to ask for their allowance on Friday or Saturday](http://www.highincomeparents.com/how-i-set-up-my-childrens-allowance/){: target="_blank"} and they have to keep up with their common chores around the house (keeping their room clean, etc.). This is a great way to teach kids to be their own advocates and maintain responsibility in the house.
 
-Laura from __Savvy Family Finance__ gives a [fixed weekly allowance](http://www.savvyfamilyfinance.com/teach-child-how-save-money/) without a direct tie to chores. This approach can help reinforce the concept that pitching in is a part of being in a family.
+Laura from __Savvy Family Finance__ gives a [fixed weekly allowance](http://www.savvyfamilyfinance.com/teach-child-how-save-money/){: target="_blank"} without a direct tie to chores. This approach can help reinforce the concept that pitching in is a part of being in a family.
 
 Melanie from __Mindfully Spent__ [uses a hybrid approach](https://www.mindfullyspent.com/home/finance-for-families-giving-kids-an-allowance){: target="_blank"} with her son - he earns $10 every two weeks with a base level of chores is expected. Optionally, her son can do an additional chore to add another $10 to each pay period.
 
@@ -102,7 +102,7 @@ There seems to be a fair amount of consensus amongst the experts on this one - _
 
 If you missed the boat, don't despair. It's better to start late than never!
 
-That is, at least, unless the best time to start is actually..._never_. Amanda from [__Centsibly Rich__](http://www.centsiblyrich.com){: target="_blank"} hasn't ever given her kids a set allowance and they are now in their teens. They get a bit of money for gas but all of their non-essential purchases come from money they've earned elsewhere or were given on birthdays and holidays.
+That is, at least, unless the best time to start is actually..._never_. Amanda from [__Centsibly Rich__](http://centsiblyrich.com/){: target="_blank"} hasn't ever given her kids a set allowance and they are now in their teens. They get a bit of money for gas but all of their non-essential purchases come from money they've earned elsewhere or were given on birthdays and holidays.
 
 ## When to Stop Giving Kids an Allowance
 
