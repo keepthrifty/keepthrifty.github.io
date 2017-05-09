@@ -14,7 +14,8 @@ related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/08/20/indecent-financial-exposure",
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
-  "/2017/03/13/spend-without-fear"
+  "/2017/03/13/spend-without-fear",
+  "/2017/05/08/kids-allowance-round-up"
 ]
 
 tags: [how we money]

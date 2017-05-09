@@ -13,7 +13,8 @@ related-posts: [
   "/2017/01/23/ignorance-better",
   "/2016/12/05/money-mistakes-financial-compass",
   "/2016/11/20/money-life-lessons-oregon-trail",
-  "/2016/07/27/the-secret-to-success"
+  "/2016/07/27/the-secret-to-success",
+  "/2017/05/08/kids-allowance-round-up"
 ]
 
 tags: [inspiration, how we money]

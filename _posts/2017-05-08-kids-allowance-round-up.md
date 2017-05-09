@@ -5,7 +5,7 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 
 title: "Kids Allowances - Advice from the Experts"
-description: "___TK___"
+description: "I picked the brains of some great personal finance bloggers to see how different families structure allowances for their kids. By the end, I was all ready to build my own custom allowance system for our family."
 
 date: 2017-05-08 06:15:01
 
@@ -13,10 +13,13 @@ image: /img/posts/2017-05-08-kids-allowance-round-up/piggy-banks.jpg
 pinterest-image: /img/posts/2017-05-08-kids-allowance-round-up/kids-allowances
 
 related-posts: [
-
+  "/2016/11/13/how-we-budget-four-branch-system",
+  "/2016/12/05/money-mistakes-financial-compass",
+  "/2017/03/13/spend-without-fear",
+  "/2017/01/23/ignorance-better"
 ]
 
-tags: []
+tags: [how we money]
 
 affiliate: true
 

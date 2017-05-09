@@ -13,7 +13,7 @@ related-posts: [
   "/2017/01/16/one-car-suburbs",
   "/2016/10/16/talent-is-overrated",
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
-  "/2016/10/02/it-is-only-money-review",
+  "/2017/05/08/kids-allowance-round-up",
   "/2017/03/13/spend-without-fear",
   "/2017/03/27/dealing-with-unsolicited-advice"
 ]
