@@ -25,7 +25,7 @@ affiliate: true
 
 ---
 
-As financially-focused parents, we want to ensure that our kids learn the value of money. Our twins recently turned five years old and the topic of allowances is back on my mind. Rather than try to invent everything from scratch, I reached out to the experts on the [Rockstar Finance Forums](http://forums.rockstarfinance.com/) to see how others have made things work in their families.
+As financially-focused parents, we want to ensure that our kids learn the value of money. Our twins recently turned five years old and the topic of allowances is back on my mind. Rather than try to invent everything from scratch, I reached out to the experts on the [Rockstar Finance Forums](http://forums.rockstarfinance.com/){: target="_blank"} to see how others have made things work in their families.
 
 This post summarizes the major elements and considerations in giving kids an allowance Using experiences from a variety of personal finance bloggers, you should be able to assess your options and structure an allowance system that works for your family. You'll even hear a bit about how my parents structured my allowance when I was a kid.
 
