@@ -23,7 +23,7 @@ To an outside observer, it might look I’m going through a midlife crisis.
 
 In the past 2 years, my wife and I have tried some “non-conventional” things:
 
-* blocking off 1/2 of our 1800 square foot house, forcing our family of 5 to live in, essentially, a 900 square foot house with 2 bedrooms and 1 bathroom
+* blocking off 1/2 of our 1900 square foot house, forcing our family of 5 to live in, essentially, a 900 square foot house with 2 bedrooms and 1 bathroom
 * ditched 2 of our TVs (and the remaining one isn’t even hooked up to an antenna, let alone cable)
 * jettisoned all the dressers from our house
 * scaled back our wardrobes to the point that all I have is 5 button-down shirts, 2 pairs of jeans, 2 pairs of dress pants, undershirts, underwear, socks, a hoodie, and one suit

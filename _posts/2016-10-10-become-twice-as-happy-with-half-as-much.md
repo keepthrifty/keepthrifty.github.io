@@ -14,7 +14,7 @@ related-posts: [
   "/2017/04/10/living-in-half-our-house",
   "/2016/08/28/the-more-of-less-review",
   "/2016/12/05/money-mistakes-financial-compass",
-  "/2017/03/27/dealing-with-unsolicited-advice",
+  "/2017/05/15/big-barriers-living-small",
   "/2017/01/02/happy-nothing-new-year",
   "/2017/02/13/how-much-is-your-stuff-costing-you"
 ]

@@ -10,12 +10,11 @@ image: /img/posts/2016-03-23-engagement-ring-sold/wedding-carriage.jpg
 excerpt_separator: <!--end-excerpt-->
 
 related-posts: [
-  "/2016/07/14/experience-or-stuff",
   "/2016/08/28/the-more-of-less-review",
-  "/2016/06/13/escape-fashion-trap-part-1",
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
   "/2017/02/13/how-much-is-your-stuff-costing-you",
-  "/2017/04/10/living-in-half-of-our-house"
+  "/2017/04/10/living-in-half-of-our-house",
+  "/2017/05/15/big-barriers-living-small"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism, inspiration]

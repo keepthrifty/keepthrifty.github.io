@@ -13,8 +13,8 @@ related-posts: [
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
   "/2016/08/28/the-more-of-less-review",
   "/2016/03/23/engagement-ring-sold",
-  "/2016/09/05/let-it-burn",
-  "/2017/04/10/living-in-half-of-our-house"
+  "/2017/04/10/living-in-half-of-our-house",
+  "/2017/05/15/big-barriers-living-small"
 ]
 
 tags: [minimalism]
@@ -68,7 +68,7 @@ And that's only on the __opportunity cost__ side of the equation. The often hidd
 
 In our case, we've done a significant amount of decluttering over the last several years. As we got closer, our house seemed to be getting bigger and bigger - to the point that we have a ton of space we don't even use.
 
-As a result, we're only using about 900 of our 1800 square feet in our house right now. Also, we've [consolidated down to just one car]({% post_url 2017-01-16-one-car-suburbs %}), so our two-car garage is also bigger than what we actually need.
+As a result, we're only using about 900 of our 1900 square feet in our house right now. Also, we've [consolidated down to just one car]({% post_url 2017-01-16-one-car-suburbs %}), so our two-car garage is also bigger than what we actually need.
 
 In short, we could live in half the house we're living in now and be perfectly fine now that we've gotten rid of all of that stuff. That's _half_ the square footage for the price of our home, _half_ for our annual property taxes, _half_ for our homeowner's insurance, and a good dent in our heating, cooling, and lighting costs.
 

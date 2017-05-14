@@ -14,7 +14,8 @@ related-posts: [
   "/2016/05/08/how-much-car-can-you-afford",
   "/2016/06/18/the-simple-path-to-wealth-review",
   "/2016/11/13/how-we-budget-four-branch-system",
-  "/2017/04/10/living-in-half-of-our-house"
+  "/2017/04/10/living-in-half-of-our-house",
+  "/2017/05/15/big-barriers-living-small"
 ]
 
 tags: [minimalism, inspiration]

@@ -85,7 +85,7 @@ Some examples of what we've done:
 
 * We experimented with having only one car for our family for several months before pulling the trigger and making it official by selling our Prius.
 * We've got an active experiment right now where we have gone over 4 months without using our microwave.
-* While we live in an 1800 square foot house, we've run experiments where we only used 1000 square feet as a way to prove to ourselves that we could downsize from this house and be perfectly happy.
+* While we live in an 1900 square foot house, we've run experiments where we only used 1000 square feet as a way to prove to ourselves that we could downsize from this house and be perfectly happy.
 
 {% assign tweet-text = "You're capable of much more than you give yourself credit for; use personal experiments to prove it" %}
 
