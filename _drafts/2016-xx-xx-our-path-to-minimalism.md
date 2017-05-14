@@ -39,7 +39,7 @@ In 2007, we were both out of school and into the workforce. I'd been there a few
 
 Once I hit the point that I knew I could make a 20% down payment on a "nice" house, we pulled the trigger and jumped into homeownership.
 
-But when we went from a few hundred square feet to nearly 1800, our mindsets shifted. We began to let our space dictate our need for possessions instead of letting our priorities lead.
+But when we went from a few hundred square feet to nearly 1900, our mindsets shifted. We began to let our space dictate our need for possessions instead of letting our priorities lead.
 
 _Got a living room? You need a full furniture set_
 
@@ -49,7 +49,7 @@ _Four bedrooms for a married couple with no kids? Sounds like you need a couple 
 
 Like most first-time-homebuyers, we quickly got to task on figuring out how to fill the space. To finance this endeavor, Jaime and I came up with our first attempt at assigned finances as a married couple - I'd take care of all the normal bills; she'd be responsible for furnishing the house.
 
-Quickly, the house began to get filled with Pottery Barn tables, dressers, and couches. We decked out the house in the best we could buy and got to the point we could have easily hosted 
+Quickly, the house began to get filled with Pottery Barn tables, dressers, and couches. We decked out the house in the best we could buy and got to the point we could have easily hosted
 
 
 
