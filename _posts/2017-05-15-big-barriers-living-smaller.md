@@ -5,9 +5,9 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 
 title: "Big Barriers to Living Smaller"
-description: "___TK___"
+description: "Who knew it could be so tough finding a smaller place to live? In our pursuit of living out our values, downsizing is our next big step but it was a lot more work than we thought to find a solution that worked for us."
 
-date: 2017-05-15 21:58:01 -0500
+date: 2017-05-15 21:59:59 -0500
 
 image: /img/posts/2017-05-15-big-barriers-living-smaller/small-house-big-house.jpg
 pinterest-image: /img/posts/2017-05-15-big-barriers-living-smaller/big-barriers-living-smaller
