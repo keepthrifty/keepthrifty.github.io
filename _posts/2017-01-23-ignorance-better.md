@@ -10,12 +10,12 @@ description: "Just because something is common knowledge doesn't mean it's actua
 image: /img/posts/2017-01-23-ignorance-might-be-better/confused-deer.jpg
 
 related-posts: [
-  "/2017/01/16/one-car-suburbs",
   "/2016/10/16/talent-is-overrated",
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
   "/2017/05/08/kids-allowance-round-up",
   "/2017/03/13/spend-without-fear",
-  "/2017/03/27/dealing-with-unsolicited-advice"
+  "/2017/03/27/dealing-with-unsolicited-advice",
+  "/2017/05/22/major-waste-of-money-dont-care"
 ]
 
 tags: [inspiration]

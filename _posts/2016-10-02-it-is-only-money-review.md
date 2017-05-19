@@ -17,9 +17,8 @@ related-posts: [
   "/2016/10/31/moneysmart-family-system-review",
   "/2016/08/28/the-more-of-less-review",
   "/2016/06/18/the-simple-path-to-wealth-review",
-  "/2016/09/18/the-price-of-an-extra-day",
-  "/2016/07/14/experience-or-stuff",
-  "/2017/01/23/ignorance-better"
+  "/2017/01/23/ignorance-better",
+  "/2017/05/22/major-waste-of-money-dont-care"
 ]
 
 tags: [book review, faith]
