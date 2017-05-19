@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Have You Been Spending All Your Money on Something Free?"
+title: "Guest Post: Have You Been Spending All Your Money on Something Free?"
 description: "The best things in life are free - so why would you spend money when you don't need to?"
 date:   2016-07-21 05:00:00 -0500
 author: Elsie Brown

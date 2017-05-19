@@ -4,7 +4,7 @@ layout: post
 author: keepthrifty
 author_email: chris@keepthrifty.com
 
-title: "A Hot Cheeto Called Harambe"
+title: "Guest Post: A Hot Cheeto Called Harambe"
 subtitle: "5 Ideas to Capitalize on a Craze Without Getting Your Fingers Dirty"
 description: "Adam from Crispy Cabbage breaks down how he'd capitalize on the Gorilla-shaped Cheeto Craze"
 
