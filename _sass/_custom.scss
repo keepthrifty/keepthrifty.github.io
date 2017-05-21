@@ -82,6 +82,7 @@ a {
   padding: 2rem;
   max-width: 54rem;
   box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+  border-radius: 0.2rem;
   position: relative;
   margin-bottom: 4rem;
 }
@@ -225,6 +226,10 @@ a {
     text-transform: uppercase;
   }
   .rss {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    color: $meta-color;
     a {
       color: $meta-color;
     }
@@ -376,6 +381,7 @@ a {
   width: 100%;
   text-align: center;
   box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+  border-radius: 0.2rem;
   background-color: white;
   &:hover {
     opacity: 0.7;
@@ -504,6 +510,7 @@ form {
   input, textarea, select {
     font-size: 1.1rem;
     border: 1px solid $meta-color;
+    border-radius: 5%;
     margin: 0.5rem auto;
     padding: 0.4rem;
   }
@@ -669,8 +676,10 @@ nav.navbar {
 }
 
 .post-list-text__item {
-  font-size: 1rem;
-  padding-bottom: 0.4rem;
+  list-style: none;
+  font-size: 0.9rem;
+  line-height: 1.2rem;
+  margin-bottom: 0.7rem;
 }
 
 
@@ -792,4 +801,53 @@ top: 0;
 left: 0;
 width: 100%;
 height: 100%;
+}
+
+.in-page-nav {
+  color: $meta-color;
+  font-size: 1.2rem;
+  font-weight: 200;
+  text-align: center;
+}
+
+ul.in-page-nav--list {
+  list-style: none;
+  display: inline-block;
+}
+
+li.in-page-nav--list-item {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0 1rem;
+
+  border-radius: 0.2rem;
+}
+
+li.in-page-nav--list-item a {
+  color: $meta-color;
+
+}
+
+.post__body .archive-list {
+
+}
+
+.post__body .archive-list--entry {
+  list-style: none;
+  margin-left: 2rem;
+  font-size: 1.1rem;
+  line-height: 1.4rem;
+  margin-bottom: 0.8rem;
+}
+
+.post__body .archive-list--entry a {
+  color: $meta-color;
+}
+
+.post__body .archive-list--title {
+
+}
+
+.archive-heading {
+
 }
