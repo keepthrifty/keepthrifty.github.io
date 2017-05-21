@@ -21,6 +21,7 @@ tags: [minimalism]
 
 affiliate: true
 
+featured: true
 ---
 
 How much stuff is in your house? Your garage? Or, heaven forbid, in a storage unit? It's a common claim that [we never use 80% of what we own](http://tiptoporganizing.com/statistics/){: target="_blank"}. Beyond the nuisance of clutter, I've been wondering something recently - how much is all this stuff _costing_ us?

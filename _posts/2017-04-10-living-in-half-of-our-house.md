@@ -22,6 +22,8 @@ tags: [minimalism, inspiration]
 
 affiliate: true
 
+featured: true
+
 ---
 
 We currently live in an 1892-square foot, 4-bedroom, 3-bathroom home in the suburbs. We're incredibly blessed to be able to afford a home like this and the updates we've made based on my wife's vision have made the space even better. So why have we spent so much of the last few years with half of our house empty or closed off?

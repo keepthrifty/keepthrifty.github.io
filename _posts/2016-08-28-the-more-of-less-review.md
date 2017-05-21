@@ -20,6 +20,7 @@ related-posts: [
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism, book review]
 affiliate: true
+featured: true
 ---
 
 > In America, we consume __twice__ as many material goods as we did fifty years ago. Over the same period, the size of the average American home has nearly __tripled__, and today that average home contains about __three hundred thousand items__. On average, our homes contain __more televisions than people__. And the US Department of Energy reports that, due to clutter, 25 percent of people with two-care garages don't have room to park cars inside and another 32% have room for only one vehicle.

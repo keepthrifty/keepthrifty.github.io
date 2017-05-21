@@ -21,6 +21,8 @@ tags: [mortgages, spreadsheets]
 
 rockstar: true
 
+featured: true
+
 ---
 
 Have you ever heard that you shouldn't prepay your mortgage because of what you'd lose out in mortgage interest deductions? It's nonsense. I've heard this argument more than a few times and it's finally time to put this baby to rest.
