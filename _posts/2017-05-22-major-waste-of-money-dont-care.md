@@ -7,7 +7,7 @@ author_email: chris@keepthrifty.com
 title: "Guest Post: Why I Don’t Care If You Think My Major Is a Waste of Money"
 description: "Think Liberal Arts degrees are worthless? Today's guest writer is working on getting one of those degrees and she's got a pretty compelling argument for why it's a great investment for her."
 
-date: 2017-05-22 21:59:59 -0500
+date: 2017-05-22 20:58:02 -0500
 
 image: /img/posts/2017-05-22-major-waste-of-money-dont-care/textbooks.jpg
 pinterest-image: /img/posts/2017-05-22-major-waste-of-money-dont-care/major-waste
