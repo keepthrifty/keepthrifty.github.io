@@ -159,6 +159,7 @@ a {
   height: auto;
   max-width: 800px;
   object-fit: cover;
+  border-radius: 0.2rem;
   object-position: center center;
 }
 
@@ -195,6 +196,8 @@ a {
     &.active {
       max-width: inherit;
     }
+    border-radius: 0.2rem;
+    box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
   }
 
   .image-caption {
@@ -393,6 +396,8 @@ img.mini-post__image{
   margin: 0;
   vertical-align: top;
   position: relative;
+  border-top-left-radius: 0.2rem;
+  border-top-right-radius: 0.2rem;
 }
 
 .mini-post__caption {
@@ -723,12 +728,16 @@ nav.navbar {
   }
 }
 
-p.call-to-action {
-  text-align: right;
-  font-size: 1.6rem;
-  margin-bottom: 0rem;
+div.call-to-action {
+  margin: 2rem 0 0 0;
+  text-align: center;
   a {
     color: $meta-color;
+    border: 1px solid $meta-color;
+    border-radius: 0.2rem;
+    padding: 1rem;
+    text-transform: uppercase;
+    font-weight: 300;
   }
 }
 
