@@ -10,7 +10,7 @@ layout: default
         {% if page.subtitle %}<h2 class="post__title--subtitle">{{ page.subtitle }}</h2>{% endif %}
       </div>
       {% if page.image %}
-      <img src="{{ page.image }}" class="post__header__image" alt="" />
+      <img src="{{ site.url }}{{ page.image }}" class="post__header__image" alt="" />
       {% endif %}
     </header>
 
