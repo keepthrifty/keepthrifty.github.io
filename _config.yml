@@ -34,6 +34,10 @@ sass:
   sass_dir: _sass
   style: compressed
 
+tipue_search:
+  include:
+    pages: true
+
 gems:
   - jekyll-sitemap
   - jekyll-paginate

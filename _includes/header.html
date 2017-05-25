@@ -13,6 +13,9 @@
       <li class="navbar-list__item {% if page.url == "/archive/" %}navbar-list__item--current{% endif %}"><a href="/archive/" data-hover="Archive">Archive</a></li>
       <li class="navbar-list__item {% if page.url == "/thrifty/" %}navbar-list__item--current{% endif %}"><a href="/thrifty/" data-hover="Thrifty">Thrifty</a></li>
       <li class="navbar-list__item {% if page.url == "/favorite-resources/" %}navbar-list__item--current{% endif %}"><a href="/favorite-resources/" data-hover="Archive">Favorites</a></li>
+      <li class="navbar-list__item"><i class="fa fa-search" aria-hidden="true"></i><form action="{{ '/search/' | relative_url }}" style="display:inline;">
+<input type="text" name="q" id="tipue_search_input">
+</form></li>
     </ul>
   </nav>
 </header>
