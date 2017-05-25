@@ -125,19 +125,6 @@ That said, don't assume that the "8% return" of the market is a sure thing; over
 
 > Before you make any major financial decision, do the math and know your mentality! ([_Tweet this_][tweet-quote])
 
-## An offer for you
-
-If you want to see how the prepay vs invest scenarios play out for you, I'd be happy to run your scenarios through my spreadsheet and e-mail you the results.
-
-If you're interested, [contact me](/about/#contact) with the following and I'll get back to you with a summary of the scenarios:
-
-- Outstanding mortgage balance
-- Mortgage interest rate
-- Current mortgage payment
-- Additional prepayment you're considering
-
-As always, you can find me on [twitter][twitter-link] or leave a comment in the section below.
-
 Thrift on, rockstars!
 
 [how-we-saved-on-mortgage]: {{ site.url }}{% post_url 2016-04-10-how-we-saved-on-our-mortgage %}
