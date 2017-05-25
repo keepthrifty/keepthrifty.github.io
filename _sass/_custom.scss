@@ -860,3 +860,15 @@ li.in-page-nav--list-item a {
 .archive-heading {
 
 }
+
+@media screen and (max-width: $minimum-break) {
+  .med-and-up {
+      display: none;
+  }
+}
+
+@media screen and (min-width: $minimum-break) {
+  .small-only {
+      display: none;
+  }
+}
