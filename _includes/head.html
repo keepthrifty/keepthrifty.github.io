@@ -8,10 +8,6 @@
 
   {% include analytics.html %}
 
-  <link rel="stylesheet" href="{{ "/css/main.css?" | prepend: site.baseurl }}{{ site.time | date: "%s" }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="shortcut icon" type="image/png" href="/img/favicon.png">
-
   {% if page.tipue_search_active or layout.tipue_search_active %}
   <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -20,6 +16,11 @@
   <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
   <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
   {% endif %}
+  <link rel="stylesheet" href="{{ "/css/main.css?" | prepend: site.baseurl }}{{ site.time | date: "%s" }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="shortcut icon" type="image/png" href="/img/favicon.png">
+
+
 
   {% if page.custom_js %}
     {% for js_file in page.custom_js %}
