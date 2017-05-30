@@ -8,12 +8,11 @@ image: /img/posts/2016-09-18-the-price-of-an-extra-day/extra-day.jpg
 image-folder: /img/posts/2016-09-18-the-price-of-an-extra-day
 subscribe-line: Want more money, motivation, and math?
 related-posts: [
-  "/2016/09/25/the-price-of-an-extra-day-spreadsheet-edition",
-  "/2016/08/05/dominate-debt-with-spreadsheet-fu",
   "/2016/06/18/the-simple-path-to-wealth-review",
   "/2016/06/05/prepay-vs-invest",
   "/2016/12/12/ultimate-refinancing-spreadsheet-calculator",
-  "/2017/01/30/introducing-retirement-freedom"
+  "/2017/01/30/introducing-retirement-freedom",
+  "/2017/05/30/rent-vs-buy-for-the-fi"
 ]
 redirect_from:
   - /calculators/
