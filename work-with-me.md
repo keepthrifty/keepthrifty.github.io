@@ -29,12 +29,7 @@ I'm happy to present on a variety of topics. Here are some examples:
 
 ## Contributing to Keep Thrifty (Guest Posts)
 
-If you'd like to write a guest post for Keep Thrifty, here's what I'm looking for:
-
-- The title of the post you plan to write. Please don't submit generic topic ideas like "student loans" or "saving money" - I'd like to see an actual title and a couple sentence description of what you'd like to write about
-- Guest posts should be no less than 1000 words. I don't have a strict upper limit, but anything over 3000 words is probably pushing it
-- Please submit a link to an article that you wrote that you're especially _proud of_. I want a sample of your writing that you're excited to show off
-- Guest posts are from __individuals__ (not businesses) and should be __promoting ideas__ (not products and services). If you don't fit in this category, see the section on Advertising/Sponsored Posts below
+At this time, I am not accepting submissions for guest posts.
 
 ## Advertising/Sponsored Posts
 
@@ -55,7 +50,6 @@ Got something else in mind? Don't hesitate to reach out. I'm always up for heari
     <select name="__subject">
       <option value="Coaching">Coaching</option>
       <option value="Speaking">Speaking Engagement</option>
-      <option value="Guest-post">Guest Post</option>
       <option value="Affiliate">Affiliate</option>
       <option value="Other">Other Collaboration</option>
     </select>
