@@ -59,7 +59,7 @@ I wasn't loaded, but I wasn't short of money either - and yet money was still a 
 The best way to gain control is to improve your knowledge. In this case, there are three major things you need to learn in order to move beyond the money stress phase:
 
 - How money works
-- [How much you make and spend](/thrifty/)
+- [How much you make and spend]({{site.url}}/thrifty)
 - How to make more and spend less
 
 Once you know these three things and start acting on them, you'll find that stress starts to fade (though it won't necessarily disappear completely) and that excitement starts to come to the forefront.

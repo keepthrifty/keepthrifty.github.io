@@ -46,7 +46,7 @@ Got something else in mind? Don't hesitate to reach out. I'm always up for heari
 # Work With Me
 
 <form class="form--contact" action="https://www.formingo.co/submit/d41b5c55-bba4-4a56-9117-6187bb2c02c8" method="POST">
-    <input type="hidden" name="__redirect" value="http://www.keepthrifty.com/thank-you/">
+    <input type="hidden" name="__redirect" value="https://www.keepthrifty.com/thank-you/">
     <select name="__subject">
       <option value="Coaching">Coaching</option>
       <option value="Speaking">Speaking Engagement</option>

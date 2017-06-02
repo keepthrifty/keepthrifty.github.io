@@ -40,7 +40,7 @@ In order to fund these crazy adventures, we needed a strong focus on our finance
 
 ## Our Finances
 
-Using [Thrifty](/thrifty/), we tracked _every penny we spent_ in the last year and used that information to help us understand and improve our finances.
+Using [Thrifty]({{site.url}}/thrifty), we tracked _every penny we spent_ in the last year and used that information to help us understand and improve our finances.
 
 In total, we spent $78,000 in 2016. We're not close to Mr. Money Mustache levels yet, but we're working on it.
 
@@ -72,7 +72,7 @@ Over the last three months, we've averaged $760 on groceries - an improvement of
 
 ## Thrifty Tool
 
-I attribute much of our financial success this year to the discipline we've developed by manually logging every expense in [Thrifty](/thrifty/).
+I attribute much of our financial success this year to the discipline we've developed by manually logging every expense in [Thrifty]({{site.url}}/thrifty).
 
 The tool started this year with just 1 user (our family) but has now had 74 people create accounts. It's not earth-shattering, but it is really nice to know that a few others have found value in Thrifty the same way we have.
 
@@ -82,7 +82,7 @@ At the start of the year, Thrifty was only for tracking expenses, but over the m
 
 <div class="image-caption">If you look closely, you'll see that we're slowly trending down :)</div>
 
-If you're not tracking your spending, you should really give it a try. Right now, [Thrifty is free](/thrifty/) and has no ads. I pay for the hosting out of my own pocket because of the value I get from using the tool and am happy to share it for free with others as long as the costs don't get too high :)
+If you're not tracking your spending, you should really give it a try. Right now, [Thrifty is free]({{site.url}}/thrifty) and has no ads. I pay for the hosting out of my own pocket because of the value I get from using the tool and am happy to share it for free with others as long as the costs don't get too high :)
 
 > While I really believe that manually tracking your expenses can help you understand them better and will even deter you from some unnecessary spending, I understand not everyone is ready to go that route.
 >

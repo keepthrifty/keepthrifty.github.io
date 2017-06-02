@@ -140,7 +140,7 @@ _What are your goals? What could you give up to help you get closer to them?_
 [tweet-me]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
 
-[thrifty-tool]: http://www.keepthrifty.com/thrifty/
+[thrifty-tool]: {{site.url}}/thrifty/
 {: target="_blank"}
 
 [usa-map]: {{ site.url }}/img/posts/2016-03-23-engagement-ring-sold/usa-map.jpg

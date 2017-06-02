@@ -30,7 +30,7 @@ By buying nothing new, we hope to reduce our impact on our bank accounts _and_ t
 
 ## Spending Overview
 
-Here's a snapshot of our spending summary from [Thrifty](http://thrifty.keepthrifty.com):
+Here's a snapshot of our spending summary from [Thrifty]({{site.url}}/thrifty/):
 
 ![Overall spending $12,281.90]({{site.url}}/img/posts/2017-04-03-nothing-new-year-month-three-update/nny-month-three-spending.png)
 
@@ -40,7 +40,7 @@ Holy fudge.
 
 We knew things were going to be higher this month based on our home updates but this was _way_ more than I was planning. We even earned the dubious distinctions of:
 
-- breaking our monthly spending record in the time we've been using [Thrifty](https://thrifty.keepthrifty.com)
+- breaking our monthly spending record in the time we've been using [Thrifty]({{site.url}}/thrifty/)
 - having a negative savings rate this month
 
 Yep, we spent more than we made. _By a lot_.
@@ -63,7 +63,7 @@ How did we get here? Let's break everything down:
 | Household Care | $139.76 | Oxyclean, dish soap, toothpaste, toilet paper, pull-ups, baking soda, vinegar, tape, borax, envelopes, garbage bags, stamps, hair detangler, non-toxic surface cleaner, bath bubbles for the kids (another Easter present) |
 | Services | $19.10 | Life insurance through my work |
 | Shelter | $191.00 | The only expense in here is for our mortgage interest. Every month this drops by about $4 as more of our payment goes to principal - it's a beautiful thing to watch :) _We don't log our principal payments as an expense since we consider them to be net-worth-building payments._  |
-| Thrifty | $92.00 | Hosting fees and source code storage for [Thrifty](http://thrifty.keepthrifty.com). Also, filing my LLC annual report and renewing my PO box. |
+| Thrifty | $92.00 | Hosting fees and source code storage for [Thrifty]({{site.url}}/thrifty/). Also, filing my LLC annual report and renewing my PO box. |
 | Transportation | $192.37 | Five tanks of gas (four for us and one for a friend who helped us get into our locked car) |
 | Utilities | $162.75 | Gas, electric, and internet |
 |-------+----------+----|

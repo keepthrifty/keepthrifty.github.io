@@ -32,7 +32,7 @@ By buying nothing new, we hope to reduce our impact on our bank accounts _and_ t
 
 ## Spending Overview
 
-Here's a snapshot of our spending summary from [Thrifty](http://thrifty.keepthrifty.com):
+Here's a snapshot of our spending summary from [Thrifty]({{site.url}}/thrifty/):
 
 ![Overall spending $9,207.99]({{site.url}}/img/posts/2017-05-01-nothing-new-year-month-four-update/nny-month-four-spending.png)
 
@@ -62,7 +62,7 @@ Here's a detailed category-by-category look at how we spent this month:
 | Household Care | $155.10 | Soap, toilet paper, toothpaste, face lotion, ant poison, pull-ups, conditioner, shampoo, deodorant, bandaids, and vinegar. Also, we had one ___new___ item this month - a replacement power adapter for my wife's laptop. |
 | Services | $15.28 | Life insurance through my work |
 | Shelter | $186.63 | The only expense in here is for our mortgage interest. Every month this drops by about $4 as more of our payment goes to principal - it's a beautiful thing to watch :) _We don't log our principal payments as an expense since we consider them to be net-worth-building payments._  |
-| Thrifty | $1,289.50 | Two big things here this month. (1) I bought a ticket (and paid for a flight) to [FinCon](http://finconexpo.com){: target="_blank"} - a conference for personal finance peeps. I didn't make it last year so I'm excited to finally get there. (2) I bought a used 13" MacBook Air from [Mac of All Trades](http://fxo.co/4DHK){: rel="nofollow" target="_blank" }. If you follow that link, you can get $10 off your first order. The rest of the spend this month was my normal hosting fees and source code storage for [Thrifty](http://thrifty.keepthrifty.com).
+| Thrifty | $1,289.50 | Two big things here this month. (1) I bought a ticket (and paid for a flight) to [FinCon](http://finconexpo.com){: target="_blank"} - a conference for personal finance peeps. I didn't make it last year so I'm excited to finally get there. (2) I bought a used 13" MacBook Air from [Mac of All Trades](http://fxo.co/4DHK){: rel="nofollow" target="_blank" }. If you follow that link, you can get $10 off your first order. The rest of the spend this month was my normal hosting fees and source code storage for [Thrifty]({{site.url}}/thrifty/).
 | Transportation | $167.80 | Four tanks of gas |
 | Travel | $0.00 | |
 | Utilities | $473.94 | Water/Sewer, Gas, electric, and internet. We accidentally submitted our gas and electric bill twice this month, so next month should be a lot lower :) |

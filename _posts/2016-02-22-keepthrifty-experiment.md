@@ -74,5 +74,5 @@ In addition, with each challenge, I’ll put out some helpful links to posts and
 [tweet-your-plan]: https://twitter.com/intent/tweet?text=I%27m%20going%20to%20Keep%20Thrifty%20this%20month!%20@keepthrifty
 {: target="_blank"}
 
-[thrifty]: /thrifty/
+[thrifty]: {{site.url}}/thrifty/
 {: target="_blank"}

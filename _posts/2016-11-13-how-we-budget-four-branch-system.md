@@ -297,7 +297,7 @@ As much work as you'll do in putting together a budget, the reality is that your
 
 The only way to improve your estimates is to actually measure what you spend and use that information in the next version of your budget.
 
-Our family uses the tool I created (Thrifty) to [track our income, taxes, and expenses](/thrifty/){: target="_blank"}. It's free and works on your computer, phone, or tablet.
+Our family uses the tool I created (Thrifty) to [track our income, taxes, and expenses]({{site.url}}/thrifty){: target="_blank"}. It's free and works on your computer, phone, or tablet.
 
 You can categorize your spending and also track your income and taxes so you get a complete picture of your finances.
 
@@ -328,7 +328,7 @@ Since you got through the full version but probably weren't taking notes, here's
 7. As each paycheck comes in, transfer and spend according to the expenses you assigned to that paycheck
 8. When __long cycle__ expenses come up, transfer the money from _Personal Escrow_ and breathe easy. For spending on your __targeted goals__, just transfer from the relevant savings account
 9. Use any unplanned income (extra paychecks, tax refunds, etc) to go straight toward your __targeted goals__
-10. Track your spending in detail and use that information to evolve your budget to be more accurate. I recommend you use [Thrifty](/thrifty/){: target="_blank"}, [Personal Capital](http://track.flexlinkspro.com/a.ashx?foid=1094139.201382&foc=1&fot=9999&fos=1){: target="_blank" rel="nofollow"}, or [Mint](http://www.mint.com){: target="_blank"}
+10. Track your spending in detail and use that information to evolve your budget to be more accurate. I recommend you use [Thrifty]({{site.url}}/thrifty){: target="_blank"}, [Personal Capital](http://track.flexlinkspro.com/a.ashx?foid=1094139.201382&foc=1&fot=9999&fos=1){: target="_blank" rel="nofollow"}, or [Mint](http://www.mint.com){: target="_blank"}
 
 Using this system has been incredibly effective for our family and has made managing our finances much less stressful.
 

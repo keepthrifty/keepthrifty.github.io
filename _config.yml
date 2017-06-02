@@ -11,7 +11,7 @@ email: chris@keepthrifty.com
 description: > # this means to ignore newlines until "baseurl:"
   Pursuing complete debt freedom through frugality, minimalism, and a whole bunch of awesome spreadsheets
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.keepthrifty.com" # the base hostname & protocol for your site
+url: "https://www.keepthrifty.com" # the base hostname & protocol for your site
 twitter_username: keepthrifty
 twitter:
   username: keepthrifty

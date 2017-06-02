@@ -27,7 +27,7 @@ By buying nothing new, we hope to reduce our impact on our bank accounts _and_ t
 
 ## Spending Overview
 
-Here's a snapshot of our spending summary from [Thrifty](http://thrifty.keepthrifty.com):
+Here's a snapshot of our spending summary from [Thrifty]({{site.url}}/thrifty/):
 
 ![Overall spending $5,812.15]({{site.url}}/img/posts/2017-03-06-nothing-new-year-month-two-update/nny-month-two-spending.png)
 
@@ -63,7 +63,7 @@ Back to the finances, here's our breakdown this month by category:
 | Household Care | $143.22 | A fairly typical month: pull-ups, dish soap, bandaids, two sharpies, salt for the water softener, shampoo, conditioner, floss, cocoa powder (my wife uses this for blush), hair gel, and bars of soap for our laundry detergent |
 | Services | $33.28 | Life insurance through my work and a haircut for me on February 12th. According to Thrifty, the last time I got a haircut before this was November 12th. Holy cow - that's three whole months. I might have been a _bit_ shaggy in February... |
 | Shelter | $195.37 | The only expense in here is for our mortgage interest. Every month this drops by about $4 as more of our payment goes to principal - it's a beautiful thing to watch :) _We don't log our principal payments as an expense since we consider them to be net-worth-building payments._  |
-| Thrifty | $11.52 | Hosting fees and source code storage for [Thrifty](/thrifty/) |
+| Thrifty | $11.52 | Hosting fees and source code storage for [Thrifty]({{site.url}}/thrifty) |
 | Transportation | $736.26 | Two tanks of gas, a renewal of my driver's license and the doozy - $620 in ___new___ tires |
 | Travel | $1027.34 | All told, the trip was actually $1536.34; we had paid for our villa in Hilton Head back in August when we booked through [AirBnB](http://www.airbnb.com/c/chrisd5956){: target="_blank" rel="nofollow" }. This includes food, hotel, gas, groceries, laundry, activities, and - oh yeah - coffee and ice cream. |
 | Utilities | $162.75 | Gas, electric, and internet |

@@ -67,7 +67,7 @@ How did your food spending turn out? Hopefully you're headed in the right direct
 
 Find me on [twitter][twitter-profile] and let me know how your challenges are going!
 
-[thrifty-link]: /thrifty/
+[thrifty-link]: {{site.url}}/thrifty/
 {: target="_blank"}
 
 [may-challenge-post]: {{ site.url }}{% post_url 2016-05-01-may-challenge-food %}

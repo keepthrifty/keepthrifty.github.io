@@ -81,4 +81,4 @@ I’m really excited for 2016, especially for our family’s Thrifty journey. I 
 [whysworks]: http://whysworks.com/
 {: target="_blank"}
 
-[keepthrifty]: http://www.keepthrifty.com
+[keepthrifty]: {{site.url}}

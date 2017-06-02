@@ -81,7 +81,7 @@ Find me on [twitter][twitter-profile] and let me know how you're doing so far th
 [twitter-profile]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
 
-[thrifty-link]: /thrifty/
+[thrifty-link]: {{site.url}}/thrifty/
 {: target="_blank"}
 
 [may-2016-mid-month-eating-out]: {{ site.url }}{{ page.image-folder }}/may-2016-mid-month-update-eating-out.png

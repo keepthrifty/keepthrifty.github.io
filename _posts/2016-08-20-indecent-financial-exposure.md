@@ -207,7 +207,7 @@ If you haven't been tracking your finances, I encourage you to sign up for [Thri
 [twitter-exposure]: https://twitter.com/search?f=tweets&q=%23indecentfinancialexposure&src=typd
 {: target="_blank"}
 
-[thrifty-link]: /thrifty/
+[thrifty-link]: {{site.url}}/thrifty/
 {: target="_blank"}
 
 [total-spending]: {{ site.url }}{{ page.image-folder }}/total-spending.jpg
