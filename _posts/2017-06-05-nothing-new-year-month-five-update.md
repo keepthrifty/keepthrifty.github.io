@@ -116,7 +116,7 @@ Through the first five months of the year, we've purchased five things new that 
 
 What can I say? This challenge is __tough__ :)
 
-While we haven't hit the goal every month, I do feel like we're purchasing a lot fewer new items this year. By way of comparison, I looked at our from January through May of _last year_ and we had purchased 40 ___new___ items thus far!
+While we haven't hit the goal every month, I do feel like we're purchasing a lot fewer new items this year. By way of comparison, I looked at our spending from January through May of _last year_ and we had purchased 40 ___new___ items thus far!
 
 We'll keep doing our best as the year goes on and I'll keep a tally of any new items we add.
 
