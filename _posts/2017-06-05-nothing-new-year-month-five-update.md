@@ -5,7 +5,7 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 
 title: "Nothing New Year: Month 5 Update"
-description: "___TK___"
+description: "We've gotten our house on the market and have an accepted offer. Our path to debt freedom is coming to a close; here's a look at our finances this month and how we're doing on our nothing new year challenge."
 
 date: 2017-06-05 13:10:00 -0500
 
