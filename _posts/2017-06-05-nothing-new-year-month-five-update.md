@@ -7,10 +7,10 @@ author_email: chris@keepthrifty.com
 title: "Nothing New Year: Month 5 Update"
 description: "___TK___"
 
-date: 2017-06-06 06:15:01 -0500
+date: 2017-06-05 13:10:00 -0500
 
-image: /img/posts/2017-06-06-nothing-new-year-month-five-update/sleeping-red-panda.jpg
-pinterest-image: /img/posts/2017-06-06-nothing-new-year-month-five-update/nny-month-5-update
+image: /img/posts/2017-06-05-nothing-new-year-month-five-update/sleeping-red-panda.jpg
+pinterest-image: /img/posts/2017-06-05-nothing-new-year-month-five-update/nny-month-5-update
 
 related-posts: [
   "/2017/02/06/nothing-new-year-month-one-update",
@@ -49,7 +49,7 @@ _We track our spending using a little tool I made called [Thrifty]({{site.url}}/
 
 Here's our spending summary from Thrifty for May 2017:
 
-![Overall spending $5,528.62]({{site.url}}/img/posts/2017-06-06-nothing-new-year-month-five-update/nny-month-five-spending.png)
+![Overall spending $5,528.62]({{site.url}}/img/posts/2017-06-05-nothing-new-year-month-five-update/nny-month-five-spending.png)
 
 Our spending is finally starting to come back down as we've finished up our major remodeling. All told, this month cost us $5,528.62.
 

@@ -14,7 +14,7 @@ related-posts: [
   "/2017/02/06/nothing-new-year-month-one-update",
   "/2017/04/03/nothing-new-year-month-three-update",
   "/2017/05/01/nothing-new-year-month-four-update",
-  "/2017/06/06/nothing-new-year-month-five-update"
+  "/2017/06/05/nothing-new-year-month-five-update"
 ]
 
 tags: [how we money, nothing new year]
