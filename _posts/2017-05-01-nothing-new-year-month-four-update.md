@@ -10,12 +10,13 @@ description: "With our new plan to sell our house and downsize to an apartment, 
 date: 2017-05-01 06:15:01 -0500
 
 image: /img/posts/2017-05-01-nothing-new-year-month-four-update/facepalm.jpg
+pinterest-image: /img/posts/2017-05-01-nothing-new-year-month-four-update/nny-month-4-update
 
 related-posts: [
-  "/2017/01/02/happy-nothing-new-year",
   "/2017/02/06/nothing-new-year-month-one-update",
   "/2017/03/06/nothing-new-year-month-two-update",
-  "/2017/04/03/nothing-new-year-month-three-update"
+  "/2017/04/03/nothing-new-year-month-three-update",
+  "/2017/06/06/nothing-new-year-month-five-update"
 ]
 
 tags: [how we money, nothing new year]
@@ -137,6 +138,8 @@ Presuming we are able to list and sell our house this summer, we're anticipating
 Well, we stumbled a bit this month with our $23 power cord and a $50 birthday present, but we're not going to let that get the best of us. We'll get back on track and keep pushing forward.
 
 What I'm really excited for is to see how our finances change once we're finally out of our house and in a rental. Without all the maintenance and updates, I anticipate things will be a whole lot more steady :)
+
+{% include pinterest-image.html %}
 
 _Are you still on-track with the resolutions you made for this year? How have you gotten back on track when you fail a goal?_
 

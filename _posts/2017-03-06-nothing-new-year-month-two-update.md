@@ -8,13 +8,13 @@ title: "Nothing New Year: Month 2 Update"
 description: "Two months down in our nothing new year challenge. How did we do and where are we at on our mortgage? Read on to find out!"
 
 image: /img/posts/2017-03-06-nothing-new-year-month-two-update/shopping-cart-in-river.jpg
+pinterest-image: /img/posts/2017-03-06-nothing-new-year-month-two-update/nny-month-2-update
 
 related-posts: [
-  "/2017/01/02/happy-nothing-new-year",
   "/2017/02/06/nothing-new-year-month-one-update",
   "/2017/04/03/nothing-new-year-month-three-update",
   "/2017/05/01/nothing-new-year-month-four-update",
-  "/2016/04/10/how-we-saved-on-our-mortgage"
+  "/2017/06/06/nothing-new-year-month-five-update"
 ]
 
 tags: [how we money, nothing new year]
@@ -113,5 +113,7 @@ We're on track to pay off our mortgage on August 1, 2020 - 8 months behind our b
 ## Two Down, Ten to Go
 
 It was an exciting month - a road trip, my birthday, and lots of fun projects. We're two months in on our challenge and going strong. Thanks for following along as we try to pull this thing off. March will be a big month for us - we've got tile getting installed in four different areas in our house! Looking forward to sharing next month's update with pictures of our remodeling progress.
+
+{% include pinterest-image.html %}
 
 _Was February a good month for you? Between Valentine's day and the weather, it can be an easy month to slip on your goals. If you made it through, what helped you get there?_

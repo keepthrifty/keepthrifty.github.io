@@ -8,12 +8,13 @@ title: "Nothing New Year: Month 3 Update"
 description: "We spent a ton this month and are making a pretty big change in our strategy to become debt-free"
 
 image: /img/posts/2017-04-03-nothing-new-year-month-three-update/empty-pockets.jpg
+pinterest-image: /img/posts/2017-04-03-nothing-new-year-month-three-update/nny-month-3-update
 
 related-posts: [
-  "/2017/01/02/happy-nothing-new-year",
   "/2017/02/06/nothing-new-year-month-one-update",
   "/2017/03/06/nothing-new-year-month-two-update",
-  "/2017/05/01/nothing-new-year-month-four-update"
+  "/2017/05/01/nothing-new-year-month-four-update",
+  "/2017/06/06/nothing-new-year-month-five-update"
 ]
 
 tags: [how we money, nothing new year]
@@ -133,5 +134,7 @@ Presuming we are able to list and sell our house this summer, we're anticipating
 ## Three Down, Nine to Go
 
 It was another exciting month - lots of spending and a big change to our strategy. We're feeling good about the direction we're pointed. Looking forward to giving another update next month!
+
+{% include pinterest-image.html %}
 
 _What do you think about our strategy change? Have you ever had a month with spending that blew all the others out of the water?_
