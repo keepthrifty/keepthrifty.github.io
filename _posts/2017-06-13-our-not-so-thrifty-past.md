@@ -70,7 +70,7 @@ We fit in a short honeymoon, our first vacation as a couple, before I started cl
 
 And all the while, the screen obsession continued - TV and movies just about every night.
 
-Wo and a half years later, my MBA was wrapping up and we had our first daughter on the way. We leaped head-first into parenting with a new Pottery Barn crib and changing table. While friends saved money by buying used kids clothes at garage sales, we insisted on getting our clothes brand-new from the store. Toys filled the house, eventually laying full claim to our 600-square-foot lower-level.
+Two and a half years later, my MBA was wrapping up and we had our first daughter on the way. We leaped head-first into parenting with a new Pottery Barn crib and changing table. While friends saved money by buying used kids clothes at garage sales, we insisted on getting our clothes brand-new from the store. Toys filled the house, eventually laying full claim to our 600-square-foot lower-level.
 
 Even before our twins arrived, we had a house full of _really nice stuff_.
 
