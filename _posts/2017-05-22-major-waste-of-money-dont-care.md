@@ -21,6 +21,9 @@ related-posts: [
 
 tags: [guest post, inspiration]
 
+rockstar: true
+featured: true
+
 ---
 
 Let's start with a joke. Four college grads are together at a fast food restaurant, marveling at a new gadget. The science grad asks _"Why does it work?"_ The engineering grad asks _"How does it work?"_ The business grad asks _"How is it marketed?"_ The liberal arts grad asks ___"Do you want fries with that?"___
