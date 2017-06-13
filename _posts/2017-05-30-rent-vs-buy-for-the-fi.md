@@ -20,7 +20,7 @@ related-posts: [
   "/2017/01/30/introducing-retirement-freedom"
 ]
 
-tags: [calculators]
+tags: [calculators, spreadsheets]
 
 ---
 
