@@ -12,12 +12,10 @@ image: /img/posts/2016-10-16-talent-is-overrated/baby-rock.jpg
 image-folder: /img/posts/2016-10-16-talent-is-overrated
 
 related-posts: [
-  "/2016/09/05/let-it-burn",
   "/2016/08/12/fifteen-lessons-first-seven-jobs",
-  "/2017/03/27/dealing-with-unsolicited-advice",
   "/2017/04/24/grown-up-lessons-from-lemonade-stand",
-  "/2016/11/06/odd-couple-procrastination-and-frugality",
-  "/2017/01/23/ignorance-better"
+  "/2017/01/23/ignorance-better",
+  "/2017/06/13/our-not-so-thrifty-past"
 ]
 
 tags: [inspiration]
