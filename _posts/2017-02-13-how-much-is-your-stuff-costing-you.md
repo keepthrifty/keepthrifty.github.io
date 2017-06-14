@@ -16,7 +16,7 @@ related-posts: [
   "/2017/04/10/living-in-half-of-our-house",
   "/2017/05/15/big-barriers-living-small"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [minimalism]
 
 affiliate: true

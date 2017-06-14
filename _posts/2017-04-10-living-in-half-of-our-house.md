@@ -17,7 +17,7 @@ related-posts: [
   "/2017/01/16/one-car-suburbs",
   "/2017/02/13/how-much-is-your-stuff-costing-you"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [minimalism, inspiration]
 
 affiliate: true

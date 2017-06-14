@@ -15,7 +15,7 @@ related-posts: [
   "/2016/11/06/odd-couple-procrastination-and-frugality",
   "/2016/12/18/4-financial-no-noes-from-grandparents",
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [guest post]
 
 ---

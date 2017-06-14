@@ -15,7 +15,7 @@ related-posts: [
   "/2017/03/13/spend-without-fear",
   "/2017/06/13/our-not-so-thrifty-past"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [how we money]
 ---
 

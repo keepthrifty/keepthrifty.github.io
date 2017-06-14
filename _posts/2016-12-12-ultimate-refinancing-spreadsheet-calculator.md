@@ -15,7 +15,7 @@ related-posts: [
   "/2017/03/20/home-mortgage-interest-deduction",
   "/2017/05/30/rent-vs-buy-for-the-fi"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [spreadsheets, calculators]
 ---
 

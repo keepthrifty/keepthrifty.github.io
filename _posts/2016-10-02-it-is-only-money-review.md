@@ -21,6 +21,7 @@ related-posts: [
   "/2017/05/22/major-waste-of-money-dont-care"
 ]
 
+permalink: /:year/:month/:day/:title/
 tags: [book review, faith]
 
 affiliate: true

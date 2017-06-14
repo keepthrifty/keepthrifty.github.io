@@ -16,7 +16,7 @@ related-posts: [
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
   "/2016/10/16/talent-is-overrated"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [guest post, inspiration]
 
 ---

@@ -15,7 +15,7 @@ related-posts: [
   "/2016/06/05/prepay-vs-invest",
   "/2017/05/30/rent-vs-buy-for-the-fi"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [calculators, spreadsheets]
 
 featured: true

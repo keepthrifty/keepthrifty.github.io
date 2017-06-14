@@ -18,7 +18,7 @@ related-posts: [
   "/2017/04/03/nothing-new-year-month-three-update",
   "/2017/05/01/nothing-new-year-month-four-update"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [how we money, nothing new year]
 
 affiliate: true

@@ -18,6 +18,7 @@ related-posts: [
   "/2017/06/13/our-not-so-thrifty-past"
 ]
 
+permalink: /:year/:month/:day/:title/
 tags: [inspiration]
 
 affiliate: true

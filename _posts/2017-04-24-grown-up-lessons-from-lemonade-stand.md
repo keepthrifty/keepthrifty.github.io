@@ -16,7 +16,7 @@ related-posts: [
   "/2016/05/24/encouragement-over-hate",
   "/2017/01/09/defeat-four-devious-marketing-tactics"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [inspiration]
 
 ---

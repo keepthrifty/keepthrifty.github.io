@@ -16,7 +16,7 @@ related-posts: [
   "/2016/07/27/the-secret-to-success",
   "/2017/05/08/kids-allowance-round-up"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [inspiration, how we money]
 
 ---

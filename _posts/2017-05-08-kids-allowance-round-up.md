@@ -18,7 +18,7 @@ related-posts: [
   "/2017/03/13/spend-without-fear",
   "/2017/01/23/ignorance-better"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [how we money]
 
 affiliate: true

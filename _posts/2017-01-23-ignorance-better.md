@@ -17,7 +17,7 @@ related-posts: [
   "/2017/03/27/dealing-with-unsolicited-advice",
   "/2017/05/22/major-waste-of-money-dont-care"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [inspiration]
 
 ---
