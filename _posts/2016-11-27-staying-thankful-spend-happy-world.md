@@ -17,7 +17,7 @@ related-posts: [
   "/2016/12/26/thrifty-year-in-review",
   "/2017/03/27/dealing-with-unsolicited-advice"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [inspiration, minimalism, faith]
 ---
 

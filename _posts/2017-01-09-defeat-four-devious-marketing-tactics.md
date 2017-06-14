@@ -18,7 +18,7 @@ related-posts: [
   "/2017/04/17/three-phases-money-feelings",
   "/2017/04/24/grown-up-lessons-from-lemonade-stand"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [inspiration]
 
 ---

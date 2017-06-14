@@ -19,6 +19,7 @@ related-posts: [
   "/2017/02/27/hot-cheeto-called-harambe"
 ]
 
+permalink: /:year/:month/:day/:title/
 tags: [guest post, inspiration]
 ---
 

@@ -16,7 +16,7 @@ twitter_username: keepthrifty
 twitter:
   username: keepthrifty
 
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 
 timezone: America/Chicago
 

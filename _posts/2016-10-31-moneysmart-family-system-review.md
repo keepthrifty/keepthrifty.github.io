@@ -19,6 +19,7 @@ related-posts: [
 
 affiliate: true
 
+permalink: /:year/:month/:day/:title/
 tags: [book review]
 ---
 

@@ -17,7 +17,7 @@ related-posts: [
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
   "/2017/02/27/hot-cheeto-called-harambe"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [guest post]
 ---
 

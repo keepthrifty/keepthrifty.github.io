@@ -19,7 +19,7 @@ related-posts: [
   "/2016/12/12/ultimate-refinancing-spreadsheet-calculator",
   "/2017/01/30/introducing-retirement-freedom"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [calculators, spreadsheets]
 
 ---

@@ -14,6 +14,7 @@ related-posts: [
   "/2016/07/21/spending-on-free",
   "/2017/01/09/defeat-four-devious-marketing-tactics"
 ]
+permalink: /:year/:month/:day/:title/
 tags: [inspiration, faith]
 ---
 

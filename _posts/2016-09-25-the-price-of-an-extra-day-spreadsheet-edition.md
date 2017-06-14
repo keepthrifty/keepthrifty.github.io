@@ -15,6 +15,7 @@ related-posts: [
   "/2016/06/05/prepay-vs-invest",
   "/2016/12/12/ultimate-refinancing-spreadsheet-calculator"
 ]
+permalink: /:year/:month/:day/:title/
 tags: [spreadsheets, calculators]
 ---
 

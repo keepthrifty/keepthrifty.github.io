@@ -20,6 +20,7 @@ related-posts: [
 excerpt: |
   Let's imagine something, shall we? Imagine you're in your backyard with family or friends. There are small children running around and everyone is enjoying a nice cold beverage. The sun is shining. All of a sudden, a hornet lands on your drink and starts crawling inside.
 
+permalink: /:year/:month/:day/:title/
 tags: [inspiration]
 ---
 

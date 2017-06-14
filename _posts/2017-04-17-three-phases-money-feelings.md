@@ -16,7 +16,7 @@ related-posts: [
   "/2016/07/21/spending-on-free",
   "/2017/06/13/our-not-so-thrifty-past"
 ]
-
+permalink: /:year/:month/:day/:title/
 redirect_from:
   - /2017/04/17/three-phrases-money-feelings/
 

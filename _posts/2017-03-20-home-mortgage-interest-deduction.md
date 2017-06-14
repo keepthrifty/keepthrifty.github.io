@@ -16,7 +16,7 @@ related-posts: [
   "/2017/01/30/introducing-retirement-freedom",
   "/2016/12/12/ultimate-refinancing-spreadsheet-calculator"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [mortgages, spreadsheets]
 
 rockstar: true

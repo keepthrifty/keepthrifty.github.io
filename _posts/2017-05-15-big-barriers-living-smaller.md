@@ -18,7 +18,7 @@ related-posts: [
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
   "/2016/03/23/engagement-ring-sold"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [minimalism]
 
 affiliate: true

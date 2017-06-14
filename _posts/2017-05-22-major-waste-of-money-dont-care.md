@@ -18,7 +18,7 @@ related-posts: [
   "/2017/01/23/ignorance-better",
   "/2016/10/02/it-is-only-money-review"
 ]
-
+permalink: /:year/:month/:day/:title/
 tags: [guest post, inspiration]
 
 rockstar: true
