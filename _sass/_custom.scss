@@ -200,6 +200,10 @@ a {
     box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
   }
 
+  img.no-shadow {
+    box-shadow: none;
+  }
+
   .image-caption {
     text-align: center;
     color: $meta-color;
@@ -671,6 +675,7 @@ nav.navbar {
 }
 
 .site-footer {
+  font-weight: 300;
   background-color: white;
   text-align: center;
   a {
