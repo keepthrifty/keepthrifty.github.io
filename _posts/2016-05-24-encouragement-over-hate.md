@@ -10,10 +10,8 @@ image-folder: /img/posts/2016-05-24-encouragement-over-hate
 related-posts: [
   "/2017/05/22/major-waste-of-money-dont-care",
   "/2016/07/21/spending-on-free",
-  "/2017/03/27/dealing-with-unsolicited-advice",
   "/2016/10/16/talent-is-overrated",
-  "/2017/01/09/defeat-four-devious-marketing-tactics",
-  "/2017/04/24/grown-up-lessons-from-lemonade-stand"
+  "/can-frugality-be-selfish"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]

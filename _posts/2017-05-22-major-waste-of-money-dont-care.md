@@ -16,7 +16,7 @@ related-posts: [
   "/2016/10/16/talent-is-overrated",
   "/2016/05/24/encouragement-over-hate",
   "/2017/01/23/ignorance-better",
-  "/2016/10/02/it-is-only-money-review"
+  "/can-frugality-be-selfish"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [guest post, inspiration]
