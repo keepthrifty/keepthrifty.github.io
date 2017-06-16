@@ -874,6 +874,8 @@ li.in-page-nav--list-item a {
 }
 
 .search-form__input {
+  cursor: pointer;
+  cursor: hand;
   position:relative;
   font-size: 1.1rem;
   margin: 0.5rem auto;
@@ -891,6 +893,7 @@ li.in-page-nav--list-item a {
 }
 
 .search-form__input:focus, .search-form__input--active {
+  cursor: auto;
   width: 20rem;
   border: 1px solid $meta-color;
   border-radius: 5%;
