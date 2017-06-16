@@ -14,7 +14,7 @@ related-posts: [
   "/2016/11/27/staying-thankful-spend-happy-world",
   "/2016/05/24/encouragement-over-hate",
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
-  "/2016/10/16/talent-is-overrated"
+  "/can-frugality-be-selfish"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [guest post, inspiration]

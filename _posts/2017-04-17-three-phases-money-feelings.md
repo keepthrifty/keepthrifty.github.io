@@ -13,7 +13,7 @@ pinterest-image: /img/posts/2017-04-17-three-phases-money-feelings/money-feeling
 related-posts: [
   "/2017/01/09/defeat-four-devious-marketing-tactics",
   "/2016/01/30/real-root-of-all-evil",
-  "/2016/07/21/spending-on-free",
+  "/can-frugality-be-selfish",
   "/2017/06/13/our-not-so-thrifty-past"
 ]
 permalink: /:year/:month/:day/:title/
