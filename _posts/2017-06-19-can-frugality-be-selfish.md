@@ -21,6 +21,8 @@ related-posts: [
 
 tags: [inspiration]
 
+published: false
+
 ---
 
 As we get closer to the transition from our _big house_ to our _small apartment_, an unsettling thought crossed my mind. With our current income, we'd be able to comfortably afford renting a bigger, more expensive place. Selling our house and [moving into a small, inexpensive apartment]({% post_url 2017-05-15-big-barriers-living-smaller %}) is great for us - but what about the other families that can't afford a bigger place? Did we steal the opportunity from them to live here?
