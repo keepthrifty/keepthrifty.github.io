@@ -14,7 +14,7 @@ related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/03/23/engagement-ring-sold",
   "/2017/04/10/living-in-half-of-our-house",
-  "/2017/05/15/big-barriers-living-small"
+  "/minimalist-moving"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [minimalism]

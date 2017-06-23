@@ -10,12 +10,10 @@ image-folder: /img/posts/2016-08-28-the-more-of-less
 subscribe-line: Want future reviews and posts in your inbox?
 social-line: Share it with someone important to you
 related-posts: [
-  "/2016/10/31/moneysmart-family-system-review",
   "/2016/06/18/the-simple-path-to-wealth-review",
   "/2016/03/23/engagement-ring-sold",
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
-  "/2017/01/02/happy-nothing-new-year",
-  "/2017/02/13/how-much-is-your-stuff-costing-you"
+  "/minimalist-moving"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism, book review]
