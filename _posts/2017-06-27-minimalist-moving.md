@@ -115,7 +115,7 @@ Put those two together and our housing cost is roughly half of what it had been.
 
 We don't have a ton of items to take apart and reassemble. We don't have boxes upon boxes of unknown items that we're hauling, hoping that it's worth the effort get them into to our new place.
 
-We're already going to have enough going on with moving our family of five. Knowing that my wife and I can do the move ourselves in one day takes a lot of the stress out.
+We're already going to have enough going on with moving our family of five. Knowing that we can do the move ourselves in one day takes a lot of the stress out.
 
 ## Moving if You're Not a Minimalist (yet)
 
