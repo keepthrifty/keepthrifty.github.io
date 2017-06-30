@@ -5,7 +5,7 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 
 title: "Nothing New Year: Month 6 Update"
-description: "___TK___"
+description: "We're halfway through the year and everything's about to change. We're selling our house and moving into an apartment - how are we doing on our nothing new year challenge?"
 
 date: 2017-07-03 5:58:00 -0500
 
@@ -39,7 +39,7 @@ _We track our spending using a little tool I made called [Thrifty]({{site.url}}/
 
 Here's our spending summary from Thrifty for June 2017:
 
-![Overall spending ___TK___]({{site.url}}/img/posts/2017-07-04-nothing-new-year-month-six-update/nny-month-six-spending.png)
+![Overall spending $4,780.56]({{site.url}}/img/posts/2017-07-03-nothing-new-year-month-six-update/nny-month-six-spending.png)
 
 After a few big expensive months remodeling our house, our spending came down last month and thankfully has continued to drop this month. Next month will have our "new normal" as we move into the apartment and settle into rent payments and see what life without a mortgage is like :)
 
@@ -51,24 +51,24 @@ In the meantime, here's a detailed category-by-category look at what we spent th
 | Charity  | $200.00 | We caught up on our church giving after missing our check last month. We continued our contributions to [The Hope Effect](http://hopeeffect.com/){: target="_blank"}, one of our favorite charities. We also gave $50 to an environmental cause this month. |
 | Childcare  | $30.00 | Childcare for our one date night this month. We both had a cold but it was still a really fun time. |
 | Clothing/Shoes | $307.78 | Another big clothing month this month. We got four used dresses for my wife off of ThredUp.com to get her set for summer. In addition, one of our twins needed replacement sneakers and I got a new pair of sandals. My last pair made it 13 years so I'm hoping that this pair can repeat that to justify the bigger price tag :) |
-| Eating Out | $344.92 | This was still a bit higher than I'd typically like, but has dropped substantially from our last couple of months. The spending in here that I feel good about was for our family movie nights (we get pizza and ice cream), having friends over for dinner, our date night, and buying lunch for a co-worker that I'm mentoring. The treats and extra times buying take-out for convenience? Not so much. |
+| Eating Out | $409.24 | This is still higher than I'd like, but at least has dropped from our last couple of months. The spending in here that I feel good about was for our family movie nights (we get pizza and ice cream), having friends over for dinner, our date night, and buying lunch for a co-worker that I'm mentoring. The treats and extra times buying take-out for convenience? Not so much. |
 | Education | $0.00 | |
 | Entertainment | $21.58 | We purchased a lifetime subscription to [Simplify Magazine](https://simplifymagazine.com/){: target="_blank"}, a quarterly digital publication from some of our favorite voices on the web. At $20, the subscription is well worth it. In addition, we rented one movie from Redbox for family movie night. |
 | Fitness | $454.00 | We purchased a summer membership at our favorite area gym, which has a small waterpark and a daycare. This is a big part of our Summer Fun (and Sanity) plan to stay active and have fun with the kids. |
 | Gifts | $415.48 | We purchased end-of-the-year gift cards for our kids' teachers and a gift card for our niece for her birthday. In addition, we finally had our overnight stay at the waterpark for the twins' birthday present, which included some costs for meals, a kids pedicure session, and a ___new___ stuffed animal to share. |
-| Groceries | $949.65 | Thankfully our grocery bill is starting to come back down a bit. The first two weeks of the month, our bill averaged $256 a week; by the second half of the month, we dropped that down to $218. Our target is $200, so we've got some work to do. |
+| Groceries | $954.14 | Thankfully our grocery bill is starting to come back down a bit. The first two weeks of the month, our bill averaged $256 a week; by the second half of the month, we dropped that down to $220. Our target is $200, so we've still got a bit of work to do. |
 | Healthcare | $231.45 | Normal spending on premiums this month and one prescription. |
 | Hobbies | $48.14 | We bought some coloring books and an annual pass for all Wisconsin state parks. We've already hiked in state parks twice this summer and plan to do a bunch more. |
 | Home Updates | $122.27 | As a part of closing on our house, we had a few items from the inspection that we needed to take care of. This should be (_fingers crossed_) our last entries for home updates for the next year! |
-| Household Care | $237.94 | This month's hodge-podge: toilet paper, nighttime pull-ups, face wipes, aloe, floss, multi-surface cleaner, shampoo, conditioner, laundry soap, hand soap, contraception, feminine products, deodorant, paper plates, paper napkins, sunscreen, water softener salt, and a furnace filter. In addition, we're giving our lawnmower away to a friend as we won't need it at the apartment; we got a new spark plug and changed the oil for the new owners. We did have one ___new___ item this month: recycled plastic food storage containers |
+| Household Care | $247.48 | This month's hodge-podge: toilet paper, nighttime pull-ups, face wipes, aloe, floss, multi-surface cleaner, shampoo, conditioner, laundry soap, hand soap, contraception, feminine products, deodorant, paper plates, paper napkins, baking soda, cleaning wipes, band-aids, sunscreen, water softener salt, and a furnace filter. In addition, we're giving our lawnmower away to a friend as we won't need it at the apartment; we got a new spark plug and changed the oil for the new owners. We did have one ___new___ item this month: recycled plastic food storage containers |
 | Services | $29.54 | Life insurance through my work, fee for chemical disposal (old cleaning products), and mailing one of our daughter's art projects to her aunt's dog :) |
 | Shelter | $246.78 | Interest on our mortgage payment, our last month of homeowner's insurance, and a $1 fee for our change-of-address form with the post office. _Note: We don't log our mortgage principal payments as an expense since we consider them to be net-worth-building payments._  |
 | Thrifty | $2.00 | My Airbnb reservation for [FinCon](http://finconexpo.com){: target="_blank"} got canceled by the owner, _but_ I found another one for $12 less. _Lucky lucky_. This refund offsets most of the hosting fees and source code storage for [Thrifty]({{site.url}}/thrifty/) this month. |
-| Transportation | $779.41 | Three tanks of gas and our annual car insurance payment |
+| Transportation | $820.55 | Four tanks of gas and our annual car insurance payment |
 | Travel | $48.38 | My wife got some awesome (but ___new___) games for the car to help us minimize screen time for our upcoming road trip in August: [Car Bingo](http://amzn.to/2ugnN29){: target="_blank" rel="nofollow"}, [Travel Hangman](http://amzn.to/2skquyr){: target="_blank" rel="nofollow"}, and [Family Talk](http://amzn.to/2tiFGA4){: target="_blank" rel="nofollow"} |
 | Utilities | $191.75 | Gas, electric, and internet. |
 |-------+----------+----|
-| __Total__ | ___TK___ |    |
+| __Total__ | __$4,780.56__ |    |
 |-------+----------+----|
 
 ## Did We Buy Anything New?
