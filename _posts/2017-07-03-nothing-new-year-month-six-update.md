@@ -9,7 +9,7 @@ description: "We're halfway through the year and everything's about to change. W
 
 date: 2017-07-03 5:58:00 -0500
 
-image: /img/posts/2017-07-03-nothing-new-year-month-six-update/waterslide.jpg
+image: /img/posts/2017-07-03-nothing-new-year-month-six-update/firework.jpg
 pinterest-image: /img/posts/2017-07-03-nothing-new-year-month-six-update/nny-month-6-update
 
 related-posts: [
@@ -25,7 +25,7 @@ affiliate: true
 
 ---
 
-We're officially halfway through our [year-long challenge to buy nothing new]({% post_url 2017-01-02-happy-nothing-new-year %})! While we've had some hiccups, we're still buying way less new stuff and we're feeling good about our progress. Life is continuing to be crazy - we [moved into our apartment]({% post_url 2017-06-27-minimalist-moving %}) last weekend and are due to close on selling our house __in two days__, which will finally bring us to complete debt freedom.
+We're officially halfway through our [year-long challenge to buy nothing new]({% post_url 2017-01-02-happy-nothing-new-year %})! While we've had some hiccups, we're still buying way less new stuff and we're feeling good about our progress. Our life of craziness continues - over this last weekend, we [downsized into our apartment]({% post_url 2017-06-27-minimalist-moving %}), dropping our living space by a third. On Wednesday, we are due to close on selling our house , which will finally bring us to complete debt freedom.
 
 We've got a lot of changes ahead, including one really big one that I'm excited to announce next week. Stay tuned :)
 
