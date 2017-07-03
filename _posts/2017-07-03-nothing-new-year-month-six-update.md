@@ -41,7 +41,7 @@ Here's our spending summary from Thrifty for June 2017:
 
 ![Overall spending $4,780.56]({{site.url}}/img/posts/2017-07-03-nothing-new-year-month-six-update/nny-month-six-spending.png)
 
-After a few big expensive months remodeling our house, our spending came down last month and thankfully has continued to drop this month. Next month will have our "new normal" as we move into the apartment and settle into rent payments and see what life without a mortgage is like :)
+After a few big expensive months remodeling our house, our spending came down last month and thankfully has continued to drop this month. Next month we'll have our "new normal" as we move into the apartment and settle into rent payments and see what life without a mortgage is like :)
 
 In the meantime, here's a detailed category-by-category look at what we spent this month:
 
