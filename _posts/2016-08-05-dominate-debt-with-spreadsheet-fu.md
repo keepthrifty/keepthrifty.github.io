@@ -30,7 +30,7 @@ I've written a number of detailed posts so far about the numbers behind all sort
 - [How we saved $160,000 on our mortgage]({{ site.url }}{% post_url 2016-04-10-how-we-saved-on-our-mortgage %})
 - [When to Prepay Your Mortgage Instead of Investing]({{ site.url }}{% post_url 2016-06-05-prepay-vs-invest %})
 
-I honestly had a ton of fun working out the spreadsheetery behind these ({% capture tweet-text %}_Yes, I'm going to pretend that "spreadsheetery" is a word. don't judge_{% endcapture %}{% include tweet-link.html %}) and I'm a firm believer that everyone can benefit knowing how use Excel to understand their financial options.
+I honestly had a ton of fun working out the spreadsheetery behind these ({% capture tweet-text %}_Yes, I'm going to pretend that "spreadsheetery" is a word. Don't judge_{% endcapture %}{% include tweet-link.html %}) and I'm a firm believer that everyone can benefit knowing how use Excel to understand their financial options.
 
 > If you know the enemy and know yourself, you need not fear the result of a hundred battles.
 >
