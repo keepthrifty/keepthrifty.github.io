@@ -33,7 +33,7 @@ Even at that point, I was only making $20 a week.
 
 But I was going to slog it out - to put at least half of whatever I earned in my savings account until I had enough to buy the treasure I knew would make my life complete...
 
-![Boombox](/img/posts/2017-03-13-spend-without-fear/boombox.jpg)
+![Boombox]({{site.url}}/img/posts/2017-03-13-spend-without-fear/boombox.jpg)
 
 <div class="image-caption">AM/FM radio, two tape decks and a CD player with bass boost. You could really jam out to Spin Doctors on this bad boy. I know firsthand.</div>
 
@@ -81,7 +81,7 @@ My next goal quickly appeared. A boombox with a CD player is much cooler with ac
 
 It only took a few weeks this time but then I was goal-broke again.
 
-![Wayne's World and Wayne's World 2 Soundtrack covers](/img/posts/2017-03-13-spend-without-fear/waynes-world-soundtracks.jpg)
+![Wayne's World and Wayne's World 2 Soundtrack covers]({{site.url}}/img/posts/2017-03-13-spend-without-fear/waynes-world-soundtracks.jpg)
 
 <div class="image-caption">Party on Wayne, Party on Garth. Worth every penny. (<a href="//en.wikipedia.org/wiki/File:Wayne%27s_World_Soundtrack.jpg" title="Fair use of copyrighted material in the context of Wayne's World (soundtrack)">Fair</a><a href="//en.wikipedia.org/wiki/File:Wayne%27sWorld2Soundtrack.jpg" title="This image is of a cover of an audio recording, and the copyright for it is most likely owned by either the publisher of the work or the artist(s) which produced the recording or cover artwork in question."> use</a>)</div>
 

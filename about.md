@@ -8,7 +8,7 @@ comments: true
 
 If you're looking for a blog about personal finance, spreadsheets, frugality, minimalism, faith, and living a purposeful life with intention, you've come to the right place. Welcome to Keep Thrifty!
 
-![Photo of myself and my wife](/img/us-hats.jpg)
+![Photo of myself and my wife]({{site.url}}/img/us-hats.jpg)
 {: class="image--right" }
 
 I'm Chris - a husband, proud father of 3, and complete personal finance nerd.
@@ -51,7 +51,7 @@ Every trip we take brings us closer as a family, builds memories we'll carry for
 
 ## As Featured On...
 
-![Featured on list - see below](/img/featured/featured.png)
+![Featured on list - see below]({{site.url}}/img/featured/featured.png)
 
 With the amazing support of other bloggers and resources out there, the Keep Thrifty message has made it's way to people all over the world. In particular,
 
