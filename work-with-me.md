@@ -45,15 +45,16 @@ Got something else in mind? Don't hesitate to reach out. I'm always up for heari
 
 # Work With Me
 
-<form class="form--contact" action="https://www.formingo.co/submit/d41b5c55-bba4-4a56-9117-6187bb2c02c8" method="POST">
-    <input type="hidden" name="__redirect" value="https://www.keepthrifty.com/thank-you/">
-    <select name="__subject">
+<form class="form--contact" action="https://formspree.io/chris@keepthrifty.com" method="POST">
+    <input type="hidden" name="_next" value="{{ "/thank-you/" | prepend: site.baseurl }}" />
+    <select name="_subject">
       <option value="Coaching">Coaching</option>
       <option value="Speaking">Speaking Engagement</option>
       <option value="Affiliate">Affiliate</option>
       <option value="Other">Other Collaboration</option>
     </select>
-    <input type="email" name="__replyto" placeholder="Email Address">
-    <textarea name="message" placeholder="What do you have in mind?" rows="5"></textarea>
+    <input type="email" name="_replyto" placeholder="Email Address">
+    <textarea name="message" placeholder="How can I help you?" rows="5" required></textarea>
+    <input type="text" name="_gotcha" style="display:none" />
     <button type="submit">Work With Me</button>
 </form>
