@@ -1,7 +1,7 @@
 <form class="form--contact" action="https://formspree.io/chris@keepthrifty.com" method="POST">
-    <input type="hidden" name="__subject" value="KeepThrifty.com Contact Submission">
+    <input type="hidden" name="_subject" value="KeepThrifty.com Contact Submission">
     <input type="hidden" name="_next" value="{{ "/thank-you/" | prepend: site.baseurl }}" />
-    <input type="email" name="__replyto" placeholder="Email Address">
+    <input type="email" name="_replyto" placeholder="Email Address">
     <textarea name="message" placeholder="Your message here..." rows="5" required></textarea>
     <input type="text" name="_gotcha" style="display:none" />
     <button type="submit">Contact</button>
