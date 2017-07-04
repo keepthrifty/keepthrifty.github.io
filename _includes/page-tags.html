@@ -3,7 +3,7 @@
   {% assign sorted_tags = page.tags | sort %}
   <i class="fa fa-tags"></i>
   {% for tag in sorted_tags %}
-    <a class="tags__tag" href="/tags#{{ tag | handleize | replace: ' ', '-'}}"><span>{{ tag | capitalize }}</span></a>{% unless forloop.last %},{% endunless %}
+    <a class="tags__tag" href="/archive#{{ tag | handleize | replace: ' ', '-'}}"><span>{{ tag | capitalize }}</span></a>{% unless forloop.last %},{% endunless %}
   {% endfor %}
   </span>
 {% endif %}
