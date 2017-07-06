@@ -4,7 +4,7 @@ layout: post
 author: keepthrifty
 author_email: chris@keepthrifty.com
 
-title: "My One Year Mini-Retirement"
+title: "A One Year Mini-Retirement"
 subtitle: "Our Biggest Experiment Yet"
 description: "TK"
 
@@ -29,8 +29,6 @@ Years ago, I would have had six or seven panic attacks at the thought of losing 
 
 Rather than scrambling to find my next job, _I'm going to take the next year off of work as a mini-retirement_.
 
-## How We Can Afford To Be A No-Income Family
-
 Our ability to make this leap is the result of of three things we've been working hard at developing over the last several years:
 
 1. Financial discipline
@@ -39,7 +37,7 @@ Our ability to make this leap is the result of of three things we've been workin
 
 Consider these the legs of the stool - without all three, we wouldn't have a chance of making this work.
 
-### Financial Discipline
+## Financial Discipline
 
 We had been targeting debt freedom as a first step toward a bigger goal - financial independence (FI). We were excited at the thought of _not owing anyone anything_ and eventually getting to the point that I wouldn't need to work to support our lifestyle.
 
@@ -57,7 +55,7 @@ _We could stop contributing to my retirement accounts now and still expect to ha
 
 Even though full financial independence was over a decade away, I felt a huge burden off my shoulders. And then I remembered something from a book I had read in 2007 that completely changed the way I think.
 
-### Courage To Prioritize Our Dreams Over Social Norms
+## Courage To Prioritize Our Dreams Over Social Norms
 
 I read [The Four-Hour Workweek by Tim Ferriss](http://amzn.to/2smqaQr){: target="_blank" rel="nofollow"}, not knowing what to expect. Beyond the cool concepts of optimizing and automating, the most impactful lesson from this book was about bucking social norms in the pursuit of your ideal life.
 
@@ -77,47 +75,128 @@ As I came to the conclusion that we had achieved retirement freedom and now only
 
 Rather than wait until you're 65 to take time for yourself and focus on what's most important, Tim Ferriss advocates for spreading your retirement time out over your life, taking mini-retirements.
 
-Always wanted to backpack across Europe? Want to sail around the world? Want to set up a workshop and become an expert carpenter? Figure out how much it will cost you to do it, save for it, and then do it. Now.
+A mini-retirement can be anything you want, but the important piece is to make that time about fulfilling a dream.
 
-So, as we asked ourselves what we wanted to do in the next 30 years, we went back to our [financial compass]{% post_url 2016-12-05-money-mistakes-financial-compass %} for direction.
+Always wanted to backpack across Europe? Want to sail around the world? Want to set up a workshop and become an expert carpenter? Figure out how much it will cost you to do it, save for it, and then do it. __Now.__
 
-Here are the things we said we wanted:
+As we contemplated what we wanted to do, we went back to our [financial compass]{% post_url 2016-12-05-money-mistakes-financial-compass %} for direction.
+
+Here are the guideposts for our life - the things we want to pursue no matter what:
 
 - Maximizing the time we can spend together and the quality of that time
 - Making time to pursue the work that brings us joy
 - Living a life that reflects God’s calling for us
 
-With our compass as our guide and our financial discipline and courage for the unorthodox as our tools, we suddenly gained clarity into the life we could have now.
+Equipped with our compass, our financial discipline, and our courage to do things a little different, we gained clarity into the life we wanted to pursue.
 
-__TK - GE situation arose __
+Our plan to sell our house and downsize had always been about smaller living, but it also did something else: cashing out the equity in our home gave us access to a significant portion of our net worth. Enough to pursue some dreams :)
 
-With our plan to sell our house and downsize, we had unwittingly freed up the equity in our house to fund an experiment of an even bigger dream: _me being home - spending more time with my wife and kids, and working on this blog and [Thrifty]({{site.url}}/thrifty/)_.
+The circumstances at my job were such that the timing felt right. I could feel God's hand in this - connecting the dots for us to make a leap.
 
-But there's a big difference between wanting a huge life change like this and actually having the faith to take the leap.
+Our kids are young (6, 5, and 5) and I know from everyone I've talked to that _they will grow up way too fast_. These moments are precious and every opportunity to be a more present dad is one I want to capture.
 
-### Faith in God and in Ourselves
+So we discussed our options and the one that stood out was something we've talked about for years: _me being home - spending more time with my wife and kids, and working on passion projects_ (like this site and [Thrifty]({{site.url}}/thrifty)).
 
-_TK experiments_
+The opportunity to spend a year at home would be an amazing gift to all five of us. Because of our willingness to live differently - selling our house and living smaller - we've got the financial means to give it a shot.
 
-Our kids are young (6, 5, and 5) and I know from everyone I've talked to that _they will grow up too fast_. These moments are precious and every opportunity to be a more present dad is one I want to capture. The opportunity to spend a year at home is an amazing gift.
+But there's a big difference between dreaming and doing. I'm not much of a risk-taker. I usually over-plan, build a ton of contingencies, and even then still take the most conservative path.
+
+But that doesn't work well when your dreams include taking some big risks.
+
+I had to have faith - in myself and in God - in order to take this leap.
+
+## Faith in God and in Ourselves
+
+The last pillar was faith. Faith in ourselves and faith in God to help provide for us through all of this. When I look back at the challenges we've faced in our lives - health, depression, bad habits, insecurity - I could choose to see a life of stress and heartbreak.
+
+But through it all, God has helped guide our family to the positives on the other side. Every one of those challenging situations has caused us to lean more into him and as a result, our life has gotten even better than it was before the challenge.
+
+Through it all, I've grown a sense that _everything is going to be ok._ God's got our back.
+
+> Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes? _26_ Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they? _27_ Can any one of you by worrying add a single hour to your life?
+>
+> <cite>Matthew 6:25-27 ([NIV Version](https://www.biblegateway.com/passage/?search=Matthew+6%3A25-27){: target="_blank"})</cite>
+
+God doesn't tell us not to work - but he does give us the comfort to free ourselves from worry.
+
+In our life, I know part of this is because God has taught us through our experiences that most of what seems permanent is changeable - reversible.
+
+Over the last several years, our courage to live differently has given us the opportunity to experiment with different ways of living. Most visibly, we've removed a majority of our material possessions from our lives. Beyond that though, we've experimented with [floor sleeping](http://www.jaimedeclutters.com/blog/2017/04/05/why-we-sleep-on-the-floor/){: target="_blank"}, owning just a single car for our family of 5 in the suburbs, and giving up modern "luxuries" (like microwaves and dishwashers).
+
+Before each of these became long-term decisions, they existed as simple experiments. We would discuss what we were trying to accomplish, why we were going to try it, and how we would know whether it was something we'd want to stick with.
+
+We always had an agreement that an experiment could fail and that would be ok. If we had gone without our microwave and found our life in complete disarray, we would have added it back. The same goes for our dishwasher, our second car, our beds, and all of our stuff.
+
+By making these decisions experiments first, we had the bravery to try them out.
+
+By trying them out, we found ourselves breaking boundaries we thought were unbreakable.
+
+By breaking those boundaries, we gained faith in ourselves - in our ability to go beyond the normal to pursue an extraordinary life.
+
+And so, I left my job on June 30. We moved into our apartment on July 1st and 2nd. We cleaned out our old house on the 2nd and 3rd. We celebrated the 4th of July with family. Finally, on July 5th, we closed on the sale of our house, cashing out our equity so we can kick off our dream.
+
+My one-year mini-retirement has begun.
+
+## What My Mini-Retirement Will Look Like
+
+We've spent the last several years working hard to better align our spending with our values, focusing on ensuring we are applying our dollars carefully to help us accomplish our dreams.
+
+With this mini-retirement, we're taking the bigger, tougher leap - aligning our __time__ in the same way.
+
+I hope to use this year as a reset on my priorities - ensuring that I'm being a present father and husband, living more slowly to decrease my stress, and investing in personal growth and passion projects.
+
+These all circle back to our financial compass:
+
+- Maximizing the time we can spend together and the quality of that time
+- Making time to pursue the work that brings us joy
+- Living a life that reflects God’s calling for us
+
+Here's what I've got on the docket:
+
+### Quality Family Time
+
+My wife and I plan to take our kids to and from school together every day. Our preference will be to walk whenever we're able.
+
+We've carved out our afternoons this summer as "family time" - whether it be hikes, playgrounds, games, building forts, coloring, reading, or dance parties.
+
+My wife and I will be getting a lot more time together to invest in our relationship - both during the day when the kids are in school - and through date nights every-other weekend.
+
+And, of course, we'll be road tripping again; this August we'll be hitting the Northeast. Over 12 days we'll hit 15 more states bringing our total with the kids to 46.
+
+### Passion Projects
+
+I've been loving the creative outlet that this site and [Thrifty]({{site.url}}/thrifty/) have given me. I've really come to enjoy writing and am finally getting a chance to work out my coding muscles :)
+
+Over the next year, I'll continue to write regularly here and may even start writing some guest posts for other sites if I I get the itch for extra writing.
+
+The focus of this site is going to settle in on my definition of thrifty:
+
+> __Thrifty__   
+> _adjective_ \\ˈthrif-tē\\
+>
+> 1. using money and other resources carefully toward one's most important dreams and values
+
+Minimalism, spreadsheets, frugality, and debt freedom all still have a home here, but they are going to be clearly here as a part of a bigger purpose - to help people pursue their most important goals and dreams.
+
+I'm especially excited to have more time to refining my vision for [Thrifty]({{ site.url }}/thrifty/) in the same way. Expect to see new features, a clearer focus, and for the tool to finally exit "beta". That means I may have a paid version of Thrifty coming in the future. If I do, it'll be because I truly feel it's worth it.
+
+I'll also be focusing more on coaching and other resources you can purchase because, bluntly, I'm loving this so far and I want to see how long I can stretch this dream out. Don't worry though - I'm not changing my mentality about ads. I still want you to have a clutter-free reading experience :)
+
+### Investing in Faith
+
+Finally, I'll be doubling down on my faith. I want to ensure I'm having regular conversations with God, so I'm setting up systems to make sure I'm praying at least once a day (and hopefully more than that). Before fall, I'll be looking into joining my church's men's group, which meets every Wednesday morning.
+
+In addition, we'll be continuing to grow our confidence and faith in ourselves through new experiments. You can be sure that I'll share all the gory details here!
+
+## What's Your Leap?
+
+I feel so blessed to be in the situation where I can make this leap and am thrilled from the support I've received from my wife, kids, friends, family, and fellow bloggers. While I've been working for years on living with more intention, I hope this year proves to be an even bigger step in that direction.
+
+If I can do this, so can you. If you feel like you need some guidance - I'd love to help you get there. With what I've learned over the last several years, I'd be honored to help coach you through your journey. If you're interested, check out my [coaching page]({{site.url}}/work-with-me/#life-flipping-coaching).
+
+_What dreams would you love to pursue? Do you have a vision for your life that looks drastically different from your life today? What's stopping you from getting there?_
 
 
-- We spent the last several years working hard to better align our spending with our values
-- Now we're making the bigger, tougher leap - to align our time with our values
 
-- Our values - what we'll be spending time (and money) on
-  - Faith
-    - praying daily (habit app)
-  - Family
-    - everyone says kids grow up too fast; trying to act on that
-  - Fun
-    - always wanted to be my own boss - work on my own thing.
-    - How this ties to KT/Thrifty
-      - KT - new focus (Thrifty definition)
-      - Thrifty - new focus - new features, better support/info, and exiting beta
-
-- The death bed test
-
-- Fulfillment comes from applying your limited resources (time and money) to achieve your dreams while staying true to your values.
 
 {% include pinterest-image.html %}
