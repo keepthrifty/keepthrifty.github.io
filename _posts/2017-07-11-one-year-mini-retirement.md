@@ -192,7 +192,17 @@ In addition, we'll be continuing to grow our confidence and faith in ourselves t
 
 I feel so blessed to be in the situation where I can make this leap and am thrilled from the support I've received from my wife, kids, friends, family, and fellow bloggers. While I've been working for years on living with more intention, I hope this year proves to be an even bigger step in that direction.
 
-If I can do this, so can you. If you feel like you need some guidance - I'd love to help you get there. With what I've learned over the last several years, I'd be honored to help coach you through your journey. If you're interested, check out my [coaching page]({{site.url}}/work-with-me/#life-flipping-coaching).
+I don't know what our life will look like a year from now, but I'm so excited for the promise this year holds and so happy we were able to get to this point.
+
+There's one last thing I want to share:
+
+We're not special. My wife and I are ordinary people.
+
+We just decided to try some not-so-ordinary things and those things are leading us to a pretty extraordinary life.
+
+{% capture tweet-text }If we can do this, so can you{% endcapture %}{% include tweet-link.html %}.
+
+If you feel like you need some guidance - I'd love to help you get there. With what I've learned over the last several years, I'd be honored to help coach you through your journey. If you're interested, check out my [coaching page]({{site.url}}/work-with-me/#life-flipping-coaching).
 
 _What dreams would you love to pursue? Do you have a vision for your life that looks drastically different from your life today? What's stopping you from getting there?_
 
