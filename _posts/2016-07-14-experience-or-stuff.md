@@ -9,7 +9,7 @@ image: /img/posts/2016-07-14-experience-or-stuff/mountaintop.jpg
 related-posts: [
   "/2016/03/23/engagement-ring-sold",
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",
-  "/2016/07/06/roadtrip-recap",
+  "/one-year-mini-retirement",
   "/2017/01/09/defeat-four-devious-marketing-tactics"
 ]
 permalink: /:year/:month/:day/:title.html

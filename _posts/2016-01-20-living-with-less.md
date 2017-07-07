@@ -9,7 +9,7 @@ image: /img/posts/2016-01-20-living-with-less/jumper.jpg
 related-posts: [
   "/2016/09/04/let-it-burn",
   "/2016/08/28/the-more-of-less-review",
-  "/2016/07/21/spending-on-free",
+  "/one-year-mini-retirement",
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
   "/2017/01/02/happy-nothing-new-year",
   "/2017/01/16/one-car-suburbs"

@@ -12,8 +12,8 @@ image: /img/posts/2016-12-05-money-mistakes-financial-compass/financial-compass.
 related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
-  "/2017/03/13/spend-without-fear",
-  "/2017/06/13/our-not-so-thrifty-past"
+  "/2017/06/13/our-not-so-thrifty-past",
+  "/one-year-mini-retirement"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [how we money]
