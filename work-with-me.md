@@ -24,9 +24,9 @@ If you've got a problem, yo - I'll solve it. Check out these options while my DJ
 
 Some people like to flip houses - taking a building that has lots of promise and bringing it to it's full potential.
 
-I, on the other hand, get joy out of _flipping lives_.
+I get joy out of _flipping lives_.
 
-Do you have dreams you'd love to pursue but you don't have the means to get there or the confidence to take the leap?
+Do you have dreams you'd love to pursue but you don't think you have the means to get there or the confidence to take the leap?
 
 I've been there. I'd always wanted to spend more time with my wife and kids and to work on passion projects, but as the sole income in our household, I never felt I could take the risk.
 
@@ -34,46 +34,43 @@ I knew that there were people out there that lived differently and chased their 
 
 Over time, my dreams became more vivid and in reach. My confidence grew, as did my bank account, and before I knew it we were in a position to do something crazy.
 
-I left my full-time job of 13 years to take a one-year mini-retirement at home with my kids, working on this blog and writing code for fun.
+I [left my full-time job of 13 years to take a one-year mini-retirement]({% post_url 2017-07-11-one-year-mini-retirement %}) at home with my kids, working on this blog and writing code for fun.
 
-It's been a [dream come true]({% post_url 2017-07-11-one-year-mini-retirement %}).
+It's been a dream come true.
 
 ### Your Journey
 
-I can't count the number of times people have told me how they wish they could make a leap like this. And for every one of those people, I know that they _can_ - and __you can too__.
+I can't count the number of times people have said they wished they could make a leap like this too.
+The reality is that that _they can_ if they are willing to work for it - and _you can too_.
 
 With the benefit of hindsight, I can save you from a lot of the missteps and distractions we experienced on our journey here.
 
 As your coach, I'll help you:
 
 1. Identify your biggest, most important dreams and values
-2. Understand the logistics of how to make those goals a reality
-3. Take control of your finances and schedule to invest in pursuing those dreams
+2. Plot out how to make those goals a reality
+3. Take control of your income, spending and schedule so you can invest in pursuing those dreams
 4. Break free of the negative mental models that are keeping you from taking the leap
 
 ### Structure and Price
 
-I charge a flat monthly fee for coaching, which includes a one-hour chat session (phone or video chat - your choice) as well as communicating via e-mail on an ongoing basis. While I have a rough structure for what we'll cover each month, every person is different, so we'll customize those discussions to your needs.
+I charge a flat monthly fee for coaching, which includes a one-hour chat session (phone or video chat - your choice) as well as communicating via e-mail on an ongoing basis. While I have a rough structure for what we'll cover each month, every person is different, so we'll customize our discussions to your needs.
 
-Dream timelines vary by person - both on the size of the goal and how close you are today. With that in mind, one of my goals in coaching you is to equip you with the knowledge, habits, and routines to be self-sufficient in pursuing your dreams. If you have a 20-year goal, I certainly don't expect to be coaching you monthly for the next 20 years. We'll get you on your way and when you're ready, you can end our sessions. All I ask is that you shoot me an e-mail when you finally achieve that dream!
+Dream timelines vary by person - depending on the size of the goal and how close you are today. With that in mind, one of my goals in coaching you is to equip you with the knowledge, habits, and routines to be self-sufficient in pursuing your dreams. If you have a 20-year goal, I certainly don't expect to be coaching you monthly for the next 20 years. We'll get you on your way and when you're ready, you can end our sessions. All I ask is that you shoot me an e-mail when you finally achieve your dream!
 
 <div class="work--price">Coaching: $200 per month</div>
 
-### Want to Try it Out?
-
-You have a lot of promise and I'd like to help you reach your full potential.
-
-Fill out the form below and we'll schedule a FREE 30-minute chat to see if I'd be a good coach for you.
-
 <form class="form--contact" action="https://formspree.io/chris@keepthrifty.com" method="POST">
-    <input type="hidden" name="_next" value="{{ "/thank-you/" | prepend: site.baseurl }}" />
-    <input type="hidden" name="_subject" value="Coaching Contact" />
-    <input type="name" name="name" placeholder="Your Name">
-    <input type="email" name="_replyto" placeholder="Email Address">
-    <textarea name="message-goal" placeholder="What dream(s) would you love to accomplish?" rows="5" required></textarea>
-    <textarea name="message-barriers" placeholder="What do you see as your biggest barriers to getting there?" rows="5" required></textarea>
-    <input type="text" name="_gotcha" style="display:none" />
-    <button type="submit">Schedule a call</button>
+  <h3 class="title">You have a lot of promise - I'd like to help you reach your full potential</h3>
+  <p class="text">Fill out the form below and we'll schedule a FREE 30-minute chat to see if I'd be a good coach for you.</p>
+  <input type="hidden" name="_next" value="{{ "/thank-you/" | prepend: site.baseurl }}" />
+  <input type="hidden" name="_subject" value="Coaching Contact" />
+  <input type="name" name="name" placeholder="Your Name">
+  <input type="email" name="_replyto" placeholder="Email Address">
+  <textarea name="message-goal" placeholder="What dream(s) would you love to accomplish?" rows="5" required></textarea>
+  <textarea name="message-barriers" placeholder="What do you see as your biggest barriers to getting there?" rows="5" required></textarea>
+  <input type="text" name="_gotcha" style="display:none" />
+  <button type="submit">Schedule a call</button>
 </form>
 
 <hr />
@@ -90,13 +87,14 @@ I'm available to discuss other topics, such as:
 <div class="work--price">Consulting: $200 per hour</div>
 
 <form class="form--contact" action="https://formspree.io/chris@keepthrifty.com" method="POST">
-    <input type="hidden" name="_next" value="{{ "/thank-you/" | prepend: site.baseurl }}" />
-    <input type="hidden" name="_subject" value="Consulting Contact" />
-    <input type="name" name="name" placeholder="Your Name">
-    <input type="email" name="_replyto" placeholder="Email Address">
-    <textarea name="message" placeholder="What would you like to discuss? When would you like to talk? Please provide multiple times and indicate your time zone." rows="5" required></textarea>
-    <input type="text" name="_gotcha" style="display:none" />
-    <button type="submit">Request a session</button>
+  <h3 class="title">Request a Consulting Session</h3>
+  <input type="hidden" name="_next" value="{{ "/thank-you/" | prepend: site.baseurl }}" />
+  <input type="hidden" name="_subject" value="Consulting Contact" />
+  <input type="name" name="name" placeholder="Your Name">
+  <input type="email" name="_replyto" placeholder="Email Address">
+  <textarea name="message" placeholder="What would you like to discuss? When would you like to talk? Please provide multiple times and indicate your time zone." rows="5" required></textarea>
+  <input type="text" name="_gotcha" style="display:none" />
+  <button type="submit">Request a session</button>
 </form>
 
 <hr />

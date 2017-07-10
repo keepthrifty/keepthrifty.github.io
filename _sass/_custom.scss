@@ -519,7 +519,7 @@ form {
   input, textarea, select {
     font-size: 1.1rem;
     border: 1px solid $meta-color;
-    border-radius: 5%;
+    border-radius: 3px;
     margin: 0.5rem auto;
     padding: 0.4rem;
   }
@@ -528,7 +528,7 @@ form {
     background-color: $secondary-color;
     color: white;
     border: none;
-    border-radius: 5%;
+    border-radius: 3px;
     padding: 0.4rem;
     margin: 0.2rem;
     text-transform: uppercase;
@@ -539,10 +539,25 @@ form {
 }
 
 .form--contact {
+  border-radius: 3px;
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+  padding: 0.5rem 2rem 1.5rem;
+  max-width: 80%;
+  margin: 2rem auto;
+  background-color: white;
+
   input, textarea, button, select {
     display: block;
     margin-left: auto;
     margin-right: auto;
+  }
+  margin-bottom: 2rem;
+  .title {
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .text {
+    text-align: center;
   }
 }
 
@@ -887,7 +902,7 @@ li.in-page-nav--list-item a {
   padding: 0.4rem 0.4rem 0.4rem 1.9rem;
   border: 1px solid white;
   width: 2rem;
-  border-radius: 5%;
+  border-radius: 3px;
   background-color: white;
   background-image: url('/img/search-icon.svg');
   background-size: 1.1rem 1.3rem;
@@ -901,7 +916,7 @@ li.in-page-nav--list-item a {
   cursor: auto;
   width: 20rem;
   border: 1px solid $meta-color;
-  border-radius: 5%;
+  border-radius: 3px;
 }
 
 
