@@ -597,15 +597,15 @@ nav.navbar {
 .navbar-list__item {
   display: inline-block;
   list-style: outside none none;
-  margin: 0.5em 0.6em;
+  margin: 0 0.6em;
   padding: 12px 15px;
   position: relative;
 }
 .navbar-list__item--no-highlight {
   display: inline-block;
   list-style: outside none none;
-  margin: 0.5em 0.6em;
-  padding: 12px 15px;
+  margin: 0 0.6em;
+  padding: 0 15px;
   position: relative;
 }
 .navbar-list__item a {
