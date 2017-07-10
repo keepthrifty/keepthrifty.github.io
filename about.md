@@ -73,11 +73,6 @@ Beyond this, I've also been featured on a number of great sites:
 * EQ Bank - [Should you go to Italy or buy a car? Here's how to decide](https://www.eqbank.ca/the-exchange/article-detail?urlName=should-you-go-to-italy-or-buy-a-car-here-s-how-to-decide){: target="_blank"}
 * Lifehacker - [When Buying "Experiences" Isn't Actually Better than Buying Stuff](http://lifehacker.com/when-buying-experiences-isnt-actually-better-than-buy-1784756372){: target="_blank"}
 
-<hr />
-
 <a name="contact" />
-## Contact me
-
-I'd love to hear from you - you can find me on Twitter ([@keepthrifty](http://www.twitter.com/keepthrifty){: target="_blank"}) or you can use the form below:
 
 {% include contact.html %}
