@@ -60,20 +60,24 @@ Dream timelines vary by person - depending on the size of the goal and how close
 
 <div class="work--price">Coaching: $200 per month</div>
 
-<form class="form--contact" action="https://formspree.io/chris@keepthrifty.com" method="POST">
-  <h3 class="title">You have a lot of promise - I'd like to help you reach your full potential</h3>
-  <p class="text">Fill out the form below and we'll schedule a FREE 30-minute chat to see if I'd be a good coach for you.</p>
-  <input type="hidden" name="_next" value="{{ "/thank-you/" | prepend: site.baseurl }}" />
-  <input type="hidden" name="_subject" value="Coaching Contact" />
-  <input type="name" name="name" placeholder="Your Name">
-  <input type="email" name="_replyto" placeholder="Email Address">
-  <textarea name="message-goal" placeholder="What dream(s) would you love to accomplish?" rows="5" required></textarea>
-  <textarea name="message-barriers" placeholder="What do you see as your biggest barriers to getting there?" rows="5" required></textarea>
-  <input type="text" name="_gotcha" style="display:none" />
-  <button type="submit">Schedule a call</button>
-</form>
-
-<hr />
+<div class="boxed">
+  <form class="form--contact" action="https://formspree.io/chris@keepthrifty.com" method="POST">
+    <h3 class="title">You have a lot of promise - I'd like to help you reach your full potential</h3>
+    <p class="text">Fill out the form below and we'll schedule a FREE 30-minute chat to see if I'd be a good coach for you.</p>
+    <input type="hidden" name="_next" value="{{ "/thank-you/" | prepend: site.baseurl }}" />
+    <input type="hidden" name="_subject" value="Coaching Contact" />
+    <p>Name:</p>
+    <input type="name" name="name" required>
+    <p>Email:</p>
+    <input type="email" name="_replyto" required>
+    <p>What dream(s) would you love to accomplish?</p>
+    <textarea name="message-goal" rows="5" required></textarea>
+    <p>What do you see as your biggest barriers to accomplishing your dream(s)?</p>
+    <textarea name="message-barriers" rows="5" required></textarea>
+    <input type="text" name="_gotcha" style="display:none" />
+    <button type="submit">Schedule a call</button>
+  </form>
+</div>
 
 ## Consulting
 
@@ -86,18 +90,21 @@ I'm available to discuss other topics, such as:
 
 <div class="work--price">Consulting: $200 per hour</div>
 
-<form class="form--contact" action="https://formspree.io/chris@keepthrifty.com" method="POST">
-  <h3 class="title">Request a Consulting Session</h3>
-  <input type="hidden" name="_next" value="{{ "/thank-you/" | prepend: site.baseurl }}" />
-  <input type="hidden" name="_subject" value="Consulting Contact" />
-  <input type="name" name="name" placeholder="Your Name">
-  <input type="email" name="_replyto" placeholder="Email Address">
-  <textarea name="message" placeholder="What would you like to discuss? When would you like to talk? Please provide multiple times and indicate your time zone." rows="5" required></textarea>
-  <input type="text" name="_gotcha" style="display:none" />
-  <button type="submit">Request a session</button>
-</form>
-
-<hr />
+<div class="boxed">
+  <form class="form--contact" action="https://formspree.io/chris@keepthrifty.com" method="POST">
+    <h3 class="title">Request a Consulting Session</h3>
+    <input type="hidden" name="_next" value="{{ "/thank-you/" | prepend: site.baseurl }}" />
+    <input type="hidden" name="_subject" value="Consulting Contact" />
+    <p>Name:</p>
+    <input type="name" name="name" required>
+    <p>Email:</p>
+    <input type="email" name="_replyto" required>
+    <p>What would you like to discuss? When would you like to talk? Please provide multiple times and indicate your time zone.</p>
+    <textarea name="message" rows="5" required></textarea>
+    <input type="text" name="_gotcha" style="display:none" />
+    <button type="submit">Request a session</button>
+  </form>
+</div>
 
 ## Guest Posts
 

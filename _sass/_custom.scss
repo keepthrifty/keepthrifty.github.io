@@ -9,10 +9,6 @@ html {
   box-sizing: inherit;
 }
 
-body {
-
-}
-
 ul {
   padding-left: 0;
   list-style: none;
@@ -347,6 +343,17 @@ a {
   text-align: center;
   :first-child { margin-left: 0 !important; }
   :last-child { margin-right: 0 !important; }
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.share-buttons__text {
+  display: inline;
+  color: $meta-color;
+  text-transform: uppercase;
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
 }
 
 .share-buttons__button {
@@ -514,7 +521,7 @@ form {
   font-size: 1.2rem;
   font-weight: 300;
   input {
-    display: inline;
+    display: block;
   }
   textarea, select {
     display: block;
@@ -545,13 +552,6 @@ form {
 }
 
 .form--contact {
-  border-radius: 3px;
-  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
-  padding: 0.5rem 2rem 1.5rem;
-  max-width: 80%;
-  margin: 2rem auto;
-  background-color: white;
-
   input, textarea, button, select {
     display: block;
     margin-left: auto;
@@ -562,7 +562,7 @@ form {
     text-align: center;
     text-transform: uppercase;
   }
-  .text {
+  p {
     text-align: center;
   }
 }
@@ -975,9 +975,13 @@ a.tipue_search_foot_box {
 }
 
 .boxed {
-  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+  background-color: $bg-color;
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.3);
   border-radius: 0.2rem;
   max-width: 40rem;
   padding: 0.5rem 4rem 1.5rem;
   margin: 0 auto;
+  .meta-header {
+    color: black;
+  }
 }

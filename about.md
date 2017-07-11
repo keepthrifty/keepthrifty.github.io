@@ -15,7 +15,9 @@ I'm Chris - a husband, proud father of 3, and complete personal finance nerd.
 
 I'm on a mission to get our family 100% debt-free (including our mortgage) by 2020. I started this blog as a way to share what I'm learning along the way so you can replicate my successes and avoid my mistakes.
 
+<div class="boxed">
 {% include subscribe.html %}
+</div>
 
 We're focused on three big goals and approaches at the moment:
 
