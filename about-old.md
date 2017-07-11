@@ -2,9 +2,21 @@
 layout: page
 title: About
 description: "If you're looking for a blog about personal finance, spreadsheets, frugality, minimalism, faith, and living a purposeful life with intention, you've come to the right place."
-permalink: /about/
 comments: true
+published: false
 ---
+
+
+
+
+
+
+
+
+
+
+# OLD VERSION
+
 
 If you're looking for a blog about personal finance, spreadsheets, frugality, minimalism, faith, and living a purposeful life with intention, you've come to the right place. Welcome to Keep Thrifty!
 

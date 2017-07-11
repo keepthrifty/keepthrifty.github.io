@@ -22,16 +22,16 @@ a {
 body {
   margin: 0;
   min-height: 100vh;
-  background-color: $bg-color;
+  background-color: white;
 }
 
 main.page {
   flex: 1 0 auto;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
   @media screen and (min-width: $minimum-break) {
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-top: 2.75rem;
+    padding-bottom: 2.75rem;
   }
 }
 
@@ -76,11 +76,9 @@ a {
   margin-right: auto;
   background-color: white;
   padding: 2rem;
-  max-width: 54rem;
-  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+  max-width: 800px;
   border-radius: 0.2rem;
   position: relative;
-  margin-bottom: 4rem;
 }
 
 .post__link {
@@ -96,7 +94,7 @@ a {
   font-size: 2.5rem;
   text-align: center;
   color: black;
-  margin: 2rem 0 1rem 0;
+  margin: 0rem 0 1rem 0;
   text-transform: uppercase;
   a {
     color: inherit;
@@ -229,9 +227,6 @@ a {
     text-transform: uppercase;
   }
   .rss {
-    position: absolute;
-    top: 2rem;
-    right: 2rem;
     color: $meta-color;
     a {
       color: $meta-color;
@@ -239,6 +234,7 @@ a {
     font-weight: 300;
     font-size: 1rem;
     text-transform: uppercase;
+    text-align: center;
   }
 
   h4, h5, h6 {
@@ -709,6 +705,7 @@ nav.navbar {
   font-weight: 300;
   background-color: white;
   text-align: center;
+  padding-top: 1.5rem;
   a {
     color: $meta-color;
     text-decoration: none;
@@ -784,6 +781,19 @@ div.call-to-action {
     font-weight: 300;
   }
 }
+
+div.call-to-action--hero {
+  a {
+    background-color: $secondary-color;
+    border: none;
+    color: white;
+    font-size: 1.1rem;
+    padding: 0.5rem;
+    font-weight: 500;
+  }
+  margin: 1.5rem 0;
+}
+
 
 #next-post, #previous-post {
   text-align: center;
@@ -865,6 +875,7 @@ height: 100%;
 ul.in-page-nav--list {
   list-style: none;
   display: inline-block;
+  margin: 0;
 }
 
 li.in-page-nav--list-item {
@@ -994,4 +1005,19 @@ a.tipue_search_foot_box {
   .meta-header {
     color: black;
   }
+}
+
+.read-on {
+  margin: 0 10rem 4rem;
+  display: block;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: $meta-color;
+}
+
+.post-list-divide {
+  max-width: 80%;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }

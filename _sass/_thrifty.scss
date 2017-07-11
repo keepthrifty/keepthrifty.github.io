@@ -4,7 +4,7 @@
   height: 66.67%;
 }
 .login-link {
-  color: $meta-color;
+  color: white;
   position: absolute;
   right: 0;
 }
@@ -47,7 +47,7 @@
     text-transform: uppercase;
     font-size: 1rem;
     color: $secondary-color;
-    background-color: $bg-color;
+    background-color: white;
     border: 1px solid $secondary-color;
     border-radius: .2rem;
     padding: 0.4rem;

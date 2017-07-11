@@ -114,7 +114,7 @@ I definitely had to look up some of the logarithm rules to simplify the equation
 
 ## Announcement - Easy Link to Calculators #
 
-I anticipate creating more calculators like these in the future. People who want a quick way to find them can head to the archives and look at [all the posts tagged "Calculators"]({{site.url}}/archive/#calculators). If you have any suggestions for calculators you'd like to see, I'd love it if you'd [contact me]({{site.url}}/about/#contact)!
+I anticipate creating more calculators like these in the future. People who want a quick way to find them can head to the archives and look at [all the posts tagged "Calculators"]({{site.url}}/archive/#calculators). If you have any suggestions for calculators you'd like to see, I'd love it if you'd [contact me]({{site.url}}/work-with-me/#contact)!
 
 ## Spreadsheet Teaser #
 

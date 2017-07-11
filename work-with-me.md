@@ -2,11 +2,10 @@
 layout: page
 title: Work With Me
 description: "Want to Work with Chris from Keep Thrifty? Coaching, speaking, and collaboration - it's all here."
-image: /img/teamwork.jpg
 permalink: /work-with-me/
+redirect-from:
+  - /contact/
 ---
-
-If you've got a problem, yo - I'll solve it. Check out these options while my DJ revolves it...
 
 <hr />
 
@@ -15,6 +14,7 @@ If you've got a problem, yo - I'll solve it. Check out these options while my DJ
     <li class="in-page-nav--list-item"><a href="#life-flipping-coaching">Life Flipping (Coaching)</a></li>
     <li class="in-page-nav--list-item"><a href="#consulting">Consulting</a></li>
     <li class="in-page-nav--list-item"><a href="#guest-posts">Guest Posts</a></li>
+    <li class="in-page-nav--list-item"><a href="#contact">Contact</a></li>
   </ul>
 </div>
 
@@ -109,3 +109,9 @@ I'm available to discuss other topics, such as:
 ## Guest Posts
 
 At this time, I am not accepting submissions for guest posts, display advertising, or sponsored posts.
+
+## Contact
+
+<a name="contact" />
+
+{% include contact.html %}
