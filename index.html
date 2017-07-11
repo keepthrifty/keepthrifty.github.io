@@ -13,8 +13,8 @@ layout: default
       {% unless post.nodisqus %}
       <div class="post__meta--center">
         <span class="comment-count" title="Comments">
+          <i class="fa fa-comments"></i>
           <a href="{{ post.url }}#disqus_thread">
-            <i class="fa fa-comments"></i>
             <span class="disqus-comment-count" data-disqus-identifier="{{ post.title }}">0 comments</span>
           </a>
         </span>
