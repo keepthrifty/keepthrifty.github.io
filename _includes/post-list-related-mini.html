@@ -1,0 +1,19 @@
+<div class="related-posts">
+  <h3 class="meta-header">
+    Related Articles
+  </h3>
+  <div class="mini-post-list">
+    {% for post in site.posts %}
+      {% if page.related-posts contains post.id %}
+        <div class="mini-post">
+          <div class="image"><img class="mini-post__image" src="{{ post.image | replace: '.', '-mini.' }}" alt="" /></div>
+          <div class="mini-post__caption">
+            <h5>{{ post.date | date: "%B %d, %Y" }}</h5>
+            <h3>{{ post.title }}</h3>
+          </div>
+          <a href="{{ post.url }}" class="mini-post__link"></a>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

@@ -224,5 +224,3 @@ I know you've got a big, audacious dream you'd love to pursue but there are thin
 If you feel like you need some guidance, I'd be honored to help coach you through your journey. If you're interested, check out my [coaching page]({{site.url}}/work-with-me/#life-flipping-coaching).
 
 _What dreams would you love to pursue? Do you have a vision for your life that looks drastically different from your life today? What's stopping you from getting there?_
-
-{% include pinterest-image.html %}

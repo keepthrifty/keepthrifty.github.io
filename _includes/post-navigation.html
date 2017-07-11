@@ -2,7 +2,7 @@
   <div class="col" id="previous-post">
     {% if page.previous %}
     <h3 class="meta-header">Previous Post</h3>
-    <p class="left"><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>
+    <p><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>
     {% else %}
       &nbsp;
     {% endif %}
@@ -10,7 +10,7 @@
   <div class="col" id="next-post">
     {% if page.next %}
       <h3 class="meta-header">Next Post</h3>
-      <p class="right"><a href="{{ page.next.url }}">{{ page.next.title }}</a></p>
+      <p><a href="{{ page.next.url }}">{{ page.next.title }}</a></p>
     {% else %}
       &nbsp;
     {% endif %}
