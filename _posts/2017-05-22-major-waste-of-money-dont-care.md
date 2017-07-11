@@ -23,7 +23,6 @@ permalink: /:year/:month/:day/:title/
 tags: [guest post, inspiration]
 
 rockstar: true
-featured: true
 
 ---
 
