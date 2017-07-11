@@ -22,7 +22,7 @@ If not, there's still time to make a change.
 ![Myself, my wife, and our three daughters on a green lawn]({{site.url}}/img/our-family.jpg)
 {: class="image--right"}
 
-A few years back, it looked like I had everything going for me - a stable corporate job, a beautiful wife and three daughters, a house in the suburbs, two new cars in the garage, and a house full of stuff.
+A few years back, it looked like I had everything going for me - a stable corporate job, [a beautiful wife](http://www.jaimedeclutters.com){: target="_blank"} and three daughters, a house in the suburbs, two new cars in the garage, and a house full of stuff.
 
 But outward appearances can be deceiving. Despite all of the things we had, we were lacking something big - happiness.
 
