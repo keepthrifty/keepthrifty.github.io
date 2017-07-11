@@ -15,7 +15,8 @@ related-posts: [
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
   "/2017/02/13/how-much-is-your-stuff-costing-you",
   "/2017/04/10/living-in-half-of-our-house",
-  "/minimalist-moving"
+  "/minimalist-moving",
+  "/one-year-mini-retirement"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism, inspiration]

@@ -8,14 +8,16 @@ comments: true
 
 If you're looking for a blog about personal finance, spreadsheets, frugality, minimalism, faith, and living a purposeful life with intention, you've come to the right place. Welcome to Keep Thrifty!
 
-![Photo of myself and my wife](/img/us-hats.jpg)
+![Photo of myself and my wife]({{site.url}}/img/us-hats.jpg)
 {: class="image--right" }
 
 I'm Chris - a husband, proud father of 3, and complete personal finance nerd.
 
 I'm on a mission to get our family 100% debt-free (including our mortgage) by 2020. I started this blog as a way to share what I'm learning along the way so you can replicate my successes and avoid my mistakes.
 
+<div class="boxed">
 {% include subscribe.html %}
+</div>
 
 We're focused on three big goals and approaches at the moment:
 
@@ -51,7 +53,7 @@ Every trip we take brings us closer as a family, builds memories we'll carry for
 
 ## As Featured On...
 
-![Featured on list - see below](/img/featured/featured.png)
+![Featured on list - see below]({{site.url}}/img/featured/featured.png)
 
 With the amazing support of other bloggers and resources out there, the Keep Thrifty message has made it's way to people all over the world. In particular,
 
@@ -73,11 +75,6 @@ Beyond this, I've also been featured on a number of great sites:
 * EQ Bank - [Should you go to Italy or buy a car? Here's how to decide](https://www.eqbank.ca/the-exchange/article-detail?urlName=should-you-go-to-italy-or-buy-a-car-here-s-how-to-decide){: target="_blank"}
 * Lifehacker - [When Buying "Experiences" Isn't Actually Better than Buying Stuff](http://lifehacker.com/when-buying-experiences-isnt-actually-better-than-buy-1784756372){: target="_blank"}
 
-<hr />
-
 <a name="contact" />
-## Contact me
-
-I'd love to hear from you - you can find me on Twitter ([@keepthrifty](http://www.twitter.com/keepthrifty){: target="_blank"}) or you can use the form below:
 
 {% include contact.html %}

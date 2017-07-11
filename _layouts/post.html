@@ -26,11 +26,6 @@ comments: true
       {% if page.image %}
       <img src="{{ site.url }}{{ page.image }}" class="post__header__image" itemprop="image" alt="" />
       {% endif %}
-      <div class="post__top-right">
-        <a class="print" href="javascript:window.print()" title="Print this page">
-          <i class="fa fa-print fa-1x"></i>
-        </a>
-      </div>
     </header>
 
     <main class="post__body" itemprop="articleBody">
@@ -39,17 +34,14 @@ comments: true
     </main>
 
     <fooder class="post__footer">
-      <br />
+      <div class="boxed">
       {% include subscribe.html %}
-      <hr>
-      {% include share-buttons.html %}
+      </div>
+      {% include share-buttons-only.html %}
       {% if page.related-posts.size > 0 %}
-      <hr>
       {% include post-list-related.html %}
       {% endif %}
-      <hr>
       {% include post-navigation.html %}
-      <hr>
       {% include comments.html %}
     </footer>
   </article>

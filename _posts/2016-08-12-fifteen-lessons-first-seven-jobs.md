@@ -9,7 +9,7 @@ image: /img/posts/2016-08-12-first-seven-jobs/parking-lot.jpg
 image-folder: /img/posts/2016-08-12-first-seven-jobs
 related-posts: [
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",
-  "/2016/05/24/encouragement-over-hate",
+  "/one-year-mini-retirement",
   "/2016/10/15/talent-is-overrated",
   "/2016/11/20/money-life-lessons-oregon-trail",
   "/2016/12/18/4-financial-no-noes-from-grandparents",
@@ -18,8 +18,6 @@ related-posts: [
 permalink: /:year/:month/:day/:title.html
 tags: [inspiration]
 rockstar: true
-
-featured: true
 ---
 
 One of the cooler things going across the interwebs in the last few days has been the [#firstsevenjobs][twitter-first-seven-jobs] hashtag - prompting people to list, in order, their first seven jobs. It's a great study of seeing where people started from and it's fun to look back on where you've been and what you've learned.

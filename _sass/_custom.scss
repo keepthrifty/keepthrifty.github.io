@@ -9,10 +9,6 @@ html {
   box-sizing: inherit;
 }
 
-body {
-
-}
-
 ul {
   padding-left: 0;
   list-style: none;
@@ -347,12 +343,29 @@ a {
   text-align: center;
   :first-child { margin-left: 0 !important; }
   :last-child { margin-right: 0 !important; }
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.share-buttons__text {
+  display: inline;
+  color: $meta-color;
+  text-transform: uppercase;
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
 }
 
 .share-buttons__button {
   display: inline;
   margin-left: 0.3rem;
   margin-right: 0.3rem;
+  a {
+    opacity: 0.7;
+  }
+  a:hover {
+    opacity: 1;
+  }
 }
 
 .twitter { color: #55ACEE; }
@@ -508,7 +521,7 @@ form {
   font-size: 1.2rem;
   font-weight: 300;
   input {
-    display: inline;
+    display: block;
   }
   textarea, select {
     display: block;
@@ -519,7 +532,7 @@ form {
   input, textarea, select {
     font-size: 1.1rem;
     border: 1px solid $meta-color;
-    border-radius: 5%;
+    border-radius: 3px;
     margin: 0.5rem auto;
     padding: 0.4rem;
   }
@@ -528,21 +541,39 @@ form {
     background-color: $secondary-color;
     color: white;
     border: none;
-    border-radius: 5%;
+    border-radius: 3px;
     padding: 0.4rem;
-    margin: 0.2rem;
+    margin: 0.5rem;
     text-transform: uppercase;
     &:hover {
       opacity: 0.7;
     }
   }
+  p {
+    text-align: center;
+    margin-bottom: 0;
+  }
 }
 
 .form--contact {
+  margin-bottom: 2rem;
+
   input, textarea, button, select {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 0.2rem;
+  }
+  button {
+    margin-top: 1rem;
+  }
+  .title {
+    text-align: center;
+    text-transform: uppercase;
+  }
+  p {
+    text-align: center;
+    margin-bottom: 0;
   }
 }
 
@@ -582,15 +613,15 @@ nav.navbar {
 .navbar-list__item {
   display: inline-block;
   list-style: outside none none;
-  margin: 0.5em 0.6em;
+  margin: 0 0.6em;
   padding: 12px 15px;
   position: relative;
 }
 .navbar-list__item--no-highlight {
   display: inline-block;
   list-style: outside none none;
-  margin: 0.5em 0.6em;
-  padding: 12px 15px;
+  margin: 0 0.6em;
+  padding: 0 15px;
   position: relative;
 }
 .navbar-list__item a {
@@ -754,11 +785,10 @@ div.call-to-action {
   }
 }
 
-#next-post {
-  margin-left: 0.4rem;
-}
-#previous-post {
-  margin-right: 0.4rem;
+#next-post, #previous-post {
+  text-align: center;
+  margin: 0 2rem;
+  font-size: 1rem;
 }
 
 .pagination {
@@ -850,11 +880,11 @@ li.in-page-nav--list-item a {
 
 }
 
-.post__body .archive-list {
+.post .archive-list {
 
 }
 
-.post__body .archive-list--entry {
+.post .archive-list--entry {
   list-style: none;
   margin-left: 2rem;
   font-size: 1.1rem;
@@ -862,11 +892,21 @@ li.in-page-nav--list-item a {
   margin-bottom: 0.8rem;
 }
 
-.post__body .archive-list--entry a {
+.post .archive-list--entry a {
   color: $meta-color;
 }
 
-.post__body .archive-list--title {
+.post .archive-list__entry--centered {
+  font-size: 1rem;
+  margin-left: 0;
+  text-align: center;
+  display: block;
+  a {
+    color: $secondary-color;
+  }
+}
+
+.post .archive-list--title {
 
 }
 
@@ -887,7 +927,7 @@ li.in-page-nav--list-item a {
   padding: 0.4rem 0.4rem 0.4rem 1.9rem;
   border: 1px solid white;
   width: 2rem;
-  border-radius: 5%;
+  border-radius: 3px;
   background-color: white;
   background-image: url('/img/search-icon.svg');
   background-size: 1.1rem 1.3rem;
@@ -901,7 +941,7 @@ li.in-page-nav--list-item a {
   cursor: auto;
   width: 20rem;
   border: 1px solid $meta-color;
-  border-radius: 5%;
+  border-radius: 3px;
 }
 
 
@@ -942,4 +982,16 @@ li.in-page-nav--list-item a {
 
 a.tipue_search_foot_box {
   color: $meta-color;
+}
+
+.boxed {
+  background-color: $bg-color;
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.3);
+  border-radius: 0.2rem;
+  max-width: 40rem;
+  padding: 0.5rem 4rem 1.5rem;
+  margin: 0 auto;
+  .meta-header {
+    color: black;
+  }
 }

@@ -19,6 +19,8 @@ redirect_from:
 
 <p>Here it is folks - the full set of articles from the Keep Thrifty archives. For your convenience, you can find things a few different ways:</p>
 
+<hr />
+
 <div class="in-page-nav">
   <ul class="in-page-nav--list">
     <li class="in-page-nav--list-item"><a href="#popular">Popular</a></li>
@@ -38,6 +40,7 @@ redirect_from:
     {% if post.featured %}
       <li class="archive-list--entry">
         <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
     {% endif %}
   {% endfor %}
 </ul>
