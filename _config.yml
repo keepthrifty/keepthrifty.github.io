@@ -9,7 +9,7 @@
 title: Keep Thrifty
 email: chris@keepthrifty.com
 description: > # this means to ignore newlines until "baseurl:"
-  Take control of your finances and schedule so you can live out your dreams and values
+  Take control of your finances and schedule so you can pursue your dreams
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.keepthrifty.com" # the base hostname & protocol for your site
 twitter_username: keepthrifty
