@@ -43,9 +43,9 @@ My wife invested her energy into her work and in turning our house into a home w
 
 If anything, our goals felt like they were in competition with each other. Whenever I brought up the concept of starting my own business, my wife felt like I wasn't prioritizing our financial security and time together as a family. I felt like I wasn't being allowed to fulfill my aspirations.
 
-Things were rough and there didn't seem to be a way they could get better.
+We grew distant and that distance led to bitterness. We got to a point where everything turned into a fight. We quite literally had nothing nice to say to each other and our future looked grim. It wasn't what either of us wanted, but we were lost on how to turn things around.
 
-Luckily, God presented us with a situation that sparked a big change in our marriage.
+That's when God presented us with an unlikely situation that sparked a big change in our marriage.
 
 ## Inflection Point
 
@@ -123,7 +123,7 @@ If you're looking for resources to help, here are some that have helped us:
 
 - [The 5 Love Languages: The Secret to Love that Lasts](http://amzn.to/2ujb5Df){: target="_blank" rel="nofollow"} by Gary Chapman
 - [The Seven Levels of Intimacy](http://amzn.to/2t7tG5B){: target="_blank" rel="nofollow"} by Matthew Kelly
-- [Fireproof](http://amzn.to/2uiVOSM){: target="_blank" rel="nofollow"} by Alex Kendrick and Steven Kendrick
+- [Fireproof](http://amzn.to/2tkLZQj){: target="_blank" rel="nofollow"} - Movie
 - [The Groovy Guide to Having a Great Marriage](http://freedomisgroovy.com/the-groovy-guide-to-having-a-great-marriage/) - a great post by one of my favorite bloggers
 
 ## Gratitude
