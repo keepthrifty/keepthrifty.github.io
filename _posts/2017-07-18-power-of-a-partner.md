@@ -19,7 +19,7 @@ related-posts: [
   "/2017/05/08/kids-allowance-round-up"
 ]
 
-tags: [inspiration, faith]
+tags: [dreams & values]
 
 affiliate: true
 

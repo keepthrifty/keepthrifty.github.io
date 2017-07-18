@@ -15,7 +15,7 @@ related-posts: [
   "/2017/01/16/one-car-suburbs"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [book review]
+tags: [money]
 affiliate: true
 ---
 

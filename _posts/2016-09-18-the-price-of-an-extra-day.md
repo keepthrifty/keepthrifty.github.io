@@ -17,7 +17,7 @@ related-posts: [
 redirect_from:
   - /calculators/
 permalink: /:year/:month/:day/:title/
-tags: [calculators, how we money]
+tags: [money]
 custom_js:
   - calcfidays
 
@@ -111,10 +111,6 @@ Someday I'll have an awesome whiteboard in our house and I can make these kinds 
 I definitely had to look up some of the logarithm rules to simplify the equations :)
 
 <div id="post-closing"></div>
-
-## Announcement - Easy Link to Calculators #
-
-I anticipate creating more calculators like these in the future. People who want a quick way to find them can head to the archives and look at [all the posts tagged "Calculators"]({{site.url}}/archive/#calculators). If you have any suggestions for calculators you'd like to see, I'd love it if you'd [contact me]({{site.url}}/work-with-me/#contact)!
 
 ## Spreadsheet Teaser #
 

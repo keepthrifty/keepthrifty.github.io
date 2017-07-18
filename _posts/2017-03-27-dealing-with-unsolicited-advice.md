@@ -17,7 +17,7 @@ related-posts: [
   "/can-frugality-be-selfish"
 ]
 permalink: /:year/:month/:day/:title/
-tags: [guest post, inspiration]
+tags: [think different]
 
 ---
 

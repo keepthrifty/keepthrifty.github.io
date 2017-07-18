@@ -15,7 +15,7 @@ related-posts: [
   "/2016/12/12/ultimate-refinancing-spreadsheet-calculator"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [spreadsheets, mortgages]
+tags: [money]
 featured: true
 rockstar: true
 ---

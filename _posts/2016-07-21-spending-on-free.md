@@ -16,7 +16,7 @@ related-posts: [
   "/2017/02/27/hot-cheeto-called-harambe"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [guest post, inspiration, minimalism]
+tags: [think different]
 ---
 
 _We've got a first this week for Keep Thrifty - our first guest post! This one comes to you from Elsie Brown from [GundoMoney.com][gundo-money]_

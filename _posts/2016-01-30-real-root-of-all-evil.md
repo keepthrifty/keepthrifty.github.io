@@ -13,7 +13,7 @@ related-posts: [
   "/2017/04/17/three-phases-money-feelings"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [faith]
+tags: [think different]
 ---
 
 1 Timothy 6:10 is one of the most misquoted passages from the bible (though Pulp Fiction’s take on Ezekiel 25:17 is another good one).

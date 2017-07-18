@@ -20,7 +20,7 @@ related-posts: [
   "/one-year-mini-retirement"
 ]
 permalink: /:year/:month/:day/:title/
-tags: [guest post, inspiration]
+tags: [think different]
 
 rockstar: true
 

@@ -14,7 +14,7 @@ related-posts: [
   "/can-frugality-be-selfish"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [inspiration]
+tags: [think different]
 ---
 
 Whether your dream is financial independence or something totally different, pursuing your passion often takes getting on a different path from the people around you. As a result, you're bound to encounter a few people who are going to question your lifestyle.

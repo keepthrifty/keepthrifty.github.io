@@ -22,7 +22,7 @@ related-posts: [
 ]
 
 permalink: /:year/:month/:day/:title/
-tags: [book review, faith]
+tags: [money]
 
 affiliate: true
 ---

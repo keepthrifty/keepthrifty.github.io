@@ -13,7 +13,7 @@ related-posts: [
   "/one-year-mini-retirement"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [inspiration]
+tags: [dreams & values]
 ---
 Most resolutions are failures. More and more are rebelling and going to something simpler, something cleaner — a single “[focus word][focus-word]” for the year.
 

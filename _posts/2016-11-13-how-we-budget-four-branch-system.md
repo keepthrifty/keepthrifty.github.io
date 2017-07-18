@@ -19,7 +19,7 @@ related-posts: [
 
 affiliate: true
 permalink: /:year/:month/:day/:title/
-tags: [how we money]
+tags: [money]
 ---
 
 Only [one third of Americans use a detailed budget](http://www.gallup.com/poll/162872/one-three-americans-prepare-detailed-household-budget.aspx){: target="_blank"} to manage their monthly finances. Just [under two-thirds of Americans can't handle a $500 emergency](http://www.marketwatch.com/story/most-americans-are-one-paycheck-away-from-the-street-2016-01-06){: target="_blank"}, essentially living paycheck-to-paycheck. If you don't budget and/or are living paycheck-to-paycheck, don't fret. Improving your situation is easier than you think - especially with the right resources.

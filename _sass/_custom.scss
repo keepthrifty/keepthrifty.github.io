@@ -129,6 +129,7 @@ a {
   .tags {
     display: inline-block;
     float: left;
+    text-transform: capitalize;
   }
   .post__reading-time {
     display: block;
@@ -918,7 +919,7 @@ li.in-page-nav--list-item a {
 }
 
 .post .archive-list--title {
-
+  text-transform: capitalize;
 }
 
 .archive-heading {

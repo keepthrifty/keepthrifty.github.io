@@ -16,7 +16,7 @@ related-posts: [
   "/2016/11/27/staying-thankful-spend-happy-world"
 ]
 permalink: /:year/:month/:day/:title/
-tags: [how we money]
+tags: [dreams & values]
 
 affiliate: true
 ---

@@ -20,7 +20,7 @@ related-posts: [
   /2016/01/01/one-word-resolution
 ]
 
-tags: [inspiration,faith]
+tags: [dreams & values]
 
 affiliate: true
 

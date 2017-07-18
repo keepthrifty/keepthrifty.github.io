@@ -15,7 +15,7 @@ related-posts: [
   "/2017/05/30/rent-vs-buy-for-the-fi"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [spreadsheets, mortgages, how we money]
+tags: [money]
 ---
 
 We had a toast-worthy moment last week - our outstanding mortgage balance finally came under the $100,000 mark; we're officially in a 5-digit mortgage!

@@ -19,7 +19,7 @@ related-posts: [
   "/one-year-mini-retirement"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [minimalism, inspiration]
+tags: [dreams & values]
 featured: true
 rockstar: true
 ---

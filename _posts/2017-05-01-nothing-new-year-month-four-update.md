@@ -19,7 +19,7 @@ related-posts: [
   "/2017/06/05/nothing-new-year-month-five-update"
 ]
 permalink: /:year/:month/:day/:title/
-tags: [how we money, nothing new year]
+tags: [nothing new year]
 
 affiliate: true
 

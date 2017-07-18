@@ -20,7 +20,7 @@ related-posts: [
   "/2017/01/30/introducing-retirement-freedom"
 ]
 permalink: /:year/:month/:day/:title/
-tags: [calculators, spreadsheets]
+tags: [money]
 
 ---
 

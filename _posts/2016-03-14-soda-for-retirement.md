@@ -14,7 +14,7 @@ related-posts: [
   "/2016/09/04/let-it-burn"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [how we money]
+tags: [money]
 affiliate: true
 ---
 

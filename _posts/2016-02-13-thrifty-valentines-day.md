@@ -15,7 +15,7 @@ related-posts: [
   "/2016/12/26/thrifty-year-in-review"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [inspiration, how we money]
+tags: [think different]
 ---
 
 Jewelry, flowers, and bears, oh my! If you’re not careful, this holiday is a great way to burn a hole in your wallet.

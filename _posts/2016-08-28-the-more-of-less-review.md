@@ -16,7 +16,7 @@ related-posts: [
   "/minimalist-moving"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [minimalism, book review]
+tags: [minimalism]
 affiliate: true
 ---
 

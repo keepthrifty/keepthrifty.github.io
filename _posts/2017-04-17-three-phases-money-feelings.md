@@ -20,7 +20,7 @@ permalink: /:year/:month/:day/:title/
 redirect_from:
   - /2017/04/17/three-phrases-money-feelings/
 
-tags: [inspiration]
+tags: [money]
 
 ---
 

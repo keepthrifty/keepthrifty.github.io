@@ -19,7 +19,7 @@ related-posts: [
   "/2016/07/06/roadtrip-recap"
 ]
 permalink: /:year/:month/:day/:title/
-tags: [inspiration]
+tags: [dreams & values]
 
 affiliate: true
 

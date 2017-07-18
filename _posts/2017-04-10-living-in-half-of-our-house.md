@@ -18,7 +18,7 @@ related-posts: [
   "/2017/02/13/how-much-is-your-stuff-costing-you"
 ]
 permalink: /:year/:month/:day/:title/
-tags: [minimalism, inspiration]
+tags: [minimalism]
 
 affiliate: true
 

@@ -14,7 +14,7 @@ related-posts: [
   "/2016/11/13/four-keys-successful-budget"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [how we money]
+tags: [money]
 
 affiliate: true
 ---

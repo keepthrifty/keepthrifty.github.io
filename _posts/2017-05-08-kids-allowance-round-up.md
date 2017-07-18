@@ -19,7 +19,7 @@ related-posts: [
   "/2017/01/23/ignorance-better"
 ]
 permalink: /:year/:month/:day/:title/
-tags: [how we money]
+tags: [money]
 
 affiliate: true
 

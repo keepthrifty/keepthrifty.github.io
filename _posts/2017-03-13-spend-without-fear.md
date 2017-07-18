@@ -17,7 +17,7 @@ related-posts: [
   "/2017/05/08/kids-allowance-round-up"
 ]
 permalink: /:year/:month/:day/:title/
-tags: [inspiration, how we money]
+tags: [think different]
 
 ---
 

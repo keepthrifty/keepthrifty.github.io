@@ -16,7 +16,7 @@ related-posts: [
   "/2017/05/30/rent-vs-buy-for-the-fi"
 ]
 permalink: /:year/:month/:day/:title/
-tags: [spreadsheets, calculators]
+tags: [money]
 ---
 
 There are lots of online mortgage refinancing calculators for "normal" people. Thrifty rockstars like you and I might feel a bit left out though because most calculators don't include our particular situations. If you find that's the case, my "Ultimate Refinancing Calculator" might just be what you're looking for.

@@ -14,7 +14,7 @@ related-posts: [
   "/2016/05/29/june-challenge-entertainment"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [inspiration]
+tags: [challenge]
 affiliate: true
 ---
 My wife and I had some intense financial discussions this weekend.

@@ -16,7 +16,7 @@ related-posts: [
   "/one-year-mini-retirement"
 ]
 permalink: /:year/:month/:day/:title/
-tags: [calculators, spreadsheets]
+tags: [money]
 
 featured: true
 rockstar: true

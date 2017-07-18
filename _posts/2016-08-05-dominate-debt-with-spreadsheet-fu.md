@@ -16,7 +16,7 @@ related-posts: [
   "/2016/06/05/prepay-vs-invest"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [spreadsheets]
+tags: [money]
 ---
 
 Where do you go when you want to know how prepayments would impact your student loan debt? What about figuring out the new payment you'd have if you refinanced your mortgage? Financial advisors can get expensive and google's not going to cover every scenario. My advice? Get versed in the art of Spreadsheet Fu.

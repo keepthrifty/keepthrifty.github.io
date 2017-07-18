@@ -20,7 +20,7 @@ related-posts: [
 affiliate: true
 
 permalink: /:year/:month/:day/:title/
-tags: [book review]
+tags: [money]
 ---
 
 > The "experts" at the USDA in their 2010 report "Expenditures on Children and Families" say that we should expect to spend about $261,000 to raise each child from birth through age seventeen ($14,500 per year)

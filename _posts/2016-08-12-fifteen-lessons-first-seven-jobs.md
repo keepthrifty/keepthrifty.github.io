@@ -16,7 +16,7 @@ related-posts: [
   "/2017/04/24/grown-up-lessons-from-lemonade-stand"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [inspiration]
+tags: [think different]
 rockstar: true
 ---
 

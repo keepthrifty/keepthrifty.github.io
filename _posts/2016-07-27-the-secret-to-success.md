@@ -16,7 +16,7 @@ related-posts: [
   "/2017/03/13/spend-without-fear"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [inspiration]
+tags: [think different]
 ---
 
 _This week I wrote a guest post for Elsie over at [GundoMoney.com][gundo-money]. I hosted Elsie last week with her great post about [the cost of joy and happiness][spend-on-free]. The teaser for my post is below and you can find a link to the full story on Elsie's site at the end. Enjoy!_

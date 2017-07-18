@@ -19,7 +19,7 @@ related-posts: [
 ]
 
 permalink: /:year/:month/:day/:title/
-tags: [inspiration]
+tags: [think different]
 
 affiliate: true
 ---

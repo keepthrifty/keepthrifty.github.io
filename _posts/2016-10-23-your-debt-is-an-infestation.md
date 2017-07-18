@@ -21,7 +21,7 @@ excerpt: |
   Let's imagine something, shall we? Imagine you're in your backyard with family or friends. There are small children running around and everyone is enjoying a nice cold beverage. The sun is shining. All of a sudden, a hornet lands on your drink and starts crawling inside.
 
 permalink: /:year/:month/:day/:title/
-tags: [inspiration]
+tags: [money]
 ---
 
 _This week I wrote a guest post for the Mystery Money Man blog. The teaser for my post is below and you can find a link to the full post at the end. Enjoy!_

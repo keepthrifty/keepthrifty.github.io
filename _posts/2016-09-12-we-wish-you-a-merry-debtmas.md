@@ -15,7 +15,7 @@ related-posts: [
   "/2017/01/09/defeat-four-devious-marketing-tactics"
 ]
 permalink: /:year/:month/:day/:title/
-tags: [inspiration, faith]
+tags: [money]
 ---
 
 The average american family spent $820 on Christmas in 2015. If you're already thinking about the holiday season and you're worried about how to pay for everything you need to have a joyous time, I ran across an article that proposed a solution for you.

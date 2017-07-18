@@ -18,7 +18,7 @@ related-posts: [
   "/2016/12/12/ultimate-refinancing-spreadsheet-calculator"
 ]
 permalink: /:year/:month/:day/:title.html
-tags: [mortgages]
+tags: [money]
 ---
 
 If you're going to commit to paying hundreds of thousands of dollars on something, shouldn't you understand the math involved?

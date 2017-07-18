@@ -19,7 +19,7 @@ related-posts: [
   "/2016/05/24/encouragement-over-hate"
 ]
 
-tags: [inspiration]
+tags: [think different]
 
 ---
 
