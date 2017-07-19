@@ -11,12 +11,10 @@ pinterest-image: /img/posts/2016-03-23-engagement-ring-sold/engagement-ring-sold
 excerpt_separator: <!--end-excerpt-->
 
 related-posts: [
-  "/2016/08/28/the-more-of-less-review",
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
   "/2017/02/13/how-much-is-your-stuff-costing-you",
   "/2017/04/10/living-in-half-of-our-house",
-  "/minimalist-moving",
-  "/one-year-mini-retirement"
+  "/power-of-a-partner"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [dreams & values]

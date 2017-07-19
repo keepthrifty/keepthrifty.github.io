@@ -11,7 +11,7 @@ related-posts: [
   "/2016/03/23/engagement-ring-sold",
   "/2016/11/20/money-life-lessons-oregon-trail",
   "/2016/11/27/staying-thankful-spend-happy-world",
-  "/2017/06/13/our-not-so-thrifty-past"
+  "/power-of-a-partner"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [dreams & values]

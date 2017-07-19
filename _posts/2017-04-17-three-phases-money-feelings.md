@@ -14,7 +14,8 @@ related-posts: [
   "/2017/01/09/defeat-four-devious-marketing-tactics",
   "/2016/01/30/real-root-of-all-evil",
   "/can-frugality-be-selfish",
-  "/2017/06/13/our-not-so-thrifty-past"
+  "/2017/06/13/our-not-so-thrifty-past",
+  "/safe-withdrawal-rate-4-percent-relevant"
 ]
 permalink: /:year/:month/:day/:title/
 redirect_from:

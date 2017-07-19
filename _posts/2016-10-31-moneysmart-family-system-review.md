@@ -12,9 +12,9 @@ image: /img/posts/2016-10-31-moneysmart-family-system-review/post-image.jpg
 related-posts: [
   "/2016/06/18/the-simple-path-to-wealth-review",
   "/2016/08/28/the-more-of-less-review",
-  "/2016/10/02/it-is-only-money-review",
   "/2016/07/06/roadtrip-recap",
-  "/2016/11/13/four-keys-successful-budget"
+  "/2016/11/13/four-keys-successful-budget",
+  "/power-of-a-partner"
 ]
 
 affiliate: true

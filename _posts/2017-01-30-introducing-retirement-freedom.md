@@ -13,7 +13,8 @@ related-posts: [
   "/2016/09/18/the-price-of-an-extra-day",
   "/2016/06/05/prepay-vs-invest",
   "/2017/05/30/rent-vs-buy-for-the-fi",
-  "/one-year-mini-retirement"
+  "/one-year-mini-retirement",
+  "/safe-withdrawal-rate-4-percent-relevant"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [money]
