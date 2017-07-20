@@ -15,7 +15,8 @@ related-posts: [
   "/2016/01/30/real-root-of-all-evil",
   "/can-frugality-be-selfish",
   "/2017/06/13/our-not-so-thrifty-past",
-  "/safe-withdrawal-rate-4-percent-relevant"
+  "/safe-withdrawal-rate-4-percent-relevant",
+  "/parable-of-the-craftsmen"
 ]
 permalink: /:year/:month/:day/:title/
 redirect_from:
