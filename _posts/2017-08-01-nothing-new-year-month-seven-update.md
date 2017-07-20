@@ -15,7 +15,7 @@ pinterest-image: /img/posts/2017-08-01-nothing-new-year-month-seven-update/nny-m
 related-posts: [
   "/2017/04/03/nothing-new-year-month-three-update",
   "/2017/05/01/nothing-new-year-month-four-update",
-  "/2017/06/05/nothing-new-year-month-five-update"
+  "/2017/06/05/nothing-new-year-month-five-update",
   "/2017/07/03/nothing-new-year-month-six-update"
 ]
 
