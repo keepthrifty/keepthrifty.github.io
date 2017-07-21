@@ -26,9 +26,7 @@ I had forgotten the fundamental rule you're supposed to follow before getting a 
 
 Our IT staff does a great job porting over your files, but every new PC is a "clean slate" when it comes to the software installed, which includes browser extensions and other tools.
 
-{% assign tweet-text = "If my work setup was a forest, it felt like a fire had just come through and cleaned everything out" %}
-
-{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="If my work setup was a forest, it felt like a fire had just come through and cleaned everything out" %}
 
 ## Funny thing about forest fires... #
 
@@ -83,12 +81,8 @@ By keeping only what he needed, Ryan is allowing for new, fresh growth of the va
 
 Whether it's digital clutter, physical clutter, or even mental clutter (maybe you have an overcommitted schedule), could you use a controlled burn in your life?
 
-{% assign tweet-text = "What's the worst that could happen if you hit reset on a piece of your life and rebuilt it?" %}
+{% include tweet-link.html tweet-text="What's the worst that could happen if you hit reset on a piece of your life and rebuilt it?" %}
 
-{% include tweet-link.html %}
-
-{% assign tweet-text = "How much could you grow if you got the dead wood out of the way?" %}
-
-On the flip side: {% include tweet-link.html %}
+On the flip side, How much could you grow if you got the dead wood out of the way?
 
 ![Picture of seedling growing]({{ site.url }}{{ page.image-folder }}/new-growth.jpg)

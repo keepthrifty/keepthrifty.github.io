@@ -132,7 +132,7 @@ In the meantime, we've still got our mortgage payments to take care of, so here'
 
 With our standard payment this month, we knocked another $753 off our outstanding principal and are now at just over $79,000 remaining. Considering we started at $175,900 just ten years ago, we're not doing too badly :)
 
-{% capture tweet-text %}Presuming our closing goes through without issue, we will completely debt free as of July 5th, 2017{% endcapture %}{% include tweet-link.html %}.
+{% include tweet-link.html tweet-text="Presuming our closing goes through without issue, we will completely debt free as of July 5th, 2017" %}.
 
 We've already got our rental set up and we'll use our time in the rental to figure out our next steps. If we do purchase a home in the future, our plan would be to do so with cash.
 

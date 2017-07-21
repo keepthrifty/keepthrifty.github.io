@@ -9,7 +9,7 @@ With this recognition, we've had to redefine what we're really striving for. If 
 
 Happiness is subject to the whims of fate. One unexpected tragedy can shatter happiness.
 
-{% capture tweet-text %}I feel the pull to set my sights on something different - fulfillment{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="I feel the pull to set my sights on something different - fulfillment" %}
 
 It may seem like I'm mincing words, but the distinction is important. Fulfillment expresses a lasting satisfaction with life - _knowing that we have lived according to our values and chased our dreams_.
 

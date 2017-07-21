@@ -39,7 +39,7 @@ I started classes for my MBA just over a month after our honeymoon. I invested c
 
 My wife invested her energy into her work and in turning our house into a home with new furniture and decorations. We started a family and my wife pursued her dream of starting a business while being a stay-at-home mom.
 
-{% capture tweet-text %}_We were pursuing our dreams, but we didn't feel like a team_{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="_We were pursuing our dreams, but we didn't feel like a team_" %}
 
 If anything, our goals felt like they were in competition with each other. Whenever I brought up the concept of starting my own business, my wife felt like I wasn't prioritizing our financial security and time together as a family. I felt like I wasn't being allowed to fulfill my aspirations.
 
@@ -81,7 +81,7 @@ Our mindset shifted from pursuing our own interests to supporting each others'. 
 
 We began to envision a life where we had more time together as a family. A life where we had time and energy to pursue our passions. A life where we felt like we were living out God's calling for us.
 
-{% capture tweet-text %}Suddenly, marriage seemed less about what we _each_ wanted and more about what we wanted _together_{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="Suddenly, marriage seemed less about what we _each_ wanted and more about what we wanted _together_" %}
 
 Once we stopped working as individuals and started working as a team, we started to see the true power of having a partner.
 

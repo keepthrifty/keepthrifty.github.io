@@ -61,7 +61,7 @@ Not included here was the endless boxes and bins of paperwork, books, sentimenta
 
 Despite the length of the list, our 1900 square-foot house felt woefully unfurnished when we moved in.
 
-> {% capture tweet-text %}Nature abhors a vacuum. So do people.{% endcapture %}{% include tweet-link.html %}
+> {% include tweet-link.html tweet-text="Nature abhors a vacuum. So do people." %}
 
 It quickly became obvious that we _"needed"_ to buy more stuff but we didn't have the money to buy everything right away. Thankfully, we were disciplined enough to [avoid financing furniture](http://www.makingsenseofcents.com/2017/06/financing-furniture.html){: target="_blank"}, but that didn't stop us from dedicating time and money to fill the voids in our home.
 
@@ -87,7 +87,7 @@ It's been an incredible journey. With our moving day just a week away, here's ou
 
 That's it.
 
-{% capture tweet-text %}We're moving _less stuff out_ as a family of five than we moved in as a young couple.{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="We're moving _less stuff out_ as a family of five than we moved in as a young couple." %}
 
 ## Moving as a Minimalist
 

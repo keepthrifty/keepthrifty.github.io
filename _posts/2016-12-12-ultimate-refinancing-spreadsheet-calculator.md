@@ -47,7 +47,7 @@ Beyond this, most online calculators assume you're not _already_ prepaying.
 
 Again - that's just silly. If you're a follower of this blog, you know [I'm a big proponent of prepaying your mortgage]({{site.url}}{% post_url 2016-04-10-how-we-saved-on-our-mortgage %}).
 
-{% capture tweet-text %}A Keep Thrifty calculator would have to look at the world a bit differently{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="A Keep Thrifty calculator would have to look at the world a bit differently" %}
 
 1. It should allow for prepayments in your current mortgage
 2. Presuming that your refinance drops your monthly payment, it should assume you'll keep paying your current monthly amount (to keep the prepayment train rolling!)
@@ -85,7 +85,7 @@ Refinancing alone in many cases drops total interest costs by a respectable amou
 
 But you can do even better:
 
-{% capture tweet-text %}By refinancing __and__ keeping the current payment you get the double-whammy of paying down even faster{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="By refinancing __and__ keeping the current payment you get the double-whammy of paying down even faster" %}
 
 For the spreadsheet geeks out there, feel free to tweak the sheet to your heart's content. If you have any questions, let me know!
 

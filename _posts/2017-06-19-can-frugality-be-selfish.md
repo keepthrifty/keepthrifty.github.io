@@ -110,7 +110,7 @@ It's easy to get caught up in dangerous lines of thinking when making big life c
 
 Finally, remember the power of your dollars:
 
-> {% capture tweet-text %}_Every dollar you spend is a vote for what's important. Vote with your values and you can't go wrong_{% endcapture %}{% include tweet-link.html %}
+> {% include tweet-link.html tweet-text="_Every dollar you spend is a vote for what's important. Vote with your values and you can't go wrong_" %}
 
 {% include pinterest-image.html %}
 
