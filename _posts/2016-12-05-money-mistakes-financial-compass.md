@@ -61,7 +61,7 @@ That's why the first thing you should do in managing your money has _nothing to 
 
 I gave the act of identifying these goals a name: _setting your financial compass_
 
-After all, {% capture tweet-text %}if you don't know where you want to go, how will you know if you're headed in the wrong direction?{% endcapture %}{% include tweet-link.html %}
+After all, {% include tweet-link.html tweet-text="if you don't know where you want to go, how will you know if you're headed in the wrong direction?" %}
 
 Thankfully, we finally figured this out. We talked and dreamed of the life we wanted and got on the same page about how to get there. We set our financial compass and the results have been phenomenal.
 
@@ -141,7 +141,7 @@ When we made those mistakes, we weren’t emotionally or intellectually equipped
 
 We either weren't aware of the mistakes we were making or we weren't able to see them as choices going away from our true goals. Each of these missteps was an important learning opportunity in our lives that helped us get where we are today.
 
-{% capture tweet-text %}These missteps helped us build financial discipline so we can tenaciously pursue our dreams{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="These missteps helped us build financial discipline so we can tenaciously pursue our dreams" %}
 
 Whatever your financial mistakes have been, don't get down about them. Use them to build your knowledge and your financial fortitude so you don't make the same mistake again.
 

@@ -41,15 +41,11 @@ That wouldn't have been a big deal if it weren't for the fact that I __really__ 
 
 On the list of things I dreaded, babysitting him ranked right up there with cleaning my room and moving more than 6 inches from the wall during a middle school dance.
 
-{% assign tweet-text = "Good money doesn't beat miserable work" %}
-
-> Lesson 1: {% include tweet-link.html %}
+> Lesson 1: {% include tweet-link.html tweet-text="Good money doesn't beat miserable work" %}
 
 After I got done with that session, I told my mom to never sign me up for work again - that I needed to be in charge of my own commitments.
 
-{% assign tweet-text = "If you don't manage your commitments, someone else will" %}
-
-> Lesson 2: {% include tweet-link.html %}
+> Lesson 2: {% include tweet-link.html tweet-text="If you don't manage your commitments, someone else will" %}
 
 Babysitting only lasted for a couple of years for me - I'm an introvert and preferred not having my time ruled by someone else's needs. That's when a surprisingly sweet opportunity dropped in my lap.
 
@@ -69,15 +65,11 @@ So, good money but the work was pretty bad, right? I spent most of my time fishi
 
 ![Picture of a cigarette butt][cigarette-butts]
 
-{% assign tweet-text = "People are disgusting. Seriously - pick up your trash." %}
-
-> Lesson 3: {% include tweet-link.html %}
+> Lesson 3: {% include tweet-link.html tweet-text="People are disgusting. Seriously - pick up your trash." %}
 
 There was one major difference between this and what I learned in _Lesson 1_ earlier - this job had a lot of latitude. I could listen to music in the car, be with my thoughts, and take breaks when I felt like it.
 
-{% assign tweet-text = "Even a terrible-sounding job can be manageable if you're given enough autonomy" %}
-
-> Lesson 4: {% include tweet-link.html %}
+> Lesson 4: {% include tweet-link.html tweet-text="Even a terrible-sounding job can be manageable if you're given enough autonomy" %}
 
 ## 3. Waxing Storage Unit Doors (age 13)
 
@@ -95,9 +87,7 @@ About once every other week, the property manager would trash stuff from units w
 
 I always hoped there'd be something worthwhile that made it to the trash heap, but the best I found was a non-functioning boom-box.
 
-{% assign tweet-text = "People have a lot of junk they seriously don't need" %}
-
-> Lesson 5: {% include tweet-link.html %}
+> Lesson 5: {% include tweet-link.html tweet-text="People have a lot of junk they seriously don't need" %}
 
 After a couple weeks, we were about halfway done with the first row of doors.
 
@@ -109,9 +99,7 @@ We started recruiting friends and neighbors; really anyone with time looking for
 
 Polish splashed on the structure and wouldn't come off as it dried in the grooves of the brick; kids would work for a couple days and then bail, realizing how hard the job was on their hands and arms.
 
-{% assign tweet-text = "Not every employee is going to feel the same responsibility you do to get a job done right" %}
-
-> Lesson 6: {% include tweet-link.html %}
+> Lesson 6: {% include tweet-link.html tweet-text="Not every employee is going to feel the same responsibility you do to get a job done right" %}
 
 By the end of the summer, we still had about a third of the job to do and I needed to head back to school.
 
@@ -123,13 +111,9 @@ The property manager was upset about the polish on the sides of the structure an
 
 His solution? He refused to pay us. We spent the better part of a summer doing thankless work and didn't even get paid in the end. Worst off, my brother had done the most work and felt guilty for the helpers not getting paid so he paid them out of his own pocket.
 
-{% assign tweet-text = "Know what your boss is looking for and validate you're on the right track before going further" %}
+> Lesson 7: {% include tweet-link.html tweet-text="Know what your boss is looking for and validate you're on the right track before going further" %}
 
-> Lesson 7: {% include tweet-link.html %}
-
-{% assign tweet-text = "Know how you're going to get paid and make sure you're comfortable" %}
-
-> Lesson 8: {% include tweet-link.html %}
+> Lesson 8: {% include tweet-link.html tweet-text="Know how you're going to get paid and make sure you're comfortable" %}
 
 ## 4. Busboy (age 14) #
 
@@ -145,15 +129,11 @@ By the end of my first night, my back and feet were killing me and I was exhaust
 
 Boredom set in quickly - I didn't have much choice in what I was working on and even when I did, I'd get yelled at for things beyond my control (when three large tables all leave at the same time there's no way to clean them all up fast enough).
 
-{% assign tweet-text = "Tip well unless it's clear that the staff was doing a really bad job. They depend on your tips!" %}
-
-> Lesson 9: {% include tweet-link.html %}
+> Lesson 9: {% include tweet-link.html tweet-text="Tip well unless it's clear that the staff was doing a really bad job. They depend on your tips!" %}
 
 In addition, I didn't feel like I was developing any meaningful skills. This was largely true with my prior jobs, but at this age I started to itch for something that I could progress at.
 
-{% assign tweet-text = "A job that doesn't play to your skills will get tiresome pretty quickly" %}
-
-> Lesson 10: {% include tweet-link.html %}
+> Lesson 10: {% include tweet-link.html tweet-text="A job that doesn't play to your skills will get tiresome pretty quickly" %}
 
 I lasted for about 6 months, then gave up my shift to my other brother who seemed to be enjoying it much more than I was.
 
@@ -175,9 +155,7 @@ I did this in various capacities for a few companies throughout high school and 
 
 That said, I knew I wanted to head somewhere bigger with a higher ceiling when I graduated college, so I decided to major in Computer Engineering.
 
-{% assign tweet-text = "A job without meaning isn't much better than a job with no pay" %}
-
-> Lesson 11: {% include tweet-link.html %}
+> Lesson 11: {% include tweet-link.html tweet-text="A job without meaning isn't much better than a job with no pay" %}
 
 ## 6. Filing (age 20) #
 
@@ -185,9 +163,7 @@ You'll notice a 1-year blip in my data-entry timeline - the year that I couldn't
 
 I was fortunate enough to be a college student living at home for the summer, so I didn't have to worry about a roof over my head or food on the table, but being unable to find work (despite the dozens of resumes I handed out) made for a rough start to the summer.
 
-{% assign tweet-text = "You don't get to choose what work is available" %}
-
-> Lesson 12: {% include tweet-link.html %}
+> Lesson 12: {% include tweet-link.html tweet-text="You don't get to choose what work is available" %}
 
 Eventually, I got an offer to help purge and file medical records for a gastroenterology clinic (I learned lots of great medical terms that summer).
 
@@ -205,9 +181,7 @@ Thankfully, I had an amazing set of people I was working with. Most were older c
 
 We listed to NPR, debated politics, religion, and talked about anything and everything going on in the world. Despite the nature of the work, this was one of the most intellectually stimulating environments I had been in.
 
-{% assign tweet-text = "The people you work with can make a job significantly better" %}
-
-> Lesson 13: {% include tweet-link.html %}
+> Lesson 13: {% include tweet-link.html tweet-text="The people you work with can make a job significantly better" %}
 
 Then everyone left.
 
@@ -217,9 +191,7 @@ Eventually the temp agency found two more people who could come in but the dynam
 
 On top of that, one didn't understand the concept of alphabetizing and I spent most of the summer coaching her on where the files went.
 
-{% assign tweet-text = "You don't always get to choose who you work with" %}
-
-> Lesson 14: {% include tweet-link.html %}
+> Lesson 14: {% include tweet-link.html tweet-text="You don't always get to choose who you work with" %}
 
 They were both nice, but I was back to square one in a job that was just about getting paid.
 
@@ -241,9 +213,7 @@ I hadn't ever thought to get into the medical side as a computer engineer, but h
 
 I interviewed and got offered an 8-month term doing the same role as my friend.
 
-{% assign tweet-text = "Networking is one of the best ways to find a good job" %}
-
-> Lesson 15: {% include tweet-link.html %}
+> Lesson 15: {% include tweet-link.html tweet-text="Networking is one of the best ways to find a good job" %}
 
 This was my first real corporate job and ended up being the place I stuck for the last 12 years.
 

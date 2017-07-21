@@ -21,9 +21,7 @@ tags: [money]
 
 Last time, I put up a couple calculators to help you understand your [personal exchange rate for retirement days and money]({{ site.url }}{% post_url 2016-09-18-the-price-of-an-extra-day %}). Here, I'll walk you through making your own awesome spreadsheet so you can have those calculators (and more) at your disposal.
 
-{% assign tweet-text = "Buckle up - you're about to amp up your spreadsheet skills :)" %}
-
-{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="Buckle up - you're about to amp up your spreadsheet skills :)" %}
 
 ## The Goal
 
@@ -113,9 +111,7 @@ The reason we're computing things this way is to isolate the impact of today's c
 
 ## Part 4 - Chart All the Things
 
-{% assign tweet-text = "Let's be honest, every spreadsheet is better with a chart" %}
-
-{% include tweet-link.html %}
+Let's be honest, every spreadsheet is better with a chart
 
 With that in mind, let's get something fun set up here - let's show a chart of your investment catching up to and eventually surpassing the amount you need to retire.
 
@@ -181,9 +177,7 @@ Copy what's in F4 and paste it in `F5` through `F26`
 
 ![]({{ site.url }}{{ page.image-folder }}/s-17.jpg)
 
-{% assign tweet-text = "Compounding in action my friends. That piddly $50,000 becomes $2 million at your financial independence age" %}
-
-{% include tweet-link.html %}
+Compounding in action my friends. That piddly $50,000 becomes $2 million at your financial independence age
 
 Now it's time to fill out the Projected FI Number column. We'll know we're on the money (pun intended) if our value in `G22` (the Projected FI number at age 82.28) is that same $2.059 million dollar value.
 
@@ -227,9 +221,7 @@ At this point, you could consider yourself done - you've got a functional spread
 
 That said, I always like at this point in a project to make things look just a bit more presentable.
 
-{% assign tweet-text = "A good looking spreadsheet is one you're more likely to go use and maintain." %}
-
-{% include tweet-link.html %}
+A good looking spreadsheet is one you're more likely to go use and maintain.
 
 ## Extra Credit - Prettying It Up
 

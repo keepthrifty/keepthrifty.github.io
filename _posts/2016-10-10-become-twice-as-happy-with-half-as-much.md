@@ -40,9 +40,7 @@ To get grounded here, lets look at some statistics:
 * [An American home has, on average, 2.93 TV sets](http://www.nielsen.com/us/en/insights/news/2010/u-s-homes-add-even-more-tv-sets-in-2010.html){: target="_blank"}.
 * [There are 116.2 million households in the US with an average of 2.63 people per household](https://www.census.gov/quickfacts/table/PST045215/00){: target="_blank"}
 
-{% assign tweet-text = "If every person in the USA was watching TV alone, we'd still have 35 million TVs sitting idle" %}
-
-_Fun with math:_ {% include tweet-link.html %}
+_Fun with math:_ {% include tweet-link.html tweet-text="If every person in the USA was watching TV alone, we'd still have 35 million TVs sitting idle" %}
 
 It gets better (or maybe worse is a more appropriate term):
 
@@ -70,9 +68,7 @@ Finally, we bit the bullet and sold two of our TVs in a single month, keeping th
 
 Fast forward a year and we had already significantly cut back on our viewing time, but we still would get into patches where we would zone out in the living room on our lone TV every night for a week.
 
-{% assign tweet-text = "So we finally did it - we cut the cord. I'm not talking cable (never had it). We cut our antenna." %}
-
-{% include tweet-link.html %}
+So we finally did it - we cut the cord. I'm not talking cable (never had it). We cut our antenna.
 
 That's right. So here's where we're at - we own one TV. We have no cable. We have no antenna. We don't have Netflix or Hulu or Amazon Prime.
 
@@ -233,9 +229,7 @@ Here's the thinking behind how I got to this wardrobe:
 
 If you've been reading this blog, you know that [I'm not exactly a fan of fast fashion]({{ site.url }}{% post_url 2016-06-13-escape-fashion-trap-part-1 %}). That said, I do still want to feel like I look good in the clothes that I wear so I developed a simple strategy.
 
-{% assign tweet-text = 'For any item to become a resident of my closet, I ask, "Would I be willing to wear this every day?"' %}
-
-{% include tweet-link.html %}
+{% include tweet-link.html tweet-text = "For any item to become a resident of my closet, I ask, 'Would I be willing to wear this every day?'" %}
 
 What that gets me is a closet full of clothes that I really feel good in. If I had 10 shirts and only really liked five of them, then they'd be the only five I'd wear anyway. By keeping up on laundry, I never needed to wear the less-desirable shirts and so eventually I just got rid of them altogether.
 
@@ -303,9 +297,7 @@ _"That's really sad. They must get lonely when they drive. Why can't they ride w
 
 Clearer than anyone, my daughter saw the blessing that we had - that we got to spend a little extra time together every morning and every afternoon that we rode together. We got to make jokes and talk about what we were excited for in the upcoming day and we got to give hugs and kisses before the busy day started.
 
-{% assign tweet-text = "Life's truths are often most visible through the eyes of a child." %}
-
-{% include tweet-link.html %}
+_Life's truths are often most visible through the eyes of a child._
 
 Going down to one car gave us more time together, more exercise, and one less loan.
 
@@ -319,9 +311,9 @@ If it isn't though, maybe it's time to ask yourself whether you could be happier
 
 As you think about what areas you could cut in half, consider these guidelines to help you get there:
 
-{% assign tweet-text = "Don't build your life around the 'what if' cases" %}
 
-1. {% include tweet-link.html %}
+
+1. Don't build your life around the 'what if' cases"
 
     Don't stock up on dinnerware for the rare case you host a party of 20 and don't default to owning two cars for the rare case that you need to drive both at the same time.
 
@@ -331,9 +323,7 @@ As you think about what areas you could cut in half, consider these guidelines t
 
     We solved some of the challenges by doing laundry and dishes in smaller batches on a regular basis. Often, people buy extra stuff as a way to enable procrastination. If I have enough underwear, I don't have to do laundry, right?
 
-    {% assign tweet-text = "Just because you can delay something doesn't mean that you should" %}
-
-    {% include tweet-link.html %}
+    Just because you can delay something doesn't mean that you should.
 
     Remember that doing something more often in smaller chunks doesn't take any more time than doing it less frequently but all at once. Spending a whole day doing laundry is painful and doing a whole countertop-full of dishes because you're out of plates is a rough way to start your day.
 
@@ -341,9 +331,7 @@ As you think about what areas you could cut in half, consider these guidelines t
 
 3. Bet on the feeling of freedom
 
-    {% assign tweet-text = "Every item you claim to own actually owns a little piece of you" %}
-
-    {% include tweet-link.html %}
+    {% include tweet-link.html tweet-text="Every item you claim to own actually owns a little piece of you" %}
 
     Your time and attention are split in a million different ways and every object in your possession commands a small amount
 

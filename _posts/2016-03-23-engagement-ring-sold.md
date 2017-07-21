@@ -100,7 +100,7 @@ About a month ago, my wife told me that she thought she was ready to sell her ri
 
 God, I love this woman. I was pretty sure I was ok with her idea of selling the ring before this, but when you put it that way?
 
-{% capture tweet-text %}I married a minimalist badass who can see the path to her goals more clearly than anyone I've met.{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="I married a minimalist badass who can see the path to her goals more clearly than anyone I've met." %}
 
 ## Where the money is going #
 

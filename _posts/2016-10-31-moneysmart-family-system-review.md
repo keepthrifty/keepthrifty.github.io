@@ -29,9 +29,7 @@ Steve and Annette Economides kick off their book, The MoneySmart Family System, 
 
 Great, so at 3 kids, I should expect to spend $43,500 a year?
 
-{% capture tweet-text %}Thankfully, Steve and Annette don't view the world the same as the "experts"{% endcapture %}
-
-{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="Thankfully, Steve and Annette don't view the world the same as the 'experts'" %}
 
 Neither do I and neither should you.
 
@@ -98,9 +96,7 @@ You might think that Steve and Annette sound like super-parents and there's no w
 
 This system isn't dependent on perfect parents - it's dependent on loving parents that truly want the best for their kids.
 
-{% capture tweet-text %}The MoneySmart Family System goes against much of what we are pressured to do as parents every day{% endcapture %}
-
-{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="The MoneySmart Family System goes against much of what we are pressured to do as parents every day" %}
 
 Aren't we supposed to give our kids more than we had (toys, clothes, etc)?
 
@@ -110,13 +106,9 @@ Shouldn't we be enrolling our kids in tons of activities so they can become well
 
 No, no, and no.
 
-{% capture tweet-text %}Steve and Annette show that the best parenting doesn't come from common marketing messages{% endcapture %}
+Steve and Annette show that the best parenting doesn't come from common marketing messages
 
-{% include tweet-link.html %}
-
-{% capture tweet-text %}Great parenting comes from remembering your real job: loving your kids and preparing them for life{% endcapture %}
-
-{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="Great parenting comes from remembering your real job: loving your kids and preparing them for life" %}
 
 ## Net Effect ##
 

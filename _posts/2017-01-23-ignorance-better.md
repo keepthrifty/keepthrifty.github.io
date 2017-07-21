@@ -54,7 +54,7 @@ Every once in a while, one of them will declare that they are sick of sharing a 
 
 Will this ever change? Maybe. But we're focused on figuring out how to make this work because we aren't convinced that giving every child their own bedroom is definitively better for them.
 
-It's easy to question yourself when everyone around you seems to have an opinion that disagrees with you. {% capture tweet-text %}But they probably don't know more than you; your _ignorance_ might actually be your _advantage_{% endcapture %}{% include tweet-link.html %}
+It's easy to question yourself when everyone around you seems to have an opinion that disagrees with you. {% include tweet-link.html tweet-text="But they probably don't know more than you; your _ignorance_ might actually be your _advantage_" %}
 
 ## Getting Grounded in Common Sense
 

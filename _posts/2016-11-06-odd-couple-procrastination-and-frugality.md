@@ -43,9 +43,7 @@ Knowing that their current winter gear was becoming quite worn, she saw this as 
 
 Really, I would have thought that long before it got this far, Frugality would have sat Procrastination down for an “It’s not you…actually yeah, it’s you” conversation, and then made a run for it!
 
-{% assign tweet-text = "But then something happened, which changed the way Frugality looked at him" %}
-
-{% include tweet-link.html %}
+But then something happened, which changed the way Frugality looked at him.
 
 Rummaging through the kitchen cupboard one morning, she noticed her fancy food mixer tucked behind some pots and pans. Remembering that the motor had burnt some time ago, she asked Procrastination if he had ever sent it in to be repaired.
 
@@ -67,9 +65,7 @@ Like many, I’ve always viewed procrastination, something I’ve been guilty of
 
 Here’s an example. I recently had to buy some sports equipment for my daughter, prior to the new season. To save money, I had planned to take the time to find most of the items used. But I waited too long and had to buy them new at the last minute, resulting in a much higher expense. I was so frustrated at myself, as my lack of planning had cost our family a couple hundred extra dollars!
 
-{% assign tweet-text = "I realized that there are times when procrastination can actually help save you money" %}
-
-But the more I thought about different situations, {% include tweet-link.html %}
+But the more I thought about different situations, I realized that there are times when procrastination can actually help save you money.
 
 Here are a few examples:
 
@@ -89,9 +85,7 @@ There are so many examples I can use. Do you schedule haircuts every 4 weeks, li
 
 You’ll save a lot of money on parts and labor during the life of your vehicle. Just make sure holding off won’t cause a safety issue or lead to larger problems down the road.
 
-{% assign tweet-text = "There are times when procrastination can pay off" %}
-
-In general, I don’t recommend that anyone strive to be a procrastinator, unless they think being unproductive is cool. But the relationship between frugality and procrastination is not as simple as it seems. {% include tweet-link.html %}
+In general, I don’t recommend that anyone strive to be a procrastinator, unless they think being unproductive is cool. But the relationship between frugality and procrastination is not as simple as it seems. There are times when procrastination can pay off.
 
 Like I said, it’s complicated! :)
 

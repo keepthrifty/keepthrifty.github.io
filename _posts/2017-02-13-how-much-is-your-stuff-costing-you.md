@@ -81,7 +81,7 @@ Even if we're conservative and say that downsizing would only drop these costs b
 
 Totaling these, we end up with a savings from downsizing of $5,000 a year. The flip side of that is paying about $5,000 a year to store all that stuff instead of downsizing!
 
-{% capture tweet-text %}You could be paying $50,000 every decade to store stuff you don't even use{% endcapture %}{% include tweet-link.html %}.
+{% include tweet-link.html tweet-text="You could be paying $50,000 every decade to store stuff you don't even use" %}
 
 _So, between the $60,000-$84,000 value of your unused stuff and the $50,000 a decade storage cost, maybe you're ready to declutter?_
 

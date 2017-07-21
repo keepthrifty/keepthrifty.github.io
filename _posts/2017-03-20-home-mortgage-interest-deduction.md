@@ -25,7 +25,7 @@ rockstar: true
 
 Have you ever heard that you shouldn't prepay your mortgage because of what you'd lose out in mortgage interest deductions? It's nonsense. I've heard this argument more than a few times and it's finally time to put this baby to rest.
 
-{% capture tweet-text %}There are financial opinions and then there are financial facts.{% endcapture %}{% include tweet-link.html %} Knowing the difference and acting on the facts can be the difference between financial freedom and financial ruin.
+{% include tweet-link.html tweet-text="There are financial opinions and then there are financial facts." %} Knowing the difference and acting on the facts can be the difference between financial freedom and financial ruin.
 
 This isn't a question with variability. This isn't a question that has to account for a volatile market or anything else. This is just simple, straightforward math.
 
