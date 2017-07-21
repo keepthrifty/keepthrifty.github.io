@@ -39,9 +39,7 @@ There are about 100 pages of core content as well as a really useful workbook se
 
 My advice is to do the workbook along the way - don't save it for the end like I did or you'll probably have to go back and re-read some portions.
 
-{% assign tweet-text = "This is an easy read and well worth the time for the introspection you'll go through as you read it" %}
-
-{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="This is an easy read and well worth the time for the introspection you'll go through as you read it" %}
 
 ## Something for Everyone
 
@@ -55,9 +53,7 @@ Whether you're Christian, Jewish, Muslim, agnostic, atheist, or anything else, y
 
 ## Covering the Fundamentals
 
-{% assign tweet-text = "Financial management is a gift we give ourselves; when we get to wealth, we can give back even more" %}
-
-> {% include tweet-link.html %}
+> {% include tweet-link.html tweet-text="Financial management is a gift we give ourselves; when we get to wealth, we can give back even more" %}
 
 Another highlight of the book was the way that Cara broke down money and business to their fundamentals. She explains pricing, money as a medium of exchange, stocks and business ownership, and a variety of other topics in fairly approachable terms.
 
@@ -65,9 +61,7 @@ If you're not strong on the technical details of money, this book could be a gre
 
 ## Solid Guidelines
 
-{% assign tweet-text = "Change the way you spend. Be aware of what you spend, and you are on your way. Choose to spend less" %}
-
-> {% include tweet-link.html %}
+> {% include tweet-link.html tweet-text="Change the way you spend. Be aware of what you spend, and you are on your way. Choose to spend less" %}
 
 Beyond this, the book does a good job giving some sound guidelines for good personal money practices. These are the things we all know we should do, but may not find ourselves doing on a daily basis.
 

@@ -98,7 +98,7 @@ My daughter stayed strong and kept advertising and the kids returned in a few mi
 
 The next thing we knew, my daughter had sold half of our donut holes and lemonade, serving every group at the park.
 
-__Grown-up Lesson:__ I think Millennial Money Man covers this lesson best in his post on [the stonecutter's credo](https://millennialmoneyman.com/the-stonecutters-credo/){: target="_blank"}. {% capture tweet-text %}Success comes not from a single action but from the sum of the hundreds of actions that preceded it{% endcapture %}{% include tweet-link.html %}. When you're tempted to give up remember that you're getting closer to your goal even if your progress isn't necessarily visible.
+__Grown-up Lesson:__ I think Millennial Money Man covers this lesson best in his post on [the stonecutter's credo](https://millennialmoneyman.com/the-stonecutters-credo/){: target="_blank"}. {% include tweet-link.html tweet-text="Success comes not from a single action but from the sum of the hundreds of actions that preceded it" %}. When you're tempted to give up remember that you're getting closer to your goal even if your progress isn't necessarily visible.
 
 With our first park tapped out, it was time to move on - we tackled another park, stopped by a friends house, then hit up to the first park again before heading home.
 
@@ -122,7 +122,7 @@ All four of us started cracking up because we knew exactly what he was talking a
 
 In the interest of sharing the fun, you can see the video below. _Caution: this may not be your kind of humor, but it's definitely mine and my kids'_ :)
 
-{% capture video-link %}https://www.youtube.com/embed/MtN1YnoL46Q?ecver=2{% endcapture %}{% include video-embed.html %}
+{% include video-embed.html video-link="https://www.youtube.com/embed/MtN1YnoL46Q?ecver=2" %}
 
 At bedtime tonight, my daughter declared that the lemonade stand was her favorite part of the day. I couldn't be happier with how it all turned out - we had fun, got to enjoy a beautiful day outside, and all of us (especially myself) were reminded of some great life lessons.
 

@@ -51,7 +51,7 @@ But most of all, that $5000 was money we didn't _really_ need to spend. We didn'
 
 In this statement lies the biggest reason behind us trying to buy nothing new in 2017. Our lives and the world around us are better if we aren't wasteful. By buying nothing new, we'll spend less (give more) and throw away less (re-use more).
 
-{% capture tweet-text %}By achieving efficiency, we get sustainability; not just for the environment but for our finances {% endcapture %}{%include tweet-link.html %}
+{% include tweet-link.html tweet-text="By achieving efficiency, we get sustainability; not just for the environment but for our finances"%}
 
 For every $1,000 we reduce our expenses, we need $25,000 less in our accounts to achieve financial independence.
 
@@ -63,7 +63,7 @@ We think a Nothing New Year can help us accomplish all of this. First we have to
 
 ## Ground Rules
 
-{% capture tweet-text %}The basic rule is as simple as it gets: __don't buy any new stuff__ in 2017{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="The basic rule is as simple as it gets: __don't buy any new stuff__ in 2017" %}
 
 Used, refurbished, reclaimed, are all fair game, but "new" is to be avoided wherever possible.
 

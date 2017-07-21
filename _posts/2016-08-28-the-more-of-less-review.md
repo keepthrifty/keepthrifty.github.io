@@ -46,9 +46,7 @@ Joshua's definition doesn't talk about the _what_ of minimalism as much as it ta
 
 > Minimalism: the intentional promotion of the things we most value and the removal of anything that distracts us from them
 
-{% assign tweet-text = "Minimalism isn't living a life of struggle; it's intentional focus on what's most important to you" %}
-
-{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="Minimalism isn't living a life of struggle; it's intentional focus on what's most important to you" %}
 
 ## Practical Steps #
 
@@ -85,9 +83,7 @@ Some examples of what we've done:
 * We've got an active experiment right now where we have gone over 4 months without using our microwave.
 * While we live in an 1900 square foot house, we've run experiments where we only used 1000 square feet as a way to prove to ourselves that we could downsize from this house and be perfectly happy.
 
-{% assign tweet-text = "You're capable of much more than you give yourself credit for; use personal experiments to prove it" %}
-
-{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="You're capable of much more than you give yourself credit for; use personal experiments to prove it" %}
 
 In the words of the stoic Seneca:
 

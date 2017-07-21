@@ -71,7 +71,7 @@ It's not that $3,200 is insignificant for us based on our current finances. It t
 
 It's that there was something fundamentally different about the state of my finances when I bought that boombox. I know what could recreate that same painstaking feeling I had in the line at the bank two decades ago.
 
-{% capture tweet-text %}The stress came from the pain of starting from zero all over again.{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="The stress came from the pain of starting from zero all over again." %}
 
 When middle-school me pulled that $200 out of my savings account, I was effectively broke again. Not in the true sense - my parents gave me shelter, food, and anything I really needed. But I was starting from scratch on my goals.
 

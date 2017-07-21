@@ -99,7 +99,7 @@ The power cord became a tough trade-off between buying used from Apple for mucho
 
 One of the birthday gifts (from Kiwi Crate) was craft supplies, so that actually falls in the exceptions list, but the other ended up being a costume with some accessories. When we ordered it, we were thinking "experience" but it really did turn out to be stuff.
 
-Neither the power cord nor the costumer were on the exception list. As a result, {% capture tweet-text %}I'm obligated to declare that _we failed at our goal of buying nothing new this year_{% endcapture %}{% include tweet-link.html %}
+Neither the power cord nor the costumer were on the exception list. As a result, {% include tweet-link.html tweet-text="I'm obligated to declare that _we failed at our goal of buying nothing new this year_" %}
 
 <div class="video-container">
 <iframe src="//giphy.com/embed/12ZxlKxt70vP1e?html5=true" width="480" height="263.56363636363636" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>

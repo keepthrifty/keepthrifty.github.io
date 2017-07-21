@@ -40,7 +40,7 @@ Here's how I define _thrifty_, with a head-nod to [Oxford Dictionaries](https://
 >
 > 1. using money and other resources carefully toward one's most important dreams and values
 >
-> {% capture tweet-text %}Thrifty: using money and other resources carefully toward one's most important dreams and values{% endcapture %}{% include tweet-link-tweet-only.html %}
+> {% include tweet-link-tweet-only.html tweet-text="Thrifty: using money and other resources carefully toward one's most important dreams and values" %}
 
 The reason this definition is so important to me - and why I used this as the name for this site - is because of how un-thrifty our life used to be.
 
@@ -86,7 +86,7 @@ Seven years later, we hadn't accomplished any of these.
 
 We had wanted to spend quality time together, creating and chasing dreams.
 
-{% capture tweet-text %}Instead, we did what we thought we were _supposed to_ - buy lots of new, expensive stuff and watch TV{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="Instead, we did what we thought we were _supposed to_ - buy lots of new, expensive stuff and watch TV" %}
 
 _Is it possible that this isn't the key to happiness?_
 

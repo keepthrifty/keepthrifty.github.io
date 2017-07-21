@@ -50,9 +50,7 @@ Spend a minute thinking on that. In order to get a loan for the holidays, you ne
 
 You know what that says to me?
 
-{% assign tweet-text = "If you've got the credit score to get a holiday loan, then you've got the means to not need one" %}
-
-{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="If you've got the credit score to get a holiday loan, then you've got the means to not need one" %}
 
 If you've proven yourself responsible enough to get approved for the loan, then you should be responsible enough to save up for holiday spending instead.
 
@@ -74,9 +72,7 @@ Christmas isn't about presents. It's not about decorations or cookies or lights 
 
 For Christians like me, Christmas is about the birth of Jesus.
 
-{% assign tweet-text = "I'm pretty sure Jesus doesn't want you to go into more debt in the name of his birthday." %}
-
-{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="I'm pretty sure Jesus doesn't want you to go into more debt in the name of his birthday." %}
 
 I'm pretty sure he'd rather we focus on celebrating his birth by showing how grateful we are for the gift he gave us (coming into this world and dying to save us).
 
@@ -96,15 +92,11 @@ If your focus is on loving one another, you'll do alright without all the unnece
 
 At this point the last cry I hear is from people who don't want their kids to have a "horrible Christmas." If they can't buy presents, their kids won't get any.
 
-{% assign tweet-text = "The flawed premise is that a child's well-being is determined by the presence or absence of toys" %}
-
-{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="The flawed premise is that a child's well-being is determined by the presence or absence of toys" %}
 
 A child's well-being is determined by the presence or absence of _loving_ parents who attend to their _needs_.
 
-{% assign tweet-text = "Toys are not love. Your attention, your care, and your time are love." %}
-
-{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="Toys are not love. Your attention, your care, and your time are love." %}
 
 Let's be clear - I'm not anti-toys; we will be getting our kids a reasonable number of toys for the holidays.
 

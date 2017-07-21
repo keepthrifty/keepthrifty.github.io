@@ -44,9 +44,7 @@ Three years is a long time and in those three years, the couple kept working har
 
 It may sound strange, but seeing that home listing had a really big impact on me. The more I thought about it, the more I realized how many hard things I was avoiding because I convinced myself I didn't have the talent to do them.
 
-{% assign tweet-text = "We're quick to ascribe success to 'talent' but true success comes from honest hard work" %}
-
-{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="We're quick to ascribe success to 'talent' but true success comes from honest hard work" %}
 
 I don't know one great musician, artist, author, scientist, athlete, or blogger that's great at what they do that doesn't work hard at it.
 
@@ -92,23 +90,17 @@ I've grown a lot in my writing in the last 9 months but recognize that I have a 
 
 Because I know that I get better with every post I write, I'll keep at it and I'll get there.
 
-{% assign tweet-text = "Hard work trumps talent." %}
-
-{% include tweet-link.html %}
+Hard work trumps talent.
 
 ## Who's Your Hero? ##
 
-{% assign tweet-text = "Except maybe Mr. Money Mustache - I'm pretty sure he was born on a bike with a hammer in his hand" %}
-
-Nobody is born an expert. {% include tweet-link.html %}
+Nobody is born an expert. Except maybe Mr. Money Mustache - I'm pretty sure he was born on a bike with a hammer in his hand.
 
 When you have something you want to get better at but find yourself demotivated because you feel like you're so far away from being "good", pick someone you respect in the field and find out where they started.
 
 Read their first blog post or listen to their very first song. Get a biography and see their humble beginnings.
 
-{% assign tweet-text = "We all come in to this world as helpless little creatures, 100% dependent on someone else." %}
-
-{% include tweet-link.html %}
+We all come in to this world as helpless little creatures, 100% dependent on someone else.
 
 Everyone starts at zero and builds up from there. If they can do it, so can you.
 
@@ -116,9 +108,7 @@ We talk about talent a lot, but the reality is that success comes from working -
 
 ## Run with it ##
 
-{% assign tweet-text = "If you just do the things that come easy to you, you're probably doing the wrong things." %}
-
-If something isn't easy, don't give up - that's a terrible reason not to do it. {% include tweet-link.html %}
+If something isn't easy, don't give up - that's a terrible reason not to do it. {% include tweet-link.html tweet-text="If you just do the things that come easy to you, you're probably doing the wrong things." %}
 
 Pick something hard, work at it, persist, and eventually you'll find yourself accomplishing things you never thought you could.
 
