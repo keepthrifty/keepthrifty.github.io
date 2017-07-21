@@ -73,7 +73,7 @@ Finally understanding, he turned to the younger cousin and asked, "_Can you show
 
 Over our lives, it's important to build up savings and investments. But it's even more important to know what money is for and how to use it appropriately.
 
-{% capture tweet-text %}Money is a tool, nothing more.{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="Money is a tool, nothing more." %}
 
 Money can be a valuable part of creating an amazing life, but only if we spend it with intentionality on our dreams and values.
 
@@ -91,4 +91,4 @@ The more you practice, the more adept you'll become at using the money you have 
 >
 ><cite>Anonymous (sometimes attributed to John Lennon)</cite>
 
-{% capture tweet-text %}In the pursuit of meaningful, rich lives, too many mistake the tools and resources as the goals {% endcapture %}{% include tweet-link.html %}. Remember that money is a resource, not an answer, and you'll avoid the fate of the older cousin.
+{% include tweet-link.html tweet-text="In the pursuit of meaningful, rich lives, we too often mistake the tools and resources as the goals" %}. Remember that money is a resource, not an answer, and you'll avoid the fate of the older cousin.
