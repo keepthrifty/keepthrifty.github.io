@@ -100,7 +100,7 @@ Our answer? _Nothing_
 
 We keep it empty. Occasionally our kids will run around down there using it like an indoor gym, but we don't have any stuff we use in our lower level. No toys, no entertainment, no couches.
 
-{% capture tweet-text %}We just can't bring ourselves to buy stuff to fill a space that we know we don't need{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="We just can't bring ourselves to buy stuff to fill a space that we know we don't need" %}
 
 ![Lower level painted and empty]({{site.url}}/img/posts/2017-04-10-living-in-half-of-our-house/lower-level-done.jpg)
 
@@ -174,7 +174,7 @@ Our remodeling plans have continued, but the major work is done. Right now, we a
 
 We occasionally have one of the kids sneak into the master bathroom if the other one is in use. We've got our "guest bed" in the master bedroom that gets used a couple times a year. If we didn't have that room, we'd just [sleep on the floor](http://www.jaimedeclutters.com/blog/2017/04/05/why-we-sleep-on-the-floor/){: target="_blank"} of our kids' room when guests come over; I'm confident we could get by with a 2-bedroom.
 
-{% capture tweet-text %}___For our family of five, our effective housing use is a 2 bedroom, 1.5 bath with 1016 square feet___{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="___For our family of five, our effective housing use is a 2 bedroom, 1.5 bath with 1016 square feet___" %}
 
 In the United States, [the national average for "square feet per person" in new housing builds is 1054.7 square feet](https://www.aei.org/publication/todays-new-homes-are-1000-square-feet-larger-than-in-1973-and-the-living-space-per-person-has-doubled-over-last-40-years/){: target="_blank"}. Our family is having a blast in 203.2 square feet per person.
 

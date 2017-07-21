@@ -46,7 +46,7 @@ _Already have that one...and that one...and that one...there's a new one, but mo
 
 The feeling of excitement would turn to disappointment and I'd rush to buy another pack. Every once in a while I'd get lucky, get a rare card, and be flying on cloud nine.
 
-{% capture tweet-text %}Perhaps "artificial scarcity" is more accurately titled "__teaching kids the thrill of gambling__"{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="Perhaps 'artificial scarcity' is more accurately titled '__teaching kids the thrill of gambling__'" %}
 
 There have been lots of examples of artificial scarcity over the years but the latest one really gets under my skin: _Shopkins_
 
@@ -60,7 +60,7 @@ __Your Defense:__ If you're buying something known to be "rare" or "uncommon", d
 
 This one is best exposed by looking at an example. Here's a recent one I ran across:
 
-{% capture video-link %}https://www.ispot.tv/share/Abl6{% endcapture %}{% include video-embed.html %}
+{% include video-embed.html video-link="https://www.ispot.tv/share/Abl6" %}
 
 At first glance, this seems pretty innocent. A loving mother and father want what's best for their children. So, they invest in their kids' future by buying a house with a 30-year mortgage.
 
@@ -141,7 +141,7 @@ Instead of having the option to buy a new bulb, you now have to spend _extra mon
 
 What was sold to you as a benefit is actually more expensive, more wasteful, and less convenient!
 
-__Your Defense:__ Constantly question what you're being told by advertisers. {% capture tweet-text %}Most companies are more concerned about your dollars than your well-being{% endcapture %}{% include tweet-link.html %}
+__Your Defense:__ Constantly question what you're being told by advertisers. {% include tweet-link.html tweet-text="Most companies are more concerned about your dollars than your well-being" %}
 
 ## Bonus Tactic - Anchoring
 

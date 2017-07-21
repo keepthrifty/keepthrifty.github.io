@@ -53,7 +53,7 @@ In addition to giving our house a festive feel, the kids were incredibly proud o
 
 Before we knew it, every interior door had a paper turkey and there were little slips of paper all over our house with the word "Gobbl" (sp) on them.
 
-{% capture tweet-text %}You couldn’t walk into any room in our house last week without seeing a Thanksgiving decoration{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="You couldn’t walk into any room in our house last week without seeing a Thanksgiving decoration" %}
 
 It was awesome for us and our kids were excited to have helped decorate.
 
@@ -95,7 +95,7 @@ The grilled cheese even had deli turkey on it for the family members that were u
 
 ## Thankful for Enough
 
-{% capture tweet-text %}Black Friday. Ugh.{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="Black Friday. Ugh." %}
 
 People confuse me.
 
@@ -107,7 +107,7 @@ Compound that with my general distaste for consumerism any time of the year and 
 
 Rather than spend the day standing in line for stuff we didn't need, we spent the day playing games, chilling in our pajamas, and building epic forts using our furniture, blankets, and camping gear :)
 
-{% capture tweet-text %}It was a great way to show gratitude for what we have - committing to not getting anything more{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="It was a great way to show gratitude for what we have - committing to not getting anything more" %}
 
 ![A fort for three little ones; future additions planned]({{ site.url}}/img/posts/2016-11-27-staying-thankful-spend-happy-world/epic-fort.jpg)
 
@@ -142,7 +142,7 @@ Some of my favorites from the kids:
 - Myself (one of our daughters being thankful for herself)
 - Jesus
 
-{% capture tweet-text %}It's not the first time I've been [amazed at how poignant the thinking of a child can be]({{ site.url }}{% post_url 2016-10-10-become-twice-as-happy-with-half-as-much %}){% endcapture %}{% include tweet-link.html %}
+It's not the first time I've been [amazed at how poignant the thinking of a child can be]({{ site.url }}{% post_url 2016-10-10-become-twice-as-happy-with-half-as-much %})
 
 What struck me the most was how thankful they were for the fundamentals - that they understood that many of their items were necessary but not universal.
 

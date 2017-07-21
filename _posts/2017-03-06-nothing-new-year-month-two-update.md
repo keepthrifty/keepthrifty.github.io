@@ -90,7 +90,7 @@ _Other than this, we only have a short list of exceptions we allow:_
 
 So, how did we do?
 
-{% capture tweet-text %}__We really took advantage of the exceptions list this month__ :){% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="__We really took advantage of the exceptions list this month__ :)" %}
 
 At the start of February, my shoes were about as bald as our tires and there was no way we were making a 2300-mile road trip without replacing both. You may disagree, but we strongly feel that holes defeat the purpose of socks and pajamas. The money we put in to our remodeling is something we'll re-capture when we put our house on the market and sell.
 

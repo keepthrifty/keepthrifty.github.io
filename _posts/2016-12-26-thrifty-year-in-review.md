@@ -56,7 +56,7 @@ The markets did well, we maxed out our 401k, and we made big prepayments on our 
 
 ### Debt Freedom Progress
 
-Perhaps our biggest financial victory was the dent we put in our mortgage. {% capture tweet-text %}We paid off $24,000 of mortgage principal this year!{% endcapture %}{% include tweet-link.html %}
+Perhaps our biggest financial victory was the dent we put in our mortgage. {% include tweet-link.html tweet-text="We paid off $24,000 of mortgage principal this year!" %}
 
 We've still got about $87,000 to go and if we this pace, we'll be completely debt-free in August 2020.
 
@@ -117,7 +117,7 @@ We've got lots of fun stuff in the works for 2017. Here are the big ones we know
 
 Last, but certainly not least, I'm excited to announce a big challenge we'll be taking on next year.
 
-{% capture tweet-text %}__2017 will be "Nothing New Year"__{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="__2017 will be 'Nothing New Year'__" %}
 
 We will attempt to buy only used items with a short list of exceptions. _Like toothbrushes... and underwear._
 

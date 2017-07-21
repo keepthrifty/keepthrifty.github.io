@@ -74,7 +74,7 @@ Years ago, I read [The Four-Hour Workweek by Tim Ferriss](http://amzn.to/2ue3Rkj
 
 If you want to live a normal life, do what everyone else around you is doing. But who wants to live a "normal" life? Shouldn't we want something better?
 
-{% capture tweet-text %}If we want to live extraordinary lives, we need the courage to do not-so-ordinary things{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="If we want to live extraordinary lives, we need the courage to do not-so-ordinary things" %}
 
 [Through our past]({% post_url 2017-06-13-our-not-so-thrifty-past %}), we'd spent so much time and money on things that weren't true to our values and dreams. These were the things that the world around us said we needed to be happy. We found that they weren't very good at providing that happiness because they hadn't come from _our_ dreams and values - they had come from ads, envy, and following the herd.
 
@@ -140,7 +140,7 @@ _By trying them out, we found ourselves breaking boundaries we thought were impe
 
 _By breaking those boundaries, we gained faith in ourselves - in our ability to go beyond the normal to pursue an extraordinary life._
 
-{% capture tweet-text %}_Armed with faith, courage, and financial discipline, we're making a big leap._{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="_Armed with faith, courage, and financial discipline, we're making a big leap._" %}
 
 - On June 30th, I left my job
 - On July 1st and 2nd, we moved into our apartment
@@ -219,7 +219,7 @@ _We're not special. My wife and I are ordinary people._
 
 We just decided to try living in not-so-ordinary ways and that has led us to a pretty extraordinary life.
 
-{% capture tweet-text %}If we can do this, so can you{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="If we can do this, so can you" %}
 
 I know you've got a big, audacious dream you'd love to pursue but there are things holding you back. You can get there with the right mentality and discipline.
 

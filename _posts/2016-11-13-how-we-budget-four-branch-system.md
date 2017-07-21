@@ -41,7 +41,7 @@ The benefits of budgeting on our end have been clear:
 - We're doing a better job putting our money where are hearts are - spending on things that are true priorities
 - We're kicking butt at paying off our debt and staying on track in our savings goals
 
-{% capture tweet-text %}The net effect of budgeting is not just a better financial situation but also a better _marriage_{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="The net effect of budgeting is not just a better financial situation but also a better _marriage_" %}
 
 Our system has helped us communicate better about our financial goals and make sure we are on the same page.
 
@@ -49,7 +49,7 @@ The rest of this post will be the step-by-step method to apply our system from s
 
 ## Step 1: Align On Goals
 
-When it comes to budgeting, {% capture tweet-text %}the most critical part isn't numbers - it's setting goals so you can build a budget to achieve them{% endcapture %}{% include tweet-link.html %}
+When it comes to budgeting, {% include tweet-link.html tweet-text="the most critical part isn't numbers - it's setting goals so you can build a budget to achieve them" %}
 
 Every December, my wife and I have a discussion about what our goals are for the next year and the long-term as well. We talk about our desire for travel, our goals on debt freedom and financial independence, what charitable giving we want to be able to do, any increase we feel we need in our emergency savings, and any projects we'd like to set money aside for.
 
@@ -77,7 +77,7 @@ The key to simplifying monthly budgets really comes down to figuring out how to 
 
 If you're in the majority and are paid bi-weekly or weekly, there's a simple trick to smooth out your income.
 
-{% capture tweet-text %}I call it planning for a "reasonable minimum income" and it looks something like this{% endcapture %}{% include tweet-link.html %}:
+{% include tweet-link.html tweet-text="I call it planning for a 'reasonable minimum income' and it looks something like this" %}:
 
 - If you get paid bi-weekly, pretend you only get two paychecks a month for the _whole_ year (even those months where you get three)
 - If you get paid weekly, pretend you only get four paychecks a month for the _whole_ year (even those months where you get five)
@@ -119,7 +119,7 @@ Second, add up all of your __monthly cycle__ expenses and write the number in th
 
 __Long cycle__ expenses take a bit more work to get smoothed out.
 
-{% capture tweet-text %}We're going to use a cool concept called _Personal Escrow_ to make your planning a whole lot easier{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="We're going to use a cool concept called _Personal Escrow_ to make your planning a whole lot easier" %}
 
 ### Personal Escrow
 
@@ -163,7 +163,7 @@ If you're not happy with how much is going to your __targeted goals__, revisit t
 
 Now, you're going to actually template out what each month will look like.
 
-{% capture tweet-text %}One of the most powerful concepts we use is assigning expenses to individual paychecks{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="One of the most powerful concepts we use is assigning expenses to individual paychecks" %}
 
 Here's an example of how this works:
 
@@ -285,13 +285,13 @@ By having that mentality set up ahead of time, you'll avoid the temptation to bl
 
 That's why step 1 is so important.
 
-{% capture tweet-text %}By identifying goals first, extra money has a predefined home instead of getting blown on impulses.{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="By identifying goals first, extra money has a predefined home instead of getting blown on impulses." %}
 
 ## Extra Credit
 
 The one final recommendation I'd have in your budgeting is to track your spending.
 
-{% capture tweet-text %}I can't emphasize this enough. Track your spending people!{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="I can't emphasize this enough. Track your spending people!" %}
 
 As much work as you'll do in putting together a budget, the reality is that your spending estimates are going to be wrong in some way.
 

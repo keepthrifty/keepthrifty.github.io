@@ -130,7 +130,7 @@ The fact that it was __so difficult__ to find a place we could live in with less
 
 We're putting people in a position where they are incentivized to violate building codes, deed restrictions, or lie about the number of kids they have.
 
-{% capture tweet-text %}Shouldn't we want people to have the freedom to live smaller without being considered outlaws?{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="Shouldn't we want people to have the freedom to live smaller without being considered outlaws?" %}
 
 ## Finding Other Ways to Live Small
 

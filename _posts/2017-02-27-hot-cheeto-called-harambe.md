@@ -34,7 +34,7 @@ Here's my favorite article about it:  [This Cheeto that looks like Harambe is wo
 
 Jimmy Kimmel did a great bit on it too:
 
-{% capture video-link %}https://www.youtube.com/embed/byn90MFYGKY?ecver=2{% endcapture %}{% include video-embed.html %}
+{% include video-embed.html video-link="https://www.youtube.com/embed/byn90MFYGKY?ecver=2" %}
 
 Just like that day last November in the middle of the _NES craze_, my work pals' eyes throbbed with dollar signs at the money-making potential of a _Cheeto Called Harambe_.  
 

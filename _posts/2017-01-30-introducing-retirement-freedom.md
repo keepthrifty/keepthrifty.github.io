@@ -30,7 +30,7 @@ As a refresher, _financial freedom_ is the point when you no longer have to brin
 
 But I didn't want to wait until I'm all the way there to celebrate - so I created ___Retirement Freedom___ as an intermediate milestone. Here's my definition:
 
-{% capture tweet-text %}_Your retirement accounts are big enough for you to retire at 65 even if you stop contributing today_{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="_Your retirement accounts are big enough for you to retire at 65 even if you stop contributing today_" %}
 
 In other words - if you never put another penny in your retirement accounts but they'll still grow big enough for you to retire at age 65, congratulations - _you're retirement free_!
 

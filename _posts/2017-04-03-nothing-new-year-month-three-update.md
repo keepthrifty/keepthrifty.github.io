@@ -111,7 +111,7 @@ After a lot of discussion this month, we came to a big decision.
 
 If we want to be ready when the right opportunity comes, we need our house to _at least_ be ready to sell. Ideally we'd have the cash from our equity in-hand.
 
-{% capture tweet-text %}So...__we called our bank and stopped our automatic prepayments__{% endcapture %}{% include tweet-link.html %}.
+{% include tweet-link.html tweet-text="So...__we called our bank and stopped our automatic prepayments__" %}.
 
 We're going to be refocusing our finances in the short term to finish our renovations as fast as reasonably possible with the goal of __selling our house this summer__ and moving into an apartment while we figure out our next step.
 

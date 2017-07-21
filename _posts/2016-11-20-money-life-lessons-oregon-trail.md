@@ -57,7 +57,7 @@ With [the average household paying a total of $6,658 in interest per year](https
 
 Having a higher income or starting debt free is a huge advantage in the game of life.
 
-{% capture tweet-text %}If only choosing your income level was as easy as clicking a button{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="If only choosing your income level was as easy as clicking a button" %}
 
 It's not that easy, but you __do__ have power to do something about it.
 
@@ -67,7 +67,7 @@ It's not that easy, but you __do__ have power to do something about it.
 
 For those of us that spent countless hours figuring out how to optimize our odds of making it in _The Oregon Trail_, one thing was clear:
 
-{% capture tweet-text %}_If you can't afford food, you'd better buy lots of bullets and go hunt some bison_{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="_If you can't afford food, you'd better buy lots of bullets and go hunt some bison_" %}
 
 The key to making it through the game without much money was finding an alternate source of food - hunting for it yourself.
 
@@ -105,13 +105,13 @@ The answers are all probably yes, but the strength of those yesses goes down eac
 
 The first million is a big deal. Ten million generates more than enough interest for anyone to live an extravagant lifestyle. Once you get up to $100 million or $1 billion, you've hit a ceiling.
 
-{% capture tweet-text %}There's a point at which more money doesn't really buy you more freedom{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="There's a point at which more money doesn't really buy you more freedom" %}
 
 Once you've got enough to cover your reasonable expenses, the extra money is more likely to be a stressor than a help.
 
 Don't make your life's goal to be the collection of money.
 
-{% capture tweet-text %}Decide your goal if money were no object and figure out how to get enough money to let you do that{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="Decide your goal if money were no object and figure out how to get enough money to let you do that" %}
 
 ## Plan Ahead - Save for Risks
 
@@ -133,7 +133,7 @@ In order to be able to do this though, you have to plan ahead. Setting aside $10
 
 Life is going to present you with unexpected rivers you need to cross and it pays to have an emergency fund set up to help you cross them.
 
-{% capture tweet-text %}Rolling the dice and trying to get through without a safety net just isn't worth it{% endcapture %}{% include tweet-link.html %}
+{% include tweet-link.html tweet-text="Rolling the dice and trying to get through without a safety net just isn't worth it" %}
 
 Build up a safety net for yourself so you can have some financial continuity when things get rough.
 
@@ -169,13 +169,13 @@ _Stop overworking and under-sleeping!_
 
 Take time for yourself - invest in yourself - and invest in the health of your family members (physically, spiritually, mentally).
 
-After all, {% capture tweet-text %}Wouldn't you rather get to the Willamette Valley with your friends and family by your side?{% endcapture %}{% include tweet-link.html %}
+After all, {% include tweet-link.html tweet-text="Wouldn't you rather get to the Willamette Valley with your friends and family by your side?" %}
 
 ## You Can't Control Everything
 
 Perhaps the most important lesson from _The Oregon Trail_ is that no amount of preparation, planning, or meticulous management of your wagon party guarantees success.
 
-{% capture tweet-text %}Life is bound to throw you curveballs; it’s healthy to acknowledge you aren’t always in control{% endcapture %} {% include tweet-link.html %}
+{% include tweet-link.html tweet-text="Life is bound to throw you curveballs; it’s healthy to acknowledge you aren’t always in control"%}
 
 I've found the serenity prayer to be a great way to maintain the right outlook through these challenging situations:
 
