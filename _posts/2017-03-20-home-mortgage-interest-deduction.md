@@ -10,11 +10,11 @@ description: "Debunking the claim that prepaying your mortgage messes up your ta
 image: /img/posts/2017-03-20-home-mortgage-interest-deduction/home-mortgage-interest-deduction.jpg
 
 related-posts: [
-  "/2016/04/10/how-we-saved-on-our-mortgage",
   "/2016/01/15/prepaying-mortgage-trick",
   "/2016/04/28/the-big-short",
   "/2017/01/30/introducing-retirement-freedom",
-  "/2016/12/12/ultimate-refinancing-spreadsheet-calculator"
+  "/2016/12/12/ultimate-refinancing-spreadsheet-calculator",
+  "/safe-withdrawal-rate-4-percent-relevant"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [money]
