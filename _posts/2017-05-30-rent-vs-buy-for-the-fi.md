@@ -17,7 +17,8 @@ related-posts: [
   "/2016/06/05/prepay-vs-invest",
   "/2016/09/18/the-price-of-an-extra-day",
   "/2016/12/12/ultimate-refinancing-spreadsheet-calculator",
-  "/2017/01/30/introducing-retirement-freedom"
+  "/2017/01/30/introducing-retirement-freedom",
+  "/safe-withdrawal-rate-4-percent-relevant"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [money]

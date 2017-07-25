@@ -25,6 +25,7 @@ tags: [dreams & values]
 affiliate: true
 
 featured: true
+rockstar: true
 
 ---
 
