@@ -16,7 +16,6 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [money]
-featured: true
 rockstar: true
 ---
 
