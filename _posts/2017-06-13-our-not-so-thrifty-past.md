@@ -16,7 +16,8 @@ related-posts: [
   "/2016/12/05/money-mistakes-financial-compass",
   "/2017/04/17/three-phases-money-feelings",
   "/2016/10/16/talent-is-overrated",
-  "/2016/07/06/roadtrip-recap"
+  "/2016/07/06/roadtrip-recap",
+  "/breaking-addiction-home-updates"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [dreams & values]

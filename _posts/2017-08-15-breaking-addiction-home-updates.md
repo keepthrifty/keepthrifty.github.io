@@ -6,18 +6,21 @@ author_email: chris@keepthrifty.com
 
 title: "Breaking Our Addiction to Home Updates"
 subtitle: "The Hidden Money We Saved By Selling Our House"
-description: "TK"
+description: "It started with a little remodeling in our entryway and soon became a full-blown addiction. Thankfully we got out before the really big projects came."
 
 date: 2017-08-15 5:58:00 -0500
 
 image: /img/posts/2017-08-15-breaking-addiction-home-updates/remodeled-house.jpg
-pinterest-image: /img/posts/2017-08-15-breaking-addiction-home-updates/TK
+pinterest-image: /img/posts/2017-08-15-breaking-addiction-home-updates/breaking-home-update-addiction
 
 related-posts: [
-  tk
+  "/2016/03/14/soda-for-retirement",
+  "/2017/01/23/ignorance-better",
+  "/2017/06/13/our-not-so-thrifty-past",
+  "/2017/01/09/defeat-four-devious-marketing-tactics"
 ]
 
-tags: [money]
+tags: [think different]
 
 ---
 

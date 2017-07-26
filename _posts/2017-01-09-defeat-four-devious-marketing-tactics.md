@@ -11,12 +11,11 @@ image: /img/posts/2017-01-09-four-devious-marketing-tactics/mannequins.jpg
 pinterest-image: /img/posts/2017-01-09-four-devious-marketing-tactics/devious-marketing-pinterest
 
 related-posts: [
-  "/2016/05/24/encouragement-over-hate",
   "/2016/07/14/experience-or-stuff",
   "/2016/09/12/we-wish-you-a-merry-debtmas",
   "/2016/10/16/talent-is-overrated",
-  "/2017/04/17/three-phases-money-feelings",
-  "/2017/04/24/grown-up-lessons-from-lemonade-stand"
+  "/2017/04/24/grown-up-lessons-from-lemonade-stand",
+  "/breaking-addiction-home-updates"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [money]
