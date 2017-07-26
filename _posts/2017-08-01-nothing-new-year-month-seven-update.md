@@ -9,7 +9,7 @@ description: "TK"
 
 date: 2017-08-01 5:58:00 -0500
 
-image: /img/posts/2017-08-01-nothing-new-year-month-seven-update/
+image: /img/posts/2017-08-01-nothing-new-year-month-seven-update/cheers.jpg
 pinterest-image: /img/posts/2017-08-01-nothing-new-year-month-seven-update/nny-month-7-update
 
 related-posts: [
@@ -105,19 +105,31 @@ Through the first six months of the year, we've purchased __eight__ things new t
 
 While we haven't hit the goal every month, we are still purchasing a lot fewer new items this year. By way of comparison, I looked at our spending from January through June of _last year_ and we had purchased ___52 new items___!
 
-## Mortgage Payoff Update
+## FINAL Mortgage Payoff Update
 
-We are closing on the sale of our house in _two days_ - July 5th, after which we will be completely and utterly debt-free!
+After all the checks were written and accounts updated, we logged into our lender's website and saw this amazing, awesome sight:
 
-At the start of this month, we made our last regular payment so here's the update chart for where we're at after our June 1 payment:
+![Mortgage principal remaining: $0.00]({{site.url}}/img/mortgage-payoff/mortgage-paid-off.png)
 
-![Mortgage payoff progress: outstanding principal is down to $78424.84 and we're due to pay off on July 5, 2017. By prepaying and refinancing, we are saving $164,903.73 and 20.2 years over original mortgage plan.]({{site.url}}/img/mortgage-payoff/Mortgage-Payoff-Jul-2017.png)
+{% include tweet-link.html tweet-text="It's time to celebrate folks, because we closed on our house and are officially 100% debt-free!" %}
+
+I'd say drinks are on the house, but we don't have one anymore so I guess you're on your own. (_Sorry, I couldn't resist a terrible "dad joke"_)
+
+In our prior updates, I had listed how much we were saving in interest through refinancing and prepayments but those numbers only applied if we were going to stay in our house. Since we sold our house, I've updated the number to show how much we saved in the last 10 years through refinancing and aggressive prepayments.
+
+Here's the result of our efforts:
+
+![We saved $70,782.87]({{site.url}}/img/mortgage-payoff/Mortgage-Payoff-Aug-2017.png)
 
 <div class="image-caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
 
-With our standard payment this month, we knocked another $755 off our outstanding principal and are now at just under $78,500 remaining. In two days, we should be done selling the house and can write the last check to the bank, paying off the rest!
+Over the last ten years, we saved over $70,000. That's just enough to fund [a one-year mini-retirement]{% post_url 2017-07-11-one-year-mini-retirement %}.
 
-## Whoaaaaa.....We're Halfway There....
+We didn't set out 10 years ago with that benefit in mind, but keeping mindful of [the cost of interest](http://www.mysonsfather.com/debt-motivation/){: target="_blank"} helped us keep disciplined so we could build up a nest egg. We didn't know what that nest egg would ultimately be for, but our discipline bought us options.
+
+## Over the Hump
+
+TK
 
 Halfway through the year, we've made some good progress on reducing how much we buy new. While we haven't been perfect, we're still way under what we did last year. I wish I had the data from our life years ago when we [weren't as thrifty]({% post_url 2017-06-13-our-not-so-thrifty-past %}) so we could see how far we've really come.
 
