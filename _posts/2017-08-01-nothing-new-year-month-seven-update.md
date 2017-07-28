@@ -66,7 +66,7 @@ In the meantime, here's a detailed category-by-category look at what we spent th
 | Home Updates | $0.00 | Now that we're out of our house, this should be $0 for the future. Anything wrong with the apartment is our landlord's problem :) |
 | Household Care | $286.77 | We had a bunch of the regulars: Aleve, overnight pull-ups, toothpaste, air freshener, duct tape, corn syrup (for making bubble mix), toilet paper, bandaids, bug spray, shampoo, conditioner, hand soap, dish soap, laundry soap, foundation make-up, and sunscreen. In addition, we got a few pieces of furniture for our apartment - all used or borrowed: a chairs with ottoman and a sit/stand desk. We did have to get one ___new___ thing - replacement ice packs for [our kids' lunch boxes}(http://amzn.to/2h2O82b){: target="_blank" rel="nofollow"} in preparation for school in the fall (the prior ice packs had leaked). |
 | Pizza & Movie Night | $84.95 | Pizza and ice cream twice - sub sandwiches for a change one night. |
-| Services | $176.48 | Similar to health insurance, I had to pay for life insurance for my last month of work, this month, and next month. We also paid $5 for a new pack of checks for our [Capital One](https://r.capitalone360.com/3CfUCBLSNt){: target="_blank" rel="nofollow"} checking account. Finally, my wife got a new haircut - it looks awesome; her last one was in September of last year, so she's making these last :) |
+| Services | $176.48 | Similar to health insurance, I had to pay for life insurance for my last month of work, this month, and next month. We also paid $5 for a pack of checks for our [Capital One](https://r.capitalone360.com/3CfUCBLSNt){: target="_blank" rel="nofollow"} checking account. Finally, my wife got a haircut - it looks awesome; her last one was in September of last year, so she's making these last :) |
 | Shelter | $22,961.89 | Yowza! Most of this was for closing on our house: $16,560 in agent fees, $3100 in accrued property tax, and $2000 to the title company. Beyond this, we paid for July and August rent and the remainder of our renter's insurance premiums. |
 | Thrifty | $28.67 | Hosting fees and source code storage for [Thrifty]({{site.url}}/thrifty/) this month plus registering a domain name for a side-project I'm working on. I'll be sure to give details when I get closer. |
 | Transportation | $223.14 | Oil change, tire rotation, four tanks of gas and the cost of parking in Madison at the public library for an afternoon. |
@@ -93,14 +93,14 @@ _Other than this, we only have a short list of exceptions we allow:_
 - _Car maintenance parts (we know we need new tires next year)_
 - _Home remodeling_
 
-As you saw above, we had an additional ten items this month - no small amount, but still an improvement from July of 2016, where we bought twenty-one.
+As you saw above, we had an additional eleven items this month - no small amount, but still an improvement from July of 2016, where we bought twenty-one.
 
-Through the first six months of the year, we've purchased __eighteen__ things new that weren't on the exception list:
+Through the first seven months of the year, we've purchased __nineteen__ things new that weren't on the exception list:
 - In month one, we purchased replacement carbon monoxide detectors
 - In month four, we purchased a replacement power cord for my wife's laptop and a costume for one of our kids as a birthday present
 - In month five, we purchased stainless steel straws and a dress/cover-up
 - In month six, we purchased a stuffed animal, recycled plastic food storage containers, and car games for our road trip
-- In month seven, we purchased four new dresses, four accessories, a pair of sunglasses, and replacement ice packs.
+- In month seven, we purchased three new dresses, four accessories, a pair of sunglasses, shorts, a shirt, and replacement ice packs.
 
 We've missed our goal in a good portion of the months but we are still purchasing a lot fewer new items this year. By way of comparison, I looked at our spending from January through Julu of _last year_ and we had purchased ___73 new items___!
 
@@ -134,7 +134,7 @@ One thing I was reminded of this month was the importance of _progress over perf
 
 When we have months like this, I have a tendency to look at things too black-and-white and feel like we failed because we weren't perfect at buying nothing new. Thankfully, my wife is here to keep me balanced :)
 
-Compared to last year, we made some great progress - cutting our new items in half. Go a few years before that and we were shopping at Target twice a week and constantly cycling items in and out of our house.
+Compared to last year, we made some great progress - cutting our new items by almost 75%. Go a few years before that and we were shopping at Target twice a week and constantly cycling items in and out of our house.
 
 The reality is that we're doing _significantly better_ now than ever before - we're much more conscious of what we're spending on and making more deliberate, thrifty decisions about when and what to buy.
 
