@@ -324,7 +324,7 @@ Since you got through the full version but probably weren't taking notes, here's
 3. Normalize these for monthly spending using the concept of _personal escrow_
 4. See what your total is (excluding targeted goals) when compared to your reasonable minimum income; go back to 1, 2, and 3 as necessary until your income exceeds your expected expenses
 5. Write down a standard monthly budget, remembering to assign expense categories to each paycheck
-6. Set up a checking account, a _Personal Escrow_ savings account, and one savings account for each __targeted goal__ - I recommend using [Capital One 360](https://r.capitalone360.com/3CfUCBLSNt){: target="_blank"}
+6. Set up a checking account, a _Personal Escrow_ savings account, and one savings account for each __targeted goal__ - I recommend using [Capital One 360](https://r.capitalone360.com/3CfUCBLSNt){: target="_blank" rel="nofollow"}
 7. As each paycheck comes in, transfer and spend according to the expenses you assigned to that paycheck
 8. When __long cycle__ expenses come up, transfer the money from _Personal Escrow_ and breathe easy. For spending on your __targeted goals__, just transfer from the relevant savings account
 9. Use any unplanned income (extra paychecks, tax refunds, etc) to go straight toward your __targeted goals__
