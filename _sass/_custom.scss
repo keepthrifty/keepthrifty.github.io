@@ -147,6 +147,17 @@ a {
 
 }
 
+.archive-comment-count {
+  font-size: 0.8rem;
+  color: $meta-color;
+  a {
+    color: $meta-color;
+  }
+  @media (max-width: $minimum-break) {
+    display: none;
+  }
+}
+
 .post__header__image {
   display: block;
   margin: auto;
