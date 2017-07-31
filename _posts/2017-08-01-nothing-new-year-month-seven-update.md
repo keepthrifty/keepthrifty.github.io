@@ -41,7 +41,7 @@ Let's tackle the elephant in the room first - __we spent almost $28,000!?!?__ No
 
 Our spending this month includes all of the closing costs in here (including the agent fees for our agent and the buyers' agent). When we take those out, the number drops back to a more realistic level (albeit a high one) - $6,092.97.
 
-We have a few "double payments" this month as the July expenses for our apartment life came on July 1st but we prefer to pay our August expenses a few days ahead. Rent and health insurance are the two big culprits here, which bring our totals up by over $1,000. It'll all balance out in the end, so we'll have to see what normal spending looks like in the future.
+We have a few "double payments" this month as the July expenses for our apartment life came on July 1st but we prefer to pay our August expenses a few days ahead. Rent and health insurance are the two big culprits here, which together bring our totals up by over $1,000. It'll all balance out in the end, so we'll have to see what normal spending looks like in the future.
 
 If you've been following along on these updates, you might notice a few new categories. As Jaime and I have entered our one-year mini-retirement, we've been developing a new budgeting system to replace [our old one]({% post_url 2016-11-13-how-we-budget-four-branch-system %}) and part of this has been creating new categories in [Thrifty]({{site.url}}/thrifty/) for certain expenses that we're budgeting separately.
 
@@ -53,7 +53,7 @@ In the meantime, here's a detailed category-by-category look at what we spent th
 | Category | Amount  | Notes |
 |:----:+------:+---------------|
 | Charity  | $100.00 | We continued our regular contributions to our church and to [The Hope Effect](http://hopeeffect.com/){: target="_blank"}, one of our favorite charities. |
-| Clothing/Shoes | $223.53 | My wife needed some replacement _unmentionables_ but thankfully those are on the exceptions list. Outside of this, we treated our girls each to a new dress and an accessory as well as shorts, a shirt, a pair of sunglasses and a headband for my wife. All told, we got 10 ___new__ items, totaling $93.78. |
+| Clothing/Shoes | $223.53 | My wife needed some replacement _unmentionables_ but thankfully those are on the exceptions list. Outside of this, we treated our girls each to a new dress and an accessory as well as shorts, a shirt, a pair of sunglasses and a headband for my wife. All told, we got 10 ___new___ items, totaling $93.78. |
 | Date Night | $94.09 | We set a budget of $70 every two weeks for date night to cover the cost of childcare and our food. We hope to come well below this, but we recognize how important it is to plan out spending this time together. We were mindful of our meal costs and we got free childcare for the second date night as our girls stayed with Grandma and Grandpa, end up $45 _under_ budget. |
 | Eating Out | $58.18 | We're now separating our _Eating Out_ expenses into "planned" (date night and pizza/movie night) and "unplanned" (last-minute meals and treats). This month, we got treats a few different times for the whole family, no convenience meals, and one dinner out with a friend. |
 | Education | $0.00 | |
@@ -64,14 +64,14 @@ In the meantime, here's a detailed category-by-category look at what we spent th
 | Healthcare | $779.31 | I had to pay premiums for my last month of work (retrospective), this month, and next month (proactive). In addition, we had one office visit this month. |
 | Hobbies | $39.19 | We bought two coloring books and new markers. In addition, we renewed the domain registration for my wife's blog, [Jaime Declutters](http://www.jaimedeclutters.com){: target="_blank" } |
 | Home Updates | $0.00 | Now that we're out of our house, this should be $0 for the future. Anything wrong with the apartment is our landlord's problem :) |
-| Household Care | $302.53 | We had a bunch of the regulars: Aleve, overnight pull-ups, toothpaste, air freshener, duct tape, corn syrup (for making bubble mix), toilet paper, bandaids, bug spray, shampoo, conditioner, hand soap, dish soap, laundry soap, foundation make-up, and sunscreen. In addition, we got a few pieces of furniture for our apartment - all used or borrowed: a chairs with ottoman and a sit/stand desk. We did have to get one ___new___ thing - replacement ice packs for [our kids' lunch boxes}(http://amzn.to/2h2O82b){: target="_blank" rel="nofollow"} in preparation for school in the fall (the prior ice packs had leaked). |
+| Household Care | $302.53 | We had a bunch of the regulars: Aleve, overnight pull-ups, toothpaste, air freshener, duct tape, corn syrup (for making bubble mix), toilet paper, band aids, bug spray, shampoo, conditioner, hand soap, dish soap, laundry soap, foundation makeup, and sunscreen. In addition, we got a few pieces of furniture for our apartment - all used or borrowed: a chair with ottoman and a sit/stand desk. We did have to get one ___new___ thing - replacement ice packs for [our kids' lunch boxes](http://amzn.to/2h2O82b){: target="_blank" rel="nofollow"} in preparation for school in the fall (the prior ice packs had leaked). |
 | Pizza & Movie Night | $118.50 | Pizza and ice cream three times - sub sandwiches for a change one night. |
 | Services | $195.43 | Similar to health insurance, I had to pay for life insurance for my last month of work, this month, and next month. We also paid $5 for a pack of checks for our [Capital One](https://r.capitalone360.com/3CfUCBLSNt){: target="_blank" rel="nofollow"} checking account. Finally, my wife and I each got haircuts; we tend to take quite a bit of time between cuts - her last one was in September 2016 and my last one was in February 2017. |
 | Shelter | $23,936.89 | Yowza! Most of this was for closing on our house: $16,560 in agent fees, $3100 in accrued property tax, and $2000 to the title company. Beyond this, we paid for July and August rent and the remainder of our renter's insurance premiums. |
 | Thrifty | $28.67 | Hosting fees and source code storage for [Thrifty]({{site.url}}/thrifty/) this month plus registering a domain name for a side-project I'm working on. I'll be sure to give details when I get closer. |
 | Transportation | $265.89 | Oil change, tire rotation, five tanks of gas, vacuuming of the interior, and the cost of parking in Madison at the public library for an afternoon. |
 | Travel | $156.54 | We renewed our [AAA membership](http://wisconsin.aaa.com/refer/?ref=2010483395){: target="_blank" rel="nofollow"} ahead of our upcoming road trip, reserved parking by Central Park ahead of time, and bought some replacement sand toys for our time at the beach. We're really excited to explore the northeast this month! |
-| Utilities | $383.99 | Gas, electric, water and sewer service, and internet. |
+| Utilities | $383.99 | Gas, electric, water, and sewer service, and internet. |
 |-------+----------+----|
 | __Total__ | __$27,714.21__ | (without house closing: $6,092.97) |
 |-------+----------+----|
@@ -104,7 +104,7 @@ Through the first seven months of the year, we've purchased __nineteen__ things 
 
 For this month, everything was a replacement with the exception of the accessories. We looked for used replacements for the sand toys and ice packs but couldn't find anything that worked.
 
-We've missed our goal in a good portion of the months but we are still purchasing a lot fewer new items this year. By way of comparison, I looked at our spending from January through Julu of _last year_ and we had purchased ___73 new items___!
+We've missed our goal in a good portion of the months but we are still purchasing a lot fewer new items this year. By way of comparison, I looked at our spending from January through July of _last year_ and we had purchased ___73 new items___!
 
 With that, let's move on to our __final__ mortgage payoff update.
 
@@ -114,7 +114,7 @@ After all the checks were written and accounts updated, we logged into our lende
 
 ![Mortgage principal remaining: $0.00]({{site.url}}/img/mortgage-payoff/mortgage-paid-off.png)
 
-{% include tweet-link.html tweet-text="It's time to celebrate folks, because we closed on our house and are officially 100% debt-free!" %}
+{% include tweet-link.html tweet-text="It's time to celebrate folks because we closed on our house and are officially 100% debt-free!" %}
 
 I'd say drinks are on the house, but we don't have one anymore so I guess you're on your own. (_Sorry, I couldn't resist a terrible "dad joke"_)
 
