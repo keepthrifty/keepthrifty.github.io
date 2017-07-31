@@ -33,7 +33,7 @@ There were a number of observations that led me to want to reassess whether the 
 
 Also, I've been curious about the impact of using different timing on withdrawals - either monthly or annually.
 
-Not one to let a solvable problem sit, I put together a [Ruby](https://www.ruby-lang.org/en/) script to analyze the data and regenerate the Trinity Study tables with these factors taken into account. You'll find the results below.
+Not one to let a solvable problem sit, I put together a Ruby script ([here's the source code](https://github.com/chrisdurheim/investsim){: target="_blank"}) to analyze the data and regenerate the Trinity Study tables with these factors taken into account. You'll find the results below.
 
 ## Defining Safe Withdrawal Rate
 
