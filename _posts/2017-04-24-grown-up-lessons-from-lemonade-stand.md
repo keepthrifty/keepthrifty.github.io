@@ -14,7 +14,8 @@ related-posts: [
   "/2016/08/12/fifteen-lessons-first-seven-jobs",
   "/2016/10/16/talent-is-overrated",
   "/2016/05/24/encouragement-over-hate",
-  "/2017/01/09/defeat-four-devious-marketing-tactics"
+  "/2017/01/09/defeat-four-devious-marketing-tactics",
+  "/parable-of-the-craftsmen"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [think different]

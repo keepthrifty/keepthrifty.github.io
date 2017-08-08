@@ -17,7 +17,8 @@ related-posts: [
   /2017/04/17/three-phases-money-feelings,
   /2016/11/27/staying-thankful-spend-happy-world,
   /2016/08/28/the-more-of-less-review,
-  /2016/01/01/one-word-resolution
+  /2016/01/01/one-word-resolution,
+  /parable-of-the-craftsmen
 ]
 
 tags: [dreams & values]

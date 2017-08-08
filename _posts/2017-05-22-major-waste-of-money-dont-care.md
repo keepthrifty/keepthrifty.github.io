@@ -17,7 +17,8 @@ related-posts: [
   "/2016/05/24/encouragement-over-hate",
   "/2017/01/23/ignorance-better",
   "/can-frugality-be-selfish",
-  "/one-year-mini-retirement"
+  "/one-year-mini-retirement",
+  "/parable-of-the-craftsmen"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [think different]
