@@ -40,7 +40,7 @@ We have a lot of goals we'd like to accomplish in setting up an allowance system
 
 That last one may sound a bit silly, but it's true; with two 5-year-olds and a 6-year-old, even a minimalist household can get messy pretty quickly. Those same little hands that pulled out all the toys are capable of putting them back.
 
-After reading [The MoneySmart Family System](http://amzn.to/2qQznAc){: target="_blank" rel="nofollow"} last year, I was inspired to see how the Economides family accomplished many of the same goals that we had. In trying to implement it, however, we found that the system was challenging to stick with for our kids at their current age.
+After reading [The MoneySmart Family System](http://moneysmartfamily.com/product/parenting-moneysmart-family-system-book/){: target="_blank" } last year, I was inspired to see how the Economides family accomplished many of the same goals that we had. In trying to implement it, however, we found that the system was challenging to stick with for our kids at their current age.
 
 With that in mind, let's see how some great personal finance minds approach this with their kids and see if we can piece together a strategy for the Keep Thrifty family.
 
@@ -82,15 +82,15 @@ The real secret to the answer of _how much_ lies in the answer to a different qu
 
 Jim from __Route to Retire__ makes his daughter responsible for buying most of the things she _wants_ but doesn't _need_. This helps teach delayed gratification and smart shopping.
 
-Steve and Annette's approach in the __MoneySmart Family System__ encourages [progressive responsibility over time](http://amzn.to/2qQznAc){: target="_blank" rel="nofollow"}. Purchasing responsibility for their kids starts with _wants_ (toys, games, entertainment) at a young age, and grows to include _needs_ (car insurance, clothes) to match growing responsibility for their children.
+Steve and Annette's approach in the __MoneySmart Family System__ encourages progressive responsibility over time. Purchasing responsibility for their kids starts with _wants_ (toys, games, entertainment) at a young age, and grows to include _needs_ (car insurance, clothes) to match growing responsibility for their children.
 
-Melanie from __Mindfully Spent__ advocates [splitting allowances three ways](http://amzn.to/2qUngBd){: rel="nofollow" target="_blank"} - _saving_, _spending_, and _sharing_. This is a great way to teach kids about saving early in life and to put their values (like charitable giving) into their budgets.
+Melanie from __Mindfully Spent__ advocates splitting allowances three ways - _saving_, _spending_, and _sharing_. This is a great way to teach kids about saving early in life and to put their values (like charitable giving) into their budgets.
 
 I've seen lots of divisions between Save, Spend, and Share in the past. We did 50%/40%/10% for our kids when we were doing an allowance earlier this year. I really appreciated the approach from __High Income Parents__. Tom sets a minimum of 20% to Share and a minimum of 40% to Save. After that, it's up to his kids to decide if they want to keep the rest for spend or put extra into the share or save categories.
 
-Laura from __Savvy Family Finance__ goes a step further by [including another category for _investing_](http://amzn.to/2q0E1f4){: rel="nofollow" target="_blank"}. Savings may cover emergencies or long-term goals, but investing and the power of compounding interest are really important in setting up a strong financial foundation for your kids.
+Laura from __Savvy Family Finance__ goes a step further by including another category for _investing_. Savings may cover emergencies or long-term goals, but investing and the power of compounding interest are really important in setting up a strong financial foundation for your kids.
 
-When I was in early middle school, my parents gave me an allowance based on the _Envelope Budgeting System_. I had a set allowance for each category - some _wants_ (i.e. clothing), some _needs_ (i.e. [awesome CDs from the 1990's](http://amzn.to/2ptharj){: rel="nofollow" target="_blank"}), and an envelope for savings as well. There was a fixed amount that went in each week and I wasn't allowed to shuffle money between envelopes. This helped me to understand how to use budgeting to keep my finances aligned with my goals.
+When I was in early middle school, my parents gave me an allowance based on the _Envelope Budgeting System_. I had a set allowance for each category - some _wants_ (i.e. clothing), some _needs_ (i.e. awesome CDs from the 1990's), and an envelope for savings as well. There was a fixed amount that went in each week and I wasn't allowed to shuffle money between envelopes. This helped me to understand how to use budgeting to keep my finances aligned with my goals.
 
 It also painfully highlighted my [lack of interest in clothing]({% post_url 2016-06-13-escape-fashion-trap-part-1 %}). At one point my clothing envelope was overflowing with $20 bills to the point that my parents gently encouraged me to finally replace some of my old shirts and pants.
 
@@ -124,7 +124,7 @@ Tom from __High Income Parents__ plans to pay allowances until his kids graduate
 
 We've traditionally managed our kids' allowances using cash but it is clear that money is increasingly being handled digitally and it's a great idea to include this in how you approach money with your kids.
 
-If you're looking for an awesome way to teach your kids how to earn and spend money responsibly, I'd recommend you take a look at [FamZoo's Virtual Family Bank](http://www.shareasale.com/r.cfm?b=253266&u=1516811&m=29165&urllink=&afftrack=){: rel="nofollow" target="_blank"}. Your kids can earn money from you and use their own debit card to spend what they earn without the risk of overdrafting your account.
+If you're looking for an awesome way to teach your kids how to earn and spend money responsibly, I'd recommend you take a look at [FamZoo's Virtual Family Bank](http://www.famzoo.com){: target="_blank"}. Your kids can earn money from you and use their own debit card to spend what they earn without the risk of overdrafting your account.
 
 ## Allowances in the Keep Thrifty Household
 
@@ -136,7 +136,7 @@ Here's what that looks like:
 
 - A base level of chores is assumed with no allowance given (cleaning room, bringing dirty dishes to counter, etc.). This base level will grow as the kids get older and are capable of doing more around the house.
 - Money can be earned by requesting additional chores with pre-set values. Additional chores are not available for kids that have not finished their base level of chores
-  - If we want to get fancy, we could even use these [awesome custom chore magnets](https://www.etsy.com/listing/69772126/set-of-15-chore-magnets-custom-chore?ref=related-4){: target="_blank" rel="nofollow"}.
+  - If we want to get fancy, we could even use these [awesome custom chore magnets](https://www.etsy.com/listing/69772126/set-of-15-chore-magnets-custom-chore?ref=related-4){: target="_blank" }.
 - Money earned from chore allowances should be divided into four categories - _give_, _invest_, _save_, and _spend_. A minimum of 10% will be put into _give_, a minimum of 30% into _invest_, and a __maximum__ of 20% into _spend_.
   - Hopefully, this encourages the kids to focus on investing for their future, giving back, and minimizing impulse purchases (while still having some fun). _Save_ funds will be targeted toward bigger-ticket items that'll take time to get.
 - Invested money will earn a compounded rate (amount TBD) provided by the bank of Dad :)

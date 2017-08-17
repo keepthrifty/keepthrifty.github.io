@@ -1038,3 +1038,22 @@ a.tipue_search_foot_box {
   overflow-x: auto;
   margin-bottom: 2rem;
 }
+
+.patron {
+  margin: 1rem auto;
+  padding: 0.5rem;
+  background-color: white;
+  border: 1px solid $meta-color;
+  border-radius: 0.2rem;
+  font-weight: 300;
+  font-size: 1rem;
+  max-width: 600px;
+  @media screen and (max-width: $minimum-break) {
+    max-width: 85%;
+  }
+  text-align: center;
+}
+
+.patron__link, .patron__description {
+  margin: 0.5rem 0;
+}

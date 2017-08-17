@@ -24,7 +24,7 @@ tags: [think different]
 affiliate: true
 ---
 
-We're loyal fans of the HGTV show "[Fixer Upper](http://amzn.to/2dX33dc){: target="_blank" rel="nofollow" }". It's incredible to see the transformation in these homes that have seemingly lost all their value. They deliver magazine-quality design, bringing new life to the house and the neighborhood. Some lucky people get all the talent, right? Maybe not...
+We're loyal fans of the HGTV show "Fixer Upper". It's incredible to see the transformation in these homes that have seemingly lost all their value. They deliver magazine-quality design, bringing new life to the house and the neighborhood. Some lucky people get all the talent, right? Maybe not...
 
 After starting to watch the show, my wife and I were browsing homes on Zillow in Waco, Texas to see what was out there. Man, were we surprised when we found a house that was for sale that indicated it had actually been remodeled by Chip Gaines himself!
 

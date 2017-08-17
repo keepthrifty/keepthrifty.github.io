@@ -89,7 +89,7 @@ _So, between the $60,000-$84,000 value of your unused stuff and the $50,000 a de
 
 I've taken you down the financial walk to minimalism. In a nutshell, less stuff = less cost and less stress.
 
-To get acquainted with minimalism, I think the best starting point is reading [The More of Less by Joshua Becker](http://amzn.to/2bl3N6J){: target="_blank" rel="nofollow" }.
+To get acquainted with minimalism, I think the best starting point is reading [The More of Less by Joshua Becker](http://themoreofless.com/){: target="_blank" }.
 
 In addition, you can check out my experience on [how to become twice as happy with half as much]({% post_url 2016-10-10-become-twice-as-happy-with-half-as-much %}) as well as my rockstar wife's website, [Jaime Declutters](http://www.jaimedeclutters.com){: target="_blank"}, for practical tips on decluttering and inspiration on your minimalism journey.
 

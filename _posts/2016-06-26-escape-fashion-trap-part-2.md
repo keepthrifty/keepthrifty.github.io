@@ -138,9 +138,6 @@ Be comfortable in your own skin, no matter what you're wearing. If you can accom
 [twitter-link]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
 
-[plenitude-link]: http://amzn.to/1UPCQ8C
-{: target="_blank" rel="nofollow" }
-
 [baby-escape]: {{ site.url }}/img/posts/2016-06-13-escape-fashion-trap-part-1/baby-escape.jpg
 
 [30-year-tshirt]: http://www.tomcridland.com/collections/the-30-year-t-shirt-a-30-year-guarantee

@@ -145,8 +145,8 @@ Consider how you can start minimizing your stuff now - it'll help make your move
 
 If you're interested in learning more about minimalism, I highly recommend you check out these resources:
 
-- Book: [The More of Less](http://amzn.to/2s3GTqS){: rel="nofollow" target="_blank"} by Joshua Becker
-- Documentary: [Minimalism: a Documentary About the Important Things](http://amzn.to/2t31rV5){: rel="nofollow" target="_blank"}
+- Book: [The More of Less](http://www.themoreofless.com){: target="_blank"} by Joshua Becker
+- Documentary: [Minimalism: a Documentary About the Important Things](http://www.theminimalists.com/films/){: target="_blank"}
 - Website: [Simplicity Voices](http://simplicityvoices.com/) - a curated collection of minimalism articles from authors all over the world
 
 _How was your last move? Do you still have boxes in your basement that you haven't opened? If you've got plans to move in the future, how stressed are you about the concept of moving all your stuff?_

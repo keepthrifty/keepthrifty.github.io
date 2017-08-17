@@ -150,7 +150,7 @@ As we'd progressed through our house, one more big project had been developing -
 
 In essence, we were redoing everything on the first floor other than our entryway.
 
-My wife kicked things off and then I got my own personal version of [#demoday](http://amzn.to/2nYNIZA){: target="_blank" rel="nofollow" }.
+My wife kicked things off and then I got my own personal version of #demoday.
 
 ![Separating wall with half of the drywall removed]({{site.url}}/img/posts/2017-04-10-living-in-half-of-our-house/main-floor-demo.jpg)
 
@@ -182,7 +182,7 @@ Originally, we found ourselves using less of our house out of necessity. Our rem
 
 We know we don't use this house to it's fullest capacity - _it is simply to big for our needs today_. So, we're in the process of finishing up our remodeling and will be putting this house on the market. We plan to rent for a year and figure out our next steps from there.
 
-Maybe we'll find a great plot of land that we can buy and build a really nice small house for our family to live in. Maybe we'll find an existing house that could use some TLC and go through the remodeling again but this time with the right square footage for our needs. Or maybe God will put [something completely different in our path](http://amzn.to/2nSmHpG){: target="_blank" rel="nofollow"}.
+Maybe we'll find a great plot of land that we can buy and build a really nice small house for our family to live in. Maybe we'll find an existing house that could use some TLC and go through the remodeling again but this time with the right square footage for our needs. Or maybe God will put something completely different in our path.
 
 Whatever that path is, you can be sure you'll hear about it here :)
 

@@ -81,7 +81,7 @@ Going on the Oregon trail with 50 sets of clothing but only 2 oxen is a recipe f
 
 What you earn is important, but when you're limited in income, it's even more important to make sure that every dollar is allocated carefully.
 
-> If you're looking for a way to track your spending, check out [Personal Capital](http://track.flexlinkspro.com/a.ashx?foid=1094139.201382&foc=1&fot=9999&fos=1){: target="_blank" rel="nofollow"} or my income/expense/tax tracking tool, [Thrifty]({{site.url}}/thrifty){: target="_blank"}
+> If you're looking for a way to track your spending, check out my income/expense/tax tracking tool, [Thrifty]({{site.url}}/thrifty){: target="_blank"}
 
 __Second__, get things cheaper by self-provisioning and doing-it-yourself.
 

@@ -50,20 +50,20 @@ Here's a detailed category-by-category look at how we spent this month:
 |:----:+------:+---------------|
 | Charity  | $100.00 | With trying to finish off our remodeling, we scaled back charity this month. For what we did give, we stuck with half to our church and half to [The Hope Effect](http://hopeeffect.com/){: target="_blank"} |
 | Childcare  | $30.00 | One regular date night this month which required babysitting. Our other date night was cancelled due to one of our kids getting sick. We'll pick up in May :) |
-| Clothing/Shoes | $6.50 | I got a used button-down Lands End shirt from [Swap.com](http://fxo.co/4DHI){: rel="nofollow" target="_blank"}. Finding resale mens clothing online has been tough, but Swap had a pretty good selection. They've also got kids clothes, women's, and even toys. |
+| Clothing/Shoes | $6.50 | I got a used button-down Lands End shirt. Finding resale mens clothing online has been tough, but Swap had a pretty good selection. They've also got kids clothes, women's, and even toys. |
 | Eating Out | $578.05 | Youch! With all the house updates this month, we got firmly stuck in the "convenience" trap of buying prepared food. Once we're settled in our new place I expect this to get back under control. |
 | Education | $3.00 | Fee for my wife to help out on a school field trip |
-| Entertainment | $0.00 | We binge watched the [Tiny House Nation](http://amzn.to/2oqYRWU){: target="_blank" rel="nofollow"} episodes we bought last month. No purchases this month. |
+| Entertainment | $0.00 | We binge watched the Tiny House Nation episodes we bought last month. No purchases this month. |
 | Fitness | $0.00 | |
 | Gifts | $193.60 | We had a birthday party that we attended this month, plus Easter gifts for our kids and birthday gifts for our twins who just turned 5. But __uh oh__, we slipped up and bought ___new___! |
 | Groceries | $830.75 | We're still doing better on groceries than this time last year but with how much we ate out this month, I would have hoped we would have been better. |
 | Healthcare | $219.60 | Man it's nice to be back to normal here. Just premiums this month. |
-| Hobbies | $295.86 | Gymnastics fees and bubbles. In addition, a batgirl costume for our oldest daughter and an Elsa wig for one of the twins (both from [Swap.com](http://fxo.co/4DHI){: rel="nofollow" target="_blank"}). Also, we went to a local pottery shop and everyone painted pottery. |
+| Hobbies | $295.86 | Gymnastics fees and bubbles. In addition, a batgirl costume for our oldest daughter and an Elsa wig for one of the twins. Also, we went to a local pottery shop and everyone painted pottery. |
 | Home Updates | $4,662.38 | Another big month here trying to get our remodeling wrapped up. This included light fixtures, paint, door knobs, floor registers, varnish and a brush, mulch, wood putty, caulk, and bathroom mirrors. Also included paying our plumber for moving some water and sewer lines in the bathrooms and our general contractor for all the work he did (windows, flooring transitions, shoe molding, drywall). |
 | Household Care | $155.10 | Soap, toilet paper, toothpaste, face lotion, ant poison, pull-ups, conditioner, shampoo, deodorant, bandaids, and vinegar. Also, we had one ___new___ item this month - a replacement power adapter for my wife's laptop. |
 | Services | $15.28 | Life insurance through my work |
 | Shelter | $186.63 | The only expense in here is for our mortgage interest. Every month this drops by about $4 as more of our payment goes to principal - it's a beautiful thing to watch :) _We don't log our principal payments as an expense since we consider them to be net-worth-building payments._  |
-| Thrifty | $1,289.50 | Two big things here this month. (1) I bought a ticket (and paid for a flight) to [FinCon](http://finconexpo.com){: target="_blank"} - a conference for personal finance peeps. I didn't make it last year so I'm excited to finally get there. (2) I bought a used 13" MacBook Air from [Mac of All Trades](http://fxo.co/4DHK){: rel="nofollow" target="_blank" }. If you follow that link, you can get $10 off your first order. The rest of the spend this month was my normal hosting fees and source code storage for [Thrifty]({{site.url}}/thrifty/).
+| Thrifty | $1,289.50 | Two big things here this month. (1) I bought a ticket (and paid for a flight) to [FinCon](http://finconexpo.com){: target="_blank"} - a conference for personal finance peeps. I didn't make it last year so I'm excited to finally get there. (2) I bought a used 13" MacBook Air. The rest of the spend this month was my normal hosting fees and source code storage for [Thrifty]({{site.url}}/thrifty/).
 | Transportation | $167.80 | Four tanks of gas |
 | Travel | $0.00 | |
 | Utilities | $473.94 | Water/Sewer, Gas, electric, and internet. We accidentally submitted our gas and electric bill twice this month, so next month should be a lot lower :) |
@@ -93,7 +93,7 @@ So, how did we do?
 We failed not once, but _twice_ this month by buying new.
 
 - The power cord for my wife's laptop frayed to the point that it was no longer functioning so we finally caved and got a replacement.
-- Our twins turned 5 this month, which is incredibly exciting and mind-boggling (man, time flies). For gifts, we wanted to focus a bit more on the creative side so we got one of the girls a 3-month subscription to [Kiwi Crate](http://kiwi-crate.7eer.net/c/379722/330332/4034){: target="_blank" rel="nofollow"} and the other a costume/experience box from [My Pretend Place](https://mypretendplace.com/){: target="_blank" rel="nofollow"}.
+- Our twins turned 5 this month, which is incredibly exciting and mind-boggling (man, time flies). For gifts, we wanted to focus a bit more on the creative side so we got one of the girls a 3-month subscription to [Kiwi Crate](https://www.kiwico.com/){: target="_blank"} and the other a costume/experience box from [My Pretend Place](https://mypretendplace.com/){: target="_blank"}.
 
 The power cord became a tough trade-off between buying used from Apple for mucho dinero (more than $70) or a new knock-off version from Amazon for $20. This is one of those cases where we had to make the trade-off call and I just couldn't bring myself to spend 3.5 times the cost.
 
@@ -142,5 +142,3 @@ What I'm really excited for is to see how our finances change once we're finally
 {% include pinterest-image.html %}
 
 _Are you still on-track with the resolutions you made for this year? How have you gotten back on track when you fail a goal?_
-
-> Update: The gift from Kiwi Crate was a huge hit with our kids. The craft was a __build-your-own pinball machine kit__. The girls loved putting it together and have spent a ton of time reconfiguring it. You can get 30% off your first box from Kiwi Crate by clicking on [this link](http://kiwi-crate.7eer.net/c/379722/330332/4034){: target="_blank" rel="nofollow"} and entering coupon code _SHARE30_ at checkout.

@@ -65,7 +65,7 @@ Back to the finances, here's our breakdown this month by category:
 | Shelter | $195.37 | The only expense in here is for our mortgage interest. Every month this drops by about $4 as more of our payment goes to principal - it's a beautiful thing to watch :) _We don't log our principal payments as an expense since we consider them to be net-worth-building payments._  |
 | Thrifty | $11.52 | Hosting fees and source code storage for [Thrifty]({{site.url}}/thrifty) |
 | Transportation | $736.26 | Two tanks of gas, a renewal of my driver's license and the doozy - $620 in ___new___ tires |
-| Travel | $1027.34 | All told, the trip was actually $1536.34; we had paid for our villa in Hilton Head back in August when we booked through [AirBnB](http://www.airbnb.com/c/chrisd5956){: target="_blank" rel="nofollow" }. This includes food, hotel, gas, groceries, laundry, activities, and - oh yeah - coffee and ice cream. |
+| Travel | $1027.34 | All told, the trip was actually $1536.34; we had paid for our villa in Hilton Head back in August when we booked through AirBnB. This includes food, hotel, gas, groceries, laundry, activities, and - oh yeah - coffee and ice cream. |
 | Utilities | $162.75 | Gas, electric, and internet |
 |-------+----------+----|
 | __Total__ | __$5,812.15__ | (without home updates: $5130.62)   |

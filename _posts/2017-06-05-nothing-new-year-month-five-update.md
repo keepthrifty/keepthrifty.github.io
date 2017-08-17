@@ -67,7 +67,7 @@ Here's a detailed category-by-category look at how we spent this month:
 | Education | $35.00 | Summer school enrollment for all three kids. Isn't public education nice? :) |
 | Entertainment | $62.75 | Tickets to see the The Minimalists' [#LessIsNow tour](http://www.theminimalists.com/tour/) in Madison on our date night. We had an awesome time - I really recommend you check the show out if they are coming your way. In addition, we rented three movies during our extended date weekend. |
 | Fitness | $0.00 | |
-| Gifts | $405.90 | We finally booked our big birthday present to our twins - an overnight stay at a waterpark. In addition, we got a [used toy from Swap.com](http://fxo.co/4DHI){: rel="nofollow" target="_blank"}. We bought gifts for 2 birthday parties our kids attended and for our nephew's baptism. |
+| Gifts | $405.90 | We finally booked our big birthday present to our twins - an overnight stay at a waterpark. In addition, we got a used toy. We bought gifts for 2 birthday parties our kids attended and for our nephew's baptism. |
 | Groceries | $999.18 | A high month this month, partially due to timing (we bought groceries both right when the month started as well as on the 30th) but also due to the general volatility in our home life with listing and selling the house. We purchased a lot more snack/convenience food than we'd normally like. |
 | Healthcare | $454.65 | Normal spending on premiums this month and paying for prior month office visits. |
 | Hobbies | $278.37 | Gymnastics fees and art supplies. |
@@ -104,7 +104,7 @@ So, how did we do?
 
 While we've been pretty good this year at minimizing new purchases, we had two that crept up this month.
 
-- [Stainless steel straws](http://amzn.to/2s23bx2){: target="_blank" rel="nofollow"}. Our kids had some plastic straws they had gotten as party favors that just got downright gross since they were so hard to clean. As a result, we had to toss them and decided to replace them with a more eco-friendly option (because these straws should last a lifetime).
+- Stainless steel straws. Our kids had some plastic straws they had gotten as party favors that just got downright gross since they were so hard to clean. As a result, we had to toss them and decided to replace them with a more eco-friendly option (because these straws should last a lifetime).
 - My wife bought one new dress for daily wear. We've been much more disciplined about clothing spending this year ($101/month through April of this year vs vs $223/month average for last year). The $80 dress she bought has already gotten a ton of use and it doubles as a cover-up for swimming.
 
 Once again, there are reasons for the purchases but I want to be accountable to you, so you'll get to see them all here.

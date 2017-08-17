@@ -35,7 +35,7 @@ While the health benefits are reason enough on their own, this is a personal fin
 
 At my worst, I was drinking more than a bottle a day, but let's be conservative and go with one a day. At $1.50 each, that's $550 a year.
 
-As a replacement, we bought a [grinder][ham-beach-80350] and a [french press][french-press] and we buy our coffee beans in bulk from the grocery store. We get the good stuff so we pay $10.96 a pound.
+As a replacement, we bought a grinder and a french press and we buy our coffee beans in bulk from the grocery store. We get the good stuff so we pay $10.96 a pound.
 
 ![Coffee cup filled with beans][coffee-cup]
 
@@ -43,7 +43,7 @@ As a replacement, we bought a [grinder][ham-beach-80350] and a [french press][fr
 
 With [100 tablespoons per pound][coffee-lb-to-tablespoons] and 4 tablespoons per cup (we like it strong), that gives us a cost of about 44 cents a cup for what I drink at home.
 
-At work, we have a community coffee machine that pumps out medium-strength [Folgers][folgers] all day long. While not my favorite, it does the trick and the cost is a lot less. A 3-lb tub is about $15 which translates to 15 cents a cup for work.
+At work, we have a community coffee machine that pumps out medium-strength Folgers all day long. While not my favorite, it does the trick and the cost is a lot less. A 3-lb tub is about $15 which translates to 15 cents a cup for work.
 
 I drink about one cup a day when I'm home and closer to three a day when I'm at work, so I average 45 cents a day for my caffeine intake now.
 
@@ -142,12 +142,3 @@ _What is one recurring expense that you could really live without?_
 [coffee-cup]: {{ site.url }}{{ page.image-folder }}/coffee-cup.jpg
 [coffee-vs-dew]: {{ site.url }}{{ page.image-folder }}/coffee-vs-dew.jpg
 [stop-the-music]: {{ site.url }}{{ page.image-folder }}/stop-the-music.jpg
-
-[ham-beach-80350]: http://amzn.to/203QIju
-{: target="_blank" rel="nofollow" }
-
-[french-press]: http://amzn.to/25aQ4b0
-{: target="_blank" rel="nofollow" }
-
-[folgers]: http://amzn.to/25aPMRr
-{: target="_blank" rel="nofollow" }

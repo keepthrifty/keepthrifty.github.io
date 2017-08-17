@@ -65,7 +65,7 @@ __Don't let the once-in-a-whiles take precedence over your normal life__
 
 I love my friends too but building your life around the exceptions ties up your money in places you can't recover it from.
 
-How many [Uber rides][uber-link] would it take to make up the price difference between a subcompact and a full-blown SUV? Don't forget to throw in the total cost of owning the car (maintenance and fuel economy).
+How many Lyft or Uber would it take to make up the price difference between a subcompact and a full-blown SUV? Don't forget to throw in the total cost of owning the car (maintenance and fuel economy).
 
 You have a better job for that money - don't tie it up!
 
@@ -162,6 +162,3 @@ _Did you have a great/terrible experience with your last car purchase? Help othe
 
 [frugalwoods]: http://www.frugalwoods.com/2016/04/06/that-time-we-bought-a-homestead/
 {: target="_blank"}
-
-[uber-link]: https://www.uber.com/invite/chrisd21975ue
-{: target="_blank" rel="nofollow"}

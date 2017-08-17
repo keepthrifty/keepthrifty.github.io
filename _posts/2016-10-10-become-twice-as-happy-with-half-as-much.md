@@ -82,8 +82,7 @@ No more mindless "A new show started and I'm too lazy to turn it off"
 
 We chose a small set of network TV shows that both wanted to watch together (about 2 hours a week - all online streaming through the network sites)
 
-In addition, we are loyal fans of [Fixer Upper](http://amzn.to/2dCQ3H8){: target="_blank" rel="nofollow" } and [Tiny House Nation](http://amzn.to/2e2FaMV){: target="_blank" rel="nofollow" } - the only video media we actually pay for
-
+In addition, we are loyal fans of Fixer Upper and Tiny House Nation - the only video media we actually pay for
 
 For the kids, we get 1-2 kid-friendly movies once a week from the library (yay free!) and we have about 5 kid movies that we own on DVD. We actually donated most of our DVDs to the library for the same reason - we can still have them when the kids want to watch them, but it's now a _conscious choice_ - not just "pop in another DVD".
 

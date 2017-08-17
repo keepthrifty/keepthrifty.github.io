@@ -121,9 +121,9 @@ A great marriage takes work but it's more than worth it.
 
 If you're looking for resources to help, here are some that have helped us:
 
-- [The 5 Love Languages: The Secret to Love that Lasts](http://amzn.to/2ujb5Df){: target="_blank" rel="nofollow"} by Gary Chapman
-- [The Seven Levels of Intimacy](http://amzn.to/2t7tG5B){: target="_blank" rel="nofollow"} by Matthew Kelly
-- [Fireproof](http://amzn.to/2tkLZQj){: target="_blank" rel="nofollow"} - Movie
+- [The 5 Love Languages: The Secret to Love that Lasts](http://www.5lovelanguages.com/){: target="_blank" } by Gary Chapman
+- [The Seven Levels of Intimacy](https://www.goodreads.com/book/show/96099.The_Seven_Levels_of_Intimacy){: target="_blank" } by Matthew Kelly
+- [Fireproof](https://www.fireproofthemovie.com/){: target="_blank" } - Movie
 - [The Groovy Guide to Having a Great Marriage](http://freedomisgroovy.com/the-groovy-guide-to-having-a-great-marriage/) - a great post by one of my favorite bloggers
 
 ## Gratitude

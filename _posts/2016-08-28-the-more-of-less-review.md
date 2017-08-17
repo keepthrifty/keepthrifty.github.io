@@ -24,7 +24,7 @@ affiliate: true
 
 Welcome to the state of the United States circa 2016 as eloquently captured in Joshua Becker's most recent book, [The More of Less][the-more-of-less-amazon].
 
-Joshua runs the incredibly popular blog [Becoming Minimalist][becoming-minimalist], is an author of [four books][joshua-becker-amazon], and co-founded [The Hope Effect][the-hope-effect] charity with his wife, which focuses on providing family-style homes to orphans around the world.
+Joshua runs the incredibly popular blog [Becoming Minimalist][becoming-minimalist], is an author of four books, and co-founded [The Hope Effect][the-hope-effect] charity with his wife, which focuses on providing family-style homes to orphans around the world.
 
 ## Joshua's Story #
 
@@ -107,11 +107,8 @@ ___To get your own copy, here's a [link to the book on Amazon][the-more-of-less-
 
 [the-more-of-less-cover]: {{ site.url }}{{ page.image-folder }}/the-more-of-less-cover.jpg
 
-[the-more-of-less-amazon]: http://amzn.to/2bExSjT
-{: target="_blank" rel="nofollow" }
-
-[joshua-becker-amazon]: http://amzn.to/2bl3N6J
-{: target="_blank" rel="nofollow" }
+[the-more-of-less-amazon]: http://themoreofless.com/
+{: target="_blank" }
 
 [becoming-minimalist]: http://www.becomingminimalist.com/
 {: target="_blank"}

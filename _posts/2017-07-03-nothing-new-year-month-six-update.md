@@ -65,7 +65,7 @@ In the meantime, here's a detailed category-by-category look at what we spent th
 | Shelter | $246.78 | Interest on our mortgage payment, our last month of homeowner's insurance, and a $1 fee for our change-of-address form with the post office. _Note: We don't log our mortgage principal payments as an expense since we consider them to be net-worth-building payments._  |
 | Thrifty | $2.00 | My Airbnb reservation for [FinCon](http://finconexpo.com){: target="_blank"} got canceled by the owner, _but_ I found another one for $12 less. _Lucky lucky_. This refund offsets most of the hosting fees and source code storage for [Thrifty]({{site.url}}/thrifty/) this month. |
 | Transportation | $820.55 | Four tanks of gas and our annual car insurance payment |
-| Travel | $48.38 | My wife got some awesome (but ___new___) games for the car to help us minimize screen time for our upcoming road trip in August: [Car Bingo](http://amzn.to/2ugnN29){: target="_blank" rel="nofollow"}, [Travel Hangman](http://amzn.to/2skquyr){: target="_blank" rel="nofollow"}, and [Family Talk](http://amzn.to/2tiFGA4){: target="_blank" rel="nofollow"} |
+| Travel | $48.38 | My wife got some awesome (but ___new___) games for the car to help us minimize screen time for our upcoming road trip in August: Car Bingo, Travel Hangman, and Family Talk |
 | Utilities | $191.75 | Gas, electric, and internet. |
 |-------+----------+----|
 | __Total__ | __$4,780.56__ |    |

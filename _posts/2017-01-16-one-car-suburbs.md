@@ -129,7 +129,7 @@ Picking up from our lessons in the first experiment, we talked about the rules f
 
 - I re-scheduled meetings for days where my wife didn't need to drive our twins to pre-school. Our oldest was in 4-year-old kindergarten a short distance from our house, so she was able to walk her to and from school on those days
 - We planned for bad weather days (rain and extreme cold) to be days where I'd get a ride to work from my wife and kids. Walking to school with wet, frozen toddlers is no fun
-- In cases where I'm stranded at work without a car and need to get home, [I can Uber it][uber-link] and be home within 30 minutes
+- In cases where I'm stranded at work without a car and need to get home, I can get a ride from Lyft or Uber and be home within 30 minutes
 
 Those rules have stood the test of time, getting us through the last 12 months without major incident. I've snagged a couple rides with co-workers and had to use Uber a few times, but overall we've been able to manage the one-car lifestyle with our simple ruleset and loads of communication.
 
@@ -150,6 +150,3 @@ While it may not be immediately next, it's certainly something I think we can an
 Who knows - if we get to that point, maybe our next big move will to be a zero-garage family in the suburbs :)
 
 _So, now I'll throw it to you. Have you decided to live in a way that's different from those around you? How did you do it? Otherwise, what's your car situation? Are you rockin' the suburbs?_
-
-[uber-link]: https://www.uber.com/invite/chrisd21975ue
-{: target="_blank" rel="nofollow"}
