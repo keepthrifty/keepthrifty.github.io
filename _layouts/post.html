@@ -4,6 +4,7 @@ comments: true
 ---
 
 <div class="col">
+  {% include patreon.html %}
   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
     <header class="post__header">
       {% unless page.nometa %}
@@ -29,7 +30,6 @@ comments: true
     </header>
 
     <main class="post__body" itemprop="articleBody">
-      {% include affiliate.html %}
       {{ content }}
     </main>
 
