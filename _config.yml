@@ -38,7 +38,7 @@ tipue_search:
   include:
     pages: true
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-redirect-from
