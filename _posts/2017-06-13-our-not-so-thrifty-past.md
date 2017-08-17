@@ -32,7 +32,7 @@ Our life hasn't always been about minimalism, financial discipline, and living o
 
 Before we jump in, we need to take a minute to cover something - getting everyone on the same page of my definition of _thrifty_. Given that it's in the name of this site (_Keep Thrifty_) and I have a tendency to choose my words carefully, you can bet that this name didn't just come up by chance.
 
-Before I launched this site almost 18 months ago, I had agonized for weeks over what to call it. It's like naming one of your children - you know this is something that you're going to have to live with for a long time! I went through a ton of iterations and finally settled on Keep Thrifty. The meaning here goes a lot deeper than <a href="https://track.flexlinkspro.com/a.ashx?foid=1094139.1328286&foc=1&fot=9999&fos=1" rel="nofollow" target="_blank">buying your kids' clothes at online consignment stores</a>.<img src="https://track.flexlinkspro.com/i.ashx?foid=1094139.1328286&fot=9999&foc=1&fos=1" border="0" width="0" height="0" style="opacity: 0;"/>
+Before I launched this site almost 18 months ago, I had agonized for weeks over what to call it. It's like naming one of your children - you know this is something that you're going to have to live with for a long time! I went through a ton of iterations and finally settled on Keep Thrifty. The meaning here goes a lot deeper than buying your kids' clothes at online consignment stores.
 
 Here's how I define _thrifty_, with a head-nod to [Oxford Dictionaries](https://en.oxforddictionaries.com/definition/thrifty){: target="_blank"} for a great start.
 
@@ -113,7 +113,7 @@ We made time for a small family vacation - taking our three kids (ages 2 and und
 
 All throughout, we slowly chipped away at the clutter that had built up in our lives.
 
-We set aside time for annual "Mommy Dates" and "Daddy Dates", where each child gets a one-on-one date once a year with each parent. (A special thank you to Matthew Kelly for this tip from his book, [_Building Better Families_](http://amzn.to/2tfFfTU){: rel="nofollow" target="_blank"})
+We set aside time for annual "Mommy Dates" and "Daddy Dates", where each child gets a one-on-one date once a year with each parent.
 
 Emboldened, we experimented with having just one car, which eventually [became a permanent transportation solution]({% post_url 2017-01-16-one-car-suburbs %}).
 

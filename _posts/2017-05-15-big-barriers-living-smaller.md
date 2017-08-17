@@ -45,7 +45,7 @@ We've looked at three different routes to live smaller - living in a _tiny house
 
 <div class="image-caption">Nomad's Nest from <a href="http://www.windrivertinyhomes.com/" target="_blank">Wind River Tiny Homes</a></div>
 
-The growing interest of tiny houses should be evident from the popularity of shows like [Tiny House Nation](http://amzn.to/2rehtHR){: rel="nofollow" target="_blank"} and [Tiny House Hunters](http://amzn.to/2qEQYyf){: rel="nofollow" target="_blank"}. That said, building codes and zoning restrictions haven't caught up in most places in the United States to make building a tiny house on wheels a viable living option.
+The growing interest of tiny houses should be evident from the popularity of shows like Tiny House Nation and Tiny House Hunters. That said, building codes and zoning restrictions haven't caught up in most places in the United States to make building a tiny house on wheels a viable living option.
 
 Zoning ordinances in our town define a minimum dwelling size of 24 feet by 40 feet (960 square feet), which means a tiny house definitely can't be a dwelling here. Tiny houses typically have a maximum width of _8 feet 6 inches_. In addition, dwellings are required to have a permanent, continuous foundation compliant with the Wisconsin uniform dwelling code.
 
@@ -55,7 +55,7 @@ The rules around living in a tiny house and parking elsewhere (a plot of land, a
 
 Given my general distaste for the thought of being homeless, we have to rule out the concept of a tiny house on wheels for now.
 
-_There has been some recent good news on the tiny house building code front - In December of 2016, the [International Code Council approved Appendix V to the International Building Code](https://tinyhousebuild.com/tiny-house-appendix-passes/){: rel="nofollow" target="_blank"}, which describes building requirements for tiny houses! Before you go out and start [designing your own Tumbleweed tiny home](https://track.flexlinkspro.com/a.ashx?foid=1094139.1848122&foc=1&fot=9999&fos=1){: rel="nofollow" target="_blank"}, keep in mind that it'll take time before states adopt the annex and that local zoning laws may still be an issue._
+_There has been some recent good news on the tiny house building code front - In December of 2016, the [International Code Council approved Appendix V to the International Building Code](https://tinyhousebuild.com/tiny-house-appendix-passes/){: target="_blank"}, which describes building requirements for tiny houses! Before you go out and start designing your own tiny home, keep in mind that it'll take time before states adopt the annex and that local zoning laws may still be an issue._
 
 ## It's Hard to Build a Small House
 

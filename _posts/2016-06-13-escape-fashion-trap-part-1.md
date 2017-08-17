@@ -28,7 +28,7 @@ This is part 1 of a two-part series on figuring out how to bail out of our addic
 
 ## The Useful Life of Clothes #
 
-First a bit of a history lesson from _[True Wealth by Juliet Schor][plenitude-link]_:
+First a bit of a history lesson from _True Wealth by Juliet Schor_:
 
 > In the West, apparel has been expensive to produce and has therefore been a high-priced and valuable commodity for centuries. Once fashioned, garments had long and varied lives. A dress or jacket might be born as special occasion wear, then become a garment for indoor sociability, and eventually be worn (and worn out) while doing domestic chores... In some households, garments were turned into quilting squares... A piece of clothing might end its useful life as a rag, and literally turn to dust.
 
@@ -157,9 +157,6 @@ Let's take a look at how to escape the fashion money trap in [Part 2][part-2].
 
 [twitter-link]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
-
-[plenitude-link]: http://amzn.to/1UPCQ8C
-{: target="_blank" rel="nofollow" }
 
 [hammer-pants]: {{ site.url }}{{ page.image-folder }}/hammer-pants.jpg
 

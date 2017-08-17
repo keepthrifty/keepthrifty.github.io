@@ -70,7 +70,7 @@ About half of this was paying off the rest of our car loan on our minivan by sel
 
 So, while it was high in the last year, this should be significantly lower for future years.
 
-We've been going strong with just one car - only a handful of times that I had to [take an Uber][uber-link] but it was still _significantly_ cheaper than owning a second car!
+We've been going strong with just one car - only a handful of times that I had to take an Uber but it was still _significantly_ cheaper than owning a second car!
 
 ### Charity: $8,747.86 ($729 per month) ##
 
@@ -228,6 +228,3 @@ If you haven't been tracking your finances, I encourage you to sign up for [Thri
 
 [christmas-spending]: http://www.elledecor.com/life-culture/a8093/how-much-people-spend-on-christmas-gifts/
 {: target="_blank"}
-
-[uber-link]: https://www.uber.com/invite/chrisd21975ue
-{: target="_blank" rel="nofollow"}

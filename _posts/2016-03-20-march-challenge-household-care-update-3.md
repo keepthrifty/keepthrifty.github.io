@@ -46,7 +46,7 @@ Since [last week][week-2-update], we've added $26.92 to our household care total
 * Pull-Ups
 * Conditioner
 * Apple Cider Vinegar (for fruit fly traps)
-* 2 [Mason Jars][mason-jars]
+* 2 Mason Jars
 
 The mason jars are for my wife's new lunch plan - [salad-in-a-jar][salad-in-a-jar-video]. Pre-making tasty lunches from raw ingredients is a great way to keep healthy and keep thrifty, so it's well worth the investment in mason jars.
 
@@ -75,6 +75,3 @@ Hope you are keeping on track as well. Find me on [twitter][twitter-profile] and
 [week-3-update]: {{ site.url }}{% post_url 2016-03-20-march-challenge-household-care-update-3 %}
 [week-4-update]: {{ site.url }}{% post_url 2016-03-27-march-challenge-household-care-update-4 %}
 [final-results]: {{ site.url }}{% post_url 2016-04-03-march-challenge-household-care-update-5 %}
-
-[mason-jars]: http://amzn.to/203TlSw
-{: target="_blank" rel="nofollow" }

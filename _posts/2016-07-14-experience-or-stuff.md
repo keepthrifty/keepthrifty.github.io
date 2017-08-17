@@ -43,7 +43,7 @@ But the road trip is over; the TV is something I can enjoy every day, right?
 
 _The TV will eventually die but my memories of the time I spent with my wife and kids will stick with me forever_
 
-The paper included a quote from [Luxury Fever][luxury-fever] by Robert H. Frank that summarizes my thoughts exactly:
+The paper included a quote from _Luxury Fever by Robert H. Frank_ that summarizes my thoughts exactly:
 
 > Increases in our stocks of material goods produce virtually no measurable gains in our psychological or physical well-being. Bigger houses and faster cars, it seems, don’t make us any happier.
 >
@@ -133,6 +133,3 @@ It pays to hear different viewpoints and understand how different people live, b
 
 [research-paper-pdf]: http://psych.colorado.edu/~vanboven/research/publications/vb_gilo_2003.pdf
 {: target="_blank"}
-
-[luxury-fever]: http://amzn.to/29SXEjn
-{: target="_blank" rel="nofollow" }

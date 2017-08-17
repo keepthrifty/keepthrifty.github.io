@@ -1042,7 +1042,7 @@ a.tipue_search_foot_box {
 .patron {
   margin: 1rem auto;
   padding: 0.5rem;
-  background-color: $bg-color;
+  background-color: white;
   border: 1px solid $meta-color;
   border-radius: 0.2rem;
   font-weight: 300;
@@ -1052,4 +1052,8 @@ a.tipue_search_foot_box {
     max-width: 85%;
   }
   text-align: center;
+}
+
+.patron__link, .patron__description {
+  margin: 0.5rem 0;
 }

@@ -305,7 +305,7 @@ Thrifty is a _manual_ tracking tool - you have to manually enter each expense. I
 
 I'm much less likely to go buy that unnecessary cup of coffee from the cafe when I can make one at home if I know I'm going to have to log it into the tool.
 
-For automated options, you can check out [Personal Capital](http://track.flexlinkspro.com/a.ashx?foid=1094139.201382&foc=1&fot=9999&fos=1){: target="_blank" rel="nofollow"} or [Mint](http://www.mint.com){: target="_blank"}. Both are free and connect to your bank accounts to monitor and classify your spending.
+For automated options, you can check out Personal Capital or Mint. Both are free and connect to your bank accounts to monitor and classify your spending.
 
 Once you've got a good handle on what you're actually spending, you can fine-tune your budget and figure out how to keep moving it in a direction that better reflects your values and goals.
 
@@ -324,11 +324,11 @@ Since you got through the full version but probably weren't taking notes, here's
 3. Normalize these for monthly spending using the concept of _personal escrow_
 4. See what your total is (excluding targeted goals) when compared to your reasonable minimum income; go back to 1, 2, and 3 as necessary until your income exceeds your expected expenses
 5. Write down a standard monthly budget, remembering to assign expense categories to each paycheck
-6. Set up a checking account, a _Personal Escrow_ savings account, and one savings account for each __targeted goal__ - I recommend using [Capital One 360](https://r.capitalone360.com/3CfUCBLSNt){: target="_blank" rel="nofollow"}
+6. Set up a checking account, a _Personal Escrow_ savings account, and one savings account for each __targeted goal__ - We use [Capital One 360](https://www.capitalone.com/bank/){: target="_blank" }
 7. As each paycheck comes in, transfer and spend according to the expenses you assigned to that paycheck
 8. When __long cycle__ expenses come up, transfer the money from _Personal Escrow_ and breathe easy. For spending on your __targeted goals__, just transfer from the relevant savings account
 9. Use any unplanned income (extra paychecks, tax refunds, etc) to go straight toward your __targeted goals__
-10. Track your spending in detail and use that information to evolve your budget to be more accurate. I recommend you use [Thrifty]({{site.url}}/thrifty){: target="_blank"}, [Personal Capital](http://track.flexlinkspro.com/a.ashx?foid=1094139.201382&foc=1&fot=9999&fos=1){: target="_blank" rel="nofollow"}, or [Mint](http://www.mint.com){: target="_blank"}
+10. Track your spending in detail and use that information to evolve your budget to be more accurate. I recommend you use [Thrifty]({{site.url}}/thrifty){: target="_blank"}, Personal Capital, or Mint.
 
 Using this system has been incredibly effective for our family and has made managing our finances much less stressful.
 

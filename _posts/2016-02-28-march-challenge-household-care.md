@@ -65,7 +65,7 @@ Other than that, focus on reducing this category to only buying what you need an
 
 * [Zero Waste Bathroom][zero-waste-bathroom] (Zero Waste Home)
 * [Mrs. Money Mustache — Eliminating Lady Temptations][mrs-money-mustache-lady] (Mr. Money Mustache)
-* Use [hankybooks][hankybooks] instead of tissues
+* Use [hankybooks](http://hankybook.com/) instead of tissues
 
 ### Other ##
 * [Light Bulb Showdown: LED vs CFL vs Incandescent][light-bulb-showdown] (The Simple Dollar)
@@ -94,17 +94,17 @@ Looking at the details, our last 6 months of household care has included a laund
 * soap, shampoo, conditioner, deodorant
 * laundry detergent
 * personal care items
-* [hankybooks][hankybooks]
+* [hankybooks](http://hankybook.com/)
 * hair brush and comb
 * Norfolk pine houseplant (our new Christmas tree)
 * wine glasses, cutting board
 * furnace filters
 * ant traps
-* [worm composter][worm-composter] (and [worms][worms])
+* worm composter (and worms)
 * batteries
 * notecards, chalk
 * candles
-* [glass jars][two-L-jars] (for buying bulk food)
+* glass jars (for buying bulk food)
 * light bulbs, christmas lights
 * bandaids
 
@@ -146,9 +146,6 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [mrs-money-mustache-lady]: http://www.mrmoneymustache.com/2011/06/05/mrs-money-mustache-eliminating-lady-temptations/
 {: target="_blank"}
 
-[hankybooks]: http://amzn.to/25aQ3Um
-{: target="_blank" rel="nofollow" }
-
 [light-bulb-showdown]: http://www.thesimpledollar.com/the-light-bulb-showdown-leds-vs-cfls-vs-incandescent-bulbs-whats-the-best-deal-now-and-in-the-future/
 {: target="_blank"}
 
@@ -170,12 +167,3 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [week-3-update]: {{ site.url }}{% post_url 2016-03-20-march-challenge-household-care-update-3 %}
 [week-4-update]: {{ site.url }}{% post_url 2016-03-27-march-challenge-household-care-update-4 %}
 [final-results]: {{ site.url }}{% post_url 2016-04-03-march-challenge-household-care-update-5 %}
-
-[worm-composter]: http://amzn.to/1Xi5ja1
-{: target="_blank" rel="nofollow" }
-
-[worms]: http://amzn.to/1X2LFAD
-{: target="_blank" rel="nofollow" }
-
-[two-L-jars]: http://amzn.to/1UXuUaO
-{: target="_blank" rel="nofollow" }

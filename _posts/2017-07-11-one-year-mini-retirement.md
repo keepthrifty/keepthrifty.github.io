@@ -70,7 +70,7 @@ With retirement freedom checked off and a reasonable amount of cash due to arriv
 
 ## Courage To Prioritize Our Dreams Over Social Norms
 
-Years ago, I read [The Four-Hour Workweek by Tim Ferriss](http://amzn.to/2ue3Rkj){: target="_blank" rel="nofollow"}, not knowing what to expect. It had a catchy, albeit scammy-sounding title. Little did I know, this book would change how I viewed life. The biggest lesson for me was the power of opting to ignore social norms in the pursuit of your ideal life.
+Years ago, I read [The Four-Hour Workweek by Tim Ferriss](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek){: target="_blank" }, not knowing what to expect. It had a catchy, albeit scammy-sounding title. Little did I know, this book would change how I viewed life. The biggest lesson for me was the power of opting to ignore social norms in the pursuit of your ideal life.
 
 If you want to live a normal life, do what everyone else around you is doing. But who wants to live a "normal" life? Shouldn't we want something better?
 
@@ -84,7 +84,7 @@ _We hit the reset button on our possessions and our view of the world._
 
 We made big changes - we [sold my wife's engagement ring]({% post_url 2016-03-23-engagement-ring-sold %}) and wedding dress, we [downsized to one car]({% post_url 2017-01-16-one-car-suburbs %}), and we sold or donated our [unnecessary furniture, TV, and clothes]({% post_url 2016-10-10-become-twice-as-happy-with-half-as-much %}).
 
-Every step gave us a bigger sense of freedom as we decoupled from the artificial aspects of our lives. That freedom gave us the clarity to dig deeper into another unconventional concept from [The Four-Hour Workweek](http://amzn.to/2ue3Rkj){: target="_blank" rel="nofollow"} - a mini-retirement.
+Every step gave us a bigger sense of freedom as we decoupled from the artificial aspects of our lives. That freedom gave us the clarity to dig deeper into another unconventional concept from [The Four-Hour Workweek](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek){: target="_blank" } - a mini-retirement.
 
 Rather than waiting  until you're 65 to enjoy the fruits of your labor, wouldn't it be better to enjoy those fruits along the way?
 

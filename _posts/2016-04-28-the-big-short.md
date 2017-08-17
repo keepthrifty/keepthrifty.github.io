@@ -21,7 +21,7 @@ affiliate: true
 
 Those who do not learn from history are doomed to repeat it. Have we learned from what happened in 2007 so we don't end up there again?
 
-If you haven't yet watched "The Big Short", you really should stop reading this post right now and go reserve it from your local library, from a movie kiosk, or queue it up on Netflix or [Amazon][amazon-big-short].
+If you haven't yet watched "The Big Short", you really should stop reading this post right now and go reserve it from your local library.
 
 Seriously...I mean that - bookmark this page, go get it and then come back when you're done.  I'll wait.
 
@@ -144,6 +144,3 @@ _I encourage you to share them in the comments section below so others can learn
 {: target="_blank"}
 
 [schmidt-picture]: {{ site.url }}{{ page.image-folder }}/the-big-short-schmidt.jpg
-
-[amazon-big-short]: http://amzn.to/25aPSsk
-{: target="_blank" rel="nofollow" }
