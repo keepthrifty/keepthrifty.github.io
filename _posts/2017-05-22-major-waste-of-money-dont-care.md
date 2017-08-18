@@ -73,6 +73,6 @@ _Awesome points Lauren!_
 
 _As someone with a Bachelor's degree in Engineering and a Master's degree in Business, you'd think I'd be on the opposite side as Lauren here, but I think she really nailed the key determinants for success. How well you do in your career is more dependent on your [interest in the work](https://signalvnoise.com/posts/2922-whatever-interests-you-naturally-is-the-most-important-thing-to-work-on-){: target="_blank"} and passion for the mission than the major you happened to study in college. If you don't have these, it doesn't matter what your major is. If you do, you can make just about any major a financially successful one._
 
-{% include pinterest-image.html %}
+
 
 _What did you major in? Or maybe you don't have a college degree at all. Does it matter? What do you think is most important - the major, the prestige of the school, or your excitement and work ethic?_

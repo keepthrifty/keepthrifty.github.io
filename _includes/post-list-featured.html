@@ -1,19 +1,13 @@
-<div class="most-popular-posts">
-  <h3 class="meta-header">
-    Popular Articles
-  </h3>
-  <div class="mini-post-list">
-    {% for post in site.posts %}
-      {% if post.featured %}
-        <div class="mini-post">
-          <div class="image"><img class="mini-post__image" src="{{ post.image | replace: '.', '-mini.' }}" alt="" /></div>
-          <div class="mini-post__caption">
-            <h5>{{ post.date | date: "%B %d, %Y" }}</h5>
-            <h3>{{ post.title }}</h3>
-          </div>
-          <a href="{{ post.url }}" class="mini-post__link"></a>
-        </div>
-      {% endif %}
-    {% endfor %}
-  </div>
-</div>
+<ul class="archive-list">
+  {% for post in site.posts %}
+    {% if post.featured %}
+      <li class="archive-list--entry">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="archive-comment-count" title="Comments">
+          (<i class="fa fa-comments"></i>
+          <a href="{{ post.url }}#disqus_thread"><span class="disqus-comment-count" data-disqus-identifier="{{ post.title }}">0</span></a>)
+        </span>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

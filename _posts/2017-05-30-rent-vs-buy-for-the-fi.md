@@ -95,7 +95,7 @@ Using this model helps show the financial power of our move to downsize. If we c
 
 That's pretty powerful.
 
-{% include pinterest-image.html %}
+
 
 _How do your numbers look? Does this make you look at the rent versus buy debate any differently?_
 

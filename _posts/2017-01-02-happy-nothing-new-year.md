@@ -146,4 +146,4 @@ _What are your plans for 2017? Do you have any ambitious goals or crazy experime
 
 _What are your thoughts on the "Nothing New Year"? What challenges do you think we'll face that we haven't accounted for?_
 
-{% include pinterest-image.html %}
+

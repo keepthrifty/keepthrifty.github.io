@@ -125,6 +125,6 @@ In our debt freedom journey, we've got just two days left - it's going to be sur
 
 We'll keep doing our best at the nothing new year and try to apply what we learned this month toward next month's goal. Keep Thrifty and Carry On!
 
-{% include pinterest-image.html %}
+
 
 _If you are debt-free, how did getting there change your life? If you're not debt-free, how do you picture life could be different if you got there?_

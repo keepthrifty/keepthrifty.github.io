@@ -135,6 +135,6 @@ Presuming we are able to list and sell our house this summer, we're anticipating
 
 It was another exciting month - lots of spending and a big change to our strategy. We're feeling good about the direction we're pointed. Looking forward to giving another update next month!
 
-{% include pinterest-image.html %}
+
 
 _What do you think about our strategy change? Have you ever had a month with spending that blew all the others out of the water?_

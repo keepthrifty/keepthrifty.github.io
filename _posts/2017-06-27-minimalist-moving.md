@@ -151,4 +151,4 @@ If you're interested in learning more about minimalism, I highly recommend you c
 
 _How was your last move? Do you still have boxes in your basement that you haven't opened? If you've got plans to move in the future, how stressed are you about the concept of moving all your stuff?_
 
-{% include pinterest-image.html %}
+

@@ -1,5 +1,0 @@
-{% if page.pinterest-image %}
-<a class="pinterest" href="https://pinterest.com/pin/create/button/?url={{site.url}}{{page.url}}&amp;media={{site.url}}{% if page.pinterest-image %}{{page.pinterest-image}}.png{% else %}{{page.image}}{% endif %}&amp;description={{page.excerpt | strip_html | url_encode}}" title="Share on Pinterest" target="_blank">
-  <img src="{{site.url}}{{page.pinterest-image}}.jpg" />
-</a>
-{% endif %}
