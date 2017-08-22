@@ -114,11 +114,11 @@ If you want to make the switch, you can start by framing your thinking with some
 
 Dwight D. Eisenhower, the 34th president of the United States, is pretty well recognized for being an insanely productive guy. One of his cornerstone strategies is the concept of the "Eisenhower Box".
 
-For the Eisenhower box, ever task is classified as:
+For the Eisenhower box, every task is classified as:
 - Important or Not Important
 - Urgent or Not Urgent
 
-Based on the combination, every tasks falls into a quadrant that dictates what you should do.
+Based on the combination, each task falls into a quadrant that dictates what you should do.
 
 Tasks that are __urgent__ and __important__ are crises that clearly need to be handled.
 
@@ -136,7 +136,7 @@ Tasks that are __not urgent__ are often the __most important__ tasks you can inv
 
 The key to long-term productivity is to apply push and pull in the right ways and the Eisenhower Box is a great tool to help us.
 
-Here's my take on the Eisenhower Box, building in Push and Pull. See below for an explanation of each quadrant.
+Here's my take on the Eisenhower Box, building in the concepts of "push" and "pull". See below for an explanation of each quadrant.
 
 ![]({{site.url}}/img/posts/2017-08-22-from-push-to-pull/push-pull-eisenhower-400.png)
 
