@@ -96,6 +96,6 @@ We're still on track to pay off our mortgage on August 1, 2020 - 8 months behind
 
 That's one in the books, friends. I think we're off to a good start so far this year but goals are usually easy to maintain when you're first getting started. As we get further in this year, we'll probably find some bigger challenges in sticking to our nothing new year. Hopefully these monthly updates will help keep us accountable and on-track!
 
-{% include pinterest-image.html %}
+
 
 _How are you doing on your new year's resolutions so far? Sticking to the plan or have you shifted gears already?_

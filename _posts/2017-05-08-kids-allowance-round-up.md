@@ -149,4 +149,4 @@ There are a lot of considerations in how to structure allowances for your kids. 
 
 _How do you structure allowances for your family? If you don't have kids or aren't doing any allowances yet, how did your parents structure this for you when you were a kid?_
 
-{% include pinterest-image.html %}
+

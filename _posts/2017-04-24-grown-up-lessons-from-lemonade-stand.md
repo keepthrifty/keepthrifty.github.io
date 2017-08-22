@@ -127,6 +127,6 @@ In the interest of sharing the fun, you can see the video below. _Caution: this 
 
 At bedtime tonight, my daughter declared that the lemonade stand was her favorite part of the day. I couldn't be happier with how it all turned out - we had fun, got to enjoy a beautiful day outside, and all of us (especially myself) were reminded of some great life lessons.
 
-{% include pinterest-image.html %}
+
 
 _Do you have any favorite lemonade stand stories? Did you have entrepreneurial aspirations as a kid?_

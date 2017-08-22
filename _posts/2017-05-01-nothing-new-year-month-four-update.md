@@ -139,6 +139,6 @@ Well, we stumbled a bit this month with our $23 power cord and a $50 birthday pr
 
 What I'm really excited for is to see how our finances change once we're finally out of our house and in a rental. Without all the maintenance and updates, I anticipate things will be a whole lot more steady :)
 
-{% include pinterest-image.html %}
+
 
 _Are you still on-track with the resolutions you made for this year? How have you gotten back on track when you fail a goal?_

@@ -116,6 +116,6 @@ If I can get to the point that money is only serving to support my family in acc
 
 What about you?
 
-{% include pinterest-image.html %}
+
 
 _How does money make you feel? Are you where you'd like to be? Do you see how to get where you want to go?_

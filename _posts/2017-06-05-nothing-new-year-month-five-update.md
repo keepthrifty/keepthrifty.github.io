@@ -144,6 +144,6 @@ Next month's update will be a fun one as it'll include our last "regular" mortga
 
 Hope your own personal challenges are going well this year!
 
-{% include pinterest-image.html %}
+
 
 _Even a goal we miss can have a positive impact. Have you had goals you didn't achieve but still saw great benefits from? What were they and how did they impact you?_

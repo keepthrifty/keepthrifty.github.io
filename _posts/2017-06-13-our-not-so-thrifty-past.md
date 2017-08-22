@@ -41,7 +41,7 @@ Here's how I define _thrifty_, with a head-nod to [Oxford Dictionaries](https://
 >
 > 1. using money and other resources carefully toward one's most important dreams and values
 >
-> {% include tweet-link-tweet-only.html tweet-text="Thrifty: using money and other resources carefully toward one's most important dreams and values" %}
+> {% include tweet-link.html tweet-text="Thrifty: using money and other resources carefully toward one's most important dreams and values" link-only=true %}
 
 The reason this definition is so important to me - and why I used this as the name for this site - is because of how un-thrifty our life used to be.
 
@@ -150,5 +150,3 @@ So, every time I see _Keep Thrifty_, I'm reminded of where we came from, the cha
 For you? All of this is what I hope the articles and tools here on Keep Thrifty can do for you - to support you in understanding your dreams and values and help ensure you are keeping thrifty with your resources.
 
 _If you're looking to get thrifty, or to stay there, check out my personal finance tracking app - [Thrifty]({{site.url}}/thrifty/). If you'd like to meet with me as a financial coach, reach out through the [Work with Me page]({{site.url}}/work-with-me/)_
-
-{% include pinterest-image.html %}

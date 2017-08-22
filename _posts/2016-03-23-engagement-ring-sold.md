@@ -129,7 +129,7 @@ If there's anything you take away from this, I hope you spend some time dreaming
 
 These trade-offs are everywhere and can be a big accelerator for getting to where you want to be; you just have to get over a few mental hurdles to get there.
 
-{% include pinterest-image.html %}
+
 
 _What are your goals? What could you give up to help you get closer to them?_
 

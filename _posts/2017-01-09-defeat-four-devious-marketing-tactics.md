@@ -158,4 +158,4 @@ Based on all of this, here's your charter for the next time you see an advertise
 
 _What marketing messages rub you the wrong way? Any devious tactics I missed warning people about? Join the conversation below!_
 
-{% include pinterest-image.html %}
+

@@ -172,4 +172,4 @@ As you head into the rest of the holiday season, keep an eye on what this season
 
 Keep Thrifty and Carry On!
 
-{% include pinterest-image.html %}
+

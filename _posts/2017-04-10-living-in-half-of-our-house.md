@@ -188,7 +188,7 @@ Whatever that path is, you can be sure you'll hear about it here :)
 
 _When have you had to go without something only to find that you never really needed it in the first place? Do you really use all of your house?_
 
-{% include pinterest-image.html %}
+
 
 ## Hide and Seek Challenge
 

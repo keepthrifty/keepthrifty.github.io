@@ -112,6 +112,6 @@ Finally, remember the power of your dollars:
 
 > {% include tweet-link.html tweet-text="_Every dollar you spend is a vote for what's important. Vote with your values and you can't go wrong_" %}
 
-{% include pinterest-image.html %}
+
 
 _Have you ever felt guilty or selfish for spending less? What was the scenario? Did feeling that way change your behavior?_
