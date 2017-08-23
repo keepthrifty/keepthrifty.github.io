@@ -11,10 +11,10 @@ image: /img/posts/2017-01-23-ignorance-might-be-better/confused-deer.jpg
 
 related-posts: [
   "/2016/10/16/talent-is-overrated",
-  "/2017/03/13/spend-without-fear",
   "/2017/03/27/dealing-with-unsolicited-advice",
   "/2017/05/22/major-waste-of-money-dont-care",
-  "/breaking-addiction-home-updates"
+  "/breaking-addiction-home-updates",
+  "/from-push-to-pull"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [think different]

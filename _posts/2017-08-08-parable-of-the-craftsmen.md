@@ -16,7 +16,8 @@ related-posts: [
   "/2017/05/22/major-waste-of-money-dont-care",
   "/one-year-mini-retirement",
   "/2017/04/24/grown-up-lessons-from-lemonade-stand",
-  "/2017/04/17/three-phases-money-feelings"
+  "/2017/04/17/three-phases-money-feelings",
+  "/from-push-to-pull"
 ]
 
 tags: [dreams & values]

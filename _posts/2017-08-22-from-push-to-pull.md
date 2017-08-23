@@ -5,7 +5,7 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 
 title: "Take Back Your Sanity By Switching From Push to Pull"
-description: "___TK___"
+description: "Have you ever felt like your life is a constant shift from one commitment to the next? As soon as one meeting finishes, another is about to begin. One of my goals in is to take back my schedule (and my sanity) by shifting my actions from 'push' to 'pull'. Here's how I'm doing it - starting with one little experiment."
 
 date: 2017-08-22 5:58:00 -0500
 
@@ -13,7 +13,10 @@ image: /img/posts/2017-08-22-from-push-to-pull/devices-down.jpg
 pinterest-image: /img/posts/2017-08-22-from-push-to-pull/push-pull-eisenhower
 
 related-posts: [
-  TK
+  "/parable-of-the-craftsmen",
+  "/2017/01/23/ignorance-better",
+  "/2016/12/05/money-mistakes-financial-compass",
+  "/2016/10/16/talent-is-overrated"
 ]
 
 tags: [think different]

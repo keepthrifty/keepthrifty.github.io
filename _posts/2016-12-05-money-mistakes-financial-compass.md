@@ -13,7 +13,8 @@ related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
   "/2017/06/13/our-not-so-thrifty-past",
-  "/one-year-mini-retirement"
+  "/one-year-mini-retirement",
+  "/from-push-to-pull"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [dreams & values]

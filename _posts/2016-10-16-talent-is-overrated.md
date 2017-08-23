@@ -15,7 +15,8 @@ related-posts: [
   "/2016/08/12/fifteen-lessons-first-seven-jobs",
   "/2017/04/24/grown-up-lessons-from-lemonade-stand",
   "/2017/01/23/ignorance-better",
-  "/2017/06/13/our-not-so-thrifty-past"
+  "/2017/06/13/our-not-so-thrifty-past",
+  "/from-push-to-pull"
 ]
 
 permalink: /:year/:month/:day/:title/
