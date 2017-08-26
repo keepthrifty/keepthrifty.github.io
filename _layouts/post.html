@@ -5,7 +5,7 @@ comments: true
 
 <div class="col">
   {% include patreon.html %}
-  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <article class="post">
     <header class="post__header">
       {% unless page.nometa %}
       <div class="post__meta">
@@ -13,7 +13,7 @@ comments: true
       </div>
       {% endunless %}
       <div class="post__title">
-        <h1 class="post__title--main" itemprop="name headline">{{ page.title }}</h1>
+        <h1 class="post__title--main">{{ page.title }}</h1>
         {% if page.subtitle %}<h2 class="post__title--subtitle">{{ page.subtitle }}</h2>{% endif %}
       </div>
       {% unless page.nometa %}
@@ -25,11 +25,11 @@ comments: true
       </div>
       {% endunless %}
       {% if page.image %}
-      <img src="{{ site.url }}{{ page.image }}" class="post__header__image" itemprop="image" alt="" />
+        <img class="post__header__image" alt="{{page.title}}" src="{{site.url}}{{page.image.path}}" />
       {% endif %}
     </header>
 
-    <main class="post__body" itemprop="articleBody">
+    <main class="post__body">
       {{ content }}
     </main>
 

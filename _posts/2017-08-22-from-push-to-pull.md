@@ -1,7 +1,6 @@
 ---
 layout: post
 
-author: keepthrifty
 author_email: chris@keepthrifty.com
 
 title: "Take Back Your Sanity By Switching From Push to Pull"
@@ -9,7 +8,8 @@ description: "Have you ever felt like your life is a constant shift from one com
 
 date: 2017-08-22 5:58:00 -0500
 
-image: /img/posts/2017-08-22-from-push-to-pull/devices-down.jpg
+image:
+  path: /img/posts/2017-08-22-from-push-to-pull/devices-down.jpg
 pinterest-image: /img/posts/2017-08-22-from-push-to-pull/push-pull-eisenhower
 
 related-posts: [
