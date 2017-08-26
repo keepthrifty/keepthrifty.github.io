@@ -8,7 +8,8 @@ title: "Guest Post: A Hot Cheeto Called Harambe"
 subtitle: "5 Ideas to Capitalize on a Craze Without Getting Your Fingers Dirty"
 description: "Adam from Crispy Cabbage breaks down how he'd capitalize on the Gorilla-shaped Cheeto Craze"
 
-image: /img/posts/2017-02-27-hot-cheeto-called-harambe/harambe-cheeto.jpg
+image:
+  path: /img/posts/2017-02-27-hot-cheeto-called-harambe/harambe-cheeto.jpg
 
 related-posts: [
   "/2016/07/21/spending-on-free",

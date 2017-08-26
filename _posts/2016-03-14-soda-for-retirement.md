@@ -5,7 +5,8 @@ description: "I used to love Diet Mountain Dew. By kicking that habit I'm saving
 date:   2016-03-14 12:00:00 -0600
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-03-14-soda-for-retirement/soda-cans.jpg
+image:
+  path: /img/posts/2016-03-14-soda-for-retirement/soda-cans.jpg
 image-folder: /img/posts/2016-03-14-soda-for-retirement
 related-posts: [
   "/2016/09/25/the-price-of-an-extra-day-spreadsheet-edition",

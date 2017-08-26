@@ -6,7 +6,8 @@ date:   2016-07-21 05:00:00 -0500
 author: Elsie Brown
 author_site: GundoMoney
 author_site_url: http://www.gundomoney.com
-image: /img/posts/2016-07-21-spending-on-free/sunset-heart.jpg
+image:
+  path: /img/posts/2016-07-21-spending-on-free/sunset-heart.jpg
 related-posts: [
   "/2016/03/23/engagement-ring-sold",
   "/2016/01/20/living-with-less",

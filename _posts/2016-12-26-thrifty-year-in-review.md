@@ -7,7 +7,8 @@ author_email: chris@keepthrifty.com
 title: "2016: A Thrifty Year In Review"
 description: "Reviewing 2016 for our family, our finances, and for the Keep Thrifty blog and Thrifty Tool"
 
-image: /img/posts/2016-12-26-thrifty-year-in-review/calendar-review.jpg
+image:
+  path: /img/posts/2016-12-26-thrifty-year-in-review/calendar-review.jpg
 
 related-posts: [
   "/2016/02/13/thrifty-valentines-day",

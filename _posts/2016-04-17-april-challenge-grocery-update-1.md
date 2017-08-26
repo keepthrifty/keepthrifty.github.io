@@ -5,7 +5,8 @@ description: "Keep Thrifty challenge for April 2016: spend less on groceries; se
 date:   2016-04-17
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-04-17-april-challenge-grocery-update-1/box-of-food.jpg
+image:
+  path: /img/posts/2016-04-17-april-challenge-grocery-update-1/box-of-food.jpg
 redirect_from:
   - /challenge/2016/04/17/april-challenge-update-1.html
   - /challenge/2016/04/17/april-challenge-grocery-update-1.html

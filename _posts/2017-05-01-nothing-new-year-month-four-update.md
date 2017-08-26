@@ -9,7 +9,8 @@ description: "With our new plan to sell our house and downsize to an apartment, 
 
 date: 2017-05-01 06:15:01 -0500
 
-image: /img/posts/2017-05-01-nothing-new-year-month-four-update/facepalm.jpg
+image:
+  path: /img/posts/2017-05-01-nothing-new-year-month-four-update/facepalm.jpg
 pinterest-image: /img/posts/2017-05-01-nothing-new-year-month-four-update/nny-month-4-update
 
 related-posts: [

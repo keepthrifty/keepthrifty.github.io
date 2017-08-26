@@ -7,7 +7,8 @@ author_email: chris@keepthrifty.com
 title: "Staying Thankful in a Spend-Happy World"
 description: "Thanksgiving is about thanks but the stress of the holiday season often pulls us in the other direction; here's what we did this year to stay centered"
 
-image: /img/posts/2016-11-27-staying-thankful-spend-happy-world/thanks.jpg
+image:
+  path: /img/posts/2016-11-27-staying-thankful-spend-happy-world/thanks.jpg
 pinterest-image: /img/posts/2016-11-27-staying-thankful-spend-happy-world/thankful-thanksgiving
 
 related-posts: [
@@ -171,5 +172,3 @@ I hope you had a great Thanksgiving and have been able to see the many blessings
 As you head into the rest of the holiday season, keep an eye on what this season is and isn't about. Don't make this time of the year about [spending ridiculous sums of money]({{ site.url }}{% post_url 2016-09-12-we-wish-you-a-merry-debtmas %}) on things that people don't actually need.
 
 Keep Thrifty and Carry On!
-
-

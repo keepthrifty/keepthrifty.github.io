@@ -5,7 +5,8 @@ description: "Here's how we had an awesome Valentine's day for less than $100"
 date:   2016-02-13 06:00:00 -0600
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-02-13-thrifty-valentines-day/valentines.jpg
+image:
+  path: /img/posts/2016-02-13-thrifty-valentines-day/valentines.jpg
 image-folder: /img/posts/2016-02-13-thrifty-valentines-day
 related-posts: [
   "/2016/08/12/fifteen-lessons-first-seven-jobs",

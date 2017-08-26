@@ -10,7 +10,8 @@ description: "It started with a little remodeling in our entryway and soon becam
 
 date: 2017-08-15 5:58:00 -0500
 
-image: /img/posts/2017-08-15-breaking-addiction-home-updates/remodeled-house.jpg
+image:
+  path: /img/posts/2017-08-15-breaking-addiction-home-updates/remodeled-house.jpg
 pinterest-image: /img/posts/2017-08-15-breaking-addiction-home-updates/breaking-home-update-addiction
 
 related-posts: [

@@ -6,7 +6,8 @@ date:   2016-03-28
 timeline: April 2016
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-03-28-april-challenge-grocery/grocery-bananas.jpg
+image:
+  path: /img/posts/2016-03-28-april-challenge-grocery/grocery-bananas.jpg
 redirect_from:
   - /challenge/2016/03/28/april-challenge.html
   - /challenge/2016/03/28/april-challenge-grocery.html

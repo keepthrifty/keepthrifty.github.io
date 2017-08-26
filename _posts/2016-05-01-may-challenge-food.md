@@ -6,7 +6,8 @@ date:   2016-05-01
 timeline: May 2016
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-05-01-may-challenge-food/happy-pancake.jpg
+image:
+  path: /img/posts/2016-05-01-may-challenge-food/happy-pancake.jpg
 redirect_from:
   - /challenges/2016-05-food/
   - /challenge/2016/05/01/may-challenge-food.html

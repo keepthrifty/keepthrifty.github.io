@@ -5,7 +5,8 @@ description: "My own response to #firstsevenjobs - here are mine and the fifteen
 date:   2016-08-12 16:00:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-08-12-first-seven-jobs/parking-lot.jpg
+image:
+  path: /img/posts/2016-08-12-first-seven-jobs/parking-lot.jpg
 image-folder: /img/posts/2016-08-12-first-seven-jobs
 related-posts: [
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",

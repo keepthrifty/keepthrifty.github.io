@@ -7,7 +7,8 @@ author_email: chris@keepthrifty.com
 title: "Book Review: The MoneySmart Family System by Steve & Annette Economides"
 description: "Keep Thrifty Book review of The MoneySmart Family System by Steve & Annette Economides"
 
-image: /img/posts/2016-10-31-moneysmart-family-system-review/post-image.jpg
+image:
+  path: /img/posts/2016-10-31-moneysmart-family-system-review/post-image.jpg
 
 related-posts: [
   "/2016/06/18/the-simple-path-to-wealth-review",

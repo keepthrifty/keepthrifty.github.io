@@ -7,7 +7,8 @@ author_email: chris@keepthrifty.com
 title: "Four Devious Marketing Tactics (and How to Defeat Them)"
 description: "Don't get fooled by these devious marketing tactics from people looking to take your hard-earned dollars"
 
-image: /img/posts/2017-01-09-four-devious-marketing-tactics/mannequins.jpg
+image:
+  path: /img/posts/2017-01-09-four-devious-marketing-tactics/mannequins.jpg
 pinterest-image: /img/posts/2017-01-09-four-devious-marketing-tactics/devious-marketing-pinterest
 
 related-posts: [
@@ -157,5 +158,3 @@ The "facts" and assumptions behind what you're being told are fuzzy and coming w
 Based on all of this, here's your charter for the next time you see an advertisement: Assume nothing, question everything and, as always, keep thrifty :)
 
 _What marketing messages rub you the wrong way? Any devious tactics I missed warning people about? Join the conversation below!_
-
-

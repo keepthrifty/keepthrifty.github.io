@@ -5,7 +5,8 @@ description: "Keep Thrifty challenge for May 2016: spend less on food; see our f
 date:   2016-05-29
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-05-29-may-challenge-food-update-2/grilling-out.jpg
+image:
+  path: /img/posts/2016-05-29-may-challenge-food-update-2/grilling-out.jpg
 redirect_from:
   - /challenges/2016-05-food/update-2.html
 related-posts: [

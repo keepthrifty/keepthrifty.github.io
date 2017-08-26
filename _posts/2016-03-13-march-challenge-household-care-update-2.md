@@ -5,7 +5,8 @@ description: "Keep Thrifty challenge for March 2016: spend less on household ite
 date:   2016-03-13
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-03-13-march-challenge-household-care-update-2/jars.jpg
+image:
+  path: /img/posts/2016-03-13-march-challenge-household-care-update-2/jars.jpg
 image-folder: /img/posts/2016-03-13-march-challenge-household-care-update-2
 redirect_from:
   - /challenge/2016/03/13/march-challenge-update-2.html

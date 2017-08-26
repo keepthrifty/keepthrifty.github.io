@@ -8,7 +8,8 @@ title: "Happy Nothing New Year!"
 subtitle: "Buying Nothing New in 2017"
 description: "Our family's goal for 2017? To buy nothing new. How are we going to do it?"
 
-image: /img/posts/2017-01-02-happy-nothing-new-year/empty-shopping-list.jpg
+image:
+  path: /img/posts/2017-01-02-happy-nothing-new-year/empty-shopping-list.jpg
 pinterest-image: /img/posts/2017-01-02-happy-nothing-new-year/nothing-new-year-pinterest
 
 related-posts: [
@@ -145,5 +146,3 @@ Based on our aggressive prepayments and taking advantage of refinancing, we're d
 _What are your plans for 2017? Do you have any ambitious goals or crazy experiments in mind?_
 
 _What are your thoughts on the "Nothing New Year"? What challenges do you think we'll face that we haven't accounted for?_
-
-

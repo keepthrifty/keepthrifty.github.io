@@ -9,7 +9,8 @@ description: "Let's face it - moving sucks. When you're a minimalist, though, it
 
 date: 2017-06-27 5:58:00 -0500
 
-image: /img/posts/2017-06-27-minimalist-moving/minimalist-moving.jpg
+image:
+  path: /img/posts/2017-06-27-minimalist-moving/minimalist-moving.jpg
 pinterest-image: /img/posts/2017-06-27-minimalist-moving/minimalist-moving-pin
 
 related-posts: [
@@ -150,5 +151,3 @@ If you're interested in learning more about minimalism, I highly recommend you c
 - Website: [Simplicity Voices](http://simplicityvoices.com/) - a curated collection of minimalism articles from authors all over the world
 
 _How was your last move? Do you still have boxes in your basement that you haven't opened? If you've got plans to move in the future, how stressed are you about the concept of moving all your stuff?_
-
-

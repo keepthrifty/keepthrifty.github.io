@@ -5,7 +5,8 @@ description: "Keep Thrifty challenge for March 2016: spend less on household ite
 date:   2016-04-03
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-04-03-march-challenge-household-care-update-5/kitchen-sink.jpg
+image:
+  path: /img/posts/2016-04-03-march-challenge-household-care-update-5/kitchen-sink.jpg
 redirect_from:
   - /challenge/2016/04/03/march-challenge-update-5.html
   - /challenge/2016/04/03/march-challenge-household-care-update-5.html

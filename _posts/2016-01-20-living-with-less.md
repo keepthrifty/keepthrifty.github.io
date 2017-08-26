@@ -5,7 +5,8 @@ description: "We've drastically changed our lifestyle in the last few years and 
 date:   2016-01-20 06:00:00 -0600
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-01-20-living-with-less/jumper.jpg
+image:
+  path: /img/posts/2016-01-20-living-with-less/jumper.jpg
 related-posts: [
   "/2016/09/04/let-it-burn",
   "/2016/08/28/the-more-of-less-review",

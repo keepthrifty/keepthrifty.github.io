@@ -5,7 +5,8 @@ description: "Keep Thrifty challenge for March 2016: spend less on household ite
 date:   2016-03-27
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-03-27-march-challenge-household-care-update-4/makeup-brush.jpg
+image:
+  path: /img/posts/2016-03-27-march-challenge-household-care-update-4/makeup-brush.jpg
 redirect_from:
   - /challenge/2016/03/27/march-challenge-update-4.html
   - /challenge/2016/03/27/march-challenge-household-care-update-4.html

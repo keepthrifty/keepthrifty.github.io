@@ -6,7 +6,8 @@ date:   2016-05-29
 timeline: June 2016
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-05-29-june-challenge-entertainment/old-tv.jpg
+image:
+  path: /img/posts/2016-05-29-june-challenge-entertainment/old-tv.jpg
 redirect_from:
   - /challenges/2016-06-entertainment/
   - /challenge/2016/05/29/june-challenge-entertainment.html

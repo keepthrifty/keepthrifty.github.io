@@ -7,7 +7,8 @@ author_email: chris@keepthrifty.com
 title: "Money and Life Lessons from The Oregon Trail"
 description: "It's not just an iconic game from most Millennials' childhoods - this game has serious lessons you can use to master money"
 
-image: /img/posts/2016-11-20-money-life-lessons-oregon-trail/you-made-it.png
+image:
+  path: /img/posts/2016-11-20-money-life-lessons-oregon-trail/you-made-it.png
 
 related-posts: [
   "/2016/08/12/fifteen-lessons-first-seven-jobs",

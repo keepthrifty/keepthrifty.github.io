@@ -10,7 +10,8 @@ description: "If you were homeless and suddenly got a hold of more money than yo
 
 date: 2017-05-30 00:30:00 -0500
 
-image: /img/posts/2017-05-30-rent-vs-buy-for-the-fi/lady-justice.jpg
+image:
+  path: /img/posts/2017-05-30-rent-vs-buy-for-the-fi/lady-justice.jpg
 pinterest-image: /img/posts/2017-05-30-rent-vs-buy-for-the-fi/rent-vs-buy-for-the-fi
 
 related-posts: [

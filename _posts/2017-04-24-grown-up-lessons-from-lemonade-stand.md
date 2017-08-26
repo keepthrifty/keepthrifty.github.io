@@ -7,7 +7,8 @@ author_email: chris@keepthrifty.com
 title: "Grown-Up Lessons from a Lemonade Stand"
 description: "Our oldest daughter just set up her first lemonade stand this weekend. I viewed it as a great way to teach her about business but I think I might have learned more from watching her than she did from me."
 
-image: /img/posts/2017-04-24-grown-up-lessons-from-lemonade-stand/lemonade-stand.jpg
+image:
+  path: /img/posts/2017-04-24-grown-up-lessons-from-lemonade-stand/lemonade-stand.jpg
 pinterest-image: /img/posts/2017-04-24-grown-up-lessons-from-lemonade-stand/lemonade-stand-pinterest
 
 related-posts: [

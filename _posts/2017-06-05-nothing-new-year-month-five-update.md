@@ -9,7 +9,8 @@ description: "We've gotten our house on the market and have an accepted offer. O
 
 date: 2017-06-05 13:10:00 -0500
 
-image: /img/posts/2017-06-05-nothing-new-year-month-five-update/sleeping-red-panda.jpg
+image:
+  path: /img/posts/2017-06-05-nothing-new-year-month-five-update/sleeping-red-panda.jpg
 pinterest-image: /img/posts/2017-06-05-nothing-new-year-month-five-update/nny-month-5-update
 
 related-posts: [

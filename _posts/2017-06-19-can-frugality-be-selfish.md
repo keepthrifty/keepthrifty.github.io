@@ -9,7 +9,8 @@ description: "We've been making some pretty big frugal moves recently, but one o
 
 date: 2017-06-19 13:58:00 -0500
 
-image: /img/posts/2017-06-19-can-frugality-be-selfish/frugality-selfish.jpg
+image:
+  path: /img/posts/2017-06-19-can-frugality-be-selfish/frugality-selfish.jpg
 pinterest-image: /img/posts/2017-06-19-can-frugality-be-selfish/can-frugality-be-selfish
 
 related-posts: [
