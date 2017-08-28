@@ -176,7 +176,7 @@ To go a step further, consider searching for "scenic byways" along your route. T
 
 Where you choose to sleep can have a big impact on your budget. Unless you're picking cockroach-infested motels, your nightly lodging can easily eat up half of your budget or more.
 
-As you plan out our route, hotel stays are one of the things to pick out first. We've found that it's much easier to pick the place you want to sleep and settle for where you have to eat than the other way around.
+As you plan out your route, hotel stays are one of the things to pick out first. We've found that it's much easier to pick the place you want to sleep and settle for where you have to eat than the other way around.
 
 Using the daily schedule, you can trace your rough route to see how far you can get each day and pick a few target cities to research for lodging in the area of your daily driving limit.
 
@@ -354,9 +354,9 @@ With a few tweaks to your mentality and the right tools, you can avoid those gin
 
 We'd likely get hernias trying to haul around suitcases with twelve days worth of clothes for five people on our trips.
 
-Instead, we pack enough clothes to cover 3-4 days of warm weather and a pair of pants and a sweatshirt in case we encounter any cold days. We plan to do laundry every 2-3 days on the trip - at our hotel (as planned above).
+Instead, we pack enough clothes to cover 3-4 days of warm weather and a pair of pants and a sweatshirt in case we encounter any cold days. We plan to do laundry every 2-3 days on the trip - at our hotel. If you're going this route, make sure your hotel has laundry. You can even call ahead and request a room on the same floor as the laundry machines to make life a bit easier.
 
-While this takes time, it's usually something that can be done in the evening without much hassle while cuddling up and watching a movie together as a family. This saves us from so much extra hassle and cuts the number of bags we need to handle by 75%.
+While doing laundry on your trip takes time, it's usually something that can be done in the evening without much hassle while cuddling up and watching a movie together as a family. This saves us from so much extra hassle and cuts the number of bags we need to handle by 75%.
 
 Most hotel laundry machines are coin-operated, so make sure to pack quarters or have cash on-hand to get change at the hotel.
 
@@ -416,7 +416,7 @@ Awesome job getting this far! Your bags are packed, the gas tank is full and eve
 
 ### Car Activities
 
-Spending 7-8 hours crammed in a metal box with four other people can sound more like the plot for a horror movie than an exciting family vacation. Handled properly, however, these hours can be some of the most fun on your trip.
+{% include tweet-link.html tweet-text="Eight hours in a metal box with other people may seem more like a horror movie plot than a fun trip" %}. Handled properly, however, these hours can be an awesome time to bond as a family and create fun memories together.
 
 Here are some ideas for keeping entertained while in the car:
 
