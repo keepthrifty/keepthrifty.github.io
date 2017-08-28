@@ -29,7 +29,7 @@ comments: true
       {% endif %}
     </header>
 
-    <main class="post__body">
+    <main class="post__body{% if page.number-headings %} post__body--numbered-headings{% endif %}">
       {{ content }}
     </main>
 
