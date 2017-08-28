@@ -7,7 +7,8 @@ author_email: chris@keepthrifty.com
 title: "Nothing New Year: Month 2 Update"
 description: "Two months down in our nothing new year challenge. How did we do and where are we at on our mortgage? Read on to find out!"
 
-image: /img/posts/2017-03-06-nothing-new-year-month-two-update/shopping-cart-in-river.jpg
+image:
+  path: /img/posts/2017-03-06-nothing-new-year-month-two-update/shopping-cart-in-river.jpg
 pinterest-image: /img/posts/2017-03-06-nothing-new-year-month-two-update/nny-month-2-update
 
 related-posts: [

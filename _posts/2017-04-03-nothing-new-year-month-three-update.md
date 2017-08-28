@@ -7,7 +7,8 @@ author_email: chris@keepthrifty.com
 title: "Nothing New Year: Month 3 Update"
 description: "We spent a ton this month and are making a pretty big change in our strategy to become debt-free"
 
-image: /img/posts/2017-04-03-nothing-new-year-month-three-update/empty-pockets.jpg
+image:
+  path: /img/posts/2017-04-03-nothing-new-year-month-three-update/empty-pockets.jpg
 pinterest-image: /img/posts/2017-04-03-nothing-new-year-month-three-update/nny-month-3-update
 
 related-posts: [

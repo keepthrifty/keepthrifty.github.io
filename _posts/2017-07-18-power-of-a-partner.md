@@ -9,7 +9,8 @@ description: "It took us a number of years before we figured out how to really h
 
 date: 2017-07-18 5:58:00 -0500
 
-image: /img/posts/2017-07-18-power-of-a-partner/rope-heart.jpg
+image:
+  path: /img/posts/2017-07-18-power-of-a-partner/rope-heart.jpg
 pinterest-image: /img/posts/2017-07-18-power-of-a-partner/power-of-partner-pinterest
 
 related-posts: [

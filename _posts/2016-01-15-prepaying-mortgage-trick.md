@@ -5,7 +5,8 @@ description: "By avoiding lifestyle inflation, you can pay off your mortgage way
 date:   2016-01-15 06:00:00 -0600
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-01-15-prepaying-mortgage-trick/usa_house.jpg
+image:
+  path: /img/posts/2016-01-15-prepaying-mortgage-trick/usa_house.jpg
 image-folder: /img/posts/2016-01-15-prepaying-mortgage-trick
 related-posts: [
   "/2017/03/20/home-mortgage-interest-deduction",

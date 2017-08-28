@@ -7,7 +7,8 @@ author_email: chris@keepthrifty.com
 title: "How to Become Twice as Happy with Half as Much"
 description: "Four examples of how our family of minimalists became twice as happy with half as much"
 
-image: /img/posts/2016-10-10-become-twice-as-happy-with-half-as-much/cupcake.jpg
+image:
+  path: /img/posts/2016-10-10-become-twice-as-happy-with-half-as-much/cupcake.jpg
 image-folder: /img/posts/2016-10-10-become-twice-as-happy-with-half-as-much
 
 related-posts: [

@@ -10,7 +10,8 @@ description: "In the span of one week, I went from being gainfully employed in a
 
 date: 2017-07-11 5:58:00 -0500
 
-image: /img/posts/2017-07-11-one-year-mini-retirement/palm-island.jpg
+image:
+  path: /img/posts/2017-07-11-one-year-mini-retirement/palm-island.jpg
 pinterest-image: /img/posts/2017-07-11-one-year-mini-retirement/one-year-mini-retirement
 
 related-posts: [

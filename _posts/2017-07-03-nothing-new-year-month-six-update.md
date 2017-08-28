@@ -9,7 +9,8 @@ description: "We're halfway through the year and everything's about to change. W
 
 date: 2017-07-03 5:58:00 -0500
 
-image: /img/posts/2017-07-03-nothing-new-year-month-six-update/firework.jpg
+image:
+  path: /img/posts/2017-07-03-nothing-new-year-month-six-update/firework.jpg
 pinterest-image: /img/posts/2017-07-03-nothing-new-year-month-six-update/nny-month-6-update
 
 related-posts: [

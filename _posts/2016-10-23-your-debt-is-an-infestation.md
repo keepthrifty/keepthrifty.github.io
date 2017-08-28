@@ -7,7 +7,8 @@ author_email: chris@keepthrifty.com
 title: "Your Debt is an Infestation"
 description: "Treat your debt like a hornet's nest in your living room"
 
-image: /img/posts/2016-10-23-your-debt-is-an-infestation/bees.jpg
+image:
+  path: /img/posts/2016-10-23-your-debt-is-an-infestation/bees.jpg
 image-folder: /img/posts/2016-10-23-your-debt-is-an-infestation
 
 related-posts: [

@@ -7,7 +7,8 @@ author_email: chris@keepthrifty.com
 title: "Learning to Spend Without Fear"
 description: "My first big purchase was a $200 boombox and my hands were shaking when we went to the bank. Somehow I got over this feeling and learned how to spend without fear."
 
-image: /img/posts/2017-03-13-spend-without-fear/no-fear.jpg
+image:
+  path: /img/posts/2017-03-13-spend-without-fear/no-fear.jpg
 
 related-posts: [
   "/2017/01/23/ignorance-better",

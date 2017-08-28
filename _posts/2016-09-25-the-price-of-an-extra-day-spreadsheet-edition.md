@@ -5,7 +5,8 @@ description: "I'll walk you through making your own awesome spreadsheet to calcu
 author: keepthrifty
 author_email: chris@keepthrifty.com
 date: 2016-09-25
-image: /img/posts/2016-09-25-the-price-of-an-extra-day-spreadsheet-edition/s-51.jpg
+image:
+  path: /img/posts/2016-09-25-the-price-of-an-extra-day-spreadsheet-edition/s-51.jpg
 image-folder: /img/posts/2016-09-25-the-price-of-an-extra-day-spreadsheet-edition
 subscribe-line: Interested in amping up your spreadsheet skills?
 related-posts: [

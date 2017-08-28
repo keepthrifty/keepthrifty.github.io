@@ -7,7 +7,8 @@ author_email: chris@keepthrifty.com
 title: "Surviving the Suburbs with One Car"
 description: "Can a family of five survive in the suburbs with just one car? Of course, if they are keeping thrifty!"
 
-image: /img/posts/2017-01-16-one-car-suburbs/traffic.jpg
+image:
+  path: /img/posts/2017-01-16-one-car-suburbs/traffic.jpg
 
 related-posts: [
   "/2016/01/20/living-with-less",

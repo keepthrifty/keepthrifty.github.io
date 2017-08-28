@@ -9,7 +9,8 @@ description: "We are now debt free! Sure, we bought some new stuff this month, b
 
 date: 2017-08-01 5:58:00 -0500
 
-image: /img/posts/2017-08-01-nothing-new-year-month-seven-update/cheers.jpg
+image:
+  path: /img/posts/2017-08-01-nothing-new-year-month-seven-update/cheers.jpg
 pinterest-image: /img/posts/2017-08-01-nothing-new-year-month-seven-update/nny-month-7-update
 
 related-posts: [

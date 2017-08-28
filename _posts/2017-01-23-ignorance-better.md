@@ -7,7 +7,8 @@ author_email: chris@keepthrifty.com
 title: "Ignorance Might Be Better"
 description: "Just because something is common knowledge doesn't mean it's actually right. Some say ignorance is bliss; I think ignorance might just be better."
 
-image: /img/posts/2017-01-23-ignorance-might-be-better/confused-deer.jpg
+image:
+  path: /img/posts/2017-01-23-ignorance-might-be-better/confused-deer.jpg
 
 related-posts: [
   "/2016/10/16/talent-is-overrated",

@@ -7,7 +7,8 @@ author_email: chris@keepthrifty.com
 title: "Introducing Retirement Freedom"
 description: "The road to financial freedom can take a long time; an intermediate step to celebrate is Retirement Freedom - never heard of it? That's because I made it up"
 
-image: /img/posts/2017-01-30-introducing-retirement-freedom/space-capsule.jpg
+image:
+  path: /img/posts/2017-01-30-introducing-retirement-freedom/space-capsule.jpg
 
 related-posts: [
   "/2016/09/18/the-price-of-an-extra-day",

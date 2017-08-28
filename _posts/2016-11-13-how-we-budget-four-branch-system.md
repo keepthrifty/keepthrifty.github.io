@@ -7,7 +7,8 @@ author_email: chris@keepthrifty.com
 title: "How We Budget: The Four-Branch System"
 description: "This comprehensive system helps you master budgeting with some awesome tricks to build a safety net and accomplish your big goals"
 
-image: /img/posts/2016-11-13-how-we-budget-four-branch-system/money-plants.jpg
+image:
+  path: /img/posts/2016-11-13-how-we-budget-four-branch-system/money-plants.jpg
 
 related-posts: [
   "/2016/08/20/indecent-financial-exposure",

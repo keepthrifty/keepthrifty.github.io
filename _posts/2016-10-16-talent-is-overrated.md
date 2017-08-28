@@ -8,7 +8,8 @@ title: "Talent is Overrated"
 subtitle: "Everyone Starts at Zero"
 description: "Talent is overrated - true success comes from hard work"
 
-image: /img/posts/2016-10-16-talent-is-overrated/baby-rock.jpg
+image:
+  path: /img/posts/2016-10-16-talent-is-overrated/baby-rock.jpg
 image-folder: /img/posts/2016-10-16-talent-is-overrated
 
 related-posts: [

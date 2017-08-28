@@ -9,7 +9,8 @@ description: "Think we've always been thrifty? Not even close. Here's the full c
 
 date: 2017-06-13 01:58:00 -0500
 
-image: /img/posts/2017-06-13-our-not-so-thrifty-past/smoke-money.jpg
+image:
+  path: /img/posts/2017-06-13-our-not-so-thrifty-past/smoke-money.jpg
 pinterest-image: /img/posts/2017-06-13-our-not-so-thrifty-past/our-not-so-thrifty-past
 
 related-posts: [

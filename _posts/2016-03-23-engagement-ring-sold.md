@@ -5,7 +5,8 @@ description: "Why we sold our engagement ring - it's probably not for the reason
 date:   2016-03-23 15:30:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-03-23-engagement-ring-sold/wedding-carriage.jpg
+image:
+  path: /img/posts/2016-03-23-engagement-ring-sold/wedding-carriage.jpg
 pinterest-image: /img/posts/2016-03-23-engagement-ring-sold/engagement-ring-sold
 
 excerpt_separator: <!--end-excerpt-->

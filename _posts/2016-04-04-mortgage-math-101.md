@@ -4,7 +4,8 @@ title: Mortgage Math 101
 description: "Knowledge is power, so you should probably equip yourself with the mathematic fundamentals before you go take on a big mortgage"
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-04-04-mortgage-math-101/calculator.jpg
+image:
+  path: /img/posts/2016-04-04-mortgage-math-101/calculator.jpg
 image-folder: /img/posts/2016-04-04-mortgage-math-101
 redirect_from:
   - /mortgages/2016/04/04/mortgage-math-101.html

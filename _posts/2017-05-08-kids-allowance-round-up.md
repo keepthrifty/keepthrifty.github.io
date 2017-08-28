@@ -9,7 +9,8 @@ description: "I picked the brains of some great personal finance bloggers to see
 
 date: 2017-05-08 23:59:59 -0500
 
-image: /img/posts/2017-05-08-kids-allowance-round-up/piggy-banks.jpg
+image:
+  path: /img/posts/2017-05-08-kids-allowance-round-up/piggy-banks.jpg
 pinterest-image: /img/posts/2017-05-08-kids-allowance-round-up/kids-allowances
 
 related-posts: [
@@ -148,5 +149,3 @@ With the help of the experts, I think this structure would work really well for 
 There are a lot of considerations in how to structure allowances for your kids. The key is to remember that every family is different and whatever you choose needs to align with the goals you have in raising your kids.
 
 _How do you structure allowances for your family? If you don't have kids or aren't doing any allowances yet, how did your parents structure this for you when you were a kid?_
-
-

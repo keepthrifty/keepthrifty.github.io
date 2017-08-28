@@ -5,7 +5,8 @@ description: "When you look at history, the way we view clothing today is really
 date:   2016-06-13 21:30:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-06-13-escape-fashion-trap-part-1/fancy-suit.jpg
+image:
+  path: /img/posts/2016-06-13-escape-fashion-trap-part-1/fancy-suit.jpg
 image-folder: /img/posts/2016-06-13-escape-fashion-trap-part-1
 related-posts: [
   "/2016/08/28/the-more-of-less-review",

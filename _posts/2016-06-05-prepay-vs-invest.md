@@ -5,7 +5,8 @@ description: "Common wisdom says you should probably invest instead of prepaying
 date:   2016-06-05 19:30:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-06-05-prepay-vs-invest/cheers.jpg
+image:
+  path: /img/posts/2016-06-05-prepay-vs-invest/cheers.jpg
 redirect_from:
   - /mortgages/2016/06/05/prepay-vs-invest.html
 related-posts: [

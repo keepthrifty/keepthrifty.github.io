@@ -5,7 +5,8 @@ description: "'The Big Short' taught us a lot about money and how people behave 
 date:   2016-04-28 00:00:01 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-04-28-the-big-short/the-big-short.jpg
+image:
+  path: /img/posts/2016-04-28-the-big-short/the-big-short.jpg
 image-folder: /img/posts/2016-04-28-the-big-short
 related-posts: [
   "/2017/03/20/home-mortgage-interest-deduction",

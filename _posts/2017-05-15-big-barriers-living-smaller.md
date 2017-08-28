@@ -9,7 +9,8 @@ description: "Who knew it could be so tough finding a smaller place to live? In 
 
 date: 2017-05-15 21:59:59 -0500
 
-image: /img/posts/2017-05-15-big-barriers-living-smaller/small-house-big-house.jpg
+image:
+  path: /img/posts/2017-05-15-big-barriers-living-smaller/small-house-big-house.jpg
 pinterest-image: /img/posts/2017-05-15-big-barriers-living-smaller/big-barriers-living-smaller
 
 related-posts: [

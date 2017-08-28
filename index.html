@@ -21,7 +21,7 @@ layout: default
       </div>
       {% endunless %}
       {% if post.image %}
-      <a href="{{ post.url }}"><img src="{{ post.image }}" class="post__header__image" alt="" /></a>
+      <a href="{{ post.url }}"><img src="{{ post.image.path }}" class="post__header__image" alt="" /></a>
       {% endif %}
     </header>
 
