@@ -4,8 +4,8 @@ layout: post
 author: keepthrifty
 author_email: chris@keepthrifty.com
 
-title: "The Ultimate Guide to a Frugal Road Trip"
-description: "___TK___"
+title: "The Ultimate Guide to an Epic Frugal Road Trip"
+description: "When it comes to family vacations, there's a clear winner in terms of budget and experiences - the road trip. Get the full guide from Keep Thrifty on how to plan out your next epic, frugal road trip."
 
 date: 2017-08-29 6:58:00 -0500
 
@@ -13,7 +13,9 @@ image: /img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/station-wa
 pinterest-image: /img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/
 
 related-posts: [
-  TK
+  "/2016/07/06/roadtrip-recap",
+  "/2016/11/20/money-life-lessons-oregon-trail",
+  "/one-year-mini-retirement"
 ]
 
 tags: [money]
