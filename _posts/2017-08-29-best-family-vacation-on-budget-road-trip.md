@@ -9,8 +9,8 @@ description: "When it comes to family vacations, there's a clear winner in terms
 
 date: 2017-08-29 6:58:00 -0500
 
-image: /img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/station-wagon.jpg
-pinterest-image: /img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/
+image:
+  path: /img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/station-wagon.jpg
 
 related-posts: [
   "/2016/07/06/roadtrip-recap",
