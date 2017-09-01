@@ -8,7 +8,7 @@ title: "Fact Check: The Home Mortgage Interest Deduction"
 description: "Debunking the claim that prepaying your mortgage messes up your taxes."
 
 image:
-  path: /img/posts/2017-03-20-home-mortgage-interest-deduction/home-mortgage-interest-deduction.jpg
+  path: /assets/img/posts/2017-03-20-home-mortgage-interest-deduction/home-mortgage-interest-deduction.jpg
 
 related-posts: [
   "/2016/01/15/prepaying-mortgage-trick",
@@ -74,7 +74,7 @@ With that in mind, I created (surprise, surprise) a spreadsheet to do exactly th
 
 Check out the [Home Mortgage Interest Deduction Comparison spreadsheet][spreadsheet-link] to check out the difference between the two. You can plug in different numbers and see how it all changes, but the prepayment scenario will always win out.
 
-[![Home Mortgage Interest Deduction Comparison spreadsheet screenshot]({{site.url}}/img/posts/2017-03-20-home-mortgage-interest-deduction/home-mortgage-interest-deduction-comparison-spreadsheet.jpg)][spreadsheet-link]
+[![Home Mortgage Interest Deduction Comparison spreadsheet screenshot]({{site.url}}/assets/img/posts/2017-03-20-home-mortgage-interest-deduction/home-mortgage-interest-deduction-comparison-spreadsheet.jpg)][spreadsheet-link]
 
 ## Is There Any Truth?
 
@@ -108,7 +108,7 @@ For this, I'll reinvoke the image of our 25% off pants sale but put it back in t
 
 A picture is worth a thousand words, so here's my expertly drawn comparison diagram:
 
-![Pay $4,000 to the bank and get $1,000 back from the government or put $3,000 in your own savings account]({{site.url}}/img/posts/2017-03-20-home-mortgage-interest-deduction/optimizing-taxes-vs-overall.jpg)
+![Pay $4,000 to the bank and get $1,000 back from the government or put $3,000 in your own savings account]({{site.url}}/assets/img/posts/2017-03-20-home-mortgage-interest-deduction/optimizing-taxes-vs-overall.jpg)
 
 <div class="image-caption">Yes, I probably need some drawing lessons from <a href="http://www.crispycabbage.com" target="_blank">Crispy Cabbage</a></div>
 

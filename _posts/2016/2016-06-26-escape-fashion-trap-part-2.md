@@ -6,8 +6,8 @@ date:   2016-06-26 05:00:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-06-13-escape-fashion-trap-part-1/fancy-suit.jpg
-image-folder: /img/posts/2016-06-26-escape-fashion-trap-part-2
+  path: /assets/img/posts/2016-06-13-escape-fashion-trap-part-1/fancy-suit.jpg
+image-folder: /assets/img/posts/2016-06-26-escape-fashion-trap-part-2
 related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/03/23/engagement-ring-sold",
@@ -124,14 +124,14 @@ Diligence in fighting the temptation to keep up with the latest trend will help 
 
 Be comfortable in your own skin, no matter what you're wearing. If you can accomplish this you'll find yourself living a richer life in more ways than one.
 
-[macguyver-fix]: {{ site.url }}/img/posts/2016-06-26-escape-fashion-trap-part-2/macguyver-fix.jpg
+[macguyver-fix]: {{ site.url }}/assets/img/posts/2016-06-26-escape-fashion-trap-part-2/macguyver-fix.jpg
 
 [part-1]: {{ site.url }}{% post_url 2016/2016-06-13-escape-fashion-trap-part-1 %}
 
 [same-thing-to-work]: http://www.harpersbazaar.com/culture/features/a10441/why-i-wear-the-same-thing-to-work-everday/
 {: target="_blank"}
 
-[zubaz-wedding]: {{ site.url }}/img/posts/2016-06-26-escape-fashion-trap-part-2/zubaz-wedding.jpg
+[zubaz-wedding]: {{ site.url }}/assets/img/posts/2016-06-26-escape-fashion-trap-part-2/zubaz-wedding.jpg
 
 [atlantic-clothing-budget]: http://www.theatlantic.com/business/archive/2012/04/how-america-spends-money-100-years-in-the-life-of-the-family-budget/255475/
 {: target="_blank"}
@@ -139,7 +139,7 @@ Be comfortable in your own skin, no matter what you're wearing. If you can accom
 [twitter-link]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
 
-[baby-escape]: {{ site.url }}/img/posts/2016-06-13-escape-fashion-trap-part-1/baby-escape.jpg
+[baby-escape]: {{ site.url }}/assets/img/posts/2016-06-13-escape-fashion-trap-part-1/baby-escape.jpg
 
 [30-year-tshirt]: http://www.tomcridland.com/collections/the-30-year-t-shirt-a-30-year-guarantee
 {: target="_blank"}

@@ -8,7 +8,7 @@ title: "Ignorance Might Be Better"
 description: "Just because something is common knowledge doesn't mean it's actually right. Some say ignorance is bliss; I think ignorance might just be better."
 
 image:
-  path: /img/posts/2017-01-23-ignorance-might-be-better/confused-deer.jpg
+  path: /assets/img/posts/2017-01-23-ignorance-might-be-better/confused-deer.jpg
 
 related-posts: [
   "/2016/10/16/talent-is-overrated",
@@ -30,7 +30,7 @@ By her reaction, we were lucky to have made it all the way without getting assau
 
 When our time in Orenco Station was over, we "toughed it out" and rode the light-rail back. We made our whole trip car-free and saved $160 in the process.
 
-![Orenco Station light rail stop]({{site.url}}/img/posts/2017-01-23-ignorance-might-be-better/orenco-station.jpg)
+![Orenco Station light rail stop]({{site.url}}/assets/img/posts/2017-01-23-ignorance-might-be-better/orenco-station.jpg)
 
 <div class="image-caption">The Orenco Station stop <a href="https://commons.wikimedia.org/w/index.php?curid=9775517" target ="_blank">By M.O. Stevens - Own work, CC BY-SA 3.0</a></div>
 
@@ -80,7 +80,7 @@ The average new-build home size in [1950 was 983 square feet](http://www.yesmaga
 
 I don't think it'd be fair to describe people in the 1950's as miserable souls whose only desire was more square footage.
 
-![Leave it to Beaver poster]({{site.url}}/img/posts/2017-01-23-ignorance-might-be-better/leave-it-to-beaver.jpg)
+![Leave it to Beaver poster]({{site.url}}/assets/img/posts/2017-01-23-ignorance-might-be-better/leave-it-to-beaver.jpg)
 
 <div class="image-caption">These two seem pretty happy, right?</div>
 

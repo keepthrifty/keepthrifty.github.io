@@ -6,8 +6,8 @@ date:   2016-03-23 15:30:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-03-23-engagement-ring-sold/wedding-carriage.jpg
-pinterest-image: /img/posts/2016-03-23-engagement-ring-sold/engagement-ring-sold
+  path: /assets/img/posts/2016-03-23-engagement-ring-sold/wedding-carriage.jpg
+pinterest-image: /assets/img/posts/2016-03-23-engagement-ring-sold/engagement-ring-sold
 
 excerpt_separator: <!--end-excerpt-->
 
@@ -143,4 +143,4 @@ _What are your goals? What could you give up to help you get closer to them?_
 [thrifty-tool]: {{site.url}}/thrifty/
 {: target="_blank"}
 
-[usa-map]: {{ site.url }}/img/posts/2016-03-23-engagement-ring-sold/usa-map.jpg
+[usa-map]: {{ site.url }}/assets/img/posts/2016-03-23-engagement-ring-sold/usa-map.jpg

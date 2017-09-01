@@ -4,8 +4,8 @@ title: "Our Path to Minimalism"
 date: 2016-09-14
 author: keepthrifty
 author_email: chris@keepthrifty.com
-image: /img/posts/2016-09-19-cut-the-cords/cut-cords.jpg
-image-folder: /img/posts/2016-09-19-cut-the-cords
+image: /assets/img/posts/2016-09-19-cut-the-cords/cut-cords.jpg
+image-folder: /assets/img/posts/2016-09-19-cut-the-cords
 social-line: ???
 subscribe-line: ???
 related-posts: [

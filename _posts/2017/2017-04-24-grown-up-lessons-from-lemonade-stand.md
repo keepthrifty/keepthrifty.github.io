@@ -8,8 +8,8 @@ title: "Grown-Up Lessons from a Lemonade Stand"
 description: "Our oldest daughter just set up her first lemonade stand this weekend. I viewed it as a great way to teach her about business but I think I might have learned more from watching her than she did from me."
 
 image:
-  path: /img/posts/2017-04-24-grown-up-lessons-from-lemonade-stand/lemonade-stand.jpg
-pinterest-image: /img/posts/2017-04-24-grown-up-lessons-from-lemonade-stand/lemonade-stand-pinterest
+  path: /assets/img/posts/2017-04-24-grown-up-lessons-from-lemonade-stand/lemonade-stand.jpg
+pinterest-image: /assets/img/posts/2017-04-24-grown-up-lessons-from-lemonade-stand/lemonade-stand-pinterest
 
 related-posts: [
   "/2016/08/12/fifteen-lessons-first-seven-jobs",
@@ -37,7 +37,7 @@ With the plan figured out and supplies purchased, we were ready to roll.
 
 ## Lesson 1: It Pays to Get Out of Your Comfort Zone
 
-![]({{site.url}}/img/posts/2017-04-24-grown-up-lessons-from-lemonade-stand/newsboy.png)
+![]({{site.url}}/assets/img/posts/2017-04-24-grown-up-lessons-from-lemonade-stand/newsboy.png)
 
 When we got to the first playground, we were excited to see 10 kids and few adults on the playground. We pulled up in a shady spot nearby and waited for the money to roll in.
 
@@ -74,7 +74,7 @@ After my daughter responded, though, the look on our customers' faces quickly sh
 
 ## Lesson 2: It's OK to Change Direction
 
-![]({{site.url}}/img/posts/2017-04-24-grown-up-lessons-from-lemonade-stand/oops.png)
+![]({{site.url}}/assets/img/posts/2017-04-24-grown-up-lessons-from-lemonade-stand/oops.png)
 
 So maybe we were a bit optimistic on our pricing. Looking back, we weren't likely to sell the lemonade at $1 a cup. Thankfully the girls still decided to make a purchase - one donut hole each.
 
@@ -86,7 +86,7 @@ Even with the price drop, we were still struggling to get customers. Other than 
 
 ## Lesson 3: Persistence and Patience are Everything
 
-![]({{site.url}}/img/posts/2017-04-24-grown-up-lessons-from-lemonade-stand/stonecutter.jpg)
+![]({{site.url}}/assets/img/posts/2017-04-24-grown-up-lessons-from-lemonade-stand/stonecutter.jpg)
 
 My daughter started to get frustrated and made a few comments about wanting to give up and head home.
 

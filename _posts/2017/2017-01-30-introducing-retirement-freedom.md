@@ -8,7 +8,7 @@ title: "Introducing Retirement Freedom"
 description: "The road to financial freedom can take a long time; an intermediate step to celebrate is Retirement Freedom - never heard of it? That's because I made it up"
 
 image:
-  path: /img/posts/2017-01-30-introducing-retirement-freedom/space-capsule.jpg
+  path: /assets/img/posts/2017-01-30-introducing-retirement-freedom/space-capsule.jpg
 
 related-posts: [
   "/2016/09/18/the-price-of-an-extra-day",
@@ -77,7 +77,7 @@ The formula above is great and all, but it's much more fun to analyze how you st
 
 With that in mind, here's your present for today: [The Keep Thrifty Retirement Freedom Spreadsheet][spreadsheet]
 
-[![The Keep Thrifty Retirement Freedom Spreadsheet]({{site.url}}/img/posts/2017-01-30-introducing-retirement-freedom/retirement-freedom-spreadsheet.jpg)][spreadsheet]
+[![The Keep Thrifty Retirement Freedom Spreadsheet]({{site.url}}/assets/img/posts/2017-01-30-introducing-retirement-freedom/retirement-freedom-spreadsheet.jpg)][spreadsheet]
 
 If you click on the link, you can get your own copy of the sheet using Google Sheets. Enter in your information and you'll see:
 

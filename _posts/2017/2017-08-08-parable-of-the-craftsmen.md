@@ -10,8 +10,8 @@ description: "What does it really take to be successful, to find happiness? This
 date: 2017-08-08 5:58:00 -0500
 
 image:
-  path: /img/posts/2017-08-08-parable-of-the-craftsmen/craftsman-tools.jpg
-pinterest-image: /img/posts/2017-08-08-parable-of-the-craftsmen/parable-craftsmen
+  path: /assets/img/posts/2017-08-08-parable-of-the-craftsmen/craftsman-tools.jpg
+pinterest-image: /assets/img/posts/2017-08-08-parable-of-the-craftsmen/parable-craftsmen
 
 related-posts: [
   "/2017/05/22/major-waste-of-money-dont-care",

@@ -8,7 +8,7 @@ title: "Surviving the Suburbs with One Car"
 description: "Can a family of five survive in the suburbs with just one car? Of course, if they are keeping thrifty!"
 
 image:
-  path: /img/posts/2017-01-16-one-car-suburbs/traffic.jpg
+  path: /assets/img/posts/2017-01-16-one-car-suburbs/traffic.jpg
 
 related-posts: [
   "/2016/01/20/living-with-less",
@@ -61,7 +61,7 @@ So, we boldly dedicated to parking our Toyota Prius in the garage and committing
 
 That's right - if we were going to only drive one car in the suburbs, it was going to be a minivan. It doesn't get much more suburban than that :)
 
-![CD cover for Rockin' the Suburbs by Ben Folds]({{site.url}}/img/posts/2017-01-16-one-car-suburbs/rocking-the-suburbs.jpg)
+![CD cover for Rockin' the Suburbs by Ben Folds]({{site.url}}/assets/img/posts/2017-01-16-one-car-suburbs/rocking-the-suburbs.jpg)
 
 <div class="image-caption">We're rockin' the suburbs...just like Jon Bon Jovi did. (<a href="https://en.wikipedia.org/w/index.php?curid=197599" target="_blank">From Wikipedia, Fair use</a>)</div>
 
@@ -102,7 +102,7 @@ My wife adjusted appointments for days where she'd have the car and found local 
 
 After three months, we were satisfied with our progress and put the car up for sale. We looked up the blue book value and posted it online at 2/3 the price we had paid for it just 3 years before.
 
-![Our Toyota Prius, up for sale]({{site.url}}/img/posts/2017-01-16-one-car-suburbs/prius.jpg)
+![Our Toyota Prius, up for sale]({{site.url}}/assets/img/posts/2017-01-16-one-car-suburbs/prius.jpg)
 
 We only got one offer and it was for thousands less than our listing.
 

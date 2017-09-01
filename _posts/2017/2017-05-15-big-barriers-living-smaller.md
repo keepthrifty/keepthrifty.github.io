@@ -10,8 +10,8 @@ description: "Who knew it could be so tough finding a smaller place to live? In 
 date: 2017-05-15 21:59:59 -0500
 
 image:
-  path: /img/posts/2017-05-15-big-barriers-living-smaller/small-house-big-house.jpg
-pinterest-image: /img/posts/2017-05-15-big-barriers-living-smaller/big-barriers-living-smaller
+  path: /assets/img/posts/2017-05-15-big-barriers-living-smaller/small-house-big-house.jpg
+pinterest-image: /assets/img/posts/2017-05-15-big-barriers-living-smaller/big-barriers-living-smaller
 
 related-posts: [
   "/2017/02/13/how-much-is-your-stuff-costing-you",
@@ -42,7 +42,7 @@ We've looked at three different routes to live smaller - living in a _tiny house
 
 ## It's Hard to Build and Place a Tiny House
 
-![]({{site.url}}/img/posts/2017-05-15-big-barriers-living-smaller/nomads-nest.jpg)
+![]({{site.url}}/assets/img/posts/2017-05-15-big-barriers-living-smaller/nomads-nest.jpg)
 
 <div class="image-caption">Nomad's Nest from <a href="http://www.windrivertinyhomes.com/" target="_blank">Wind River Tiny Homes</a></div>
 
@@ -60,7 +60,7 @@ _There has been some recent good news on the tiny house building code front - In
 
 ## It's Hard to Build a Small House
 
-![]({{site.url}}/img/posts/2017-05-15-big-barriers-living-smaller/small-houses.jpg)
+![]({{site.url}}/assets/img/posts/2017-05-15-big-barriers-living-smaller/small-houses.jpg)
 
 So, I've already determined that our local zoning sets a minimum of 960 square feet for dwellings in our suburb. We think we could get by with much less, but let's say we wanted to get something around that size. If we open ourselves to a permanent, foundation-build house, how low can we _actually_ go in pursuit of minimum square footage?
 
@@ -74,7 +74,7 @@ An incredibly common restriction for these documents is __minimum square footage
 
 I went through the deed restrictions for the major subdivisions in our town (_it sounded like a fun thing to do on a Saturday night after everyone else was asleep_) and here's the progression I saw over time:
 
-![Chart showing increasing minimum square footage restrictions over time for both one-story (from 1300 sq. ft. in 1993 to 1700 sq. ft. in 2013) and two-story homes (from 1600 sq. ft. in 1993 to 2000 sq. ft. in 2013).]({{site.url}}/img/posts/2017-05-15-big-barriers-living-smaller/minimum-square-footage-restrictions.jpg)
+![Chart showing increasing minimum square footage restrictions over time for both one-story (from 1300 sq. ft. in 1993 to 1700 sq. ft. in 2013) and two-story homes (from 1600 sq. ft. in 1993 to 2000 sq. ft. in 2013).]({{site.url}}/assets/img/posts/2017-05-15-big-barriers-living-smaller/minimum-square-footage-restrictions.jpg)
 
 Over the 20 years spanning 1993 to 2013, the minimum square footage required by deed restrictions for one-story and two-story homes increased by 400 square feet each. For one-story homes, the minimum square footage grew by 31%; for two-story homes, it grew by 25%.
 
@@ -88,7 +88,7 @@ When you take basement space into account, the smallest house we'd be allowed to
 
 ## It's Hard to Rent a Small Apartment
 
-![]({{site.url}}/img/posts/2017-05-15-big-barriers-living-smaller/small-apartment.jpg)
+![]({{site.url}}/assets/img/posts/2017-05-15-big-barriers-living-smaller/small-apartment.jpg)
 
 With tiny houses on wheels and small foundation-build houses falling through, our next option was to look at renting in a multi-unit building.
 

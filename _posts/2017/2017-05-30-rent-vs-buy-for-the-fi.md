@@ -11,8 +11,8 @@ description: "If you were homeless and suddenly got a hold of more money than yo
 date: 2017-05-30 00:30:00 -0500
 
 image:
-  path: /img/posts/2017-05-30-rent-vs-buy-for-the-fi/lady-justice.jpg
-pinterest-image: /img/posts/2017-05-30-rent-vs-buy-for-the-fi/rent-vs-buy-for-the-fi
+  path: /assets/img/posts/2017-05-30-rent-vs-buy-for-the-fi/lady-justice.jpg
+pinterest-image: /assets/img/posts/2017-05-30-rent-vs-buy-for-the-fi/rent-vs-buy-for-the-fi
 
 related-posts: [
   "/2016/06/05/prepay-vs-invest",
@@ -64,7 +64,7 @@ Awesome, because it's _spreadsheet time_.
 
 ## The Rent vs Buy for FI Calculator
 
-[![Spreadsheet for calculating the equivalent rent of a home purchase using the safe withdrawal rate]({{site.url}}/img/posts/2017-05-30-rent-vs-buy-for-the-fi/rent-vs-buy-for-the-fi-spreadsheet.jpg)][spreadsheet]
+[![Spreadsheet for calculating the equivalent rent of a home purchase using the safe withdrawal rate]({{site.url}}/assets/img/posts/2017-05-30-rent-vs-buy-for-the-fi/rent-vs-buy-for-the-fi-spreadsheet.jpg)][spreadsheet]
 
 Go ahead and check out the Google Sheets spreadsheet for [calculating the equivalent rent of a home purchase using the safe withdrawal rate][spreadsheet]. If you own a home, go ahead and plug in your numbers and see what your equivalent rent would be.
 

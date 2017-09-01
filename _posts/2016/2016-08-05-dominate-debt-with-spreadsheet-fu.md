@@ -6,8 +6,8 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 date:   2016-08-05 00:30:00 -0500
 image:
-  path: /img/posts/2016-08-05-dominate-debt-with-spreadsheet-fu/karate.jpg
-image-folder: /img/posts/2016-08-05-dominate-debt-with-spreadsheet-fu
+  path: /assets/img/posts/2016-08-05-dominate-debt-with-spreadsheet-fu/karate.jpg
+image-folder: /assets/img/posts/2016-08-05-dominate-debt-with-spreadsheet-fu
 subscribe-line: Want a Spreadsheet Fu black belt?
 social-line: Share the spreadsheetery
 related-posts: [

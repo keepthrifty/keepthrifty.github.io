@@ -9,7 +9,7 @@ title: "Guest Post: 4 Financial No-Noes From Your Grandparents"
 description: "Listen to your elders - your grandparents have some important lessons about no-noes to avoid if you want to improve your finances!"
 
 image:
-  path: /img/posts/2016-12-18-4-financial-no-noes-from-grandparents/financial-no-noes-grandparents.jpg
+  path: /assets/img/posts/2016-12-18-4-financial-no-noes-from-grandparents/financial-no-noes-grandparents.jpg
 
 related-posts: [
   "/2016/11/06/odd-couple-procrastination-and-frugality",

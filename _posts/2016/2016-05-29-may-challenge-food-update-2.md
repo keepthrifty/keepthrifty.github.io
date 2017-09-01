@@ -6,7 +6,7 @@ date:   2016-05-29
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-05-29-may-challenge-food-update-2/grilling-out.jpg
+  path: /assets/img/posts/2016-05-29-may-challenge-food-update-2/grilling-out.jpg
 redirect_from:
   - /challenges/2016-05-food/update-2.html
 related-posts: [
@@ -90,5 +90,5 @@ Find me on [twitter][twitter-profile] and let me know how your challenges are go
 [frugalwoods-2]: http://www.frugalwoods.com/2014/07/14/breakfast-the-hidden-destroyer/
 {: target="_blank"}
 
-[may-2016-final-eating-out]: {{ site.url }}/img/posts/2016-05-29-may-challenge-food-update-2/may-2016-final-update-eating-out.png
-[may-2016-final-grocery]: {{ site.url }}/img/posts/2016-05-29-may-challenge-food-update-2//may-2016-final-update-grocery.png
+[may-2016-final-eating-out]: {{ site.url }}/assets/img/posts/2016-05-29-may-challenge-food-update-2/may-2016-final-update-eating-out.png
+[may-2016-final-grocery]: {{ site.url }}/assets/img/posts/2016-05-29-may-challenge-food-update-2//may-2016-final-update-grocery.png

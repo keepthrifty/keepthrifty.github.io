@@ -7,7 +7,7 @@ timeline: June 2016
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-05-29-june-challenge-entertainment/old-tv.jpg
+  path: /assets/img/posts/2016-05-29-june-challenge-entertainment/old-tv.jpg
 redirect_from:
   - /challenges/2016-06-entertainment/
   - /challenge/2016/05/29/june-challenge-entertainment.html
@@ -172,4 +172,4 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [google-opinion-rewards]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi7lMPL3oDNAhULTFIKHelPDG4QFggcMAA&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.google.android.apps.paidtasks%26hl%3Den&usg=AFQjCNF2-dQaI8rABQ-EQxXTRPp_F5_0ag&sig2=cnVRZd4gNdrYO5QzZ8KkYQ
 {: target="_blank"}
 
-[challenge-chart-entertainment]: {{ site.url }}/img/posts/2016-05-29-june-challenge-entertainment/may-2016-entertainment-chart.png
+[challenge-chart-entertainment]: {{ site.url }}/assets/img/posts/2016-05-29-june-challenge-entertainment/may-2016-entertainment-chart.png

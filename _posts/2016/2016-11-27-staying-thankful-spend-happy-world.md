@@ -8,8 +8,8 @@ title: "Staying Thankful in a Spend-Happy World"
 description: "Thanksgiving is about thanks but the stress of the holiday season often pulls us in the other direction; here's what we did this year to stay centered"
 
 image:
-  path: /img/posts/2016-11-27-staying-thankful-spend-happy-world/thanks.jpg
-pinterest-image: /img/posts/2016-11-27-staying-thankful-spend-happy-world/thankful-thanksgiving
+  path: /assets/img/posts/2016-11-27-staying-thankful-spend-happy-world/thanks.jpg
+pinterest-image: /assets/img/posts/2016-11-27-staying-thankful-spend-happy-world/thankful-thanksgiving
 
 related-posts: [
   "/2016/02/13/thrifty-valentines-day",
@@ -40,7 +40,7 @@ For the last two years, we've had our kids each assemble a "shoebox gift" - a sh
 
 It's a great way to show gratitude for your situation - by helping others who aren't in the same place.
 
-![Our three girls walking to the drop-off for Samaritan's Purse]({{ site.url}}/img/posts/2016-11-27-staying-thankful-spend-happy-world/shoebox-gifts.jpg)
+![Our three girls walking to the drop-off for Samaritan's Purse]({{ site.url}}/assets/img/posts/2016-11-27-staying-thankful-spend-happy-world/shoebox-gifts.jpg)
 
 ## Thankful for our Kids
 
@@ -58,9 +58,9 @@ Before we knew it, every interior door had a paper turkey and there were little 
 
 It was awesome for us and our kids were excited to have helped decorate.
 
-![Paper turkey taped to a door]({{ site.url}}/img/posts/2016-11-27-staying-thankful-spend-happy-world/paper-turkey.jpg)
+![Paper turkey taped to a door]({{ site.url}}/assets/img/posts/2016-11-27-staying-thankful-spend-happy-world/paper-turkey.jpg)
 
-![Piece of paper with "Gobble" written on it, spelled G-o-b-b-l]({{ site.url}}/img/posts/2016-11-27-staying-thankful-spend-happy-world/paper-gobble.jpg)
+![Piece of paper with "Gobble" written on it, spelled G-o-b-b-l]({{ site.url}}/assets/img/posts/2016-11-27-staying-thankful-spend-happy-world/paper-gobble.jpg)
 
 ## Thankful for our Planet
 
@@ -76,7 +76,7 @@ While they start small, Norfolk Pines can grow as high as 20 feet tall indoors. 
 
 In the meantime, it's a great new member of the family - the girls really enjoyed the naming process :)
 
-![Our new Norfolk Pine houseplant and Christmas tree]({{ site.url}}/img/posts/2016-11-27-staying-thankful-spend-happy-world/norfolk-pine-tree.jpg)
+![Our new Norfolk Pine houseplant and Christmas tree]({{ site.url}}/assets/img/posts/2016-11-27-staying-thankful-spend-happy-world/norfolk-pine-tree.jpg)
 <div class="image-caption">We're in the presence of royalty (as named by our children)! I present: Princess Lulu Cora Isabella Elena of Norfolk Island</div>
 
 ## Thankful for Our Individuality
@@ -91,7 +91,7 @@ While strawberries, buns, pumpkin pie, sugar cookies, and _fancy_ grilled cheese
 
 The grilled cheese even had deli turkey on it for the family members that were up for it.
 
-![Fancy grilled cheese sandwiches...mmm...]({{ site.url}}/img/posts/2016-11-27-staying-thankful-spend-happy-world/fancy-grilled-cheese.jpg)
+![Fancy grilled cheese sandwiches...mmm...]({{ site.url}}/assets/img/posts/2016-11-27-staying-thankful-spend-happy-world/fancy-grilled-cheese.jpg)
 <div class="image-caption">Fancy grilled cheese sandwiches on homemade french bread with provolone, parmesan, pasta sauce and deli turkey</div>
 
 ## Thankful for Enough
@@ -110,7 +110,7 @@ Rather than spend the day standing in line for stuff we didn't need, we spent th
 
 {% include tweet-link.html tweet-text="It was a great way to show gratitude for what we have - committing to not getting anything more" %}
 
-![A fort for three little ones; future additions planned]({{ site.url}}/img/posts/2016-11-27-staying-thankful-spend-happy-world/epic-fort.jpg)
+![A fort for three little ones; future additions planned]({{ site.url}}/assets/img/posts/2016-11-27-staying-thankful-spend-happy-world/epic-fort.jpg)
 
 ## Thankful for Everything Else
 
@@ -118,13 +118,13 @@ Continuing in the theme of encouraging craftiness (the artsy kind, not the con a
 
 _Enter the Thankful Tree_
 
-![Christmas tree painted on cardboard with paper ornaments]({{ site.url}}/img/posts/2016-11-27-staying-thankful-spend-happy-world/thankful-tree.jpg)
+![Christmas tree painted on cardboard with paper ornaments]({{ site.url}}/assets/img/posts/2016-11-27-staying-thankful-spend-happy-world/thankful-tree.jpg)
 
 We took a piece of cardboard and had the girls paint a bare christmas tree on it. While the paint dried, we all wrote down things we were thankful for on little circle ornaments and then glued them to the tree, saying what we were thankful for as we put it on.
 
 It stands proudly in our living room as a reminder of what we're thankful for while looking forward to celebrating Christmas.
 
-![Christmas tree painted on cardboard with paper ornaments]({{ site.url}}/img/posts/2016-11-27-staying-thankful-spend-happy-world/thankful-tree-complete.jpg)
+![Christmas tree painted on cardboard with paper ornaments]({{ site.url}}/assets/img/posts/2016-11-27-staying-thankful-spend-happy-world/thankful-tree-complete.jpg)
 
 Of all the things we did this week showing our gratitude, this one was the most impactful to me because of the surprising (and wonderful) things that our kids came up with.
 

@@ -11,8 +11,8 @@ description: "Many financial freedomists plan with a 4% safe withdrawal rate for
 date: 2017-07-25 5:58:00 -0500
 
 image:
-  path: /img/posts/2017-07-25-safe-withdrawal-rate-4-percent-relevant/safe-withdrawal.jpg
-pinterest-image: /img/posts/2017-07-25-safe-withdrawal-rate-4-percent-relevant/safe-withdrawal-rate
+  path: /assets/img/posts/2017-07-25-safe-withdrawal-rate-4-percent-relevant/safe-withdrawal.jpg
+pinterest-image: /assets/img/posts/2017-07-25-safe-withdrawal-rate-4-percent-relevant/safe-withdrawal-rate
 
 related-posts: [
   "/2017/05/30/rent-vs-buy-for-the-fi",

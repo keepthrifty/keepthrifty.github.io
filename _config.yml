@@ -42,7 +42,7 @@ social:
 
 lang: en_US
 
-logo: /img/simple-logo.png
+logo: /assets/img/simple-logo.png
 
 permalink: /:title/
 
@@ -59,7 +59,7 @@ rss-imageW: 600
 rss-imageH: 400
 
 sass:
-  sass_dir: _sass
+  sass_dir: assets/_sass
   style: compressed
 
 tipue_search:

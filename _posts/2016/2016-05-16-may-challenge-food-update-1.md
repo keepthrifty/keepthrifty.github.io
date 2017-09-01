@@ -6,8 +6,8 @@ date:   2016-05-16
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-05-16-may-challenge-food-update-1/pasta.jpg
-image-folder: /img/posts/2016-05-16-may-challenge-food-update-1
+  path: /assets/img/posts/2016-05-16-may-challenge-food-update-1/pasta.jpg
+image-folder: /assets/img/posts/2016-05-16-may-challenge-food-update-1
 redirect_from:
   - /challenges/2016-05-food/update-1.html
 related-posts: [

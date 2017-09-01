@@ -8,7 +8,7 @@ title: "How Much is Your Stuff Costing You?"
 description: "How much stuff is in your house? Your garage? Or, heaven forbid, in a storage unit? Beyond the nuisance of clutter, I've been wondering something recently - how much is all this stuff costing us?"
 
 image:
-  path: /img/posts/2017-02-13-how-much-is-your-stuff-costing-you/clutter.jpg
+  path: /assets/img/posts/2017-02-13-how-much-is-your-stuff-costing-you/clutter.jpg
 
 related-posts: [
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
@@ -47,7 +47,7 @@ Take a look around your bedroom - how many things can you count immediately in s
 
 If you’re adventurous, do the same for all the other rooms in your house. Cover all your spaces and see where you land. Big number? According to the LA Times, [the average American household owns 300,000 things](http://articles.latimes.com/2014/mar/21/health/la-he-keeping-stuff-20140322){: target="_blank"}!
 
-![Legos on the floor]({{site.url}}/img/posts/2017-02-13-how-much-is-your-stuff-costing-you/legos.jpg)
+![Legos on the floor]({{site.url}}/assets/img/posts/2017-02-13-how-much-is-your-stuff-costing-you/legos.jpg)
 
 <div class="image-caption">As a kid, about 200,000 of my things were these...</div>
 

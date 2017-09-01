@@ -8,8 +8,8 @@ title: "How to Become Twice as Happy with Half as Much"
 description: "Four examples of how our family of minimalists became twice as happy with half as much"
 
 image:
-  path: /img/posts/2016-10-10-become-twice-as-happy-with-half-as-much/cupcake.jpg
-image-folder: /img/posts/2016-10-10-become-twice-as-happy-with-half-as-much
+  path: /assets/img/posts/2016-10-10-become-twice-as-happy-with-half-as-much/cupcake.jpg
+image-folder: /assets/img/posts/2016-10-10-become-twice-as-happy-with-half-as-much
 
 related-posts: [
   "/2017/04/10/living-in-half-our-house",

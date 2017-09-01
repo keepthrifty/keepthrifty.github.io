@@ -10,7 +10,7 @@ description: "When it comes to family vacations, there's a clear winner in terms
 date: 2017-08-29 6:58:00 -0500
 
 image:
-  path: /img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/station-wagon.jpg
+  path: /assets/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/station-wagon.jpg
 
 related-posts: [
   "/2016/07/06/roadtrip-recap",
@@ -111,7 +111,7 @@ As you go through the process, you may find yourself in a position where things 
 
 ### Picking Your Route
 
-![Map of USA with our routes on each trip. All that's left is California, Nevada, Alaska, and Hawaii]({{site.url}}/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/road-trip-routes.jpg)
+![Map of USA with our routes on each trip. All that's left is California, Nevada, Alaska, and Hawaii]({{site.url}}/assets/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/road-trip-routes.jpg)
 
 <div class="image-caption">Our routes so far - looks like a Rorschach test to me!</div>
 
@@ -130,7 +130,7 @@ We like to front-load our trips, putting the longer portion of the loop first. A
 
 ### Driving and Daily Schedules
 
-![Kids in their car seats looking at tablets]({{site.url}}/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/on-the-road-tablets.jpg)
+![Kids in their car seats looking at tablets]({{site.url}}/assets/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/on-the-road-tablets.jpg)
 
 The key to an enjoyable road trip is knowing your family's preferences and limits and building the trip around those.
 
@@ -174,7 +174,7 @@ To go a step further, consider searching for "scenic byways" along your route. T
 
 ### Where to Stay
 
-![Rusted "Motel" sign]({{site.url}}/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/motel.jpg)
+![Rusted "Motel" sign]({{site.url}}/assets/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/motel.jpg)
 
 Where you choose to sleep can have a big impact on your budget. Unless you're picking cockroach-infested motels, your nightly lodging can easily eat up half of your budget or more.
 
@@ -224,7 +224,7 @@ Once you've got an idea of where you're sleeping, you can move on to planning ou
 
 #### Zoos
 
-![Kids looking at prairie dogs at the David Traylor Zoo]({{site.url}}/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/david-traylor-zoo.jpg)
+![Kids looking at prairie dogs at the David Traylor Zoo]({{site.url}}/assets/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/david-traylor-zoo.jpg)
 
 There are a large number of [___free zoos___ throughout the US](http://frugalupside.blogspot.com/2012/03/free-zoos-in-united-states.html) and every one we've been able to visit has been pretty amazing. There's even one here in Madison, Wisconsin (the [Henry Vilas Zoo](http://www.vilaszoo.org/)) that you should definitely visit if you're in the area.
 
@@ -240,7 +240,7 @@ Beyond the list at the link above, search the cities you're passing through for 
 
 #### Playgrounds
 
-![Girl running toward playground]({{site.url}}/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/playground.jpg)
+![Girl running toward playground]({{site.url}}/assets/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/playground.jpg)
 
 Especially when your kids are younger, this is an __awesome__ staple to put into your road trip activity plan. With a bit of google searching, you can find _amazing_ playgrounds for your kids to stop at regardless of the state you're in.
 
@@ -254,7 +254,7 @@ For some free _indoor_ fun, consider finding local libraries. Beyond taking a fe
 
 #### Hiking
 
-![Hiking near Kootenai Falls]({{site.url}}/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/hiking-kootenai-falls.jpg)
+![Hiking near Kootenai Falls]({{site.url}}/assets/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/hiking-kootenai-falls.jpg)
 
 Ahhh...hiking. It's about the simplest free activity you can do, but it also can be incredibly rewarding - especially when you're traveling the country, seeing new geography your family has never experienced.
 
@@ -268,7 +268,7 @@ Don't get too zeroed in on National Parks, though - Many of the best attractions
 
 #### Other Options
 
-![Biggest live oak outside Gainesville, FL]({{site.url}}/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/biggest-live-oak.jpg)
+![Biggest live oak outside Gainesville, FL]({{site.url}}/assets/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/biggest-live-oak.jpg)
 
 Sometimes, despite your best efforts, you'll be out of luck on finding a fun-looking stop in the categories above. In that case, Trip Advisor is your best friend. We found the "Biggest Live Oak Tree" outside of Gainesville, Florida through a Trip Advisor search in the area. It turned out to be an awesome experience - we got some great pictures and watched an industrious tortoise crossing through a huge field.
 
@@ -276,7 +276,7 @@ If all else fails, consider tweaking your trip a bit (drive a little shorter or 
 
 #### Worthwhile Extras
 
-![Hiking in Flume Gorge]({{site.url}}/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/hiking-flume-gorge.jpg)
+![Hiking in Flume Gorge]({{site.url}}/assets/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/hiking-flume-gorge.jpg)
 
 While free and frugal activities are awesome, there are some things that are just worth paying extra for.
 
@@ -286,7 +286,7 @@ It's ok to splurge on some experiences, but don't overdo it. If you have a coupl
 
 ### Eating
 
-![Picnic on a play structure]({{site.url}}/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/picnic-lunch.jpg)
+![Picnic on a play structure]({{site.url}}/assets/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/picnic-lunch.jpg)
 
 With lodging and activities covered, you're ready to plan out your meals. Not surprisingly, the advice for keeping your food bill frugal on a road trip sounds the same as you'd hear at home:
 
@@ -344,7 +344,7 @@ Don't get sucked into the expensive habit of buying $2 water bottles from the ga
 
 ### Packing
 
-![Trunk of minivan packed for the road]({{site.url}}/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/packed-trunk.jpg)
+![Trunk of minivan packed for the road]({{site.url}}/assets/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/packed-trunk.jpg)
 
 Just because your minivan has a ton of storage space doesn't mean you need to test the limits on your trip. As [minimalists]({{site.url}}/archive/#minimalism), you should expect that we apply minimalist principles to our road trips the same way we approach our life at home.
 
@@ -364,7 +364,7 @@ Most hotel laundry machines are coin-operated, so make sure to pack quarters or 
 
 #### Tactic 2: Use Organizing Bags
 
-![Clothes packed in an organizing bag, jeans and a sweatshirt nearby]({{site.url}}/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/packing-clothes.jpg)
+![Clothes packed in an organizing bag, jeans and a sweatshirt nearby]({{site.url}}/assets/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/packing-clothes.jpg)
 
 If you haven't used organizing bags to pack, you've been missing out. Before our first trip, my wife bought some [bags from Eagle Creek](http://shop.eaglecreek.com/packing-organizers-view-all/l/330) and we use them every time we travel.
 
@@ -382,7 +382,7 @@ The kids are responsible for their own packs, which contain their clothes, table
 
 #### Tactic 4: Toiletries Bag
 
-![Toiletries bag containing everything from toothbrushes to deodorant]({{site.url}}/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/toiletries-bag.jpg)
+![Toiletries bag containing everything from toothbrushes to deodorant]({{site.url}}/assets/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/toiletries-bag.jpg)
 
 Similar to the organizing bags, we purchased a toiletries bag that not only serves a purpose on our trips - we actually use it day-to-day at home.
 
@@ -445,7 +445,7 @@ In addition, headphones (with volume limiters) are highly encouraged to help Mom
 
 ### Capturing Memories
 
-![Posterboard with US States outlines. States we've visited are filled in with pictures from that portion of our trip]({{site.url}}/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/usa-road-trip-map.jpg)
+![Posterboard with US States outlines. States we've visited are filled in with pictures from that portion of our trip]({{site.url}}/assets/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/usa-road-trip-map.jpg)
 
 Let's face it - souvenirs are expensive. Marketers are great at charging you not just for the cost of the item, but for the sentimental attachment they know you'll have.
 

@@ -5,8 +5,8 @@ description: "Sometimes you're better off starting over on a piece of your life"
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-09-05-let-it-burn/forest-fire.jpg
-image-folder: /img/posts/2016-09-05-let-it-burn
+  path: /assets/img/posts/2016-09-05-let-it-burn/forest-fire.jpg
+image-folder: /assets/img/posts/2016-09-05-let-it-burn
 social-line: Get someone else fired up too!
 related-posts: [
   "/2016/08/28/the-more-of-less-review",

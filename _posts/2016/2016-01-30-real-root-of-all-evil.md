@@ -6,7 +6,7 @@ date:   2016-01-30 06:00:00 -0600
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-01-30-real-root-of-all-evil/tree.jpg
+  path: /assets/img/posts/2016-01-30-real-root-of-all-evil/tree.jpg
 related-posts: [
   "/2016/08/28/the-more-of-less-review",
   "/2016/07/21/spending-on-free",

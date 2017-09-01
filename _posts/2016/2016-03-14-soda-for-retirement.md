@@ -6,8 +6,8 @@ date:   2016-03-14 12:00:00 -0600
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-03-14-soda-for-retirement/soda-cans.jpg
-image-folder: /img/posts/2016-03-14-soda-for-retirement
+  path: /assets/img/posts/2016-03-14-soda-for-retirement/soda-cans.jpg
+image-folder: /assets/img/posts/2016-03-14-soda-for-retirement
 related-posts: [
   "/2016/09/25/the-price-of-an-extra-day-spreadsheet-edition",
   "/2016/03/23/engagement-ring-sold",

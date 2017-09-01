@@ -6,8 +6,8 @@ date:   2016-03-13
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-03-13-march-challenge-household-care-update-2/jars.jpg
-image-folder: /img/posts/2016-03-13-march-challenge-household-care-update-2
+  path: /assets/img/posts/2016-03-13-march-challenge-household-care-update-2/jars.jpg
+image-folder: /assets/img/posts/2016-03-13-march-challenge-household-care-update-2
 redirect_from:
   - /challenge/2016/03/13/march-challenge-update-2.html
   - /challenge/2016/03/13/march-challenge-household-care-update-2.html

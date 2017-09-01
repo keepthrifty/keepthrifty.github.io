@@ -10,8 +10,8 @@ description: "Let's face it - moving sucks. When you're a minimalist, though, it
 date: 2017-06-27 5:58:00 -0500
 
 image:
-  path: /img/posts/2017-06-27-minimalist-moving/minimalist-moving.jpg
-pinterest-image: /img/posts/2017-06-27-minimalist-moving/minimalist-moving-pin
+  path: /assets/img/posts/2017-06-27-minimalist-moving/minimalist-moving.jpg
+pinterest-image: /assets/img/posts/2017-06-27-minimalist-moving/minimalist-moving-pin
 
 related-posts: [
   "/2017/02/13/how-much-is-your-stuff-costing-you",

@@ -6,7 +6,7 @@ date:   2016-04-03
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-04-03-march-challenge-household-care-update-5/kitchen-sink.jpg
+  path: /assets/img/posts/2016-04-03-march-challenge-household-care-update-5/kitchen-sink.jpg
 redirect_from:
   - /challenge/2016/04/03/march-challenge-update-5.html
   - /challenge/2016/04/03/march-challenge-household-care-update-5.html
@@ -68,7 +68,7 @@ Find me on [twitter][twitter-profile] and let me know how you did this month!
 [twitter-profile]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
 
-[march-final-summary]: {{ site.url }}/img/posts/2016-04-03-march-challenge-household-care-update-5/march-2016-final-summary.png
+[march-final-summary]: {{ site.url }}/assets/img/posts/2016-04-03-march-challenge-household-care-update-5/march-2016-final-summary.png
 
 [march-challenge-post]: {{ site.url }}{% post_url 2016/2016-02-28-march-challenge-household-care %}
 [week-1-update]: {{ site.url }}{% post_url 2016/2016-03-06-march-challenge-household-care-update-1 %}

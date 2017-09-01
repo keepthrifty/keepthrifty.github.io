@@ -8,7 +8,7 @@ title: "The Ultimate Refinancing Spreadsheet Calculator"
 description: "A refinancing calculator that includes prepayments to let you really understand how much time and money you can save"
 
 image:
-  path: /img/posts/2016-12-12-ultimate-refinancing-spreadsheet-calculator/ultimate-refinance-calculator.jpg
+  path: /assets/img/posts/2016-12-12-ultimate-refinancing-spreadsheet-calculator/ultimate-refinance-calculator.jpg
 
 related-posts: [
   "/2016/04/04/mortgage-math-101",
@@ -57,7 +57,7 @@ With that in mind, I present the ultimate refinancing spreadsheet:
 
 ## Enter the Dragon
 
-[![Screenshot of the ultimate refinancing spreadsheet]({{site.url}}/img/posts/2016-12-12-ultimate-refinancing-spreadsheet-calculator/ultimate-refinance-spreadsheet.jpg)][spreadsheet-link]
+[![Screenshot of the ultimate refinancing spreadsheet]({{site.url}}/assets/img/posts/2016-12-12-ultimate-refinancing-spreadsheet-calculator/ultimate-refinance-spreadsheet.jpg)][spreadsheet-link]
 
 I've got the spreadsheet available for free on Google Sheets. [Click here to get your own copy][spreadsheet-link]
 

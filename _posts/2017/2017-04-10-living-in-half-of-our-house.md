@@ -8,8 +8,8 @@ title: "Living In Half of Our House"
 description: "Half of our house sits empty, unused. Why are we living like this?"
 
 image:
-  path: /img/posts/2017-04-10-living-in-half-of-our-house/living-room.jpg
-pinterest-image: /img/posts/2017-04-10-living-in-half-of-our-house/half-our-house-pinterest
+  path: /assets/img/posts/2017-04-10-living-in-half-of-our-house/living-room.jpg
+pinterest-image: /assets/img/posts/2017-04-10-living-in-half-of-our-house/half-our-house-pinterest
 
 related-posts: [
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
@@ -57,11 +57,11 @@ Oh yeah, we forgot one part - we needed to keeping our house up-to-date and styl
 
 My wife has always had an amazing ability to walk into a space and see it for what it _could be_. In 2013, we finally took on our first project - knocking out our entry closet and replacing it with a bench and hooks.
 
-![Entry closet pre-demolition]({{site.url}}/img/posts/2017-04-10-living-in-half-of-our-house/entry-closet-full.jpg)
+![Entry closet pre-demolition]({{site.url}}/assets/img/posts/2017-04-10-living-in-half-of-our-house/entry-closet-full.jpg)
 
 After getting confirmation that nothing in the closet was providing structural support for our roof, we did the demolition.
 
-![Entry closet post-demolition]({{site.url}}/img/posts/2017-04-10-living-in-half-of-our-house/entry-closet-demo.jpg)
+![Entry closet post-demolition]({{site.url}}/assets/img/posts/2017-04-10-living-in-half-of-our-house/entry-closet-demo.jpg)
 
 Because we started demo so early, it was about 6 months from the time we did the demolition to when the new bench was complete. Granted, we were only losing 16 square feet during this time, but we did this over the winter months when outdoor gear needs are at their highest.
 
@@ -71,9 +71,9 @@ ___Housing in use: 4 bedroom, 3 bathroom, 1876 sq ft___
 
 The result was amazing - our entry opened up better to the living room and we had this beautiful, functional space to handle all of our family's stuff whether there was a blizzard outside or a sunny day.
 
-![Entry bench with hooks and cubbies - profile view]({{site.url}}/img/posts/2017-04-10-living-in-half-of-our-house/entry-bench-side.jpg)
+![Entry bench with hooks and cubbies - profile view]({{site.url}}/assets/img/posts/2017-04-10-living-in-half-of-our-house/entry-bench-side.jpg)
 
-![Entry bench with hooks and cubbies - front view]({{site.url}}/img/posts/2017-04-10-living-in-half-of-our-house/entry-bench-front.jpg)
+![Entry bench with hooks and cubbies - front view]({{site.url}}/assets/img/posts/2017-04-10-living-in-half-of-our-house/entry-bench-front.jpg)
 
 Knocking out this closet was like pulling on a loose thread of a sweatshirt. Because we'd painted the bench and our trim white in the entryway, we now needed to follow up doing the same in the rest of the house!
 
@@ -81,7 +81,7 @@ Knocking out this closet was like pulling on a loose thread of a sweatshirt. Bec
 
 As soon as we started painting a small bit of trim in our house white, we committed to doing the whole thing. My wife did some painting in our upstairs bathroom while I was on a work trip to China but our next ambitious project was painting our lower level.
 
-![Lower level with wood paneling halfway up the wall]({{site.url}}/img/posts/2017-04-10-living-in-half-of-our-house/lower-level-original.jpg)
+![Lower level with wood paneling halfway up the wall]({{site.url}}/assets/img/posts/2017-04-10-living-in-half-of-our-house/lower-level-original.jpg)
 
 <div class="image-caption">Image from the house listing from the prior owners</div>
 
@@ -103,7 +103,7 @@ We keep it empty. Occasionally our kids will run around down there using it like
 
 {% include tweet-link.html tweet-text="We just can't bring ourselves to buy stuff to fill a space that we know we don't need" %}
 
-![Lower level painted and empty]({{site.url}}/img/posts/2017-04-10-living-in-half-of-our-house/lower-level-done.jpg)
+![Lower level painted and empty]({{site.url}}/assets/img/posts/2017-04-10-living-in-half-of-our-house/lower-level-done.jpg)
 
 <div class="image-caption">The only piece of furniture down here is this rocking chair that scratches our hardwood floors</div>
 
@@ -125,13 +125,13 @@ ___Housing in use: 2 bedroom, 1 bathroom, 1016 sq ft___
 
 It took us about a month to finish this space. Out of our comfort zone once again, we were surprised to discover how much we really _liked_ being in the smaller bedroom. When we got done with a long day, it didn't feel like a cramped little space (as I had initially expected) - it felt like our cozy nook to rest in.
 
-![Queen bed in a 10x11 room]({{site.url}}/img/posts/2017-04-10-living-in-half-of-our-house/queen-bedroom.jpg)
+![Queen bed in a 10x11 room]({{site.url}}/assets/img/posts/2017-04-10-living-in-half-of-our-house/queen-bedroom.jpg)
 
 <div class="image-caption">Cozy!</div>
 
 After we finished with the master bedroom, we moved back in while we worked on painting the other bedrooms one at a time.
 
-![Queen bed in a 10x11 room]({{site.url}}/img/posts/2017-04-10-living-in-half-of-our-house/master-bedroom.jpg)
+![Queen bed in a 10x11 room]({{site.url}}/assets/img/posts/2017-04-10-living-in-half-of-our-house/master-bedroom.jpg)
 
 <div class="image-caption">Master bedroom finished, with a new bed</div>
 
@@ -153,7 +153,7 @@ In essence, we were redoing everything on the first floor other than our entrywa
 
 My wife kicked things off and then I got my own personal version of #demoday.
 
-![Separating wall with half of the drywall removed]({{site.url}}/img/posts/2017-04-10-living-in-half-of-our-house/main-floor-demo.jpg)
+![Separating wall with half of the drywall removed]({{site.url}}/assets/img/posts/2017-04-10-living-in-half-of-our-house/main-floor-demo.jpg)
 
 <div class="image-caption">We like that open, airy feel</div>
 
@@ -161,7 +161,7 @@ From here, we had months of ongoing projects to get everything on our list done.
 
 _We could now fit our living room in the space that had previously just housed our kitchen and dinette_
 
-![Kitchen, dinette, and living room in half our main floor]({{site.url}}/img/posts/2017-04-10-living-in-half-of-our-house/condensed-living-kitchen.jpg)
+![Kitchen, dinette, and living room in half our main floor]({{site.url}}/assets/img/posts/2017-04-10-living-in-half-of-our-house/condensed-living-kitchen.jpg)
 
 So at this point, here's how we've shown how far we can push things in our house.
 

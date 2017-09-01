@@ -6,8 +6,8 @@ date:   2016-05-08 20:15:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-05-08-how-much-car-can-you-afford/fancy-car.jpg
-image-folder: /img/posts/2016-05-08-how-much-car-can-you-afford
+  path: /assets/img/posts/2016-05-08-how-much-car-can-you-afford/fancy-car.jpg
+image-folder: /assets/img/posts/2016-05-08-how-much-car-can-you-afford
 related-posts: [
   "/2016/04/28/the-big-short",
   "/2016/01/20/living-with-less",

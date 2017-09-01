@@ -9,8 +9,8 @@ description: "___TK___"
 
 date: 2017-05-29 20:58:02 -0500
 
-image: /img/posts/2017-05-29-tk/.jpg
-pinterest-image: /img/posts/2017-05-29-tk/
+image: /assets/img/posts/2017-05-29-tk/.jpg
+pinterest-image: /assets/img/posts/2017-05-29-tk/
 
 related-posts: [
 

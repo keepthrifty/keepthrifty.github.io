@@ -10,7 +10,7 @@ description: "Here are my personal favorite resources to help you kick financial
 social-line: Share these resources with others
 
 image:
-  path: /img/posts/2017-02-20-best-personal-finance-resources/hand-up.jpg
+  path: /assets/img/posts/2017-02-20-best-personal-finance-resources/hand-up.jpg
 
 permalink: /favorite-resources/
 

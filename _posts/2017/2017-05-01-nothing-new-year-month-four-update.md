@@ -10,8 +10,8 @@ description: "With our new plan to sell our house and downsize to an apartment, 
 date: 2017-05-01 06:15:01 -0500
 
 image:
-  path: /img/posts/2017-05-01-nothing-new-year-month-four-update/facepalm.jpg
-pinterest-image: /img/posts/2017-05-01-nothing-new-year-month-four-update/nny-month-4-update
+  path: /assets/img/posts/2017-05-01-nothing-new-year-month-four-update/facepalm.jpg
+pinterest-image: /assets/img/posts/2017-05-01-nothing-new-year-month-four-update/nny-month-4-update
 
 related-posts: [
   "/2017/02/06/nothing-new-year-month-one-update",
@@ -36,7 +36,7 @@ By buying nothing new, we hope to reduce our impact on our bank accounts _and_ t
 
 Here's a snapshot of our spending summary from [Thrifty]({{site.url}}/thrifty/):
 
-![Overall spending $9,207.99]({{site.url}}/img/posts/2017-05-01-nothing-new-year-month-four-update/nny-month-four-spending.png)
+![Overall spending $9,207.99]({{site.url}}/assets/img/posts/2017-05-01-nothing-new-year-month-four-update/nny-month-four-spending.png)
 
 This was another high month, mostly due to home updates as we finish everything up so we can list it. All told, this month cost us $9.207.99.
 
@@ -124,7 +124,7 @@ We've been working with an agent to get the house listed and are wrapping up our
 
 In the meantime, we've still got our mortgage payments to take care of, so here's the update chart for where we're at after our May 1 payment:
 
-![Mortgage payoff progress: outstanding principal is down to $79,935.05 and we're due to pay off by Aug 1, 2017. By prepaying and refinancing, we are saving $164,734.72 and 20.1 years over original mortgage plan.]({{site.url}}/img/mortgage-payoff/Mortgage-Payoff-May-2017.png)
+![Mortgage payoff progress: outstanding principal is down to $79,935.05 and we're due to pay off by Aug 1, 2017. By prepaying and refinancing, we are saving $164,734.72 and 20.1 years over original mortgage plan.]({{site.url}}/assets/img/mortgage-payoff/Mortgage-Payoff-May-2017.png)
 
 <div class="image-caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
 

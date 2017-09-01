@@ -6,7 +6,7 @@ date:   2016-07-27 05:00:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-07-27-the-secret-to-success/success-secret.jpg
+  path: /assets/img/posts/2016-07-27-the-secret-to-success/success-secret.jpg
 nodisqus: true
 related-posts: [
   "/2016/07/21/spending-on-free",
@@ -38,7 +38,7 @@ Still wondering what the secret is?
 
 _Read the rest and find the answer in [my post on GundoMoney.com][gundo-money-post]_
 
-[wristwatch]: {{ site.url }}/img/posts/2016-07-27-the-secret-to-success/checking-time.jpg
+[wristwatch]: {{ site.url }}/assets/img/posts/2016-07-27-the-secret-to-success/checking-time.jpg
 
 [tweet-victory]: https://twitter.com/intent/tweet?text=I%20completed%20the%20%40keepthrifty%20challenge%20from%20this%20post%20on%20%40gundo_money%20-%20think%20you%27re%20good%20enough%20to%20join%20me%3F%20http%3A%2F%2Fgundomoney.com%2F2016%2F07%2F25%2Fthe-secret-to-success-is-wait-for-it%2F
 {: target="_blank"}

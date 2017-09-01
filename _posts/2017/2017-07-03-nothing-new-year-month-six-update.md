@@ -10,8 +10,8 @@ description: "We're halfway through the year and everything's about to change. W
 date: 2017-07-03 5:58:00 -0500
 
 image:
-  path: /img/posts/2017-07-03-nothing-new-year-month-six-update/firework.jpg
-pinterest-image: /img/posts/2017-07-03-nothing-new-year-month-six-update/nny-month-6-update
+  path: /assets/img/posts/2017-07-03-nothing-new-year-month-six-update/firework.jpg
+pinterest-image: /assets/img/posts/2017-07-03-nothing-new-year-month-six-update/nny-month-6-update
 
 related-posts: [
   "/2017/03/06/nothing-new-year-month-two-update",
@@ -40,7 +40,7 @@ _We track our spending using a little tool I made called [Thrifty]({{site.url}}/
 
 Here's our spending summary from Thrifty for June 2017:
 
-![Overall spending $4,780.56]({{site.url}}/img/posts/2017-07-03-nothing-new-year-month-six-update/nny-month-six-spending.png)
+![Overall spending $4,780.56]({{site.url}}/assets/img/posts/2017-07-03-nothing-new-year-month-six-update/nny-month-six-spending.png)
 
 After a few big expensive months remodeling our house, our spending came down last month and thankfully has continued to drop this month. Next month we'll have our "new normal" as we move into the apartment and settle into rent payments and see what life without a mortgage is like :)
 
@@ -112,7 +112,7 @@ We are closing on the sale of our house in _two days_ - July 5th, after which we
 
 At the start of this month, we made our last regular payment so here's the update chart for where we're at after our June 1 payment:
 
-![Mortgage payoff progress: outstanding principal is down to $78424.84 and we're due to pay off on July 5, 2017. By prepaying and refinancing, we are saving $164,903.73 and 20.2 years over original mortgage plan.]({{site.url}}/img/mortgage-payoff/Mortgage-Payoff-Jul-2017.png)
+![Mortgage payoff progress: outstanding principal is down to $78424.84 and we're due to pay off on July 5, 2017. By prepaying and refinancing, we are saving $164,903.73 and 20.2 years over original mortgage plan.]({{site.url}}/assets/img/mortgage-payoff/Mortgage-Payoff-Jul-2017.png)
 
 <div class="image-caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
 

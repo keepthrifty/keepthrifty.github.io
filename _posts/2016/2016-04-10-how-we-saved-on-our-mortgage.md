@@ -5,8 +5,8 @@ description: "Learn the strategies we used to save thousands of dollars on our m
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-04-10-how-we-saved-on-our-mortgage/old-bank.jpg
-image-folder: /img/posts/2016-04-10-how-we-saved-on-our-mortgage
+  path: /assets/img/posts/2016-04-10-how-we-saved-on-our-mortgage/old-bank.jpg
+image-folder: /assets/img/posts/2016-04-10-how-we-saved-on-our-mortgage
 redirect_from:
   - /mortgages/2016/04/10/how-we-saved-on-our-mortgage.html
 related-posts: [

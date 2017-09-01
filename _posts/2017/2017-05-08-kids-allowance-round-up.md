@@ -10,8 +10,8 @@ description: "I picked the brains of some great personal finance bloggers to see
 date: 2017-05-08 23:59:59 -0500
 
 image:
-  path: /img/posts/2017-05-08-kids-allowance-round-up/piggy-banks.jpg
-pinterest-image: /img/posts/2017-05-08-kids-allowance-round-up/kids-allowances
+  path: /assets/img/posts/2017-05-08-kids-allowance-round-up/piggy-banks.jpg
+pinterest-image: /assets/img/posts/2017-05-08-kids-allowance-round-up/kids-allowances
 
 related-posts: [
   "/2016/11/13/how-we-budget-four-branch-system",
@@ -47,7 +47,7 @@ With that in mind, let's see how some great personal finance minds approach this
 
 ## When and How Kids Earn Allowances
 
-![]({{site.url}}/img/posts/2017-05-08-kids-allowance-round-up/garbage-chore.jpg)
+![]({{site.url}}/assets/img/posts/2017-05-08-kids-allowance-round-up/garbage-chore.jpg)
 
 The first big question to tackle here - should allowances be earned or a given?
 
@@ -65,7 +65,7 @@ So, once you've decided _how_ to give your kids an allowance, the next big quest
 
 ## How Much Allowance Should Your Kids Get?
 
-![]({{site.url}}/img/posts/2017-05-08-kids-allowance-round-up/quarter-stacks.jpg)
+![]({{site.url}}/assets/img/posts/2017-05-08-kids-allowance-round-up/quarter-stacks.jpg)
 
 It's important that the amount of allowance is meaningful. Giving a teenager $0.10 for mowing the lawn isn't likely to get the grass cut.
 
@@ -79,7 +79,7 @@ The real secret to the answer of _how much_ lies in the answer to a different qu
 
 ## What Kids' Allowances Should Be Used For
 
-![]({{site.url}}/img/posts/2017-05-08-kids-allowance-round-up/toy-store.jpg)
+![]({{site.url}}/assets/img/posts/2017-05-08-kids-allowance-round-up/toy-store.jpg)
 
 Jim from __Route to Retire__ makes his daughter responsible for buying most of the things she _wants_ but doesn't _need_. This helps teach delayed gratification and smart shopping.
 
@@ -97,7 +97,7 @@ It also painfully highlighted my [lack of interest in clothing]({% post_url 2016
 
 ## What Age to Start Giving Kids an Allowance
 
-![]({{site.url}}/img/posts/2017-05-08-kids-allowance-round-up/baby-on-blanket.jpg)
+![]({{site.url}}/assets/img/posts/2017-05-08-kids-allowance-round-up/baby-on-blanket.jpg)
 
 There seems to be a fair amount of consensus amongst the experts on this one - __Savvy Family Finance__, __High Income Parents__, and __Money Beagle__ all started allowances around kindergarten age (somewhere between ages 4 and 6). This age seems to strike the sweet spot where kids have enough of an understanding of what money is and how it is used to appreciate an allowance.
 
@@ -107,7 +107,7 @@ That is, at least, unless the best time to start is actually..._never_. Amanda f
 
 ## When to Stop Giving Kids an Allowance
 
-![]({{site.url}}/img/posts/2017-05-08-kids-allowance-round-up/shopping-kermit.jpg)
+![]({{site.url}}/assets/img/posts/2017-05-08-kids-allowance-round-up/shopping-kermit.jpg)
 
 I've always appreciated the rule my parents used when it came to our allowances.
 
@@ -121,7 +121,7 @@ Tom from __High Income Parents__ plans to pay allowances until his kids graduate
 
 ## A Tool to Help Teach Your Kids About Money
 
-![]({{site.url}}/img/posts/2017-05-08-kids-allowance-round-up/wallet-clamp.jpg)
+![]({{site.url}}/assets/img/posts/2017-05-08-kids-allowance-round-up/wallet-clamp.jpg)
 
 We've traditionally managed our kids' allowances using cash but it is clear that money is increasingly being handled digitally and it's a great idea to include this in how you approach money with your kids.
 
@@ -129,7 +129,7 @@ If you're looking for an awesome way to teach your kids how to earn and spend mo
 
 ## Allowances in the Keep Thrifty Household
 
-![]({{site.url}}/img/posts/2017-05-08-kids-allowance-round-up/idea-board.jpg)
+![]({{site.url}}/assets/img/posts/2017-05-08-kids-allowance-round-up/idea-board.jpg)
 
 First, I want to give a __BIG__ thanks to all the experts for providing their insight and experiences. There are a ton of great ideas here so I tried to mix and match in a way that best meets our goals with an allowance system.
 

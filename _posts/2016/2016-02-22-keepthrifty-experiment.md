@@ -6,7 +6,7 @@ date:   2016-02-22 06:00:00 -0600
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-02-22-keepthrifty-experiment/arches_panorama.jpg
+  path: /assets/img/posts/2016-02-22-keepthrifty-experiment/arches_panorama.jpg
 related-posts: [
   "/2016/08/20/indecent-financial-exposure",
   "/2016/02/28/march-challenge-household-care",

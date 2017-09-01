@@ -11,8 +11,8 @@ description: "It started with a little remodeling in our entryway and soon becam
 date: 2017-08-15 5:58:00 -0500
 
 image:
-  path: /img/posts/2017-08-15-breaking-addiction-home-updates/remodeled-house.jpg
-pinterest-image: /img/posts/2017-08-15-breaking-addiction-home-updates/breaking-home-update-addiction
+  path: /assets/img/posts/2017-08-15-breaking-addiction-home-updates/remodeled-house.jpg
+pinterest-image: /assets/img/posts/2017-08-15-breaking-addiction-home-updates/breaking-home-update-addiction
 
 related-posts: [
   "/2016/03/14/soda-for-retirement",
@@ -29,7 +29,7 @@ __Twenty-nine thousand dollars__. That's how much we spent on updates and mainte
 
 ## The Updates that Never End
 
-![Our remodeled main floor - white plank ceiling, laminate wood flooring, subway tile backsplash, kitchen island, farmhouse sink, custom wood gates]({{site.url}}/img/posts/2017-08-15-breaking-addiction-home-updates/remodeled-main-floor.jpg)
+![Our remodeled main floor - white plank ceiling, laminate wood flooring, subway tile backsplash, kitchen island, farmhouse sink, custom wood gates]({{site.url}}/assets/img/posts/2017-08-15-breaking-addiction-home-updates/remodeled-main-floor.jpg)
 
 Much of our remodeling in the last few years had been focused on what we felt was necessary in order to capture the most value when selling our house. Beyond these, we left our house with a few future projects - replacing the carpeting,  installing a dishwasher, replacing the kitchen appliances and water heater, and fixing up the landscaping. In the back of our heads, though, we had a list much longer than that.
 
@@ -62,7 +62,7 @@ It's actually been quite the opposite.
 
 ## The Benefit of Intentional Constraints
 
-![Kitchen in our new apartment - galley style with oak cabinets, older appliances, linoleum flooring]({{site.url}}/img/posts/2017-08-15-breaking-addiction-home-updates/apartment-kitchen.jpg)
+![Kitchen in our new apartment - galley style with oak cabinets, older appliances, linoleum flooring]({{site.url}}/assets/img/posts/2017-08-15-breaking-addiction-home-updates/apartment-kitchen.jpg)
 
 <div class="image-caption">Making lasagna in the apartment. It tastes just as good as it did from the old kitchen.</div>
 

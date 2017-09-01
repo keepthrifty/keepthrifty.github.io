@@ -6,7 +6,7 @@ date:   2016-07-14 05:00:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-07-14-experience-or-stuff/mountaintop.jpg
+  path: /assets/img/posts/2016-07-14-experience-or-stuff/mountaintop.jpg
 related-posts: [
   "/2016/03/23/engagement-ring-sold",
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",

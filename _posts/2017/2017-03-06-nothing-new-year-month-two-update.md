@@ -8,8 +8,8 @@ title: "Nothing New Year: Month 2 Update"
 description: "Two months down in our nothing new year challenge. How did we do and where are we at on our mortgage? Read on to find out!"
 
 image:
-  path: /img/posts/2017-03-06-nothing-new-year-month-two-update/shopping-cart-in-river.jpg
-pinterest-image: /img/posts/2017-03-06-nothing-new-year-month-two-update/nny-month-2-update
+  path: /assets/img/posts/2017-03-06-nothing-new-year-month-two-update/shopping-cart-in-river.jpg
+pinterest-image: /assets/img/posts/2017-03-06-nothing-new-year-month-two-update/nny-month-2-update
 
 related-posts: [
   "/2017/02/06/nothing-new-year-month-one-update",
@@ -30,7 +30,7 @@ By buying nothing new, we hope to reduce our impact on our bank accounts _and_ t
 
 Here's a snapshot of our spending summary from [Thrifty]({{site.url}}/thrifty/):
 
-![Overall spending $5,812.15]({{site.url}}/img/posts/2017-03-06-nothing-new-year-month-two-update/nny-month-two-spending.png)
+![Overall spending $5,812.15]({{site.url}}/assets/img/posts/2017-03-06-nothing-new-year-month-two-update/nny-month-two-spending.png)
 
 After [spending just $3,500 in January]({% post_url 2017/2017-02-06-nothing-new-year-month-one-update %}), we really jumped up this month, getting to a total of __$5,812.15__.
 
@@ -42,7 +42,7 @@ A big chunk of this was us doing one of our favorite things - road tripping! We 
 
 Despite all five of us catching a cold, we had a great time on the trip. We got three days on the beach, lots of time exploring the island with my parents, and we knocked three more states off our list (we're up to 31 now). As always, there were challenges ([like last summer's trip]({% post_url 2016/2016-07-06-roadtrip-recap %})) but it was a great experience - lots of memories!
 
-![Our three kids at the beach]({{site.url}}/img/posts/2017-03-06-nothing-new-year-month-two-update/hilton-head-island-beach.jpg)
+![Our three kids at the beach]({{site.url}}/assets/img/posts/2017-03-06-nothing-new-year-month-two-update/hilton-head-island-beach.jpg)
 
 <div class="image-caption">All three of our girls loved the beach, but you can tell which one was pretty much born to be there...</div>
 
@@ -103,7 +103,7 @@ We're feeling good about our progress, but we know there's a long ways to go - a
 
 Along with our nothing new year challenge, we're still working hard on paying down our mortgage. Here's the update chart for where we're at after our March 1 payment:
 
-![Mortgage payoff progress: outstanding principal is down to $81,436.61 and we're due to pay off by Aug 1, 2020. By prepaying and refinancing, we are saving $161,693.48 and 17.1 years over original mortgage plan.]({{site.url}}/img/mortgage-payoff/Mortgage-Payoff-Mar-2017.png)
+![Mortgage payoff progress: outstanding principal is down to $81,436.61 and we're due to pay off by Aug 1, 2020. By prepaying and refinancing, we are saving $161,693.48 and 17.1 years over original mortgage plan.]({{site.url}}/assets/img/mortgage-payoff/Mortgage-Payoff-Mar-2017.png)
 
 <div class="image-caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
 

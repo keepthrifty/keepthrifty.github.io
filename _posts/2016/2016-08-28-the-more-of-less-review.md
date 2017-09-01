@@ -6,8 +6,8 @@ share-hashtag: "TheMoreOfLess"
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-08-28-the-more-of-less/the-more-of-less.jpg
-image-folder: /img/posts/2016-08-28-the-more-of-less
+  path: /assets/img/posts/2016-08-28-the-more-of-less/the-more-of-less.jpg
+image-folder: /assets/img/posts/2016-08-28-the-more-of-less
 subscribe-line: Want future reviews and posts in your inbox?
 social-line: Share it with someone important to you
 related-posts: [

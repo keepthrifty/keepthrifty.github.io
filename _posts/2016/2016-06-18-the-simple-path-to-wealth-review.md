@@ -6,7 +6,7 @@ date:   2016-06-18 05:00:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-06-18-the-simple-path-to-wealth-review/the-simple-path-to-wealth.jpg
+  path: /assets/img/posts/2016-06-18-the-simple-path-to-wealth-review/the-simple-path-to-wealth.jpg
 related-posts: [
   "/2016/10/31/moneysmart-family-system-review",
   "/2016/10/02/it-is-only-money-review",
@@ -75,7 +75,7 @@ ___To get your own copy, here's a [link to the book on Amazon*][the-simple-path-
 [jl-collins-investing]: http://jlcollinsnh.com/stock-series/
 {: target="_blank"}
 
-[the-simple-path-to-wealth-cover]: {{ site.url }}/img/posts/2016-06-18-the-simple-path-to-wealth-review/the-simple-path-to-wealth-cover.jpg
+[the-simple-path-to-wealth-cover]: {{ site.url }}/assets/img/posts/2016-06-18-the-simple-path-to-wealth-review/the-simple-path-to-wealth-cover.jpg
 
 [the-simple-path-to-wealth-amazon]: http://jlcollinsnh.com/2016/06/18/the-simple-path-to-wealth-is-now-published/
 {: target="_blank" }

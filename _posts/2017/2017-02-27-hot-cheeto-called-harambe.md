@@ -9,7 +9,7 @@ subtitle: "5 Ideas to Capitalize on a Craze Without Getting Your Fingers Dirty"
 description: "Adam from Crispy Cabbage breaks down how he'd capitalize on the Gorilla-shaped Cheeto Craze"
 
 image:
-  path: /img/posts/2017-02-27-hot-cheeto-called-harambe/harambe-cheeto.jpg
+  path: /assets/img/posts/2017-02-27-hot-cheeto-called-harambe/harambe-cheeto.jpg
 
 related-posts: [
   "/2016/07/21/spending-on-free",
@@ -108,7 +108,7 @@ Besides, Pepsi has a respectable dividend yield of 2.75%.
 
 __There you go.__  Five quality ideas to capitalize on an internet craze.  Steal any of them.  Take all of them.  Do anything BUT run down to the nearest 7-11 to stock up on Flamin' Hot Cheetos when the next hundred-thousand-dollar Harambe apparition appears.  Unless, of course, you're refilling your stash for the next South Park marathon.
 
-![South Park kid wearing a Harambe Cheeto t-shirt]({{site.url}}/img/posts/2017-02-27-hot-cheeto-called-harambe/south-park-shirt.jpg)
+![South Park kid wearing a Harambe Cheeto t-shirt]({{site.url}}/assets/img/posts/2017-02-27-hot-cheeto-called-harambe/south-park-shirt.jpg)
 
 _Adam and his family are diligently working to eliminate all debt (outside their mortgage) and build a cash stockpile so they can live beyond the constraints of a “normal” life and achieve the __true__ American Dream._
 

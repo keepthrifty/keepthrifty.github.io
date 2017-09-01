@@ -10,8 +10,8 @@ description: "It took us a number of years before we figured out how to really h
 date: 2017-07-18 5:58:00 -0500
 
 image:
-  path: /img/posts/2017-07-18-power-of-a-partner/rope-heart.jpg
-pinterest-image: /img/posts/2017-07-18-power-of-a-partner/power-of-partner-pinterest
+  path: /assets/img/posts/2017-07-18-power-of-a-partner/rope-heart.jpg
+pinterest-image: /assets/img/posts/2017-07-18-power-of-a-partner/power-of-partner-pinterest
 
 related-posts: [
   "/2016/03/23/engagement-ring-sold",
@@ -56,7 +56,7 @@ As we put together the pieces, my wife and I found ourselves working together - 
 
 Finally, in June, we hit the road and it was __magical__.
 
-![Picture of our family on our 2014 road trip]({{site.url}}/img/posts/2017-07-18-power-of-a-partner/2014-road-trip.jpg)
+![Picture of our family on our 2014 road trip]({{site.url}}/assets/img/posts/2017-07-18-power-of-a-partner/2014-road-trip.jpg)
 
 My wife and I had countless hours on the road to talk, laugh, and experience new adventures. We felt more connected than we had in years.
 
@@ -66,7 +66,7 @@ __A shared dream was born.__
 
 ## Bringing it Home
 
-![US Map with each state filled with a picture from our road trips. States we haven't visited are empty.](/img/posts/2017-07-18-power-of-a-partner/usa-road-trip-map.jpg)
+![US Map with each state filled with a picture from our road trips. States we haven't visited are empty.](/assets/img/posts/2017-07-18-power-of-a-partner/usa-road-trip-map.jpg)
 
 <div class="image-caption">My wife put together this awesome way for our family to remember our road trips</div>
 
@@ -88,7 +88,7 @@ Once we stopped working as individuals and started working as a team, we started
 
 ## The True Power of a Partner
 
-![Before and after of taking down an interior wall - my wife in the before photo, me in the after]({{site.url}}/img/posts/2017-07-18-power-of-a-partner/wall-down.jpg)
+![Before and after of taking down an interior wall - my wife in the before photo, me in the after]({{site.url}}/assets/img/posts/2017-07-18-power-of-a-partner/wall-down.jpg)
 
 <div class="image-caption">Now that's teamwork</div>
 
@@ -129,7 +129,7 @@ If you're looking for resources to help, here are some that have helped us:
 
 ## Gratitude
 
-![Collage of my wife and family through the years]({{site.url}}/img/posts/2017-07-18-power-of-a-partner/jaime-9-year-anniv.jpg)
+![Collage of my wife and family through the years]({{site.url}}/assets/img/posts/2017-07-18-power-of-a-partner/jaime-9-year-anniv.jpg)
 
 I feel incredibly blessed to have such an amazing partner in life - [my wife Jaime](http://www.jaimedeclutters.com). We've already accomplished some amazing things together and there's even more to come. I'm truly a better man because of you and I'm so excited for the life we have ahead. Let's keep dreaming :)
 

@@ -8,8 +8,8 @@ title: "Nothing New Year: Month 1 Update"
 description: "We're one month in to our nothing new year. How did we do and where are we at on our mortgage? Read on to find out!"
 
 image:
-  path: /img/posts/2017-02-06-nothing-new-year-month-one-update/shopping-cart.jpg
-pinterest-image: /img/posts/2017-02-06-nothing-new-year-month-one-update/nny-month-1-update
+  path: /assets/img/posts/2017-02-06-nothing-new-year-month-one-update/shopping-cart.jpg
+pinterest-image: /assets/img/posts/2017-02-06-nothing-new-year-month-one-update/nny-month-1-update
 
 related-posts: [
   "/2017/03/06/nothing-new-year-month-two-update",
@@ -30,7 +30,7 @@ By buying nothing new, we hope to reduce our impact on our bank accounts _and_ t
 
 Here's a snapshot of our spending summary from [Thrifty]({{site.url}}/thrifty):
 
-![Overall spending $3,516.06]({{site.url}}/img/posts/2017-02-06-nothing-new-year-month-one-update/nny-month-one-spending.png)
+![Overall spending $3,516.06]({{site.url}}/assets/img/posts/2017-02-06-nothing-new-year-month-one-update/nny-month-one-spending.png)
 
 Managing our spending this month was a success - we spent _$750 less than we did in January 2016_! Despite some non-regular expenses (tax filing, life insurance), we still ended up with our __second-lowest month__ in the [18 months we've been tracking our spending]({% post_url 2016/2016-08-20-indecent-financial-exposure %})!
 
@@ -85,7 +85,7 @@ Given the safety aspect for our family, I'm calling this one fair game. Let the 
 
 Along with our nothing new year challenge, we're still working hard on paying down our mortgage. Here's the update chart for where we're at after our Feb 1 payment:
 
-![Mortgage payoff progress: outstanding principal is down to $83,345.61 and we're due to pay off by Aug 1, 2020. By prepaying and refinancing, we are saving $161,693.48 and 17.1 years over original mortgage plan.]({{site.url}}/img/mortgage-payoff/Mortgage-Payoff-Feb-2017.png)
+![Mortgage payoff progress: outstanding principal is down to $83,345.61 and we're due to pay off by Aug 1, 2020. By prepaying and refinancing, we are saving $161,693.48 and 17.1 years over original mortgage plan.]({{site.url}}/assets/img/mortgage-payoff/Mortgage-Payoff-Feb-2017.png)
 
 <div class="image-caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
 

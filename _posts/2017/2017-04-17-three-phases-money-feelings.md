@@ -8,8 +8,8 @@ title: "Three Phases of Money Feelings"
 description: "How does money make you feel? Stressed? Excited? Or do you generally feel indifferent? Each of these is a step in your path to financial independence"
 
 image:
-  path: /img/posts/2017-04-17-three-phases-money-feelings/money-feelings.jpg
-pinterest-image: /img/posts/2017-04-17-three-phases-money-feelings/money-feelings-pinterest
+  path: /assets/img/posts/2017-04-17-three-phases-money-feelings/money-feelings.jpg
+pinterest-image: /assets/img/posts/2017-04-17-three-phases-money-feelings/money-feelings-pinterest
 
 related-posts: [
   "/2017/01/09/defeat-four-devious-marketing-tactics",
@@ -39,7 +39,7 @@ What did you come up with?
 
 I put this out as a poll on Twitter with a few options and here's what came back:
 
-![26% chose "Stress", 59% chose "Excitement", and 15% chose "Indifference"]({{ site.url }}/img/posts/2017-04-17-three-phases-money-feelings/money-feelings-poll.jpg)
+![26% chose "Stress", 59% chose "Excitement", and 15% chose "Indifference"]({{ site.url }}/assets/img/posts/2017-04-17-three-phases-money-feelings/money-feelings-poll.jpg)
 
 Where do you fall in? Where would you _like_ to be?
 

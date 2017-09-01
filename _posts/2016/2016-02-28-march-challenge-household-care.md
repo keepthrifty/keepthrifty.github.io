@@ -7,8 +7,8 @@ timeline: March 2016
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path:  /img/posts/2016-02-28-march-challenge-household-care/laundromat-jump.jpg
-image-folder: /img/posts/2016-02-28-march-challenge-household-care
+  path:  /assets/img/posts/2016-02-28-march-challenge-household-care/laundromat-jump.jpg
+image-folder: /assets/img/posts/2016-02-28-march-challenge-household-care
 redirect_from:
   - /challenge/2016/02/28/march-challenge.html
   - /challenge/2016/02/28/march-challenge-household-care.html

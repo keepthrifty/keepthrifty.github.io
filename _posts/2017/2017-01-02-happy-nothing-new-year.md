@@ -9,8 +9,8 @@ subtitle: "Buying Nothing New in 2017"
 description: "Our family's goal for 2017? To buy nothing new. How are we going to do it?"
 
 image:
-  path: /img/posts/2017-01-02-happy-nothing-new-year/empty-shopping-list.jpg
-pinterest-image: /img/posts/2017-01-02-happy-nothing-new-year/nothing-new-year-pinterest
+  path: /assets/img/posts/2017-01-02-happy-nothing-new-year/empty-shopping-list.jpg
+pinterest-image: /assets/img/posts/2017-01-02-happy-nothing-new-year/nothing-new-year-pinterest
 
 related-posts: [
   "/2016/10/10/become-twice-as-happy-with-half-as-much",
@@ -135,7 +135,7 @@ Since we're at the start, let's set the baseline on where we're at with our mort
 
 ### Mortgage Payoff Update
 
-![Mortgage payoff progress: saving $161,693.48 and 17.1 years over original mortgage plan; due to pay off July 1, 2020]({{site.url}}/img/mortgage-payoff/Mortgage-Payoff-Jan-2017.png)
+![Mortgage payoff progress: saving $161,693.48 and 17.1 years over original mortgage plan; due to pay off July 1, 2020]({{site.url}}/assets/img/mortgage-payoff/Mortgage-Payoff-Jan-2017.png)
 
 The red line shows our outstanding mortgage principal if we had stuck with our original mortgage back in 2007. The blue line shows our actual mortgage principal to-date (as well as projections based on our current prepayments). The faint lines show all the different mortgage paths we've been on based on different refinancing and prepayment strategies.
 

@@ -19,7 +19,7 @@ If not, there's still time to make a change.
 
 ## I've Been Stuck Too
 
-![Myself, my wife, and our three daughters on a green lawn]({{site.url}}/img/our-family.jpg)
+![Myself, my wife, and our three daughters on a green lawn]({{site.url}}/assets/img/our-family.jpg)
 {: class="image--right"}
 
 A few years back, it looked like I had everything going for me - a stable corporate job, [a beautiful wife](http://www.jaimedeclutters.com){: target="_blank"} and three daughters, a house in the suburbs, two new cars in the garage, and a house full of stuff.

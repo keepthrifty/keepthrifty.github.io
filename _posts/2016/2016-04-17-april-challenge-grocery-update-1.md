@@ -6,7 +6,7 @@ date:   2016-04-17
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-04-17-april-challenge-grocery-update-1/box-of-food.jpg
+  path: /assets/img/posts/2016-04-17-april-challenge-grocery-update-1/box-of-food.jpg
 redirect_from:
   - /challenge/2016/04/17/april-challenge-update-1.html
   - /challenge/2016/04/17/april-challenge-grocery-update-1.html
@@ -87,7 +87,7 @@ Find me on [twitter][twitter-profile] and let me know how you're doing so far th
 [twitter-profile]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
 
-[april-2016-mid-month]: {{ site.url }}/img/posts/2016-04-17-april-challenge-grocery-update-1/april-2016-mid-month.png
+[april-2016-mid-month]: {{ site.url }}/assets/img/posts/2016-04-17-april-challenge-grocery-update-1/april-2016-mid-month.png
 
 [april-challenge-post]: {{ site.url }}{% post_url 2016/2016-03-28-april-challenge-grocery %}
 [mid-month-update]: {{ site.url }}{% post_url 2016/2016-04-17-april-challenge-grocery-update-1 %}

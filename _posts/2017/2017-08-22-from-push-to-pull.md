@@ -9,8 +9,8 @@ description: "Have you ever felt like your life is a constant shift from one com
 date: 2017-08-22 5:58:00 -0500
 
 image:
-  path: /img/posts/2017-08-22-from-push-to-pull/devices-down.jpg
-pinterest-image: /img/posts/2017-08-22-from-push-to-pull/push-pull-eisenhower
+  path: /assets/img/posts/2017-08-22-from-push-to-pull/devices-down.jpg
+pinterest-image: /assets/img/posts/2017-08-22-from-push-to-pull/push-pull-eisenhower
 
 related-posts: [
   "/parable-of-the-craftsmen",
@@ -141,7 +141,7 @@ The key to long-term productivity is to apply push and pull in the right ways an
 
 Here's my take on the Eisenhower Box, building in the concepts of "push" and "pull". See below for an explanation of each quadrant.
 
-![]({{site.url}}/img/posts/2017-08-22-from-push-to-pull/push-pull-eisenhower-400.png)
+![]({{site.url}}/assets/img/posts/2017-08-22-from-push-to-pull/push-pull-eisenhower-400.png)
 
 ### Urgent and Important
 

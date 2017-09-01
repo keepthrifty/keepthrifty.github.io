@@ -6,8 +6,8 @@ date:   2016-03-20
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-03-20-march-challenge-household-care-update-3/coffee-jars.jpg
-image-folder: /img/posts/2016-03-20-march-challenge-household-care-update-3
+  path: /assets/img/posts/2016-03-20-march-challenge-household-care-update-3/coffee-jars.jpg
+image-folder: /assets/img/posts/2016-03-20-march-challenge-household-care-update-3
 redirect_from:
   - /challenge/2016/03/20/march-challenge-update-3.html
   - /challenge/2016/03/20/march-challenge-household-care-update-3.html

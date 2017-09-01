@@ -7,7 +7,7 @@ author_email: chris@keepthrifty.com
 title: "The Cost of Debt"
 description: "___TK___"
 
-image: /img/posts/2016-12-11-cost-of-debt/debt-tip-jar.jpg
+image: /assets/img/posts/2016-12-11-cost-of-debt/debt-tip-jar.jpg
 
 related-posts: [
 

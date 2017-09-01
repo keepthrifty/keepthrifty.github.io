@@ -5,8 +5,8 @@ description: "The math and application behind calculating how much a day of reti
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-09-18-the-price-of-an-extra-day/extra-day.jpg
-image-folder: /img/posts/2016-09-18-the-price-of-an-extra-day
+  path: /assets/img/posts/2016-09-18-the-price-of-an-extra-day/extra-day.jpg
+image-folder: /assets/img/posts/2016-09-18-the-price-of-an-extra-day
 subscribe-line: Want more money, motivation, and math?
 related-posts: [
   "/2016/06/18/the-simple-path-to-wealth-review",

@@ -10,8 +10,8 @@ description: "Think Liberal Arts degrees are worthless? Today's guest writer is 
 date: 2017-05-22 20:58:02 -0500
 
 image:
-  path: /img/posts/2017-05-22-major-waste-of-money-dont-care/textbooks.jpg
-pinterest-image: /img/posts/2017-05-22-major-waste-of-money-dont-care/major-waste
+  path: /assets/img/posts/2017-05-22-major-waste-of-money-dont-care/textbooks.jpg
+pinterest-image: /assets/img/posts/2017-05-22-major-waste-of-money-dont-care/major-waste
 
 related-posts: [
   "/2016/10/16/talent-is-overrated",

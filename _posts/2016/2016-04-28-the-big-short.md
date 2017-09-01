@@ -6,8 +6,8 @@ date:   2016-04-28 00:00:01 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-04-28-the-big-short/the-big-short.jpg
-image-folder: /img/posts/2016-04-28-the-big-short
+  path: /assets/img/posts/2016-04-28-the-big-short/the-big-short.jpg
+image-folder: /assets/img/posts/2016-04-28-the-big-short
 related-posts: [
   "/2017/03/20/home-mortgage-interest-deduction",
   "/2016/04/04/mortgage-math-101",

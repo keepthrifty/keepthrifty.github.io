@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /subscribe/
-image: /img/mailboxes.jpg
+image: /assets/img/mailboxes.jpg
 description: Subscribe to my once-a-week newsletter; includes my latest blog post, links to my favorite articles, and updates on projects I'm working on.
 title: Subscribe for the Weekly Keep Thrifty Update
 ---

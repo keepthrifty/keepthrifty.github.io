@@ -10,8 +10,8 @@ description: "We are now debt free! Sure, we bought some new stuff this month, b
 date: 2017-08-01 5:58:00 -0500
 
 image:
-  path: /img/posts/2017-08-01-nothing-new-year-month-seven-update/cheers.jpg
-pinterest-image: /img/posts/2017-08-01-nothing-new-year-month-seven-update/nny-month-7-update
+  path: /assets/img/posts/2017-08-01-nothing-new-year-month-seven-update/cheers.jpg
+pinterest-image: /assets/img/posts/2017-08-01-nothing-new-year-month-seven-update/nny-month-7-update
 
 related-posts: [
   "/2017/04/03/nothing-new-year-month-three-update",
@@ -36,7 +36,7 @@ _We track our spending using a little tool I made called [Thrifty]({{site.url}}/
 
 Here's our spending summary from Thrifty for June 2017:
 
-![Overall spending $27,714.21]({{site.url}}/img/posts/2017-08-01-nothing-new-year-month-seven-update/nny-month-seven-spending.png)
+![Overall spending $27,714.21]({{site.url}}/assets/img/posts/2017-08-01-nothing-new-year-month-seven-update/nny-month-seven-spending.png)
 
 Let's tackle the elephant in the room first - __we spent almost $28,000!?!?__ No, we didn't go buy a new car or something crazy like that.
 
@@ -113,7 +113,7 @@ With that, let's move on to our __final__ mortgage payoff update.
 
 After all the checks were written and accounts updated, we logged into our lender's website and saw this amazing, awesome sight:
 
-![Mortgage principal remaining: $0.00]({{site.url}}/img/mortgage-payoff/mortgage-paid-off.png)
+![Mortgage principal remaining: $0.00]({{site.url}}/assets/img/mortgage-payoff/mortgage-paid-off.png)
 
 {% include tweet-link.html tweet-text="It's time to celebrate folks because we closed on our house and are officially 100% debt-free!" %}
 
@@ -123,7 +123,7 @@ In our prior updates, I had listed how much we were saving in interest through r
 
 Here's the result of our efforts:
 
-![We saved $70,782.87]({{site.url}}/img/mortgage-payoff/Mortgage-Payoff-Aug-2017.png)
+![We saved $70,782.87]({{site.url}}/assets/img/mortgage-payoff/Mortgage-Payoff-Aug-2017.png)
 
 <div class="image-caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
 

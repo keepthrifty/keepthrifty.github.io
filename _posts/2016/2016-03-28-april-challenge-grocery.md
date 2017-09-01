@@ -7,7 +7,7 @@ timeline: April 2016
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-03-28-april-challenge-grocery/grocery-bananas.jpg
+  path: /assets/img/posts/2016-03-28-april-challenge-grocery/grocery-bananas.jpg
 redirect_from:
   - /challenge/2016/03/28/april-challenge.html
   - /challenge/2016/03/28/april-challenge-grocery.html
@@ -157,8 +157,8 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20Keep%20Thrifty%20Experiment!
 {: target="_blank"}
 
-[challenge-chart]: {{ site.url }}/img/posts/2016-03-28-april-challenge-grocery/groceries-mar.png
-[challenge-summary]: {{ site.url }}/img/posts/2016-03-28-april-challenge-grocery/groceries-mar-summary.png
+[challenge-chart]: {{ site.url }}/assets/img/posts/2016-03-28-april-challenge-grocery/groceries-mar.png
+[challenge-summary]: {{ site.url }}/assets/img/posts/2016-03-28-april-challenge-grocery/groceries-mar-summary.png
 
 [april-challenge-post]: {{ site.url }}{% post_url 2016/2016-03-28-april-challenge-grocery %}
 [mid-month-update]: {{ site.url }}{% post_url 2016/2016-04-17-april-challenge-grocery-update-1 %}

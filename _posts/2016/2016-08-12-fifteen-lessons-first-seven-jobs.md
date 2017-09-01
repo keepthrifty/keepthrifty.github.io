@@ -6,8 +6,8 @@ date:   2016-08-12 16:00:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-08-12-first-seven-jobs/parking-lot.jpg
-image-folder: /img/posts/2016-08-12-first-seven-jobs
+  path: /assets/img/posts/2016-08-12-first-seven-jobs/parking-lot.jpg
+image-folder: /assets/img/posts/2016-08-12-first-seven-jobs
 related-posts: [
   "/2016/08/05/dominate-debt-with-spreadsheet-fu",
   "/one-year-mini-retirement",

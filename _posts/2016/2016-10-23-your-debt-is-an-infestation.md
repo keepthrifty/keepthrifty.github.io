@@ -8,8 +8,8 @@ title: "Your Debt is an Infestation"
 description: "Treat your debt like a hornet's nest in your living room"
 
 image:
-  path: /img/posts/2016-10-23-your-debt-is-an-infestation/bees.jpg
-image-folder: /img/posts/2016-10-23-your-debt-is-an-infestation
+  path: /assets/img/posts/2016-10-23-your-debt-is-an-infestation/bees.jpg
+image-folder: /assets/img/posts/2016-10-23-your-debt-is-an-infestation
 
 related-posts: [
   "/2016/01/15/prepaying-mortgage-trick",

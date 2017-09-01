@@ -10,8 +10,8 @@ description: "Think we've always been thrifty? Not even close. Here's the full c
 date: 2017-06-13 01:58:00 -0500
 
 image:
-  path: /img/posts/2017-06-13-our-not-so-thrifty-past/smoke-money.jpg
-pinterest-image: /img/posts/2017-06-13-our-not-so-thrifty-past/our-not-so-thrifty-past
+  path: /assets/img/posts/2017-06-13-our-not-so-thrifty-past/smoke-money.jpg
+pinterest-image: /assets/img/posts/2017-06-13-our-not-so-thrifty-past/our-not-so-thrifty-past
 
 related-posts: [
   "/2016/12/05/money-mistakes-financial-compass",

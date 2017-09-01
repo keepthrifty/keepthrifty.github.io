@@ -6,7 +6,7 @@ date:   2016-01-01 06:00:00 -0600
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-01-01-one-word-resolution/rock_climbing.jpg
+  path: /assets/img/posts/2016-01-01-one-word-resolution/rock_climbing.jpg
 related-posts: [
   "/2016/08/20/indecent-financial-exposure",
   "/2016/08/28/the-more-of-less-review",

@@ -6,8 +6,8 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 date: 2016-09-25
 image:
-  path: /img/posts/2016-09-25-the-price-of-an-extra-day-spreadsheet-edition/s-51.jpg
-image-folder: /img/posts/2016-09-25-the-price-of-an-extra-day-spreadsheet-edition
+  path: /assets/img/posts/2016-09-25-the-price-of-an-extra-day-spreadsheet-edition/s-51.jpg
+image-folder: /assets/img/posts/2016-09-25-the-price-of-an-extra-day-spreadsheet-edition
 subscribe-line: Interested in amping up your spreadsheet skills?
 related-posts: [
   "/2016/09/18/the-price-of-an-extra-day",

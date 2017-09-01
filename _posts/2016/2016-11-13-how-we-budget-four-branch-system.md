@@ -8,7 +8,7 @@ title: "How We Budget: The Four-Branch System"
 description: "This comprehensive system helps you master budgeting with some awesome tricks to build a safety net and accomplish your big goals"
 
 image:
-  path: /img/posts/2016-11-13-how-we-budget-four-branch-system/money-plants.jpg
+  path: /assets/img/posts/2016-11-13-how-we-budget-four-branch-system/money-plants.jpg
 
 related-posts: [
   "/2016/08/20/indecent-financial-exposure",
@@ -108,7 +108,7 @@ Grab a piece of paper (or a spreadsheet) and divide it into four parts. Fill out
 
 Here's an example that we'll carry through the rest of this post:
 
-![Example budget with expenses in each category]({{ site.url }}/img/posts/2016-11-13-how-we-budget-four-branch-system/step-2.jpg)
+![Example budget with expenses in each category]({{ site.url }}/assets/img/posts/2016-11-13-how-we-budget-four-branch-system/step-2.jpg)
 
 ## Step 3: Normalize To Get a Monthly Picture
 
@@ -142,7 +142,7 @@ If you have a $180 quarterly water and sewer bill, you'd need to save $60 each m
 
 Add all of these monthly amounts together and you've now determined your monthly _Personal Escrow_ amount for __long cycle__ expenses.
 
-![Example budget monthly totals computed]({{ site.url }}/img/posts/2016-11-13-how-we-budget-four-branch-system/step-3.jpg)
+![Example budget monthly totals computed]({{ site.url }}/assets/img/posts/2016-11-13-how-we-budget-four-branch-system/step-3.jpg)
 
 ## Step 4: Check Where You Stand, Recalibrate
 
@@ -154,7 +154,7 @@ Compare this to your monthly reasonable minimum income that you figured out in t
 
 If your monthly reasonable minimum income is _less_ than your total monthly expenses, it's time to go back and reassess. You've got a budget that's out of balance and you're going to have to make some cuts. Revisit your expenses in each category and see what you can reduce. Then go back through the math until your monthly reasonable minimum income is bigger.
 
-![Total expenses compared to toal income]({{ site.url }}/img/posts/2016-11-13-how-we-budget-four-branch-system/step-4.jpg)
+![Total expenses compared to toal income]({{ site.url }}/assets/img/posts/2016-11-13-how-we-budget-four-branch-system/step-4.jpg)
 
 Once your monthly reasonable minimum income is bigger, you can start to figure in your __targeted goals__. Any remainder in a given month can be applied to those. The great part here is that we'll build this into the monthly budget.
 

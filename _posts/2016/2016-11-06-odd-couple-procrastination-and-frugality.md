@@ -9,7 +9,7 @@ title: "Guest Post: An Odd Couple - The Surprising Truth About Frugality and Pro
 description: "This guest post from Mystery Money Man shows that frugality and procrastination aren't always at odds - sometimes they even work together"
 
 image:
-  path: /img/posts/2016-11-06-odd-couple-procrastination-and-frugality/odd-couple.jpg
+  path: /assets/img/posts/2016-11-06-odd-couple-procrastination-and-frugality/odd-couple.jpg
 
 related-posts: [
   "/2016/10/16/talent-is-overrated",

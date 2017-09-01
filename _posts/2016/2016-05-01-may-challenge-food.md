@@ -7,7 +7,7 @@ timeline: May 2016
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-05-01-may-challenge-food/happy-pancake.jpg
+  path: /assets/img/posts/2016-05-01-may-challenge-food/happy-pancake.jpg
 redirect_from:
   - /challenges/2016-05-food/
   - /challenge/2016/05/01/may-challenge-food.html
@@ -168,5 +168,5 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [potbelly]: http://www.potbelly.com
 {: target="_blank"}
 
-[challenge-chart-grocery]: {{ site.url }}/img/posts/2016-05-01-april-challenge-grocery-update-2/april-2016-grocery-chart.png
-[challenge-chart-eating-out]: {{ site.url }}/img/posts/2016-05-01-may-challenge-food/april-2016-eating-out-chart.png
+[challenge-chart-grocery]: {{ site.url }}/assets/img/posts/2016-05-01-april-challenge-grocery-update-2/april-2016-grocery-chart.png
+[challenge-chart-eating-out]: {{ site.url }}/assets/img/posts/2016-05-01-may-challenge-food/april-2016-eating-out-chart.png

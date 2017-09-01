@@ -6,7 +6,7 @@ date:   2016-03-27
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-03-27-march-challenge-household-care-update-4/makeup-brush.jpg
+  path: /assets/img/posts/2016-03-27-march-challenge-household-care-update-4/makeup-brush.jpg
 redirect_from:
   - /challenge/2016/03/27/march-challenge-update-4.html
   - /challenge/2016/03/27/march-challenge-household-care-update-4.html
@@ -61,7 +61,7 @@ Are you keeping on-track? Find me on [twitter][twitter-profile] and let me know 
 [twitter-profile]: http://www.twitter.com/keepthrifty
 {: target="_blank"}
 
-[march-week-4-summary]: {{ site.url }}/img/posts/2016-03-27-march-challenge-household-care-update-4/march-2016-w4-summary.png
+[march-week-4-summary]: {{ site.url }}/assets/img/posts/2016-03-27-march-challenge-household-care-update-4/march-2016-w4-summary.png
 
 [march-challenge-post]: {{ site.url }}{% post_url 2016/2016-02-28-march-challenge-household-care %}
 [week-1-update]: {{ site.url }}{% post_url 2016/2016-03-06-march-challenge-household-care-update-1 %}

@@ -10,8 +10,8 @@ description: "We've been making some pretty big frugal moves recently, but one o
 date: 2017-06-19 13:58:00 -0500
 
 image:
-  path: /img/posts/2017-06-19-can-frugality-be-selfish/frugality-selfish.jpg
-pinterest-image: /img/posts/2017-06-19-can-frugality-be-selfish/can-frugality-be-selfish
+  path: /assets/img/posts/2017-06-19-can-frugality-be-selfish/frugality-selfish.jpg
+pinterest-image: /assets/img/posts/2017-06-19-can-frugality-be-selfish/can-frugality-be-selfish
 
 related-posts: [
   "/2017/05/22/major-waste-of-money-dont-care",
@@ -38,7 +38,7 @@ Knowing that we could have afforded to rent something bigger in our area, are we
 
 ## Living Smaller at the Expense of Others
 
-![Keep Thrifty Family is happy, Other Family is sad, Landlords are neutral]({{site.url}}/img/posts/2017-06-19-can-frugality-be-selfish/frugality-selfish-smileys-1.jpg){: class="no-shadow"}
+![Keep Thrifty Family is happy, Other Family is sad, Landlords are neutral]({{site.url}}/assets/img/posts/2017-06-19-can-frugality-be-selfish/frugality-selfish-smileys-1.jpg){: class="no-shadow"}
 
 <div class="image-caption">Look at that smug jerk on the left...</div>
 
@@ -52,7 +52,7 @@ _This really looks like a selfish choice - after all, we're the only smiley face
 
 ## If We Had Chosen to Live Bigger Because of Guilt
 
-![Keep Thrifty Family is sad, Other Family is happy, Landlords are happy]({{site.url}}/img/posts/2017-06-19-can-frugality-be-selfish/frugality-selfish-smileys-2.jpg){: class="no-shadow"}
+![Keep Thrifty Family is sad, Other Family is happy, Landlords are happy]({{site.url}}/assets/img/posts/2017-06-19-can-frugality-be-selfish/frugality-selfish-smileys-2.jpg){: class="no-shadow"}
 
 If we had chosen __not__ to pursue smaller living, it'd certainly be better for someone else who would have gotten our apartment.
 
@@ -89,7 +89,7 @@ There's no reason we should feel stuck living bigger if it doesn't align with ou
 
 ## Living Smaller (the long-term picture)
 
-![Keep Thrifty Family is happy, Other Family is happy, Landlords are happy]({{site.url}}/img/posts/2017-06-19-can-frugality-be-selfish/frugality-selfish-smileys-3.jpg){: class="no-shadow"}
+![Keep Thrifty Family is happy, Other Family is happy, Landlords are happy]({{site.url}}/assets/img/posts/2017-06-19-can-frugality-be-selfish/frugality-selfish-smileys-3.jpg){: class="no-shadow"}
 
 <div class="image-caption">Doesn't that look better?</div>
 

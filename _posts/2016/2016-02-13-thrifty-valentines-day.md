@@ -6,8 +6,8 @@ date:   2016-02-13 06:00:00 -0600
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-02-13-thrifty-valentines-day/valentines.jpg
-image-folder: /img/posts/2016-02-13-thrifty-valentines-day
+  path: /assets/img/posts/2016-02-13-thrifty-valentines-day/valentines.jpg
+image-folder: /assets/img/posts/2016-02-13-thrifty-valentines-day
 related-posts: [
   "/2016/08/12/fifteen-lessons-first-seven-jobs",
   "/2016/09/04/let-it-burn",

@@ -8,8 +8,8 @@ title: "Four Devious Marketing Tactics (and How to Defeat Them)"
 description: "Don't get fooled by these devious marketing tactics from people looking to take your hard-earned dollars"
 
 image:
-  path: /img/posts/2017-01-09-four-devious-marketing-tactics/mannequins.jpg
-pinterest-image: /img/posts/2017-01-09-four-devious-marketing-tactics/devious-marketing-pinterest
+  path: /assets/img/posts/2017-01-09-four-devious-marketing-tactics/mannequins.jpg
+pinterest-image: /assets/img/posts/2017-01-09-four-devious-marketing-tactics/devious-marketing-pinterest
 
 related-posts: [
   "/2016/07/14/experience-or-stuff",
@@ -86,7 +86,7 @@ What better way to get someone to do something than promise them results that ar
 
 Here's an example, I ran into. I don't get lunch out often, but the last time I was at Taco Bell, this is what I saw in the drive-through:
 
-![Taco Bell sign - "Working at Taco Bell has its bonuses"; includes image of teenage boy standing in front of school buses showing a teenage girl his red convertible]({{site.url}}/img/posts/2017-01-09-four-devious-marketing-tactics/taco-bell.jpg)
+![Taco Bell sign - "Working at Taco Bell has its bonuses"; includes image of teenage boy standing in front of school buses showing a teenage girl his red convertible]({{site.url}}/assets/img/posts/2017-01-09-four-devious-marketing-tactics/taco-bell.jpg)
 
 <div class="image-caption">Do you want to become a Taco-Billionaire?</div>
 

@@ -8,7 +8,7 @@ title: "2016: A Thrifty Year In Review"
 description: "Reviewing 2016 for our family, our finances, and for the Keep Thrifty blog and Thrifty Tool"
 
 image:
-  path: /img/posts/2016-12-26-thrifty-year-in-review/calendar-review.jpg
+  path: /assets/img/posts/2016-12-26-thrifty-year-in-review/calendar-review.jpg
 
 related-posts: [
   "/2016/02/13/thrifty-valentines-day",
@@ -33,7 +33,7 @@ It's hard to believe how much has happened in the last year. While some of this 
 - We launched two blogs! This one and [JaimeDeclutters.com](http://www.jaimedeclutters.com){: target="_blank"}
 - We remodeled...and remodeled...and _remodeled some more_. We removed a wall, replaced flooring, paneled a ceiling, redid lighting, replaced our kitchen countertop, got a new kitchen sink, and painted almost every wall, cabinet, door, and piece of trim. Throw in a busted furnace and garage door opener and this was a big year for our house. We hired out some of the work but did plenty of DIY to save on cost. It was all well worth it!
 
-![Our main living space - almost completely remodeled (a few tweaks to go)]({{site.url}}/img/posts/2016-12-26-thrifty-year-in-review/main-floor.jpg)
+![Our main living space - almost completely remodeled (a few tweaks to go)]({{site.url}}/assets/img/posts/2016-12-26-thrifty-year-in-review/main-floor.jpg)
 
 <div class="image-caption">We're close but not quite there yet; backsplash, moulding, and a bit of painting yet to do</div>
 
@@ -79,7 +79,7 @@ The tool started this year with just 1 user (our family) but has now had 74 peop
 
 At the start of the year, Thrifty was only for tracking expenses, but over the months, I added the ability to track income and taxes. In addition, Thrifty now calculates a monthly (and overall) savings rate and provides charts and trends for spending in each category.
 
-![Screenshot of Thrifty's analysis view for Utilities]({{site.url}}/img/posts/2016-12-26-thrifty-year-in-review/thrifty-analysis.jpg)
+![Screenshot of Thrifty's analysis view for Utilities]({{site.url}}/assets/img/posts/2016-12-26-thrifty-year-in-review/thrifty-analysis.jpg)
 
 <div class="image-caption">If you look closely, you'll see that we're slowly trending down :)</div>
 

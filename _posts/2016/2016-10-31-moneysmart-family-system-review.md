@@ -8,7 +8,7 @@ title: "Book Review: The MoneySmart Family System by Steve & Annette Economides"
 description: "Keep Thrifty Book review of The MoneySmart Family System by Steve & Annette Economides"
 
 image:
-  path: /img/posts/2016-10-31-moneysmart-family-system-review/post-image.jpg
+  path: /assets/img/posts/2016-10-31-moneysmart-family-system-review/post-image.jpg
 
 related-posts: [
   "/2016/06/18/the-simple-path-to-wealth-review",
@@ -125,7 +125,7 @@ If you've got kids of any age, I really recommend picking up a copy of The Money
 
 ___To get your own copy, here's a [link to the book on Amazon][amazon-link]___
 
-[![The MoneySmart Family System book cover]({{ site.url }}/img/posts/2016-10-31-moneysmart-family-system-review/cover.jpg)][amazon-link]
+[![The MoneySmart Family System book cover]({{ site.url }}/assets/img/posts/2016-10-31-moneysmart-family-system-review/cover.jpg)][amazon-link]
 
 [amazon-link]: http://moneysmartfamily.com/product/parenting-moneysmart-family-system-book/
 {: target="_blank" }

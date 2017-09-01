@@ -5,8 +5,8 @@ description: "Knowledge is power, so you should probably equip yourself with the
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-04-04-mortgage-math-101/calculator.jpg
-image-folder: /img/posts/2016-04-04-mortgage-math-101
+  path: /assets/img/posts/2016-04-04-mortgage-math-101/calculator.jpg
+image-folder: /assets/img/posts/2016-04-04-mortgage-math-101
 redirect_from:
   - /mortgages/2016/04/04/mortgage-math-101.html
   - /mortgages/2016/04/mortgage-math-101.html

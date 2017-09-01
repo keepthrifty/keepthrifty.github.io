@@ -8,8 +8,8 @@ title: "Nothing New Year: Month 3 Update"
 description: "We spent a ton this month and are making a pretty big change in our strategy to become debt-free"
 
 image:
-  path: /img/posts/2017-04-03-nothing-new-year-month-three-update/empty-pockets.jpg
-pinterest-image: /img/posts/2017-04-03-nothing-new-year-month-three-update/nny-month-3-update
+  path: /assets/img/posts/2017-04-03-nothing-new-year-month-three-update/empty-pockets.jpg
+pinterest-image: /assets/img/posts/2017-04-03-nothing-new-year-month-three-update/nny-month-3-update
 
 related-posts: [
   "/2017/02/06/nothing-new-year-month-one-update",
@@ -34,7 +34,7 @@ By buying nothing new, we hope to reduce our impact on our bank accounts _and_ t
 
 Here's a snapshot of our spending summary from [Thrifty]({{site.url}}/thrifty/):
 
-![Overall spending $12,281.90]({{site.url}}/img/posts/2017-04-03-nothing-new-year-month-three-update/nny-month-three-spending.png)
+![Overall spending $12,281.90]({{site.url}}/assets/img/posts/2017-04-03-nothing-new-year-month-three-update/nny-month-three-spending.png)
 
 After [spending just $3,500 in January]({% post_url 2017/2017-02-06-nothing-new-year-month-one-update %}) and [$5800 in February]({% post_url 2017/2017-03-06-nothing-new-year-month-two-update %}), we broke five figures in spending this month at __$12,281.90__.
 
@@ -124,7 +124,7 @@ This change impacts our month-to-month impact on our outstanding mortgage balanc
 
 Here's the update chart for where we're at after our April 1 payment:
 
-![Mortgage payoff progress: outstanding principal is down to $80,686.89 and we're due to pay off by Aug 1, 2017. By prepaying and refinancing, we are saving $164,724.02 and 20.1 years over original mortgage plan.]({{site.url}}/img/mortgage-payoff/Mortgage-Payoff-Apr-2017.png)
+![Mortgage payoff progress: outstanding principal is down to $80,686.89 and we're due to pay off by Aug 1, 2017. By prepaying and refinancing, we are saving $164,724.02 and 20.1 years over original mortgage plan.]({{site.url}}/assets/img/mortgage-payoff/Mortgage-Payoff-Apr-2017.png)
 
 <div class="image-caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
 

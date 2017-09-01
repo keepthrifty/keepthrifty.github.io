@@ -6,8 +6,8 @@ date:   2016-05-24 00:30:00 -0500
 author: keepthrifty
 author_email: chris@keepthrifty.com
 image:
-  path: /img/posts/2016-05-24-encouragement-over-hate/thumbs-up-and-down.jpg
-image-folder: /img/posts/2016-05-24-encouragement-over-hate
+  path: /assets/img/posts/2016-05-24-encouragement-over-hate/thumbs-up-and-down.jpg
+image-folder: /assets/img/posts/2016-05-24-encouragement-over-hate
 related-posts: [
   "/2017/05/22/major-waste-of-money-dont-care",
   "/2016/07/21/spending-on-free",

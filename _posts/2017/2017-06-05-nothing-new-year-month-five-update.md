@@ -10,8 +10,8 @@ description: "We've gotten our house on the market and have an accepted offer. O
 date: 2017-06-05 13:10:00 -0500
 
 image:
-  path: /img/posts/2017-06-05-nothing-new-year-month-five-update/sleeping-red-panda.jpg
-pinterest-image: /img/posts/2017-06-05-nothing-new-year-month-five-update/nny-month-5-update
+  path: /assets/img/posts/2017-06-05-nothing-new-year-month-five-update/sleeping-red-panda.jpg
+pinterest-image: /assets/img/posts/2017-06-05-nothing-new-year-month-five-update/nny-month-5-update
 
 related-posts: [
   "/2017/02/06/nothing-new-year-month-one-update",
@@ -50,7 +50,7 @@ _We track our spending using a little tool I made called [Thrifty]({{site.url}}/
 
 Here's our spending summary from Thrifty for May 2017:
 
-![Overall spending $5,528.62]({{site.url}}/img/posts/2017-06-05-nothing-new-year-month-five-update/nny-month-five-spending.png)
+![Overall spending $5,528.62]({{site.url}}/assets/img/posts/2017-06-05-nothing-new-year-month-five-update/nny-month-five-spending.png)
 
 Our spending is finally starting to come back down as we've finished up our major remodeling. All told, this month cost us $5,528.62.
 
@@ -127,7 +127,7 @@ With our planned closing date of July 5th, we officially know our debt-free date
 
 In the meantime, we've still got our mortgage payments to take care of, so here's the update chart for where we're at after our June 1 payment:
 
-![Mortgage payoff progress: outstanding principal is down to $79,181.68 and we're due to pay off on July 5, 2017. By prepaying and refinancing, we are saving $164,903.73 and 20.2 years over original mortgage plan.]({{site.url}}/img/mortgage-payoff/Mortgage-Payoff-Jun-2017.png)
+![Mortgage payoff progress: outstanding principal is down to $79,181.68 and we're due to pay off on July 5, 2017. By prepaying and refinancing, we are saving $164,903.73 and 20.2 years over original mortgage plan.]({{site.url}}/assets/img/mortgage-payoff/Mortgage-Payoff-Jun-2017.png)
 
 <div class="image-caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
 
