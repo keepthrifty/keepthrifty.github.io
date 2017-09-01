@@ -5,13 +5,13 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 
 title: "Nothing New Year: Month 8 Update"
-description: "TK"
+description: "We had an awesome road trip, got ready for the school year to start and maybe even bought a piece of land?! It was another crazy month in our Nothing New Year!"
 
 date: 2017-09-05 6:58:00 -0500
 
 image:
-  path: /assets/img/posts/2017-09-05-nothing-new-year-month-eight-update/
-pinterest-image: /assets/img/posts/2017-08-01-nothing-new-year-month-seven-update/nny-month-7-update
+  path: /assets/img/posts/2017-09-05-nothing-new-year-month-eight-update/little-house-grass.jpg
+pinterest-image: /assets/img/posts/2017-09-05-nothing-new-year-month-eight-update/nny-month-8-update
 
 related-posts: [
   "/2017/01/02/happy-nothing-new-year",
@@ -28,55 +28,63 @@ tags: [nothing new year]
 
 ---
 
-What a month! Between [moving]({% post_url 2017/2017-06-27-minimalist-moving %}), closing on the sale of our house, reaching debt freedom, celebrating [our nine-year anniversary]({% post_url 2017/2017-07-18-power-of-a-partner %}), and kicking off [a one-year mini-retirement]( 2017-07-11-one-year-mini-retirement %}), we've flipped a good chunk of our life over! We've got our road trip coming up this month and then the school year starts. At that point, everything _should_ settle down a bit. For now, let's take a look at how our nothing new year challenge is going and give the details of our final mortgage payment.
+Happy September! Last month, we went on our family road trip - twelve days in the northeast - and it was awesome. Despite the fact that we spent $3800, we still think that road tripping is the [best family vacation on a budget]({% post_url 2017/2017-08-29-best-family-vacation-on-budget-road-trip %}). After we got back from our trip, we worked on getting our kids ready for the school year to start and pondered an unexpected opportunity: an inexpensive piece of land with no deed restrictions came available in a great location in our city. Did we make an offer? Did we buy anything new this month? Read on to find out.
 
 Let's start with an overview of our spending for this month.
 
 ## Spending Overview
 
-_We track our spending using a little tool I made called [Thrifty]({{site.url}}/thrifty/). It's free and you can use it on any device with an internet connection and a modern web browser. I really recommend you check it out._
+_We track our spending using a little tool I made called [Thrifty]({{site.url}}/thrifty/). It's in development and free at the moment. You can use it on any device with an internet connection and a modern web browser. I really recommend you check it out._
 
 Here's our spending summary from Thrifty for August 2017:
 
 ![Overall spending $6987.66]({{site.url}}/assets/img/posts/2017-09-05-nothing-new-year-month-eight-update/nny-month-eight-spending.png)
 
-Let's tackle the elephant in the room first - __we spent almost $28,000!?!?__ No, we didn't go buy a new car or something crazy like that.
+More than half our spending this month was on our road trip - between hotels, gas, activities, and food we spent just under $3800 for our twelve-day trip to the Northeast. We include _all_ spending on our road trip in the one big category. This has the impact of reducing our spending in other categories - like groceries, etc.
 
-Our spending this month includes all of the closing costs in here (including the agent fees for our agent and the buyers' agent). When we take those out, the number drops back to a more realistic level (albeit a high one) - $6,092.97.
-
-We have a few "double payments" this month as the July expenses for our apartment life came on July 1st but we prefer to pay our August expenses a few days ahead. Rent and health insurance are the two big culprits here, which together bring our totals up by over $1,000. It'll all balance out in the end, so we'll have to see what normal spending looks like in the future.
-
-If you've been following along on these updates, you might notice a few new categories. As Jaime and I have entered our one-year mini-retirement, we've been developing a new budgeting system to replace [our old one]({% post_url 2016/2016-11-13-how-we-budget-four-branch-system %}) and part of this has been creating new categories in [Thrifty]({{site.url}}/thrifty/) for certain expenses that we're budgeting separately.
-
-A couple good examples of this are the new categories for date night and pizza/movie night. These are an important part of the values and dreams we want to live out on a regular basis - time together as a couple and time together as a family. Because this is _good_ spending, we want to separate it from our other _Eating Out_ expenses, which tend to be more convenience-based unplanned spending. In all cases, we'll have a budget for each and work to stick within those limits.
-
-In the meantime, here's a detailed category-by-category look at what we spent this month:
+Here's a detailed category-by-category look at what we spent this month:
 
 |----+-------+---------------|
 | Category | Amount  | Notes |
 |:----:+------:+---------------|
 | Charity  | $100.00 | We continued our regular contributions to our church and to [The Hope Effect](http://hopeeffect.com/){: target="_blank"}, one of our favorite charities. |
-| Clothing/Shoes | $223.53 | My wife needed some replacement _unmentionables_ but thankfully those are on the exceptions list. Outside of this, we treated our girls each to a new dress and an accessory as well as shorts, a shirt, a pair of sunglasses and a headband for my wife. All told, we got 10 ___new___ items, totaling $93.78. |
-| Date Night | $94.09 | We set a budget of $70 every two weeks for date night to cover the cost of childcare and our food. We hope to come well below this, but we recognize how important it is to plan out spending this time together. We were mindful of our meal costs and we got free childcare for the second date night as our girls stayed with Grandma and Grandpa, end up $45 _under_ budget. |
-| Eating Out | $58.18 | We're now separating our _Eating Out_ expenses into "planned" (date night and pizza/movie night) and "unplanned" (last-minute meals and treats). This month, we got treats a few different times for the whole family, no convenience meals, and one dinner out with a friend. |
-| Education | $0.00 | |
-| Entertainment | $0.00 | |
+| Clothing/Shoes | $150.25 | As a part of getting back to school, my wife bought one ___new___ outfit for each of our kids. We also got replacement socks and tennis shoes for our oldest daughter as the old ones were too small. |
+| Date Night | $105.28 | We set a budget of $70 every two weeks for date night to cover the cost of childcare and our food. We only had one date night this month, so we went a bit higher on spending - getting appetizers, drinks, entrees, dessert, and (of course) paying the babysitter. This was an expensive night for us - we'll get back to our lower spend dates in September. |
+| Eating Out | $52.88 | We had pizza one extra night this month as a convenience meal. In addition, we bought ice cream after taking the kids on a hiking trip and bought a couple treats throughout the month. |
+| Education | $391.70 | Boom - school fees, school pictures, and back-to-school supplies. Thankfully most of this is a once-a-year expense! |
+| Entertainment | $35.70 | As end-of-summer treats, my wife bought each of our kids one ___new___ toy. |
 | Fitness | $0.00 | Our gym memberships were prepaid, so no ongoing expenses this month |
-| Gifts & Celebrations | $143.03 | We set a $100 budget for our anniversary celebration, which included a movie from Redbox on the night of our anniversary and a fun day the following weekend. For $70.00, we toured a winery, got samples and snacks, rented two movies, got pizza, ice cream, and kayaked in our favorite state park. Outside of this, we spent $70 on presents for our daughter's birthday in August and bought a birthday card for my wife's grandmother. |
-| Groceries | $888.84 | Our target is $200 a week and we generally shop on Saturdays, so our budget this month was $1000. We kept under budget and managed to stock ahead on beef that was on sale. We built a consistent meal plan this month and it seems to really be paying off! |
-| Healthcare | $779.31 | I had to pay premiums for my last month of work (retrospective), this month, and next month (proactive). In addition, we had one office visit this month. |
-| Hobbies | $39.19 | We bought two coloring books and new markers. In addition, we renewed the domain registration for my wife's blog, [Jaime Declutters](http://www.jaimedeclutters.com){: target="_blank" } |
-| Home Updates | $0.00 | Now that we're out of our house, this should be $0 for the future. Anything wrong with the apartment is our landlord's problem :) |
-| Household Care | $302.53 | We had a bunch of the regulars: Aleve, overnight pull-ups, toothpaste, air freshener, duct tape, corn syrup (for making bubble mix), toilet paper, band aids, bug spray, shampoo, conditioner, hand soap, dish soap, laundry soap, foundation makeup, and sunscreen. In addition, we got a few pieces of furniture for our apartment - all used or borrowed: a chair with ottoman and a sit/stand desk. We did have to get one ___new___ thing - replacement ice packs for our kids' lunch boxes in preparation for school in the fall (the prior ice packs had leaked). |
-| Pizza & Movie Night | $118.50 | Pizza and ice cream three times - sub sandwiches for a change one night. |
-| Services | $195.43 | Similar to health insurance, I had to pay for life insurance for my last month of work, this month, and next month. We also paid $5 for a pack of checks for our checking account. Finally, my wife and I each got haircuts; we tend to take quite a bit of time between cuts - her last one was in September 2016 and my last one was in February 2017. |
-| Shelter | $23,936.89 | Yowza! Most of this was for closing on our house: $16,560 in agent fees, $3100 in accrued property tax, and $2000 to the title company. Beyond this, we paid for July and August rent and the remainder of our renter's insurance premiums. |
-| Thrifty | $28.67 | Hosting fees and source code storage for [Thrifty]({{site.url}}/thrifty/) this month plus registering a domain name for a side-project I'm working on. I'll be sure to give details when I get closer. |
-| Transportation | $265.89 | Oil change, tire rotation, five tanks of gas, vacuuming of the interior, and the cost of parking in Madison at the public library for an afternoon. |
-| Travel | $156.54 | We renewed our AAA membership ahead of our upcoming road trip, reserved parking by Central Park ahead of time, and bought some replacement sand toys for our time at the beach. We're really excited to explore the northeast this month! |
-| Utilities | $383.99 | Gas, electric, water, and sewer service, and internet. |
+| Gifts & Celebrations | $157.59 | The majority of the expense here was for our oldest daughter's birthday - presents and party supplies. Of these, there was one ___new___ outfit and one ___new___ toy. In addition, we purchased gifts for a bridal shower and a wedding. |
+| Groceries | $517.04 | Our target is $200 a week and we had (outside of the road trip) three weeks worth of groceries this month, so we're doing well at $83 under budget! We are continuing to rock a consistent meal plan - with a few fun tweaks - and it's keeping things under control. |
+| Healthcare | $87.73 | I switched to autopay for our health insurance which bills on the first of the month and we had already paid for August so this month is lower than usual. We had one office visit this month. |
+| Hobbies | $6.32 | Our kids _love_ to draw and color - we go through paper like crazy. My parents brought a box of paper in spring and we emptied it by the end of summer. This week we bought new paper to keep our little artists stocked :) |
+| Home Updates | $246.58 | Whoops! When I said we were done last month, I forgot that we had an outstanding bill for the last update we made on our house before we sold - replacing a storm window. Now we're good to go and don't expect anything here until our housing changes. |
+| Household Care | $99.94 | Being out of the house for a third of the month really helps! This month's list is shorter than usual - sunscreen, toilet paper, night time pull-ups, foundation, face wipes, batteries, conditioner, and a used alarm clock to help get the kids up in the morning for school |
+| Pizza & Movie Night | $67.00 | Pizza, breadsticks, and ice cream twice - our Friday night tradition! |
+| Services | $0.00 | Our life insurance went on auto payment; we had already paid August's bill and September's will be paid on the first. |
+| Shelter | $975.00 | Rent |
+| Thrifty | $88.22 | A more expensive month this month - I got business cards (in prep for FinCon coming up and for general use). Hosting fees and source code storage for [Thrifty]({{site.url}}/thrifty/) this month plus operating costs for a side-project I was trying out. I'm shelving the project, for now, to focus more on this site and the Thrifty app. |
+| Transportation | $102.68 | Two tanks of gas and refilling our IPass account in anticipation of tolls on some upcoming trips to Illinois |
+| Travel | $3788.44 |  |
+| Utilities | $15.31 | Just internet (this amount is after a credit I negotiated for being forced to upgrade when we moved). For gas and electric, we use budget billing, where our utility company averages out costs so we have a consistent monthly payment. Through the transition to the apartment, we had a credit due to us based on our previous payments and we haven't yet exhausted it. As a result, our gas and electric in August were $0. |
 |-------+----------+----|
-| __Total__ | __$27,714.21__ | (without house closing: $6,092.97) |
+| __Total__ | __$6,987.66__ | |
+|-------+----------+----|
+
+### Road Trip Cost Break-down
+
+Given that the road trip was such a big part of our month, I thought it'd be nice to break down our expenses from the trip. I used the "Export Entries" function from [Thrifty]({{site.url}}/thrifty/) to get a spreadsheet with all our entries from the road trip in it and you can see the results here. I included spending on the road trip from prior months (we bought a few things ahead) for a complete picture.
+
+|----+-------+---------------|
+| Category | Amount  | Notes |
+|:----:+------:+---------------|
+| Activities  | $169.00 | We paid for admission to Flume Gorge, the Central Park Zoo, and Harper's Ferry. In addition, we paid a tip to a puppeteer in Central Park and to support maintenance of the Belvedere Castle in Central Park. |
+| Food  | $793.19 | Breakfast was provided free with our hotel stays. We spent $184.28 on lunches, $521.25 on dinners, and $87.66 on snacks and treats |
+| Lodging  | $2,348.22 | This was the bulk of our cost - in particular, our nights in Rehoboth Beach (Delaware) and Niagara Falls were particularly pricey. |
+| Transportation  | $576.24 | Gas was $293.78; we spent $99.21 on parking (Niagara Falls, Rehoboth Beach, NYC), $86 on our annual AAA membership, and $97.25 on tolls! The northeast has tolls everywhere and they are _pricey_ |
+| Other  | $58.33 | We spent $27.50 on laundry (using coin-operated machines at our hotels), $10.54 on sand toys for the beach, $7.30 to print all the pages for our travel binder, and $12.99 on a pack of night time pull-ups |
+|-------+----------+----|
+| __Total__ | __$3,944.98__ | Twelve days, 18 states, and a lifetime of memories |
 |-------+----------+----|
 
 ## Did We Buy Anything New?
@@ -96,51 +104,42 @@ _Other than this, we only have a short list of exceptions we allow:_
 - _Car maintenance parts (we know we need new tires next year)_
 - _Home remodeling_
 
-As you saw above, we had an additional twelve items this month - no small amount, but still an improvement from July of 2016, where we bought twenty-one.
+We bought four new outfits for our kids and three toys this month for a total of seven items. By comparison, we bought nineteen in August of 2016.
 
-Through the first seven months of the year, we've purchased __nineteen__ things new that weren't on the exception list:
+Through the first eight months of the year, we've purchased ___twenty-six___ things new that weren't on the exception list:
 - In month one, we purchased replacement carbon monoxide detectors
 - In month four, we purchased a replacement power cord for my wife's laptop and a costume for one of our kids as a birthday present
 - In month five, we purchased stainless steel straws and a dress/cover-up
 - In month six, we purchased a stuffed animal, recycled plastic food storage containers, and car games for our road trip
 - In month seven, we purchased four new dresses, four accessories, a pair of sunglasses, shorts, a shirt, replacement sand toys for our beach time on our road trip, and replacement ice packs.
+- In month eight, we purchased four new outfits and three toys
 
-For this month, everything was a replacement with the exception of the accessories. We looked for used replacements for the sand toys and ice packs but couldn't find anything that worked.
+We're certainly not at zero, but we also are rocking out compared to last year. From January through August of last year, we had purchased 92 items.
 
-We've missed our goal in a good portion of the months but we are still purchasing a lot fewer new items this year. By way of comparison, I looked at our spending from January through July of _last year_ and we had purchased ___73 new items___!
+## Housing Update
 
-With that, let's move on to our __final__ mortgage payoff update.
+This section used to contain our mortgage payoff update, but now that we sold our house there's not much to tell.
 
-## Mortgage Payoff Update
+Or is there?
 
-After all the checks were written and accounts updated, we logged into our lender's website and saw this amazing, awesome sight:
+One of our goals of selling our house was to be in a position where we had _options_ available. We'd spent the last few years trying to solve the issue of [how to live smaller in the suburbs]({% post_url 2017/2017-05-15-big-barriers-living-smaller %}). Between deed restrictions and available housing in the area, we seemed doomed to end up in a place as big as our last if we wanted to be homeowners. We held on to hope for a small fixer-upper or some other scenario that would let us live in a smaller footprint.
 
-![Mortgage principal remaining: $0.00]({{site.url}}/assets/img/mortgage-payoff/mortgage-paid-off.png)
+While we were on our road trip, an opportunity came up that we had to seriously consider.
 
-{% include tweet-link.html tweet-text="It's time to celebrate folks because we closed on our house and are officially 100% debt-free!" %}
+In our city, there was a small lot on main street that had a tiny building on it, which we found out was a water pump station. The city recently upgraded the water system and the pump station was no longer necessary, so they tore the building down and put the land up for sale.
 
-I'd say drinks are on the house, but we don't have one anymore so I guess you're on your own. (_Sorry, I couldn't resist a terrible "dad joke"_)
+A small lot, near the elementary school, on a bike path, with no deed restrictions would have been amazing on its own. But when it was going for less than half the price of any other lot in town (even ones of similar size), it became an opportunity we couldn't pass up.
 
-In our prior updates, I had listed how much we were saving in interest through refinancing and prepayments but those numbers only applied if we were going to stay in our house. Since we sold our house, I've updated the number to show how much we saved in the last 10 years through refinancing and aggressive prepayments.
+And so, just two short months after selling our house, we're going to become property owners again!
 
-Here's the result of our efforts:
+This time things will be a bit different though. We're buying the land in cash. Our goal would be to build  on the land either cash-free or with a small mortgage and a plan to pay off quickly. We'll be waiting at least a year to build - maybe two - so we'll be living it up in our apartment in the meantime.
 
-![We saved $70,782.87]({{site.url}}/assets/img/mortgage-payoff/Mortgage-Payoff-Aug-2017.png)
+One of the big things financial discipline can help with is opening up your options. Had we been in our old house, there's no way I would have been able to do my [mini-retirement]({% post_url 2017/2017-07-11-one-year-mini-retirement %}) and getting this lot would have been a lot more complex and we may have missed out.
 
-<div class="image-caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
+## The Craziness Continues
 
-Over the last ten years, we saved over $70,000. That's just enough to fund [a one-year mini-retirement]({% post_url 2017/2017-07-11-one-year-mini-retirement %}).
+As I write this post, our three daughters are all attending their first day of school for the year. This has been a true season of change for us - starting with our ambitious and crazy plans for a mini-retirement, downsizing, and now with all three of our kids entering full-time school for the first time.
 
-We didn't set out 10 years ago with that benefit in mind, but keeping mindful of [the cost of interest](http://www.mysonsfather.com/debt-motivation/){: target="_blank"} helped us keep disciplined so we could build up a nest egg. We didn't know what that nest egg would ultimately be for, but our discipline bought us options.
+I'm excited for what the rest of this year holds - the possibilities for our family, and for this site, are endless. I'm looking forward to continuing to share our adventure with you and hopefully helping you out in your own as well.
 
-## Over the Hump
-
-One thing I was reminded of this month was the importance of _progress over perfection_.
-
-When we have months like this, I have a tendency to look at things too black-and-white and feel like we failed because we weren't perfect at buying nothing new. Thankfully, my wife is here to keep me balanced :)
-
-Compared to last year, we made some great progress - cutting our new items by almost 75%. Go a few years before that and we were shopping at Target twice a week and constantly cycling items in and out of our house.
-
-The reality is that we're doing _significantly better_ now than ever before - we're much more conscious of what we're spending on and making more deliberate, thrifty decisions about when and what to buy.
-
-So, we'll soldier on, working to keep our new purchases to a minimum. With no known income during our mini-retirement, controlling our budget is going to be a big driver of more mindful spending going forward!
+_When has financial discipline given you options you wouldn't have had otherwise? What incredible opportunities have dropped into your lap when you least expected them? Did you take advantage of them?_
