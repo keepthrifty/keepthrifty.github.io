@@ -34,7 +34,7 @@ I knew that there were people out there that lived differently and chased their 
 
 Over time, my dreams became more vivid and in reach. My confidence grew, as did my bank account, and before I knew it we were in a position to do something crazy.
 
-I [left my full-time job of 13 years to take a one-year mini-retirement]({% post_url 2017-07-11-one-year-mini-retirement %}) at home with my kids, working on this blog and writing code for fun.
+I [left my full-time job of 13 years to take a one-year mini-retirement]({% post_url 2017/2017-07-11-one-year-mini-retirement %}) at home with my kids, working on this blog and writing code for fun.
 
 It's been a dream come true.
 
