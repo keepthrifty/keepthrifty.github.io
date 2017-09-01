@@ -12,10 +12,14 @@ image:
 pinterest-image: /assets/img/posts/2017-03-06-nothing-new-year-month-two-update/nny-month-2-update
 
 related-posts: [
+  "/2017/01/02/happy-nothing-new-year",
   "/2017/02/06/nothing-new-year-month-one-update",
   "/2017/04/03/nothing-new-year-month-three-update",
   "/2017/05/01/nothing-new-year-month-four-update",
-  "/2017/06/05/nothing-new-year-month-five-update"
+  "/2017/06/05/nothing-new-year-month-five-update",
+  "/nothing-new-year-month-six-update",
+  "/nothing-new-year-month-seven-update",
+  "/nothing-new-year-month-eight-update"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [nothing new year]

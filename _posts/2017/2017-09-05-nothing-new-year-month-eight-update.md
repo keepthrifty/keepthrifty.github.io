@@ -4,13 +4,13 @@ layout: post
 author: keepthrifty
 author_email: chris@keepthrifty.com
 
-title: "Nothing New Year: Month 7 Update"
-description: "We are now debt free! Sure, we bought some new stuff this month, but hey - we're debt free!"
+title: "Nothing New Year: Month 8 Update"
+description: "TK"
 
-date: 2017-08-01 5:58:00 -0500
+date: 2017-09-05 6:58:00 -0500
 
 image:
-  path: /assets/img/posts/2017-08-01-nothing-new-year-month-seven-update/cheers.jpg
+  path: /assets/img/posts/2017-09-05-nothing-new-year-month-eight-update/
 pinterest-image: /assets/img/posts/2017-08-01-nothing-new-year-month-seven-update/nny-month-7-update
 
 related-posts: [
@@ -21,12 +21,10 @@ related-posts: [
   "/2017/05/01/nothing-new-year-month-four-update",
   "/2017/06/05/nothing-new-year-month-five-update",
   "/nothing-new-year-month-six-update",
-  "/nothing-new-year-month-eight-update"
+  "/nothing-new-year-month-seven-update"
 ]
 
 tags: [nothing new year]
-
-affiliate: true
 
 ---
 
@@ -38,9 +36,9 @@ Let's start with an overview of our spending for this month.
 
 _We track our spending using a little tool I made called [Thrifty]({{site.url}}/thrifty/). It's free and you can use it on any device with an internet connection and a modern web browser. I really recommend you check it out._
 
-Here's our spending summary from Thrifty for July 2017:
+Here's our spending summary from Thrifty for August 2017:
 
-![Overall spending $27,714.21]({{site.url}}/assets/img/posts/2017-08-01-nothing-new-year-month-seven-update/nny-month-seven-spending.png)
+![Overall spending $6987.66]({{site.url}}/assets/img/posts/2017-09-05-nothing-new-year-month-eight-update/nny-month-eight-spending.png)
 
 Let's tackle the elephant in the room first - __we spent almost $28,000!?!?__ No, we didn't go buy a new car or something crazy like that.
 

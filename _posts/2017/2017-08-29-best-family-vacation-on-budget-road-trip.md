@@ -65,7 +65,7 @@ In the end, the costs were a wash but we were getting much more _bang for our bu
 
 {% include tweet-link.html tweet-text="When flying, the focus of a trip is the destination. When road tripping, the focus is the journey." %}
 
-We've found our experiences on the road to be life-changing - giving us the time and empty space to push outside our comfort zone, tackle new challenges, and dream together (even to the point of [drastically improving our marriage]({% post_url 2017/2017-07-18-power-of-a-partner %}).
+We've found our experiences on the road to be life-changing - giving us the time and empty space to push outside our comfort zone, tackle new challenges, and dream together (even to the point of [drastically improving our marriage]({% post_url 2017/2017-07-18-power-of-a-partner %})).
 
 Sold yet? Ok then - let's get into the nitty gritty, starting with the budget.
 
