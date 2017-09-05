@@ -14,10 +14,14 @@ image:
 pinterest-image: /assets/img/posts/2017-08-01-nothing-new-year-month-seven-update/nny-month-7-update
 
 related-posts: [
+  "/2017/01/02/happy-nothing-new-year",
+  "/2017/02/06/nothing-new-year-month-one-update",
+  "/2017/03/06/nothing-new-year-month-two-update",
   "/2017/04/03/nothing-new-year-month-three-update",
   "/2017/05/01/nothing-new-year-month-four-update",
   "/2017/06/05/nothing-new-year-month-five-update",
-  "/nothing-new-year-month-six-update"
+  "/nothing-new-year-month-six-update",
+  "/nothing-new-year-month-eight-update"
 ]
 
 tags: [nothing new year]
@@ -34,7 +38,7 @@ Let's start with an overview of our spending for this month.
 
 _We track our spending using a little tool I made called [Thrifty]({{site.url}}/thrifty/). It's free and you can use it on any device with an internet connection and a modern web browser. I really recommend you check it out._
 
-Here's our spending summary from Thrifty for June 2017:
+Here's our spending summary from Thrifty for July 2017:
 
 ![Overall spending $27,714.21]({{site.url}}/assets/img/posts/2017-08-01-nothing-new-year-month-seven-update/nny-month-seven-spending.png)
 
