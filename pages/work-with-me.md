@@ -14,6 +14,7 @@ redirect-from:
     <li class="in-page-nav--list-item"><a href="#life-flipping-coaching">Life Flipping (Coaching)</a></li>
     <li class="in-page-nav--list-item"><a href="#consulting">Consulting</a></li>
     <li class="in-page-nav--list-item"><a href="#guest-posts">Guest Posts</a></li>
+    <li class="in-page-nav--list-item"><a href="#advertising">Advertising</a></li>
     <li class="in-page-nav--list-item"><a href="#contact">Contact</a></li>
   </ul>
 </div>
@@ -108,7 +109,15 @@ I'm available to discuss other topics, such as:
 
 ## Guest Posts
 
-At this time, I am not accepting submissions for guest posts, display advertising, or sponsored posts.
+At this time, I am not accepting submissions for guest posts.
+
+## Advertising
+
+I've made a commitment to maintain Keep Thrifty with <strong>zero</strong> ads, <strong>zero</strong> sponsored posts, and <strong>zero</strong> affiliate links.
+
+Instead, [I'm using Patreon](https://www.patreon.com/keepthrifty/) to get support for this site directly from my readers.
+
+<em>Please refrain from reaching out about ads, sponsored posts, or affiliate links.</em>
 
 ## Contact
 
