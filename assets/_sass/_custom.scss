@@ -781,8 +781,26 @@ nav.navbar {
   }
 }
 
-div.call-to-action {
+div.call-to-action-container {
   margin: 2rem 0 0 0;
+  text-align: center;
+  .meta-header{
+    padding: 0 2rem;
+    margin: 1rem 0;
+  }
+  @media screen and (max-width: $minimum-break) {
+    .call-to-action {
+      display: block;
+    }
+    .meta-header {
+      display: block;
+    }
+  }
+}
+
+div.call-to-action {
+  display: inline;
+  margin: 1rem 0 0 0;
   text-align: center;
   a {
     color: $meta-color;
