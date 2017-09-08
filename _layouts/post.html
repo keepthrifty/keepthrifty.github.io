@@ -27,6 +27,7 @@ comments: true
       {% if page.image %}
         <img class="post__header__image" alt="{{page.title}}" src="{{site.url}}{{page.image.path}}" />
       {% endif %}
+      {% include page-audio.html %}
     </header>
 
     <main class="post__body{% if page.number-headings %} post__body--numbered-headings{% endif %}">
