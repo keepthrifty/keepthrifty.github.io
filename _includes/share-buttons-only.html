@@ -3,7 +3,7 @@
     <span>Share <i class="fa fa-arrow-right" aria-hidden="true"></i></span>
   </li>
   <li class="share-buttons__button">
-    <a class="twitter" href="http://twitter.com/share?text={{page.title | url_encode}}&amp;url={{site.url}}{{page.url}}&amp;via={{site.twitter.username}}{% if page.share-hashtag %}&amp;hashtags={{page.share-hashtag}}{% endif %}" title="Share on Twitter" target="_blank">
+    <a class="twitter" href="http://twitter.com/share?text={{page.title | url_encode}}&amp;url={{site.url}}{{page.url}}&amp;via={{site.author.twitter}}{% if page.share-hashtag %}&amp;hashtags={{page.share-hashtag}}{% endif %}" title="Share on Twitter" target="_blank">
       <i class="fa fa-twitter-square fa-2x"></i>
     </a>
   </li>
