@@ -20,11 +20,19 @@ related-posts: [
   "/2016/07/21/spending-on-free"
 ]
 
+audio:
+  file: /assets/audio/posts/keep-thrifty-2017-09-12-youre-the-product.mp3
+  duration: '00:05:28'
+  explicit: 'no'
+  block: 'no'
+  length: 5264410
+
+
 tags: [Money]
 
 ---
 
-Through the work of millions of writers and creators, the internet has become the biggest knowledge-sharing repository the world has ever known. But you know that saying - "There's no such thing as a free lunch?" Our free and open access to information isn't really free. we're paying for it every day and it's time to ask whether our money could be put to better use.
+Through the work of millions of writers and creators, the internet has become the biggest knowledge-sharing repository the world has ever known. But you know that saying - "There's no such thing as a free lunch?" Our free and open access to information isn't really free. We're paying for it every day and it's time to ask whether our money could be put to better use.
 
 ## When Free Isn't Free
 
@@ -32,7 +40,7 @@ Most online content is free. But there's a catch. Let's explore with an example.
 
 Up until recently, I had a few affiliate links on this site. I only linked to products or services I've used and would recommend to a close friend.
 
-Most of these links were a part of the Amazon Affiliate program. All told, I made a whopping $75 from these. I know - impressive.
+Most of these links were a part of the Amazon Affiliate program. All told, I made a whopping $75 from these over the last year and a half. I know - impressive.
 
 The way Amazon affiliate links work is that the linking blogger gets a portion of _anything_ you buy on Amazon after clicking on that link.
 
