@@ -53,7 +53,7 @@ redirect_from:
     {% endunless %}
 
     <li class="archive-list--entry">
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>{% if post.audio %} <a href="{{ post.url }}#post__audio"><i class="fa fa-headphones"></i></a>{% endif %}
     </li>
   {% endfor %}
 </ul>

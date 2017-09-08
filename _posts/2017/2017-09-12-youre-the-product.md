@@ -16,7 +16,7 @@ pinterest-image: /assets/img/posts/2017-09-12-youre-the-product/youre-the-produc
 
 related-posts: [
   "/2017/01/09/defeat-four-devious-marketing-tactics",
-  "/2017/09/12/we-wish-you-a-merry-debtmas",
+  "/2016/09/12/we-wish-you-a-merry-debtmas",
   "/2016/07/21/spending-on-free"
 ]
 
@@ -28,7 +28,7 @@ audio:
   length: 5264410
 
 
-tags: [Money]
+tags: [money]
 
 ---
 

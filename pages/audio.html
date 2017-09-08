@@ -1,0 +1,31 @@
+---
+layout: page
+title: Keep Thrifty Audio
+description: "Audio versions of Keep Thrifty articles"
+permalink: /audio/
+---
+
+
+<p>Get out your headphones - you can now get Keep Thrifty articles in audio form!</p>
+
+<p>Click on an article below to jump straight to the audio version. You can listen in your browser or download the file and listen later</p>
+
+<ul class="archive-list">
+  {% for post in site.posts %}
+    {% if post.audio %}
+      {% unless post.next %}
+        <h3 class="archive-list--title">{{ post.date | date: '%B %Y' }}</h3>
+      {% else %}
+        {% capture year %}{{ post.date | date: '%B %Y' }}{% endcapture %}
+        {% capture nyear %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
+        {% if year != nyear %}
+          <h3 class="archive-list--title">{{ post.date | date: '%B %Y' }}</h3>
+        {% endif %}
+      {% endunless %}
+
+      <li class="archive-list--entry">
+        <a href="{{ post.url }}#post__audio">{{ post.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
