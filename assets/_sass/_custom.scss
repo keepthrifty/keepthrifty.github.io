@@ -787,10 +787,16 @@ div.call-to-action {
   a {
     color: $meta-color;
     border: 1px solid $meta-color;
+    box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
     border-radius: 0.2rem;
     padding: 1rem;
     text-transform: uppercase;
     font-weight: 300;
+  }
+  a:hover {
+    background-color: $meta-color;
+    color: white;
+    transition-duration: 200ms;
   }
 }
 
@@ -802,6 +808,9 @@ div.call-to-action--hero {
     font-size: 1.1rem;
     padding: 0.5rem;
     font-weight: 500;
+  }
+  a:hover {
+    background-color: $secondary-color;
   }
   margin: 1.5rem 0;
 }
@@ -1044,6 +1053,7 @@ a.tipue_search_foot_box {
   padding: 0.5rem;
   background-color: white;
   border: 1px solid $meta-color;
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
   border-radius: 0.2rem;
   font-weight: 300;
   font-size: 1rem;
@@ -1056,4 +1066,52 @@ a.tipue_search_foot_box {
 
 .patron__link, .patron__description {
   margin: 0.5rem 0;
+}
+
+.content-upgrade {
+
+}
+
+.content-upgrade__title {
+  margin-top: 1rem;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.content-upgrade__image {
+  margin-top: 1rem;
+  display: inline;
+  float: left;
+  width: 30%;
+  img {
+    width: 150px;
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+  }
+  @media screen and (max-width: $minimum-break) {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+}
+
+.content-upgrade__text {
+  margin-top: 1rem;
+  display: inline;
+  float: right;
+  width: 60%;
+  @media screen and (max-width: $minimum-break) {
+    display: block;
+    width: 100%;
+    float: none;
+    text-align: center;
+  }
+}
+
+.content-upgrade__form {
+  display: block;
+  text-align: center;
 }
