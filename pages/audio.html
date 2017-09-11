@@ -24,7 +24,7 @@ permalink: /audio/
       {% endunless %}
 
       <li class="archive-list--entry">
-        <a href="{{ post.url }}#post__audio">{{ post.title }}</a> <a href="{{ post.audio.file }}"><i class="fa fa-play"></i></a> <a href="{{ post.audio.file }}" download="{{post.audio.file | split: '/' | last }}"><i class="fa fa-download"></i></a>
+        <a href="{{ post.audio.file }}"><i class="fa fa-play"></i></a> <a href="{{ post.audio.file }}" download="{{post.audio.file | split: '/' | last }}"><i class="fa fa-download"></i></a> <a href="{{ post.url }}#post__audio">{{ post.title }}</a>
       </li>
     {% endif %}
   {% endfor %}

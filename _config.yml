@@ -71,7 +71,6 @@ tipue_search:
 
 plugins:
   - jekyll-sitemap
-  - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-seo-tag

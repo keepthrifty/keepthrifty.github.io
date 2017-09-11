@@ -4,7 +4,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
 	<channel>
 		<atom:link href="{{ site.url }}/audio-feed.rss" rel="self" type="application/rss+xml" />
-		<title>{{ site.title }}</title>
+		<title>{{ site.title }} Audio</title>
 		<description>{{ site.description | xml_escape }}</description>
 		<link>{{ site.url }}</link>
 		<language>{{ site.lang }}</language>
@@ -39,7 +39,7 @@
 			{%- if post.audio -%}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
-				<link>{{ site.url }}{{ post.url }}</link>
+				<link>{{ site.url }}{{ post.url }}/#post__audio</link>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<description>{{ post.excerpt | xml_escape }}</description>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
