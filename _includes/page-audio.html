@@ -1,0 +1,10 @@
+{% if page.audio %}
+  <div class="post__audio" id="post__audio">
+    <div class="post__audio__text"><strong>New:</strong> You can listen to this article using the controls below. Listen in your browser or download for later:</div>
+    <audio controls>
+      <source src="{{page.audio.file}}" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+    <div class="post__audio__text"><a href="{{site.url}}/audio/">Find more audio articles here</a></div>
+  </div>
+{% endif %}

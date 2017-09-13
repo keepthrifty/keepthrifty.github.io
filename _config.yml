@@ -12,8 +12,11 @@ description: > # this means to ignore newlines until "baseurl:"
   Take control of your finances and schedule so you can pursue your dreams
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.keepthrifty.com" # the base hostname & protocol for your site
-twitter:
-  username: keepthrifty
+
+author:
+  name: "Chris @ Keep Thrifty"
+  twitter: keepthrifty
+  picture: /assets/img/headshot-640.jpg
 
 defaults:
   -
@@ -40,7 +43,7 @@ social:
     - https://github.com/chrisdurheim
     - https://www.pinterest.com/keepthrifty/
 
-lang: en_US
+lang: en-us
 
 logo: /assets/img/simple-logo.png
 
