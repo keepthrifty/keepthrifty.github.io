@@ -4,7 +4,6 @@ comments: true
 ---
 
 <div class="col">
-  {% include patreon.html %}
   <article class="post">
     <header class="post__header">
       {% unless page.nometa %}
@@ -35,14 +34,14 @@ comments: true
     </main>
 
     <fooder class="post__footer">
+      {% include patreon.html %}
+      {% include share-buttons-only.html %}
       <div class="boxed">
       {% include content-upgrade.html %}
       </div>
-      {% include share-buttons-only.html %}
       {% if page.related-posts.size > 0 %}
       {% include post-list-related.html %}
       {% endif %}
-      {% include post-navigation.html %}
       {% include comments.html %}
     </footer>
   </article>

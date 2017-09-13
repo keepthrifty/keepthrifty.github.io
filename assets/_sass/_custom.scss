@@ -1076,9 +1076,6 @@ a.tipue_search_foot_box {
   font-weight: 300;
   font-size: 1rem;
   max-width: 600px;
-  @media screen and (max-width: $minimum-break) {
-    max-width: 85%;
-  }
   text-align: center;
 }
 
