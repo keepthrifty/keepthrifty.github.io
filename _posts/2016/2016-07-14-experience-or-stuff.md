@@ -115,7 +115,7 @@ It pays to hear different viewpoints and understand how different people live, b
 > <cite>[Tweet this][tweet-quote-2]</cite>
 
 
-[thrifty-link]: {{site.url}}/thrifty/
+[thrifty-link]: https://thrifty.keepthrifty.com
 {: target="_blank"}
 
 [roadtrip-post]: {{ site.url }}{% post_url 2016/2016-07-06-roadtrip-recap %}

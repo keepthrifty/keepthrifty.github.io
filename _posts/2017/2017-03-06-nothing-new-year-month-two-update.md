@@ -32,7 +32,7 @@ By buying nothing new, we hope to reduce our impact on our bank accounts _and_ t
 
 ## Spending Overview
 
-Here's a snapshot of our spending summary from [Thrifty]({{site.url}}/thrifty/):
+Here's a snapshot of our spending summary from [Thrifty](https://thrifty.keepthrifty.com):
 
 ![Overall spending $5,812.15]({{site.url}}/assets/img/posts/2017-03-06-nothing-new-year-month-two-update/nny-month-two-spending.png)
 

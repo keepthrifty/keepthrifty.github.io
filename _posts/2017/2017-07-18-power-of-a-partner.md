@@ -76,7 +76,7 @@ Talking about our road trip plans paved the way for discussions about our broade
 
 My wife wanted to remodel our house and grow [her design skills](http://www.jaimedeclutters.com/blog/2017/03/20/designing-kitchen-space-you-love/). She's got incredible creativity and a unique ability to see a space for what it _can be_. Years ago, I would have only looked at this as a financial burden, but now I looked at it as my wife chasing her dreams - something I truly wanted to support.
 
-I wanted to work on my coding - to develop and [launch an app]({{site.url}}/thrifty/). Years ago, my wife would have looked at this as taking time away from our family. Now, she looked at it as me chasing my dreams - something she truly wanted to support.
+I wanted to work on my coding - to develop and [launch an app](https://thrifty.keepthrifty.com). Years ago, my wife would have looked at this as taking time away from our family. Now, she looked at it as me chasing my dreams - something she truly wanted to support.
 
 Our mindset shifted from pursuing our own interests to supporting each others'. Even better, we started to see the bigger, shared goals that we could accomplish together.
 

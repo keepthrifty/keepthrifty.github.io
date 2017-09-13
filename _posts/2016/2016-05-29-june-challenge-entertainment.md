@@ -134,7 +134,7 @@ If you're willing to be patient, take a few surveys, and do your research on wha
 
 Are you ready to join the challenge? Share your thoughts in the comments below or [tweet me][tweet-link] with your goals, plan, or progress!
 
-[thrifty-link]: {{site.url}}/thrifty/
+[thrifty-link]: https://thrifty.keepthrifty.com
 {: target="_blank"}
 
 [tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20Keep%20Thrifty%20Experiment!

@@ -55,7 +55,7 @@ Hopefully you did a bit better than me this month. Whether you did or not, I'm l
 
 Find me on [twitter][twitter-profile] and let me know how your challenges are going!
 
-[thrifty-link]: {{site.url}}/thrifty/
+[thrifty-link]: https://thrifty.keepthrifty.com
 {: target="_blank"}
 
 [twitter-profile]: http://www.twitter.com/keepthrifty

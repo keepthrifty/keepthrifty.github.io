@@ -150,4 +150,4 @@ So, every time I see _Keep Thrifty_, I'm reminded of where we came from, the cha
 
 For you? All of this is what I hope the articles and tools here on Keep Thrifty can do for you - to support you in understanding your dreams and values and help ensure you are keeping thrifty with your resources.
 
-_If you're looking to get thrifty, or to stay there, check out my personal finance tracking app - [Thrifty]({{site.url}}/thrifty/). If you'd like to meet with me as a financial coach, reach out through the [Work with Me page]({{site.url}}/work-with-me/)_
+_If you're looking to get thrifty, or to stay there, check out my personal finance tracking app - [Thrifty](https://thrifty.keepthrifty.com). If you'd like to meet with me as a financial coach, reach out through the [Work with Me page]({{site.url}}/work-with-me/)_

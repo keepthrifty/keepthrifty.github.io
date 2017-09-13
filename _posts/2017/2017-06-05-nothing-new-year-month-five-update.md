@@ -50,7 +50,7 @@ By buying nothing new, we hope to reduce our impact on our bank accounts _and_ t
 
 ## Spending Overview
 
-_We track our spending using a little tool I made called [Thrifty]({{site.url}}/thrifty/). It's free and you can use it on any device with an internet connection and a web browser. I really recommend you [check it out]({{site.url}}/thrifty/)._
+_We track our spending using a little tool I made called [Thrifty](https://thrifty.keepthrifty.com). It's free and you can use it on any device with an internet connection and a web browser. I really recommend you [check it out](https://thrifty.keepthrifty.com)._
 
 Here's our spending summary from Thrifty for May 2017:
 
@@ -80,7 +80,7 @@ Here's a detailed category-by-category look at how we spent this month:
 | Household Care | $242.37 | Toilet paper, nighttime pull-ups, blush, sunscreen, shampoo, conditioner, lotion, hair de-tangler, hand soap, dish soap, toothpaste, tinfoil, and something ___new___: stainless steel straws |
 | Services | $15.28 | Life insurance through my work |
 | Shelter | $1,301.91 | As we move from home ownership into renting, this number is going to change drastically. This month, we paid our security deposit (1 month's rent), our mortgage interest, and we had to stay in a hotel one night this month to keep our house in a "showable" state for the open house. _We don't log our principal payments as an expense since we consider them to be net-worth-building payments._  |
-| Thrifty | $428.00 | In addition to my normal hosting fees and source code storage for [Thrifty]({{site.url}}/thrifty/), I booked an Airbnb for [FinCon](http://finconexpo.com){: target="_blank"} - a personal finance conference for personal finance peeps. |
+| Thrifty | $428.00 | In addition to my normal hosting fees and source code storage for [Thrifty](https://thrifty.keepthrifty.com), I booked an Airbnb for [FinCon](http://finconexpo.com){: target="_blank"} - a personal finance conference for personal finance peeps. |
 | Transportation | $167.80 | Five tanks of gas and one Uber ride home from work when my wife was feeling too sick to come pick me up. I'm happy to report that we're still making it work as a [one-car family in the suburbs]({% post_url 2017/2017-01-16-one-car-suburbs %}) :) |
 | Travel | $0.00 | |
 | Utilities | $62.75 | Gas, electric, and internet. We had accidentally submitted our gas and electric bill twice last month, so this month was a lot lower. |

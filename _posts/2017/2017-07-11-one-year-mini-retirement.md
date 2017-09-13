@@ -177,7 +177,7 @@ And, of course, we'll be road tripping again; this August we'll be hitting the N
 
 ### Passion Projects
 
-I've been loving the creative outlets that this site and [Thrifty]({{site.url}}/thrifty/) have given me. I've really come to enjoy writing and am finally getting a chance to work out my coding muscles again :)
+I've been loving the creative outlets that this site and [Thrifty](https://thrifty.keepthrifty.com) have given me. I've really come to enjoy writing and am finally getting a chance to work out my coding muscles again :)
 
 Over the next year, I'll continue to write regularly here and may even start writing some guest posts for other sites.
 
@@ -190,7 +190,7 @@ Here at Keep Thrifty, the focus will become much more clear on helping people li
 
 Minimalism, spreadsheets, frugality, and debt freedom all still have a home here, but they are going to be part of a bigger purpose - to help people pursue their most important dreams.
 
-I'm especially excited to have more time to refine my vision for [Thrifty]({{ site.url }}/thrifty/) in the same way. Expect to see new features, a clearer focus, and for the tool to finally exit "beta". That means I may have a paid version of Thrifty coming in the future.
+I'm especially excited to have more time to refine my vision for [Thrifty](https://thrifty.keepthrifty.com) in the same way. Expect to see new features, a clearer focus, and for the tool to finally exit "beta". That means I may have a paid version of Thrifty coming in the future.
 
 I'll also be focusing more on [coaching]({{site.url}}/work-with-me/) and other paid resources as well so I can hopefully keep this gig going longer than a year. Don't worry though - I'm not changing my mentality toward ads or sponsored posts - I'm still passionate about providing a clutter-free reading experience :)
 

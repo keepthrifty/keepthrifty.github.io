@@ -173,7 +173,7 @@ Head to [Thrifty][thrifty] to try it out!
 [tim-ferriss]: http://fourhourworkweek.com/blog/
 {: target="_blank"}
 
-[thrifty]: {{site.url}}/thrifty/
+[thrifty]: https://thrifty.keepthrifty.com
 {: target="_blank"}
 
 [paydown-chart]: {{ site.url }}{{ page.image-folder }}/mortgage-paydown-chart.png "Mortgage paydown chart"

@@ -34,7 +34,7 @@ Let's start with an overview of our spending for this month.
 
 ## Spending Overview
 
-_We track our spending using a little tool I made called [Thrifty]({{site.url}}/thrifty/). It's in development and free at the moment. You can use it on any device with an internet connection and a modern web browser. I really recommend you check it out._
+_We track our spending using a little tool I made called [Thrifty](https://thrifty.keepthrifty.com). It's in development and free at the moment. You can use it on any device with an internet connection and a modern web browser. I really recommend you check it out._
 
 Here's our spending summary from Thrifty for August 2017:
 
@@ -63,7 +63,7 @@ Here's a detailed category-by-category look at what we spent this month:
 | Pizza & Movie Night | $67.00 | Pizza, breadsticks, and ice cream twice - our Friday night tradition! |
 | Services | $0.00 | Our life insurance went on auto payment; we had already paid August's bill and September's will be paid on the first. |
 | Shelter | $975.00 | Rent |
-| Thrifty | $88.22 | A more expensive month this month - I got business cards (in prep for FinCon coming up and for general use). Hosting fees and source code storage for [Thrifty]({{site.url}}/thrifty/) this month plus operating costs for a side-project I was trying out. I'm shelving the project, for now, to focus more on this site and the Thrifty app. |
+| Thrifty | $88.22 | A more expensive month this month - I got business cards (in prep for FinCon coming up and for general use). Hosting fees and source code storage for [Thrifty](https://thrifty.keepthrifty.com) this month plus operating costs for a side-project I was trying out. I'm shelving the project, for now, to focus more on this site and the Thrifty app. |
 | Transportation | $102.68 | Two tanks of gas and refilling our IPass account in anticipation of tolls on some upcoming trips to Illinois |
 | Travel | $3788.44 |  |
 | Utilities | $15.31 | Just internet (this amount is after a credit I negotiated for being forced to upgrade when we moved). For gas and electric, we use budget billing, where our utility company averages out costs so we have a consistent monthly payment. Through the transition to the apartment, we had a credit due to us based on our previous payments and we haven't yet exhausted it. As a result, our gas and electric in August were $0. |
@@ -73,7 +73,7 @@ Here's a detailed category-by-category look at what we spent this month:
 
 ### Road Trip Cost Break-down
 
-Given that the road trip was such a big part of our month, I thought it'd be nice to break down our expenses from the trip. I used the "Export Entries" function from [Thrifty]({{site.url}}/thrifty/) to get a spreadsheet with all our entries from the road trip in it and you can see the results here. I included spending on the road trip from prior months (we bought a few things ahead) for a complete picture.
+Given that the road trip was such a big part of our month, I thought it'd be nice to break down our expenses from the trip. I used the "Export Entries" function from [Thrifty](https://thrifty.keepthrifty.com) to get a spreadsheet with all our entries from the road trip in it and you can see the results here. I included spending on the road trip from prior months (we bought a few things ahead) for a complete picture.
 
 |----+-------+---------------|
 | Category | Amount  | Notes |

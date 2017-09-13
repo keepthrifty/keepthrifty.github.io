@@ -36,7 +36,7 @@ Let's start with an overview of our spending for this month.
 
 ## Spending Overview
 
-_We track our spending using a little tool I made called [Thrifty]({{site.url}}/thrifty/). It's free and you can use it on any device with an internet connection and a modern web browser. I really recommend you check it out._
+_We track our spending using a little tool I made called [Thrifty](https://thrifty.keepthrifty.com). It's free and you can use it on any device with an internet connection and a modern web browser. I really recommend you check it out._
 
 Here's our spending summary from Thrifty for July 2017:
 
@@ -48,7 +48,7 @@ Our spending this month includes all of the closing costs in here (including the
 
 We have a few "double payments" this month as the July expenses for our apartment life came on July 1st but we prefer to pay our August expenses a few days ahead. Rent and health insurance are the two big culprits here, which together bring our totals up by over $1,000. It'll all balance out in the end, so we'll have to see what normal spending looks like in the future.
 
-If you've been following along on these updates, you might notice a few new categories. As Jaime and I have entered our one-year mini-retirement, we've been developing a new budgeting system to replace [our old one]({% post_url 2016/2016-11-13-how-we-budget-four-branch-system %}) and part of this has been creating new categories in [Thrifty]({{site.url}}/thrifty/) for certain expenses that we're budgeting separately.
+If you've been following along on these updates, you might notice a few new categories. As Jaime and I have entered our one-year mini-retirement, we've been developing a new budgeting system to replace [our old one]({% post_url 2016/2016-11-13-how-we-budget-four-branch-system %}) and part of this has been creating new categories in [Thrifty](https://thrifty.keepthrifty.com) for certain expenses that we're budgeting separately.
 
 A couple good examples of this are the new categories for date night and pizza/movie night. These are an important part of the values and dreams we want to live out on a regular basis - time together as a couple and time together as a family. Because this is _good_ spending, we want to separate it from our other _Eating Out_ expenses, which tend to be more convenience-based unplanned spending. In all cases, we'll have a budget for each and work to stick within those limits.
 
@@ -73,7 +73,7 @@ In the meantime, here's a detailed category-by-category look at what we spent th
 | Pizza & Movie Night | $118.50 | Pizza and ice cream three times - sub sandwiches for a change one night. |
 | Services | $195.43 | Similar to health insurance, I had to pay for life insurance for my last month of work, this month, and next month. We also paid $5 for a pack of checks for our checking account. Finally, my wife and I each got haircuts; we tend to take quite a bit of time between cuts - her last one was in September 2016 and my last one was in February 2017. |
 | Shelter | $23,936.89 | Yowza! Most of this was for closing on our house: $16,560 in agent fees, $3100 in accrued property tax, and $2000 to the title company. Beyond this, we paid for July and August rent and the remainder of our renter's insurance premiums. |
-| Thrifty | $28.67 | Hosting fees and source code storage for [Thrifty]({{site.url}}/thrifty/) this month plus registering a domain name for a side-project I'm working on. I'll be sure to give details when I get closer. |
+| Thrifty | $28.67 | Hosting fees and source code storage for [Thrifty](https://thrifty.keepthrifty.com) this month plus registering a domain name for a side-project I'm working on. I'll be sure to give details when I get closer. |
 | Transportation | $265.89 | Oil change, tire rotation, five tanks of gas, vacuuming of the interior, and the cost of parking in Madison at the public library for an afternoon. |
 | Travel | $156.54 | We renewed our AAA membership ahead of our upcoming road trip, reserved parking by Central Park ahead of time, and bought some replacement sand toys for our time at the beach. We're really excited to explore the northeast this month! |
 | Utilities | $383.99 | Gas, electric, water, and sewer service, and internet. |

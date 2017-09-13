@@ -153,7 +153,7 @@ Are you ready to join the challenge? Share your thoughts in the comments below o
 [save-big-on-diapers]: http://thethriftycouple.com/2014/01/13/8-tips-to-save-big-money-on-diapers/
 {: target="_blank"}
 
-[thrifty]: {{site.url}}/thrifty/
+[thrifty]: https://thrifty.keepthrifty.com
 {: target="_blank"}
 
 [tweet-link]: http://twitter.com/home/?status=@keepthrifty%20I%27m%20going%20to%20keep%20thrifty%20this%20month%20with%20the%20Keep%20Thrifty%20Experiment!

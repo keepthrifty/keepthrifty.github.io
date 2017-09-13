@@ -408,7 +408,7 @@ This is the last big piece of preparation but possibly the most important - the 
 
 Before your trip, look up directions for each stop and print them out; organize these into a three-ring binder with dividers for each day of travel. You should also print any hotel confirmations or other reservations you've made and put them here as well.  
 
-Finally, get a sleeve that can go in the binder to hold any receipts. You'll want to track your spending to help plan for future trips. If you don't want to get paper receipts, you can just log your expenses on your phone using [Thrifty]({{site.url}}/thrifty/)
+Finally, get a sleeve that can go in the binder to hold any receipts. You'll want to track your spending to help plan for future trips. If you don't want to get paper receipts, you can just log your expenses on your phone using [Thrifty](https://thrifty.keepthrifty.com)
 
 We also usually check out a copy of the latest road atlas from our library system for our trip just in case. Google's directions are great for getting you in the area, but you never know what can happen. If you're lost in the middle of nowhere without a cell signal, having an old-fashioned map is a big help!
 
