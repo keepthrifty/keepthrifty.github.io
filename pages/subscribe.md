@@ -12,4 +12,6 @@ You'll get my once-a-week newsletter, which includes the latest article, links t
 
 Keep Thrifty and carry on! :)
 
-{% include subscribe.html %}
+<div class="boxed">
+  {% include content-upgrade.html %}
+</div>
