@@ -21,7 +21,7 @@ related-posts: [
 ]
 
 audio:
-  file: /assets/audio/posts/keep-thrifty-2017-09-12-youre-the-product.mp3
+  file: /assets/audio/posts/keep-thrifty-0001-youre-the-product.mp3
   duration: '00:05:28'
   explicit: 'no'
   block: 'no'

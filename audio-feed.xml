@@ -3,8 +3,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
 	<channel>
-		<atom:link href="{{ site.url }}/audio-feed.rss" rel="self" type="application/rss+xml" />
+		<atom:link href="{{ site.url }}/audio-feed.xml" rel="self" type="application/rss+xml" />
 		<title>{{ site.title }} Audio</title>
+		<summary>{{ site.description | xml_escape }}</summary>
 		<description>{{ site.description | xml_escape }}</description>
 		<link>{{ site.url }}</link>
 		<language>{{ site.lang }}</language>
@@ -15,8 +16,8 @@
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
 			<link>{{ site.url }}</link>
-			<url>{{ site.url }}/images/itunes.png</url>
-			<title>{{ site.title }}</title>
+			<url>{{ site.url }}/assets/img/keep-thrifty-audio.png</url>
+			<title>{{ site.title }} Audio</title>
 		</image>
 		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
 		<itunes:author>{{ site.author.name }}</itunes:author>
@@ -26,7 +27,7 @@
 			<itunes:name>{{ site.author.name }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}/images/itunes.png" />
+		<itunes:image href="{{ site.url }}/assets/img/keep-thrifty-audio.png" />
 		<itunes:category text="Business">
 			<itunes:category text="Investing" />
 		</itunes:category>
