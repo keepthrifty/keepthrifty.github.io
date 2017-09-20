@@ -3,6 +3,20 @@
     display: none;
   }
 
+  header.site-header {
+    display: block;
+    ul.navbar-list {
+      display: none;
+    }
+    ul.navbar-list--logo {
+      display: block !important;
+    }
+  }
+
+  .post__audio, .tags, .post__comment-count {
+    display: none !important;
+  }
+
   main.page {
     padding-top: 0;
   }
@@ -29,9 +43,6 @@
     display: none;
   }
 
-  *,
-  *:before,
-  *:after,
   p:first-line,
   div:first-line,
   blockquote:first-line,
