@@ -21,10 +21,10 @@ related-posts: [
 
 audio:
   file: /assets/audio/posts/keep-thrifty-0003-trade-financial-freedom-mini-retirement.mp3
-  duration: '00:05:52' #TK
+  duration: '00:05:36'
   explicit: 'no'
   block: 'no'
-  length: 5638604 #TK
+  length: 5376962
 
 tags: [mini-retirement]
 
