@@ -5,7 +5,7 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 
 title: "Trading Financial Freedom for Mini-Retirement"
-description: "TK"
+description: "We've choosen to delay financial freedom to focus on the present by taking a mini-retirement. I'm confident it's the right choice for us - here's why."
 
 date: 2017-09-26 6:58:00 -0500
 
@@ -13,7 +13,10 @@ image:
   path: /assets/img/posts/2017-09-26-trade-financial-freedom-mini-retirement/choose-mini-retirement.jpg
 
 related-posts: [
-  TK - LINK bidirectional to MR announcement
+  /one-year-mini-retirement,
+  /parable-of-the-craftsmen,
+  /2016/09/18/the-price-of-an-extra-day,
+  /2016/03/23/engagement-ring-sold
 ]
 
 audio:
