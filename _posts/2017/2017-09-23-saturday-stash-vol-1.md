@@ -16,7 +16,7 @@ tags: [saturday stash]
 
 ---
 
-What's this? A post on _Saturday_? That's right thrity people, Keep Thrifty is expanding! Today marks the start of a new series that I'll be putting out every Saturday, containing links to my favorite finds from around the web.
+What's this? A post on _Saturday_? That's right thrifty people, Keep Thrifty is expanding! Today marks the start of a new series that I'll be putting out every Saturday, containing links to my favorite finds from around the web.
 
 The topics will usually be [money](/archive/#money), [minimalism](/archive/#minimalism), [mini-retirements](/archive/#mini-retirement), and [lifestyle design](/archive/#dreams-&-values), but anything is fair game.
 
@@ -43,7 +43,7 @@ This applies regardless of whether we're talking about money or anything else.
 
 Personal finance bloggers (myself included), often pitch the concept of Financial Independence (reaching the point where the gains from your investments can cover your expenses indefinitely) as the holy grail. But sometimes the way we talk about getting there can turn people off to the concept.
 
-I'll put our story out here: _we sold our house, moved into an apartment, ditched most of our possessions, buy as much as we can used, and sleep on the floor_.
+I'll put our story out here: _[we sold our house]({% post_url 2017/2017-04-10-living-in-half-of-our-house %}), moved into an apartment, [ditched most of our possessions]({% post_url 2016/2016-10-10-become-twice-as-happy-with-half-as-much %}), [buy as much as we can used]({% post_url 2017/2017-01-02-happy-nothing-new-year %}), and [sleep on the floor](http://www.jaimedeclutters.com/blog/2017/04/05/why-we-sleep-on-the-floor/)_.
 
 You may find that some of these sound intriguing and others sound downright abhorrent - and that's _great_!
 
@@ -57,6 +57,6 @@ This topic was covered in-depth at [Our Next Life](https://ournextlife.com) in w
 
 I chose not to record audio for this one, but let me know if you'd like to see these in audio format in the future (like my main articles).
 
-There you have it folks. Hopefully these get your gears turning this weekend. Have a great one!
+There you have it, folks. Hopefully, these get your gears turning this weekend. Have a great one!
 
 _What do you think of the new format? Do you have any great articles you found this week?_
