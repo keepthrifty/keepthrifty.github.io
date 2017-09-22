@@ -5,7 +5,7 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 
 title: "Trading Financial Freedom for Mini-Retirement"
-description: "We've choosen to delay financial freedom to focus on the present by taking a mini-retirement. I'm confident it's the right choice for us - here's why."
+description: "We've chosen to delay financial freedom to focus on the present by taking a mini-retirement. I'm confident it's the right choice for us - here's why."
 
 date: 2017-09-26 6:58:00 -0500
 
