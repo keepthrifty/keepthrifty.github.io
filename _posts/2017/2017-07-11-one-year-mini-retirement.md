@@ -22,7 +22,7 @@ related-posts: [
   /parable-of-the-craftsmen
 ]
 
-tags: [dreams & values]
+tags: [mini-retirement]
 
 affiliate: true
 
