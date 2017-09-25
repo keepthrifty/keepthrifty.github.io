@@ -59,7 +59,7 @@ I charge a flat monthly fee for coaching, which includes a one-hour chat session
 
 Dream timelines vary by person - depending on the size of the goal and how close you are today. With that in mind, one of my goals in coaching you is to equip you with the knowledge, habits, and routines to be self-sufficient in pursuing your dreams. If you have a 20-year goal, I certainly don't expect to be coaching you monthly for the next 20 years. We'll get you on your way and when you're ready, you can end our sessions. All I ask is that you shoot me an e-mail when you finally achieve your dream!
 
-<div class="work--price">Coaching: $200 per month</div>
+<div class="work--price">Coaching: $100 per month</div>
 
 <div class="boxed">
   <form class="form--contact" action="https://formspree.io/chris@keepthrifty.com" method="POST">
@@ -89,7 +89,7 @@ I'm available to discuss other topics, such as:
 - Minimalism - how to declutter your stuff and mind
 - Blogging with [Jekyll](http://www.jekyllrb.com){: target="_blank"}
 
-<div class="work--price">Consulting: $200 per hour</div>
+<div class="work--price">Consulting: $100 per hour</div>
 
 <div class="boxed">
   <form class="form--contact" action="https://formspree.io/chris@keepthrifty.com" method="POST">
