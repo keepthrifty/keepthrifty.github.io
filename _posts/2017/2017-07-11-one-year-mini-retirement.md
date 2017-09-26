@@ -19,7 +19,8 @@ related-posts: [
   /2016/11/27/staying-thankful-spend-happy-world,
   /2016/08/28/the-more-of-less-review,
   /2016/01/01/one-word-resolution,
-  /parable-of-the-craftsmen
+  /parable-of-the-craftsmen,
+  /trade-financial-freedom-mini-retirement
 ]
 
 tags: [mini-retirement]
@@ -212,6 +213,8 @@ Most of these I hope not to return to. My feelings on the others will become mor
 
 It'll be one heck of an adventure.
 
+For the far-away future, this mini-retirement will [delay in our eventual financial freedom date]({% post_url 2017/2017-09-26-trade-financial-freedom-mini-retirement %}), but the trade-off is clearly worth it because we can only live these moments once.
+
 ## What's Your Leap?
 
 One last thing:
@@ -223,7 +226,5 @@ We just decided to try living in not-so-ordinary ways and that has led us to a p
 {% include tweet-link.html tweet-text="If we can do this, so can you" %}
 
 I know you've got a big, audacious dream you'd love to pursue but there are things holding you back. You can get there with the right mentality and discipline.
-
-If you feel like you need some guidance, I'd be honored to help coach you through your journey. If you're interested, check out my [coaching page]({{site.url}}/work-with-me/#life-flipping-coaching).
 
 _What dreams would you love to pursue? Do you have a vision for your life that looks drastically different from your life today? What's stopping you from getting there?_

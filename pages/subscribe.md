@@ -2,16 +2,18 @@
 layout: page
 permalink: /subscribe/
 image: /assets/img/mailboxes.jpg
-description: Subscribe to my once-a-week newsletter; includes my latest blog post, links to my favorite articles, and updates on projects I'm working on.
-title: Subscribe for the Weekly Keep Thrifty Update
+description: Subscribe now and get a free copy of my _"5 Steps to a Mini-Retirement" cheat sheet.
+title: Join the Keep Thrifty Community
 ---
 
-If you'd like to get weekly updates on what's going on at Keep Thrifty, fill out the form below.
+## The Keep Thrifty Community
 
-You'll get my once-a-week newsletter, which includes the latest article, links to my favorite articles from around the web, and updates on the Thrifty tool and other projects I'm working on.
+Over 50,000 people have ventured into this little corner of the web to read an article, download a spreadsheet, track their spending, or get inspired to dream.
 
-Keep Thrifty and carry on! :)
+The best way to get connected is to subscribe for e-mail updates. I send a weekly newsletter with updates about what I'm working on, what's going on with the Keep Thrifty Family, and with links to my latest articles and favorite finds from around the web.
+
+If you subscribe, you'll also get a __free__ (who doesn't love free?) copy of my _"5 Steps to a Mini-Retirement"_ cheat sheet. Fill out the form below to get the cheat sheet and start getting the weekly Keep Thrifty update!
 
 <div class="boxed">
-  {% include content-upgrade.html %}
+{% include content-upgrade.html %}
 </div>

@@ -40,9 +40,9 @@
 			{%- if post.audio -%}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
-				<link>{{ site.url }}{{ post.url }}/#post__audio</link>
+				<link>{{ site.url }}{{ post.url }}#post__audio</link>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-				<description>{{ post.excerpt | xml_escape }}</description>
+				<description>{{ post.excerpt | append: '<p><a href="' | append: site.url | append: post.url | append: '#post__audio">Listen to the article</a></p>' | xml_escape }}</description>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 				<enclosure url="{{site.url}}{{ post.audio.file }}" length="{{ post.audio.length }}" type="audio/mp3"/>
 				<itunes:author>{{ site.author }}</itunes:author>
