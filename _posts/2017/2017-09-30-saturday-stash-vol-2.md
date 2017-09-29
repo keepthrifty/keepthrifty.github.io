@@ -16,47 +16,69 @@ tags: [saturday stash]
 
 ---
 
-What's this? A post on _Saturday_? That's right thrifty people, Keep Thrifty is expanding! Today marks the start of a new series that I'll be putting out every Saturday, containing links to my favorite finds from around the web.
+This week's Saturday Stash includes some awesome articles and a big announcement. Are you ready for another blast of awesome articles from around the web? Let's get this show on the road!
 
-The topics will usually be [money](/archive/#money), [minimalism](/archive/#minimalism), [mini-retirements](/archive/#mini-retirement), and [lifestyle design](/archive/#dreams-&-values), but anything is fair game.
+_The Saturday Stash is round-up of my favorite finds from the week that I think you might enjoy. The topics will usually be [money](/archive/#money), [minimalism](/archive/#minimalism), [mini-retirements](/archive/#mini-retirement), and [lifestyle design](/archive/#dreams-&-values), but anything is fair game._
 
-Let's get this party started!
+_Check them out, show their authors some love, and keep thrifty!_
 
-## Get More out of Your Job (Financially and Emotionally)
+## Post Showdown: Should You Prepay Your Mortgage?
 
-Our first post this week is from Melanie at [Mindfully Spent](https://www.mindfullyspent.com). We spend a crazy amount of time in our lives working. Being intentional about how you approach your career can lead you to make the most of those minutes and even improve your compensation. Melanie gives a deep dive into what she's learned and provides [Five strategies for building a meaningful career and increasing your income](https://www.mindfullyspent.com/home/five-strategies-to-successfully-increase-annual-income-get-raises-gain-responsibility-career-growth).
+This is one of those battles that will rage on until the end of time. Does prepaying your mortgage make sense?
 
-## Manage Money Better With Your Spouse
+- Andy from [Marriage, Kids, and Money](http://www.marriagekidsandmoney.com) gives [8 Compelling Reasons to Pay Off Your Mortgage Early](http://www.marriagekidsandmoney.com/8-compelling-reasons-to-pay-off-your-mortgage-early/)
+- [Mr. 1500](http://www.1500days.com) had a great guest post on [Budgets Are Sexy](http://www.budgetsaresexy.com) about why he doesn't fret about debt. In particular, Mr. 1500 could have purchased his last house in cash but [chose a mortgage instead and invested what he would have paid](http://www.budgetsaresexy.com/why-i-dont-worry-about-debt/)
 
-I read a terrible article this week from a mortgage company titled "Fighting with your Spouse? A 2nd Mortgage Might Fix Your Marriage and Your Money". I'm not even going to link to it because the whole concept is just so wrong.
+We can all agree that both prepaying your mortgage and investing are better than blowing your money on scratch-off tickets. In this case, we're really talking about which is the better of two _good_ options.
 
-Instead, here are two awesome articles this week about how to manage money better with your spouse:
+I outlined my thoughts on [when to prepay your mortgage instead of investing](https://www.keepthrifty.com/2016/06/05/prepay-vs-invest.html) and to me, it all comes down to _your risk tolerance_. Investing _can_ and _has_ been the better option many times.
 
-- [7 Money Conversations to Have With Your Spouse](https://www.mamafishsaves.com/money-conversations-spouse/) from [Mama Fish Saves](https://www.mamafishsaves.com)
-- [How To Be Awesome At Handling Money With Your Spouse](https://millennialmoneyman.com/how-to-be-awesome-at-handling-money-with-your-spouse/) from [Millennial Money Man](https://millennialmoneyman.com)
+__But not every time.__
 
-Both hit on the most important factor in a successful marriage: __communication__.
+There's always a chance that investing will leave you worse off than prepaying. If that difference is "too rich for your blood", then prepaying is still a great thing to do.
 
-This applies regardless of whether we're talking about money or anything else.
+Where do you stand?
 
-## Have You Been Turned Off to Financial Independence?
+## Get Your Employer to OK a Mini-Retirement
 
-Personal finance bloggers (myself included), often pitch the concept of Financial Independence (reaching the point where the gains from your investments can cover your expenses indefinitely) as the holy grail. But sometimes the way we talk about getting there can turn people off to the concept.
+I'm not the only one out here broadcasting the awesomeness of mini-retirements - Jillian (AKA [Ms. Montana](http://www.montanamoneyadventures.com)) has been an awesome advocate as well.
 
-I'll put our story out here: _[we sold our house]({% post_url 2017/2017-04-10-living-in-half-of-our-house %}), moved into an apartment, [ditched most of our possessions]({% post_url 2016/2016-10-10-become-twice-as-happy-with-half-as-much %}), [buy as much as we can used]({% post_url 2017/2017-01-02-happy-nothing-new-year %}), and [sleep on the floor](http://www.jaimedeclutters.com/blog/2017/04/05/why-we-sleep-on-the-floor/)_.
+This week, Jillian had a great guest post on [Millennial Money](https://millennialmoney.com) with advice on [how to negotiate a mini-retirement](https://millennialmoney.com/negotiate-a-mini-retirement/) with your employer. I'm 100% on-board with her recommendations. Check it out!
 
-You may find that some of these sound intriguing and others sound downright abhorrent - and that's _great_!
+## Do You Want to Make Money Online?
 
-You need to figure out what works for you. There may be things you're willing to do (work crazy hours, take on high-risk investments, etc) that are way outside our comfort zone too.
+No, I'm not about to point you to some get-rich-quick scheme. You know that's not how I roll. Heck, I'm [running this site without ads](https://www.patreon.com/keepthrifty)!
 
-In the end, financial independence and freedom are wonderful concepts to pursue regardless of your pathway there. We can all agree that having freedom and options are generally good. How you get there is up to you.
+[Brent Truitt](https://www.debtfiles.com) had a great guest post on [Mystery Money Man](http://www.mysterymoneyman.com) this week where he talked about the reality of making money online. In Brent's words:
 
-This topic was covered in-depth at [Our Next Life](https://ournextlife.com) in what was probably the most entertaining article title I saw this week: [Financial Independence, Fight Club and the Mindless Consumer Zombie Narrative](https://ournextlife.com/2017/09/20/fight-club-narrative/)
+> Here is the list of reasons why I shouldn't have succeeded, according to the naysayers:
+> - I was too old...
+> - I had no experience...
+> - I'm lazy...
+> - I'm not very smart...
+> - I'm not patient...
+> - It was too late...
 
-## That's a Wrap
+If Brent can [make a living online](http://www.mysterymoneyman.com/out-of-my-mind-full-time-internet-marketer-shares-his-story/) with all of these going against him, maybe you (or I) can too.
 
-I chose not to record audio for this one, but let me know if you'd like to see these in audio format in the future (like my main articles).
+## One Simple Way to Kickstart Your Money-Saving Habits
 
-There you have it, folks. Hopefully, these get your gears turning this weekend. Have a great one!
+In the path to financial discipline, the next step after starting to [track your spending](https://thrifty.keepthrifty.com) is to look for areas of your budget you can reduce so you can make room for savings or other priorities.
 
-_What do you think of the new format? Do you have any great articles you found this week?_
+But that can be intimidating - how can you possibly make a dent in a huge budget?
+
+Des from [Half Banked](https://www.halfbanked.com) knocked it out of the park with this simple (but powerful method) to [kickstart your money-saving habits](https://www.halfbanked.com/one-simple-way-kickstart-money-saving-habits/).
+
+As the saying goes, the best way to eat an elephant is one bite at a time.
+
+## Announcement: Our Thrifty Life
+
+Jaime and I had a really fun week this week. In particular, we finally got through stage one of a project we've been working on - creating a YouTube video series called _Our Thrifty Life_
+
+__That's right - we're going to start vlogging!__
+
+We'll be launching in a couple weeks and will be putting out __a new video every Thursday__. Episodes will be short - less than 5 minutes each - and we'll talk about our story and what leading a thrifty life means to us.
+
+Are you excited? We certainly are! Subscribe to my e-mail list below and you'll be the first to hear when we launch!
+
+_We've got tons of topics picked for Our Thrifty Life, but we'd love to hear from you. If you could ask us anything, what would you want to know?_
