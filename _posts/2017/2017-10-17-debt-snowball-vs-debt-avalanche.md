@@ -6,7 +6,7 @@ author_email: chris@keepthrifty.com
 
 title: "Destroy Your Debt with a Snowball or an Avalanche"
 subtitle:
-description: "The hardcore personal finance pros tend to scoff at Debt Snowball as a sub-optimal way to achieve debt freedom. But how much better is Debt Avalanche anyway?"
+description: "If you've got a mountain of debt, there are two awesome ways to squish it - the Debt Snowball and the Debt Avalanche. Read on to learn how to choose which is right for you and what to do if you can only pay your minimums."
 
 date: 2017-10-17 6:58:00 -0500
 
@@ -14,7 +14,11 @@ image:
   path: /assets/img/posts/2017-10-17-debt-snowball-vs-debt-avalanche/snowball-vs-avalanche.jpg
 
 related-posts: [
-  TK
+  /2016/06/05/prepay-vs-invest,
+  /2016/07/14/experience-or-stuff,
+  /2016/10/23/your-debt-is-an-infestation,
+  /2016/08/05/dominate-debt-with-spreadsheet-fu,
+  /2016/04/04/mortgage-math-101
 ]
 
 tags: [money]
