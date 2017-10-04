@@ -31,6 +31,10 @@ defaults:
       image:
         height: 533
         width: 800
+  - scope:
+      path: ""
+    values:
+      content-upgrade: 5-steps-to-mini-retirement-cheat-sheet
 
 social:
   name: Keep Thrifty

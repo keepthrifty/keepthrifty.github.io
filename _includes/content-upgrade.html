@@ -1,3 +1,4 @@
+{% assign upgrade = site.data.content-upgrades[page.content-upgrade] %}
 <div class="side-container">
   <div class="content-upgrade">
     <div class="content-upgrade__title">
@@ -14,15 +15,28 @@
         <p>Enter your e-mail address:</p>
         <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" value="">
         <button type="submit" value="Subscribe" name="subscribe">Subscribe Now</button>
+        <div class="content-upgrade__groups">
+          <ul>
+            <li>
+              <input type="checkbox" value="1" name="group[13241][1]" id="mce-group[13241]-13241-0"{% if (upgrade.id == "5-steps-to-mini-retirement-cheat-sheet") %} checked {% endif %}>
+              <label for="mce-group[13241]-13241-0">5 Steps to Mini-Retirement</label>
+            </li>
+            <li>
+              <input type="checkbox" value="2" name="group[13241][2]" id="mce-group[13241]-13241-1"{% if (upgrade.id == "debt-snowball-vs-debt-avalanche-spreadsheet") %} checked {% endif %}>
+              <label for="mce-group[13241]-13241-1">Debt Snowball vs Debt Avalanche Spreadsheet</label>
+            </li>
+          </ul>
+        </div>
       </form>
     </div>
     <div class="content-upgrade__text">
-      Subscribe now and get a free copy of my <em>"5 Steps to Mini-Retirement"</em> cheat sheet.<br><br>
+      {{ upgrade.text }}<br><br>
       <em>I don't send any spam and you can unsubscribe at any time</em>
     </div>
     <div class="content-upgrade__image">
-      <img src="{{site.url}}/assets/img/five-steps-mini-retirement-cheat-sheet-teaser.png" alt="" />
+      <img src="{{site.url}}{{ upgrade.image }}" alt="{{upgrade.title}}" />
     </div>
     <div style="clear:both"></div>
+
   </div>
 </div>
