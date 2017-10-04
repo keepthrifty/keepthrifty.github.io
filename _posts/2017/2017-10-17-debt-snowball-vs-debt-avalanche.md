@@ -26,7 +26,7 @@ tags: [money]
 content-upgrade: debt-snowball-vs-debt-avalanche-spreadsheet
 
 audio:
-  file: /assets/audio/posts/keep-thrifty-0004-debt-snowball-vs-debt-avalanche.mp3
+  file: /assets/audio/posts/keep-thrifty-0005-debt-snowball-vs-debt-avalanche.mp3
   duration: '00:09:22'
   explicit: 'no'
   block: 'no'
