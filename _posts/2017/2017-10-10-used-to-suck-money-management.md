@@ -20,13 +20,16 @@ related-posts: [
 ]
 
 audio:
-  file: /assets/audio/posts/keep-thrifty-0004-used-to-suck-money-management.mp3
-  duration: '00:05:36' #TK
+  file: /assets/audio/posts/keep-thrifty-0004-suck-at-money-management.mp3
+  duration: '00:03:01'
   explicit: 'no'
   block: 'no'
-  length: 5376962 #TK
+  length: 2905569
 
 tags: [money]
+
+redirect_from:
+  - /moneymanagement
 
 ---
 
