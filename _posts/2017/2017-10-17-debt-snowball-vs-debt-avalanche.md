@@ -4,14 +4,15 @@ layout: post
 author: keepthrifty
 author_email: chris@keepthrifty.com
 
-title: "Destroy Your Debt with a Snowball or an Avalanche"
+title: "Shred Your Debt with a Snowball or an Avalanche"
 subtitle:
-description: "If you've got a mountain of debt, there are two awesome ways to squish it - the Debt Snowball and the Debt Avalanche. Read on to learn how to choose which is right for you and what to do if you can only pay your minimums."
+description: "If you've got a mountain of debt, there are two awesome ways to shred it - the Debt Snowball and the Debt Avalanche. Read on to learn how to choose which is right for you and what to do if you can only pay your minimums."
 
 date: 2017-10-17 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-10-17-debt-snowball-vs-debt-avalanche/snowball-vs-avalanche.jpg
+pinterest-image: /assets/img/posts/2017-10-17-debt-snowball-vs-debt-avalanche/snowball-avalanche
 
 related-posts: [
   /2016/06/05/prepay-vs-invest,
@@ -37,7 +38,7 @@ redirect_from:
 
 ---
 
-If you've got a mountain of debt, there are two awesome ways to squish it - _the Debt Snowball_ and _the Debt Avalanche_. Read on to learn how to choose which is right for you and what to do if you can only pay your minimums. If you're already well-versed, check out the end of the post for an awesome spreadsheet to show how much better Debt Avalanche is.
+If you've got a mountain of debt, there are two awesome ways to shred it - _the Debt Snowball_ and _the Debt Avalanche_. Read on to learn how to choose which is right for you and what to do if you can only pay your minimums. If you're already well-versed, check out the end of the post for an awesome spreadsheet to show how much better Debt Avalanche is.
 
 ## Debt Snowball vs Debt Avalanche
 
