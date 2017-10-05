@@ -5,12 +5,13 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 
 title: "I Used To Suck At Money Management"
-description: "Look out - today's post is from my wife, Jaime - where she'll cover how she used struggle with money management and the approach that changed everything."
+description: "I can change my spending habits, but before I can do that, I need to understand where my money is going."
 
 date: 2017-10-10 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-10-10-used-to-suck-money-management/money-management.jpg
+pinterest-image: /assets/img/posts/2017-10-10-used-to-suck-money-management/used-to-suck-money-management
 
 related-posts: [
   /2017/05/22/major-waste-of-money-dont-care,
