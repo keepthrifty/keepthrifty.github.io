@@ -36,6 +36,11 @@ defaults:
       type: "pages"
     values:
       content-upgrade: 5-steps-to-mini-retirement-cheat-sheet
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      content-upgrade: 5-steps-to-mini-retirement-cheat-sheet
 
 social:
   name: Keep Thrifty
