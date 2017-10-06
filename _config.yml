@@ -33,6 +33,7 @@ defaults:
         width: 800
   - scope:
       path: ""
+      type: "pages"
     values:
       content-upgrade: 5-steps-to-mini-retirement-cheat-sheet
 
