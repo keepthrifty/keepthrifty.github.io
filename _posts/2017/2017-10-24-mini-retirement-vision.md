@@ -8,10 +8,10 @@ title: "The Most Powerful Factor for Creating a Mini-Retirement"
 subtitle: "...or any Other Financial Goal"
 description: "TK"
 
-date: 2017-10-31 6:58:00 -0500
+date: 2017-10-24 6:58:00 -0500
 
 image:
-  path: /assets/img/posts/2017-10-31-mini-retirement-formula/
+  path: /assets/img/posts/2017-10-24-mini-retirement-formula/
 
 related-posts: [
   /one-year-mini-retirement,
@@ -27,7 +27,7 @@ tags: [mini-retirement]
 
 Here it is:
 
-!['Means' divided by 'Budget' multiplied by 'Commitment'](/assets/img/posts/2017-10-31-mini-retirement-formula/mini-retirement-formula.png){: class="no-shadow"}
+!['Means' divided by 'Budget' multiplied by 'Commitment'](/assets/img/posts/2017-10-24-mini-retirement-formula/mini-retirement-formula.png){: class="no-shadow"}
 
 _That's it?_
 
