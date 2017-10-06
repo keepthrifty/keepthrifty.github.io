@@ -6,7 +6,7 @@ author_email: chris@keepthrifty.com
 
 title: "The Most Powerful Factor for Creating a Mini-Retirement"
 subtitle: "...or any Other Financial Goal"
-description: "TK"
+description: "Think a mini-retirement is out of reach? Maybe you're missing something - there's one big thing that could make a mini-retirement possible and I've got the formula to get you there."
 
 date: 2017-10-24 6:58:00 -0500
 
