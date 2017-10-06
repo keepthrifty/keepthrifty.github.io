@@ -11,7 +11,7 @@ description: "Think a mini-retirement is out of reach? Maybe you're missing some
 date: 2017-10-24 6:58:00 -0500
 
 image:
-  path: /assets/img/posts/2017-10-24-mini-retirement-formula/
+  path: /assets/img/posts/2017-10-24-mini-retirement-formula/statue-lever-sky.jpg
 
 related-posts: [
   /one-year-mini-retirement,
