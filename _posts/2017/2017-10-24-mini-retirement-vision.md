@@ -21,6 +21,16 @@ related-posts: [
 
 tags: [mini-retirement]
 
+audio:
+  file: /assets/audio/posts/keep-thrifty-0006-mini-retirement-vision.mp3
+  duration: '00:08:25'
+  explicit: 'no'
+  block: 'no'
+  length: 8087845
+
+redirect_from:
+  - /vision/
+
 ---
 
 "I mean, _if you can make that work_, it sounds amazing." I can't count the number of times I've heard this since revealing [my one-year mini-retirement]({% post_url 2017/2017-07-11-one-year-mini-retirement %}). It pains me to hear it because of the assumption of the person saying it that achieving a mini-retirement isn't possible for them. But we know that __they can__. The formula for getting to a mini-retirement is simpler than you might think.
@@ -103,19 +113,19 @@ With that in mind, circle back to your vision and ask __why__.
 
 The goal in asking __why__ is to get to the heart of your dreams so you can identify the most important parts of your vision.
 
-Maybe the timeline and location aren't as important as you initially thought. Maybe you're only pursuing that because it's what would impress your friends or family -- but it's not actually what you want. Maybe you can find a way to get the spirit of what you're looking for in a simpler or less expensive way.
+Maybe the timeline and location aren't as important as you initially thought. Maybe you're only pursuing that vision because it's what would impress your friends or family -- but it's not actually what you want. Maybe you can find a way to get the spirit of what you're looking for in a simpler or less expensive way.
 
 The key to this exercise is teasing out the critical, exciting parts of your vision and refining it in a way that is more achievable.
 
 Here's how our original vision could be refined:
 
-_In a 3-month mini-retirement, I'd explore Southeast Asia with my wife and kids. We'd like to experience different cultures and see cities and ruins that are way older than we can get around here. We'd like to go before our kids graduate high school, but have 5 years until we feel they'd be old enough to get the most out of the trip._
+_In a 3-month mini-retirement, I'd explore Southeast Asia with my wife and kids. We'd like to experience different cultures and see cities and ruins that are way older than we can find around here. We'd like to go before our kids graduate high school, but have 5 years until we feel they'd be old enough to get the most out of the trip._
 
 The heart of the vision was experiencing cultures, geography, and history with family. The timeline can be shortened and the vision still has impact. The location can be changed and the vision still has impact. The timing can be changed and the vision still has impact.
 
 By changing these details, we've kept the spirit and excitement, but have identified a much more achievable vision.
 
-Exciting, achievable visions (__EAV's__) are the most important factor to accomplishing a mini-retirement - or any other financial goal for that matter.
+Exciting, achievable visions (__EAV's__) are the most important factor in creating a mini-retirement - or any other financial goal for that matter.
 
 This is where the magic happens.
 
