@@ -5,7 +5,7 @@ author: keepthrifty
 author_email: chris@keepthrifty.com
 
 title: "The Most Powerful Factor for Creating a Mini-Retirement"
-subtitle: "...and any Other Financial Goal"
+subtitle: "...or any Other Financial Goal"
 description: "TK"
 
 date: 2017-10-31 6:58:00 -0500
@@ -23,7 +23,7 @@ tags: [mini-retirement]
 
 ---
 
-_"I mean, if you can make that work financially, that sounds amazing."_ We've heard this countless times since starting to talk about [my one-year mini-retirement]({% post_url 2017/2017-07-11-one-year-mini-retirement %}). The response implies that we must be in some special category of people - that mini-retirement is reserved only for a select few. But we're not that special and the formula for creating a mini-retirement is pretty simple.
+"I mean, _if you can make that work_, it sounds amazing." I can't count the number of times I've heard this since revealing [my one-year mini-retirement]({% post_url 2017/2017-07-11-one-year-mini-retirement %}). It pains me to hear it because of the assumption of the person saying it that achieving a mini-retirement isn't possible for them. But we know that __they can__. The formula for getting to a mini-retirement is simpler than you might think.
 
 Here it is:
 
@@ -37,33 +37,36 @@ You got it. It's not rocket science.
 
 Ok, stay with me here. I know this may all seem so simple as to be obvious, but let's dig a bit deeper.
 
-If you don't think a mini-retirement is possible for you, which of these three is holding you back?
+If you don't think a mini-retirement is possible for you, which part of the formula is holding you back?
 
-Is it your _means_? Maybe you feel like your income isn't high enough - that your month-to-month spending is just covering your necessities and you don't have any room for savings.
+_Is it your means_? Maybe you feel like your income isn't high enough - that your month-to-month spending is just covering your necessities and you don't have any room for savings.
 
-Is it your _budget_? Maybe you think the cost of a mini-retirement is too high for you to achieve?
+_Is it your budget_? Maybe you think the cost of a mini-retirement is too high for you to achieve?
 
-Or is it _commitment_? Are you afraid of what people would think? Of the sacrifices you'd have to make to get there? Of what life would be like when your mini-retirement is done?
+_Or is it your commitment_? Are you afraid of what people would think? Of the sacrifices you'd have to make to get there? Of what life would be like when your mini-retirement is done?
 
-The truth is, any and all of these can be addressed, but there's one important factor you're going to need first: a vision.
+The truth is, any and all of these can be addressed. You can find a way to earn more or save more. You can optimize a mini-retirement budget. You can commit to making it happen.
 
-## It All Starts With a Vision
+If you really want it, you can get there. But you need two things:
 
-Have you ever accomplished a goal - financial or otherwise? One of the biggest factors that helped you get there was having a vision for what success would look like.
+1. You have to be excited about it
+2. You have to believe it's achievable
 
-Having a clear vision for what you want out of a mini-retirement can help you set an appropriate budget, identify the means by which you're going to save up for it, and give you the conviction and motivation you need to persevere and make challenging trade-offs.
+There's one solution to both of these: creating an exciting, achievable vision (__EAV__).
+
+## Big Success Starts with a Big Vision
+
+Having a clear vision for what you want out of a mini-retirement can help you set an appropriate budget, identify the means by which you're going to save up for it, and give you the conviction to persevere through the bumps along the way.
 
 With a vision in your mind of what you're working toward, you'll find the pathway there starts to open up. But you have to want it, and you have to have clarity of what you're shooting for.
 
-Let's go through an activity to jump-start the process.
+Let's go through an activity to jump-start that process.
 
 ## Vision-Building Activity: "Money is No Object"
 
-If you're single, you can do this activity alone. If you're married, get your spouse and kids involved. You're going to need some paper or a computer so you can record your answers.
+_If you're single, you can do this activity alone. If you're married, get your spouse and kids involved. You're going to need some paper or a computer so you can record your answers._
 
-Ask yourself: _"If money were no object, how would I/we spend my time in the next year?"_
-
-If you're having trouble coming up with ideas, consider resurrecting some [childhood dreams]({% post_url 2017/2017-09-19-bring-back-your-childhood-dreams %}).
+Ask yourself: "If money were no object for the next year but my life returned to normal afterward, how would I/we spend my time over that year?"
 
 Leave the world of possibilities and go through these questions:
 
@@ -72,15 +75,19 @@ Leave the world of possibilities and go through these questions:
 - When can these activities be done? Are some seasonal or scheduled on certain days? Or can they be done anytime?
 - Where would you want to go or be?
 
-Go through this for each timeline and then distill down to a few sentences that capture the essence of your _Money is No Object vision_.
+Remember - in this scenario, money is no object but the goal is to use the year in a way that fulfills you for the long haul. The kind of year you'd look back on and say, "I'm so glad I did that!".
 
-Here's an example:
+If you're having trouble coming up with ideas, consider resurrecting some [childhood dreams]({% post_url 2017/2017-09-19-bring-back-your-childhood-dreams %}).
 
-_In a 12-month mini-retirement, I'd explore Europe with my wife and kids. We'd like to experience different cultures and see cities and ruins that are way older than we can get around here. We'd like to go in January._
+Write down your answers for each question above. Then review your answers and rewrite the whole vision as a 3-5 sentence description of your _Money is No Object vision_.
 
-The key to the _Money is No Object_ exercise is to identify what your true desires are by taking out the constraints.
+Here's an example vision:
 
-But this is where most people get tripped up. Because, for most of us, money most certainly __is__ an object. Not many of us have the means to cover the budget for a 12-month whirlwind tour of Europe starting in three months.
+_In a 12-month mini-retirement, I'd explore Europe with my wife and kids. We'd like to experience different cultures and see cities and ruins that are way older than we can find around here. We'd like to go in January._
+
+The key to the _Money is No Object_ exercise is to identify your true desires by taking out the constraints.
+
+But, for most of us, money most certainly __is__ an object. Not many of us have the means to cover the budget for a 12-month whirlwind tour of Europe starting in three months. So how do we refine our vision to something achievable without watering it down so much that we lose interest?
 
 ## Refining Your Vision
 
@@ -91,14 +98,14 @@ With that in mind, circle back to your vision and ask __why__.
 - Why do you want to spend time with those people?
 - Why is that activity or event important to you?
 - Why must the timing be "just so"?
-- Would it still be effective if it were shorter?
+- Why is a year important? Would it still be effective if it were shorter?
 - Why is that location the right location?
 
 The goal in asking __why__ is to get to the heart of your dreams so you can identify the most important parts of your vision.
 
 Maybe the timeline and location aren't as important as you initially thought. Maybe you're only pursuing that because it's what would impress your friends or family -- but it's not actually what you want. Maybe you can find a way to get the spirit of what you're looking for in a simpler or less expensive way.
 
-The key to this exercise is teasing out the critical parts of your vision and refining it in a way that is more achievable.
+The key to this exercise is teasing out the critical, exciting parts of your vision and refining it in a way that is more achievable.
 
 Here's how our original vision could be refined:
 
@@ -106,28 +113,34 @@ _In a 3-month mini-retirement, I'd explore Southeast Asia with my wife and kids.
 
 The heart of the vision was experiencing cultures, geography, and history with family. The timeline can be shortened and the vision still has impact. The location can be changed and the vision still has impact. The timing can be changed and the vision still has impact.
 
-By changing these details, we've kept the spirit but made a much more achievable vision, but one that's still really exciting.
+By changing these details, we've kept the spirit and excitement, but have identified a much more achievable vision.
 
-Achievable (but exciting) visions are the most important factor to accomplishing a mini-retirement - or any other financial goal for that matter.
+Exciting, achievable visions (__EAV's__) are the most important factor to accomplishing a mini-retirement - or any other financial goal for that matter.
 
 This is where the magic happens.
 
-## The Power of an Achievable, Exciting Vision
+## The Power of an Exciting, Achievable Vision
 
-When a vision is unachievable, we don't even try. When a vision isn't exciting, we don't even try.
+When a vision is unachievable, we don't try because we don't think it's possible.
 
-But when a vision is achievable __and__ exciting, we give it our all. We're willing to make tough trade-offs and sacrifices to get there.
+When a vision isn't exciting, we don't try because we don't think it's worth it.
 
-Our vision was to have [a year of quality family time]({% post_url 2017/2017-09-26-trade-financial-freedom-mini-retirement %}) and to focus on the passion projects we simply didn't have time for when I was working a 9-5 job.
+{% include tweet-link.html tweet-text="When a vision is achievable __and__ exciting, we give it our all" %}
 
-As my wife and I talked about this vision, we both knew that this year could be amazing _and_ that it was totally possible if we could find a way to have one year's worth of normal expenses covered.
+We're willing to make tough trade-offs and sacrifices to get there.
 
-With this vision in-hand, we assessed our means and saw a world of opportunity. I was making a good salary and with some cuts to our daily budget, we'd be able to set a healthy amount aside. We looked at our mini-retirement budget and realized that we could cut our expenses to make our target even easier to cover.
+Our family's vision was to have [a year of quality family time]({% post_url 2017/2017-09-26-trade-financial-freedom-mini-retirement %}) and the opportunity to focus on the passion projects we simply didn't have time for when I was working a 9-5 job.
 
-Most importantly though, our achievable but exciting vision helped us have the commitment to make some big leaps - selling our house, leaving my job, and getting outside our comfort zone, all of which made this mini-retirement possible.
+As my wife and I talked about this vision, we both knew that this year could be amazing _and_ that it was totally possible if we could find a way to save one year's worth of normal expenses. With this vision in-hand, we assessed our means and saw a world of opportunity.
 
-When you've got an achievable but exciting vision, you've got the most important factor of all. You'll find a way to get the means, you'll find a way to optimize the budget, and you'll find yourself teeming with commitment.
+I was making a good salary and with some cuts to our daily budget, we'd be able to set a healthy amount aside. We looked at our mini-retirement budget and realized that we could cut our expenses to make our target even easier to cover.
 
-So create your vision, make it work financially, and I'm sure it'll be amazing.
+Most importantly though, our __EAV__ helped us have the commitment to make some big leaps - selling our house, leaving my job, and getting outside our comfort zone, all of which made this mini-retirement possible.
 
-_Did you actually go through the_ ___Money is No Object___ _exercise? What did you come up with? How did it change from your initial vision to one that's achievable and exciting?_
+When you've got an __EAV__, you've got the most important factor of all.
+
+You'll find a way to get the means, you'll find a way to optimize the budget, and you'll find yourself teeming with commitment.
+
+So create your vision, build a budget, create the means to get there and make that vision a reality. I'm sure it'll be exciting and I'm sure you can achieve it!
+
+_Did you actually go through the_ ___Money is No Object___ _exercise? What did you come up with for your EAV? How did it change from your initial vision to one that's achievable and exciting?_
