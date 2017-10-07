@@ -5,7 +5,7 @@
   <div class="nav-bar">
     <ul class="nav-bar__list">
       <li class="nav-bar__list__item {% if page.url == "/start-here/" %}nav-bar__list__item--current{% endif %}"><a href="/start-here/">Start here</a></li>
-      <li class="nav-bar__list__item {% if page.url == "/archive/" %}nav-bar__list__item--current{% endif %}"><a href="/archive/">Topics</a></li>
+      <li class="nav-bar__list__item {% if page.url == "/archive/" %}nav-bar__list__item--current{% endif %}"><a href="/archive/">Archive</a></li>
     </ul>
     <div class="nav-bar__stamp">
       <img src="/assets/img/header/create-your-freedom.png" alt="Create your freedom"/>
@@ -27,7 +27,6 @@
       <p><a href="/start-here/">Read our story here</a></p>
     </div>
   </div>
-  {% endif %}
   <div class="connect-bar">
     <ul class="connect-bar__list-group connect-bar__list-group--subscribe">
       <li>
@@ -59,4 +58,5 @@
       </li>
     </ul>
   </div>
+  {% endif %}
 </header>
