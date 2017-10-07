@@ -604,9 +604,28 @@ nav.navbar {
   font-size: 1rem;
   letter-spacing: 1.5px;
   line-height: 1.2rem;
-  margin: 1rem 0;
+  margin: 0.5rem 0;
   text-transform: uppercase;
   font-weight: 300;
+}
+
+.navbar-list--half {
+  width: 50%;
+}
+
+.navbar-stamp {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%,-25%);
+  width: 150px;
+  height: auto;
+  @media (max-width: $minimum-break) {
+    position: relative;
+    top: 0rem;
+    right: 0rem;
+    width: 100px;
+    height: 100px;
+  }
 }
 
 .navbar-list--logo {
@@ -972,21 +991,21 @@ li.in-page-nav--list-item a {
 
 .search-form__input {
   cursor: pointer;
-  cursor: hand;
-  position:relative;
-  font-size: 1.1rem;
-  margin: 0.5rem auto;
-  padding: 0.4rem 0.4rem 0.4rem 1.9rem;
-  border: 1px solid white;
-  width: 2rem;
-  border-radius: 3px;
-  background-color: white;
-  background-image: url('/assets/img/search-icon.svg');
-  background-size: 1.1rem 1.3rem;
-  background-position: 0.4rem 0.4rem;
-  background-repeat: no-repeat;
-  -webkit-transition: width 0.4s ease-in-out;
-  transition: width 0.4s ease-in-out;
+    cursor: hand;
+    position: relative;
+    font-size: 2rem;
+    margin: 0.5rem auto;
+    padding: 0.4rem 0.4rem 0.4rem 3rem;
+    border: 1px solid white;
+    width: 2rem;
+    border-radius: 3px;
+    background-color: white;
+    background-image: url(/assets/img/search-icon.svg);
+    background-size: 3rem 2rem;
+    background-position: -0.2rem 0.5rem;
+    background-repeat: no-repeat;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
 }
 
 .search-form__input:focus, .search-form__input--active {

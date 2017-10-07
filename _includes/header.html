@@ -1,20 +1,62 @@
 <header class="site-header">
-  <nav class="navbar">
-    <ul class="navbar-list navbar-list--logo">
-      <a href="/" data-hover="Keep Thrifty" class="navbar-list__link"><li class="navbar-list__item navbar-list__item--current">Keep Thrifty</li></a>
+  <div class="brand-bar">
+    <span class="brand-bar__title"><a href="/">Keep Thrifty</a></span>
+  </div>
+  <div class="nav-bar">
+    <ul class="nav-bar__list">
+      <li class="nav-bar__list__item {% if page.url == "/start-here/" %}nav-bar__list__item--current{% endif %}"><a href="/start-here/">Start here</a></li>
+      <li class="nav-bar__list__item {% if page.url == "/archive/" %}nav-bar__list__item--current{% endif %}"><a href="/archive/">Topics</a></li>
     </ul>
-    <ul class="navbar-list">
-      <li class="navbar-list__item {% if page.url == "/start-here/" %}navbar-list__item--current{% endif %}"><a href="/start-here/" data-hover="Start Here">Start Here</a></li>
-      <li class="navbar-list__item {% if page.url == "/archive/" %}navbar-list__item--current{% endif %}"><a href="/archive/" data-hover="Archive">Archive</a></li>
-      <li class="navbar-list__item {% if page.url == "/audio/" %}navbar-list__item--current{% endif %}"><a href="/audio/" data-hover="Audio">Audio</a></li>
-      <li class="navbar-list__item {% if page.url == "/work-with-me/" %}navbar-list__item--current{% endif %}"><a href="/work-with-me/" data-hover="Work With Me">Work</a></li>
-      <li class="navbar-list__item {% if page.url == "/favorite-resources/" %}navbar-list__item--current{% endif %}"><a href="/favorite-resources/" data-hover="Favorites">Favorites</a></li>
-      <li class="navbar-list__item"><a href="https://thrifty.keepthrifty.com" data-hover="Thrifty">Thrifty</a></li>
-      <li class="navbar-list__item--no-highlight">
-        <form action="{{ '/search/' | relative_url }}" class="search-form">
-          <input type="text" name="q" class="search-form__input">
+    <div class="nav-bar__stamp">
+      <img src="/assets/img/header/create-your-freedom.png" alt="Create your freedom"/>
+    </div>
+    <ul class="nav-bar__list">
+      <li class="nav-bar__list__item {% if page.url == "/work-with-me/" %}nav-bar__list__item--current{% endif %}"><a href="/work-with-me/">Coaching</a></li>
+      <li class="nav-bar__list__item"><a href="https://thrifty.keepthrifty.com">Thrifty</a></li>
+    </ul>
+  </div>
+  {% if page.url == '/' %}
+  <div class="about-bar">
+    <div class="about-bar__image">
+      <img src="/assets/img/header/us-winter.png">
+    </div>
+    <div class="about-bar__text">
+      <h1 class="about-bar__title">Welcome to Keep Thrifty!</h1>
+      <p>We're Chris and Jaime. Through thrifty living, we're creating freedom to spend more time with our kids, travel, and follow our passions.</p>
+      <p>Join us as we share inspiration and tools to help you take control of your finances so you can create your own financial freedom!</p>
+      <p><a href="/start-here/">Read our story here</a></p>
+    </div>
+  </div>
+  {% endif %}
+  <div class="connect-bar">
+    <ul class="connect-bar__list-group connect-bar__list-group--subscribe">
+      <li>
+        <form class="connect-bar__form" action="https://keepthrifty.us12.list-manage.com/subscribe/post" method="POST">
+          <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text" name="b_e2d9d07904421244770d81bdd_38f7b01157" tabindex="-1" value="">
+          </div>
+          <input type="hidden" name="u" value="e2d9d07904421244770d81bdd">
+          <input type="hidden" name="id" value="38f7b01157">
+          <input type="hidden" name="SIGNUP" value="{{ page.url | prepend: site.url }}">
+          <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" placeholder="Enter email to">
+          <button type="submit" value="Subscribe" name="subscribe">Subscribe</button>
         </form>
       </li>
     </ul>
-  </nav>
+    <ul class="connect-bar__list-group">
+      <li class="connect-bar__list-item"><a href="https://www.twitter.com/keepthrifty" class="twitter"><i class="fa fa-twitter-square"></i></a></li>
+      <li class="connect-bar__list-item"><a href="https://www.pinterest.com/keepthrifty/" class="pinterest"><i class="fa fa-pinterest-square"></i></a></li>
+      <li class="connect-bar__list-item"><a href="https://www.facebook.com/keepthrifty/" class="facebook"><i class="fa fa-facebook-square"></i></a></li>
+    </ul>
+    <ul class="connect-bar__list-group">
+      <li class="connect-bar__list-item"><a href="/audio/" class="connect-bar__icon"><i class="fa fa-headphones"></i></a></li>
+      <li class="connect-bar__list-item"><a href="https://www.youtube.com/channel/UCHpQLpwuiNRNwQ_eLJQInQA" class="connect-bar__icon"><i class="fa fa-youtube-play"></i></a></li>
+      <li class="connect-bar__list-item"><a href="/work-with-me/#contact" class="connect-bar__icon"><i class="fa fa-envelope"></i></a></li>
+      <li class="connect-bar__list-item">
+        <form action="{{ '/search/' | relative_url }}" class="search-form connect-bar__form">
+          <input type="text" name="q" class="search-form__input connect-bar__form__input">
+        </form>
+      </li>
+    </ul>
+  </div>
 </header>

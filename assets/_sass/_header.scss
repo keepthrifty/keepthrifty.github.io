@@ -1,0 +1,235 @@
+/* BRAND BAR */
+
+.brand-bar {
+  background-image: url(/assets/img/header/bg-7.jpg);
+  background-size: 40rem;
+  background-repeat: no-repeat;
+  background-position: right;
+  @media screen and (max-width: $medium-screen) {
+    background-size: 25rem;
+  }
+  @media screen and (max-width: $minimum-break) {
+    background-size: 18rem;
+    background-position: 60vw;
+  }
+}
+.brand-bar__title {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 2rem;
+  line-height: 2.33rem;
+  letter-spacing: 0.2rem;
+  margin: 2rem 0 2rem 8%;
+  padding: 12px 15px;
+  @media screen and (max-width: $minimum-break) {
+    font-size: 1.5rem;
+    margin: 2rem 0 2rem 2%;
+  }
+  a {
+    color: black;
+  }
+  a:hover {
+    opacity: 0.7;
+  }
+}
+.brand-bar__title:before,
+.brand-bar__title:after {
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  height: .14rem;
+  width: 0%;
+  background-color: $primary-color;
+  position: absolute;
+  content: '';
+  opacity: 1;
+  left: 17.5%;
+  right: auto;
+  width: 65%;
+}
+.brand-bar__title:before {
+  top: 0;
+}
+.brand-bar__title:after {
+  bottom: 0;
+}
+.brand-bar__title:hover:before,
+.brand-bar__title:hover:after {
+  width: 80%;
+  left: 10%;
+}
+
+/* NAV BAR */
+
+.nav-bar {
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  @media screen and (max-width: $minimum-break) {
+    margin-bottom: 8rem;
+  }
+}
+
+.nav-bar__stamp {
+  flex: 2 2 0px;
+  position: relative;
+  text-align: center;
+  img {
+    max-width: 8rem;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%,-50%);
+  }
+  @media screen and (max-width: $minimum-break) {
+    flex: 0 0 0px;
+    img {
+      transform: translate(-50%,20%);
+    }
+  }
+}
+
+ul.nav-bar__list {
+  flex: 4 4 0px;
+  list-style: none;
+  text-align: center;
+  display: flex;
+  margin: 0;
+  align-items: center;
+}
+
+.nav-bar__list__item {
+  flex: 1 1 0;
+  display: inline-block;
+  margin: 0.8rem 0.6em;
+  padding: 1rem 0px;
+  font-size: 1rem;
+  font-weight: 300;
+  letter-spacing: 0.2rem;
+  a {
+    color: black;
+    text-transform: uppercase;
+    position: relative;
+    padding: 1rem 0px;
+  }
+}
+
+.nav-bar__list__item a:before,
+.nav-bar__list__item a:after {
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  height: .14rem;
+  width: 0%;
+  background-color: $primary-color;
+  position: absolute;
+  content: '';
+  opacity: 0;
+  left: 50%;
+}
+.nav-bar__list__item a:before {
+  top: 0;
+}
+.nav-bar__list__item a:after {
+  bottom: 0;
+}
+.nav-bar__list__item a:hover:before,
+.nav-bar__list__item--current a:before,
+.nav-bar__list__item:hover a:after,
+.nav-bar__list__item--current a:after {
+  opacity: 1;
+}
+.nav-bar__list__item a:hover:before,
+.nav-bar__list__item a:hover:after {
+  width: 80%;
+}
+.nav-bar__list__item a:hover:before,
+.nav-bar__list__item a:hover:after {
+  left: 10%;
+}
+.nav-bar__list__item--current a:before,
+.nav-bar__list__item--current a:after {
+  left: 20%;
+  right: auto;
+  width: 60%;
+}
+
+/* ABOUT BAR */
+
+.about-bar {
+  display: flex;
+  margin: 3rem auto;
+  max-width: 900px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+  @media screen and (max-width: $minimum-break) {
+    margin: 4rem 2rem;
+  }
+}
+.about-bar__image {
+  flex: 0 0 150px;
+  margin: 0 2rem;
+  text-align: center;
+  img {
+    max-width: 100%;
+    border-radius: 50%;
+    box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+  }
+}
+.about-bar__text {
+  flex: 7 7 0;
+  margin: 0 2rem;
+  min-width: 300px;
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+h1.about-bar__title {
+  font-size: 1.5rem;
+}
+
+/* CONNECT BAR */
+
+.connect-bar {
+  margin: 0 auto;
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.connect-bar__list-group {
+  text-align: center;
+  flex: 1 1 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.connect-bar__list-group--subscribe {
+  min-width: 300px;
+}
+
+li.connect-bar__list-item {
+  display: inline;
+  margin: 0 0.5rem;
+  font-size: 3rem;
+}
+
+a.connect-bar__icon {
+  color: $meta-color;
+}
+
+.connect-bar__form, .connect-bar__form__input {
+  display: inline-block;
+
+  input {
+    text-align: center;
+    display: inline-block;
+  }
+  button {
+    background-color: $primary-color;
+    display: inline-block;
+  }
+}
