@@ -1,10 +1,16 @@
 /* BRAND BAR */
 
 .brand-bar {
-  background-image: url(/assets/img/header/bg-7.jpg);
-  background-size: 40rem;
+  //background-image: url(/assets/img/header/bg-7.jpg);
+  //background-size: 40rem;
   background-repeat: no-repeat;
-  background-position: right;
+  //background-position: right;
+
+  background-image: url(/assets/img/header/bg-1.jpg);
+  background-size: 30rem;
+  background-position-x: right;
+  background-position-y: -50px;
+
   @media screen and (max-width: $medium-screen) {
     background-size: 25rem;
   }
@@ -199,7 +205,8 @@ h1.about-bar__title {
   align-items: center;
 }
 
-.connect-bar__list-group {
+ul.connect-bar__list-group {
+  margin: 0.5rem 0;
   text-align: center;
   flex: 1 1 0;
   display: flex;
@@ -214,7 +221,7 @@ h1.about-bar__title {
 li.connect-bar__list-item {
   display: inline;
   margin: 0 0.5rem;
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 a.connect-bar__icon {
