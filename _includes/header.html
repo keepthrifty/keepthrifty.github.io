@@ -1,28 +1,67 @@
 <header class="site-header">
   <div class="brand-bar">
-    <span class="brand-bar__title"><a href="/">Keep Thrifty</a></span>
+    <a href="/">
+      <div class="brand-bar__title">
+        <span class="brand-bar__title--first">
+          Keep
+        </span>
+        <span class="brand-bar__title--second">
+          Thrifty
+        </span>
+        <span class="brand-bar__title--subtitle">
+          Create Freedom
+        </span>
+      </div>
+    </a>
+    <div class="brand-bar__icons">
+      <ul class="brand-bar__icon-list">
+        <li class="brand-bar__icon-item"><a href="/audio/" class="brand-bar__icon"><i class="fa fa-headphones"></i></a></li>
+        <li class="brand-bar__icon-item"><a href="https://www.youtube.com/channel/UCHpQLpwuiNRNwQ_eLJQInQA" class="brand-bar__icon"><i class="fa fa-youtube-play"></i></a></li>
+        <li class="brand-bar__icon-item"><a href="/work-with-me/#contact" class="brand-bar__icon"><i class="fa fa-envelope"></i></a></li>
+        <li class="brand-bar__icon-item brand-bar__icon-item--variable-width">
+          <form action="{{ '/search/' | relative_url }}" class="search-form connect-bar__form">
+            <input type="text" name="q" class="search-form__input connect-bar__form__input">
+          </form>
+        </li>
+      </ul>
+      <ul class="brand-bar__icon-list">
+        <li class="brand-bar__icon-item"><a href="https://www.twitter.com/keepthrifty" class="brand-bar__icon twitter"><i class="fa fa-twitter-square"></i></a></li>
+        <li class="brand-bar__icon-item"><a href="https://www.pinterest.com/keepthrifty/" class="brand-bar__icon pinterest"><i class="fa fa-pinterest-square"></i></a></li>
+        <li class="brand-bar__icon-item"><a href="https://www.facebook.com/keepthrifty/" class="brand-bar__icon facebook"><i class="fa fa-facebook-square"></i></a></li>
+      </ul>
+    </div>
   </div>
   <div class="nav-bar">
     <ul class="nav-bar__list">
       <li class="nav-bar__list__item {% if page.url == "/start-here/" %}nav-bar__list__item--current{% endif %}"><a href="/start-here/">Start here</a></li>
-      <li class="nav-bar__list__item {% if page.url == "/archive/" %}nav-bar__list__item--current{% endif %}"><a href="/archive/">Archive</a></li>
-    </ul>
-    <div class="nav-bar__stamp">
-      <img src="/assets/img/header/create-your-freedom.png" alt="Create your freedom"/>
-    </div>
-    <ul class="nav-bar__list">
+      <li class="nav-bar__list__item {% if page.url == "/about/" %}nav-bar__list__item--current{% endif %}"><a href="/about/">About</a></li>
+      <li class="nav-bar__list__item {% if page.url == "/archive/" %}nav-bar__list__item--current{% endif %}"><a href="/archive/">Blog</a></li>
       <li class="nav-bar__list__item"><a href="https://thrifty.keepthrifty.com">Thrifty</a></li>
     </ul>
   </div>
-  <div class="about-bar">
-    <div class="about-bar__image">
-      <img src="/assets/img/header/us-winter.png">
+  {% if page.url == '/' %}
+  <div class="content-bar">
+    <a href="/about/">
+      <div class="content-box" id="about-box">
+        <div class="content-box__title-box">
+          <div class="content-box__title">About</div>
+        </div>
+      </div>
+    </a>
+    <div class="content-box" id="blog-box">
+      <div class="content-box__title-box">
+        <div class="content-box__title"><a href="/archive/">Blog</a></div>
+      </div>
     </div>
-    <div class="about-bar__text">
-      <h1 class="about-bar__title">Welcome to Keep Thrifty!</h1>
-      <p>We're Chris and Jaime. Through thrifty living, we're creating freedom to spend more time with our kids, travel, and follow our passions.</p>
-      <p>Join us as we share inspiration and tools to help you take control of your finances so you can create your own financial freedom!</p>
-      <p><a href="/start-here/">Read our story here</a></p>
+    <div class="content-box" id="patreon-box">
+      <div class="content-box__title-box">
+        <div class="content-box__title"><a href="https://www.patreon.com/keepthrifty">Patreon</a></div>
+      </div>
+    </div>
+    <div class="content-box" id="thrifty-box">
+      <div class="content-box__title-box">
+        <div class="content-box__title"><a href="https://thrifty.keepthrifty.com">Thrifty</a></div>
+      </div>
     </div>
   </div>
   <div class="connect-bar">
@@ -40,20 +79,6 @@
         </form>
       </li>
     </ul>
-    <ul class="connect-bar__list-group">
-      <li class="connect-bar__list-item"><a href="https://www.twitter.com/keepthrifty" class="twitter"><i class="fa fa-twitter-square"></i></a></li>
-      <li class="connect-bar__list-item"><a href="https://www.pinterest.com/keepthrifty/" class="pinterest"><i class="fa fa-pinterest-square"></i></a></li>
-      <li class="connect-bar__list-item"><a href="https://www.facebook.com/keepthrifty/" class="facebook"><i class="fa fa-facebook-square"></i></a></li>
-    </ul>
-    <ul class="connect-bar__list-group">
-      <li class="connect-bar__list-item"><a href="/audio/" class="connect-bar__icon"><i class="fa fa-headphones"></i></a></li>
-      <li class="connect-bar__list-item"><a href="https://www.youtube.com/channel/UCHpQLpwuiNRNwQ_eLJQInQA" class="connect-bar__icon"><i class="fa fa-youtube-play"></i></a></li>
-      <li class="connect-bar__list-item"><a href="/work-with-me/#contact" class="connect-bar__icon"><i class="fa fa-envelope"></i></a></li>
-      <li class="connect-bar__list-item">
-        <form action="{{ '/search/' | relative_url }}" class="search-form connect-bar__form">
-          <input type="text" name="q" class="search-form__input connect-bar__form__input">
-        </form>
-      </li>
-    </ul>
   </div>
+  {% endif %}
 </header>
