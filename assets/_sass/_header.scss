@@ -52,7 +52,7 @@ a .brand-bar__title {
   width: 70%;
 }
 .brand-bar__title--second:after {
-  width: 80%;
+  width: 78%;
 }
 .brand-bar__title--subtitle:before {
   -webkit-transition: all 0.35s ease;
@@ -88,7 +88,7 @@ a:hover .brand-bar__title--second:after {
   width: 90%;
 }
 a:hover .brand-bar__title--subtitle:before {
-  right: 0%;
+  right: -5%;
 }
 
 .brand-bar__icons {
