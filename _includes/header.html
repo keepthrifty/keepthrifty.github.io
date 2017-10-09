@@ -15,14 +15,9 @@
     </a>
     <div class="brand-bar__icons">
       <ul class="brand-bar__icon-list">
-        <li class="brand-bar__icon-item"><a href="/audio/" class="brand-bar__icon"><i class="fa fa-headphones"></i></a></li>
-        <li class="brand-bar__icon-item"><a href="https://www.youtube.com/channel/UCHpQLpwuiNRNwQ_eLJQInQA" class="brand-bar__icon"><i class="fa fa-youtube-play"></i></a></li>
-        <li class="brand-bar__icon-item"><a href="/work-with-me/#contact" class="brand-bar__icon"><i class="fa fa-envelope"></i></a></li>
-        <li class="brand-bar__icon-item brand-bar__icon-item--variable-width">
-          <form action="{{ '/search/' | relative_url }}" class="search-form connect-bar__form">
-            <input type="text" name="q" class="search-form__input connect-bar__form__input">
-          </form>
-        </li>
+        <li class="brand-bar__icon-item"><a href="/audio/" class="brand-bar__icon brand-bar__icon--meta"><i class="fa fa-headphones"></i></a></li>
+        <li class="brand-bar__icon-item"><a href="https://www.youtube.com/channel/UCHpQLpwuiNRNwQ_eLJQInQA" class="brand-bar__icon brand-bar__icon--meta"><i class="fa fa-youtube-play"></i></a></li>
+        <li class="brand-bar__icon-item"><a href="/work-with-me/#contact" class="brand-bar__icon brand-bar__icon--meta"><i class="fa fa-envelope"></i></a></li>
       </ul>
       <ul class="brand-bar__icon-list">
         <li class="brand-bar__icon-item"><a href="https://www.twitter.com/keepthrifty" class="brand-bar__icon twitter"><i class="fa fa-twitter-square"></i></a></li>
@@ -30,55 +25,66 @@
         <li class="brand-bar__icon-item"><a href="https://www.facebook.com/keepthrifty/" class="brand-bar__icon facebook"><i class="fa fa-facebook-square"></i></a></li>
       </ul>
     </div>
+    <span class="brand-bar__search-icon">
+      <form action="{{ '/search/' | relative_url }}" class="search-form">
+        <input type="text" name="q" class="search-form__input">
+      </form>
+    </li>
   </div>
   <div class="nav-bar">
     <ul class="nav-bar__list">
-      <li class="nav-bar__list__item {% if page.url == "/start-here/" %}nav-bar__list__item--current{% endif %}"><a href="/start-here/">Start here</a></li>
-      <li class="nav-bar__list__item {% if page.url == "/about/" %}nav-bar__list__item--current{% endif %}"><a href="/about/">About</a></li>
-      <li class="nav-bar__list__item {% if page.url == "/archive/" %}nav-bar__list__item--current{% endif %}"><a href="/archive/">Blog</a></li>
+      <li class="nav-bar__list__item {% if page.url == "/start-here/" %}nav-bar__list__item--current{% endif %}"><a href="/start-here/">Start Here</a></li>
+      <li class="nav-bar__list__item {% if page.url == "/archive/" %}nav-bar__list__item--current{% endif %}"><a href="/archive/">Archive</a></li>
+      <li class="nav-bar__list__item {% if page.url == "/favorite-resources/" %}nav-bar__list__item--current{% endif %}"><a href="/favorite-resources/">Favorites</a></li>
+      <li class="nav-bar__list__item"><a href="https://www.patreon.com/keepthrifty/">Patreon</a></li>
       <li class="nav-bar__list__item"><a href="https://thrifty.keepthrifty.com">Thrifty</a></li>
+
     </ul>
   </div>
   {% if page.url == '/' %}
   <div class="content-bar">
-    <a href="/about/">
-      <div class="content-box" id="about-box">
-        <div class="content-box__title-box">
-          <div class="content-box__title">About</div>
-        </div>
-      </div>
-    </a>
-    <div class="content-box" id="blog-box">
-      <div class="content-box__title-box">
-        <div class="content-box__title"><a href="/archive/">Blog</a></div>
-      </div>
+    <div class="content-box" data-title="start" id="start-here-box">
+      <img src="/assets/img/header/start.jpg" alt="Start Here" />
+      <a href="/start-here/"></a>
     </div>
-    <div class="content-box" id="patreon-box">
-      <div class="content-box__title-box">
-        <div class="content-box__title"><a href="https://www.patreon.com/keepthrifty">Patreon</a></div>
-      </div>
+    <div class="content-box" data-title="archive" id="archive-box">
+      <img src="/assets/img/header/archive.jpg" alt="Archive" />
+      <a href="/archive/"></a>
     </div>
-    <div class="content-box" id="thrifty-box">
-      <div class="content-box__title-box">
-        <div class="content-box__title"><a href="https://thrifty.keepthrifty.com">Thrifty</a></div>
-      </div>
+    <div class="content-box" data-title="audio" id="audio-box">
+      <img src="/assets/img/header/audio.jpg" alt="Audio" />
+      <a href="/audio/"></a>
+    </div>
+    <div class="content-box" data-title="faves" id="favorites-box">
+      <img src="/assets/img/header/favorites.jpg" alt="Favorites" />
+      <a href="/favorite-resources/"></a>
+    </div>
+    <div class="content-box" data-title="thrifty" id="thrifty-box">
+      <img src="/assets/img/header/thrifty.jpg" alt="Thrifty" />
+      <a href="https://thrifty.keepthrifty.com"></a>
+    </div>
+    <div class="content-box" data-title="patreon" id="patreon-box">
+      <img src="/assets/img/header/patreon.jpg" alt="Patreon" />
+      <a href="https://www.patreon.com/keepthrifty/"></a>
     </div>
   </div>
   <div class="connect-bar">
-    <ul class="connect-bar__list-group connect-bar__list-group--subscribe">
-      <li>
-        <form class="connect-bar__form" action="https://keepthrifty.us12.list-manage.com/subscribe/post" method="POST">
-          <div style="position: absolute; left: -5000px;" aria-hidden="true">
-            <input type="text" name="b_e2d9d07904421244770d81bdd_38f7b01157" tabindex="-1" value="">
-          </div>
-          <input type="hidden" name="u" value="e2d9d07904421244770d81bdd">
-          <input type="hidden" name="id" value="38f7b01157">
-          <input type="hidden" name="SIGNUP" value="{{ page.url | prepend: site.url }}">
-          <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" placeholder="Enter email to">
-          <button type="submit" value="Subscribe" name="subscribe">Subscribe</button>
-        </form>
-      </li>
-    </ul>
+    <div class="connect-bar__text">
+      Keep Thrifty, Create Your Freedom
+    </div>
+    <div class= "connect-bar__subscribe">
+      <form class="connect-bar__form" action="https://keepthrifty.us12.list-manage.com/subscribe/post" method="POST">
+        <div style="position: absolute; left: -5000px;" aria-hidden="true">
+          <input type="text" name="b_e2d9d07904421244770d81bdd_38f7b01157" tabindex="-1" value="">
+        </div>
+        <input type="hidden" name="u" value="e2d9d07904421244770d81bdd">
+        <input type="hidden" name="id" value="38f7b01157">
+        <input type="hidden" name="SIGNUP" value="{{ page.url | prepend: site.url }}">
+        <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" placeholder="Enter email to">
+        <button type="submit" value="Subscribe" name="subscribe">Subscribe</button>
+      </form>
+    </div>
   </div>
+  <h2 class="latest-articles">Latest Articles</h2>
   {% endif %}
 </header>

@@ -93,7 +93,7 @@ a {
 .post__title {
   font-size: 2.5rem;
   text-align: center;
-  color: black;
+  color: $off-black;
   margin: 0rem 0 1rem 0;
   text-transform: uppercase;
   a {
@@ -103,7 +103,7 @@ a {
 
 .post__title--main {
   font-size: 2.5rem;
-  color: black;
+  color: $off-black;
   margin: 0 0 0.5rem 0;
   font-weight: 300;
 }
@@ -635,7 +635,7 @@ nav.navbar {
 }
 
 .navbar-list__link {
-  color: black;
+  color: $off-black;
 }
 
 
@@ -654,7 +654,7 @@ nav.navbar {
   position: relative;
 }
 .navbar-list__item a {
-  color: black;
+  color: $off-black;
   text-decoration: none;
 }
 .navbar-list__item:before,
@@ -1037,7 +1037,7 @@ a.tipue_search_foot_box {
   padding: 0.5rem 4rem 1.5rem;
   margin: 0 auto;
   .meta-header {
-    color: black;
+    color: $off-black;
   }
 }
 

@@ -1,9 +1,13 @@
 /* BRAND BAR */
 
+.brand-bar {
+  position: relative;
+}
+
 a .brand-bar__title {
   text-transform: uppercase;
   font-weight: 300;
-  color: black;
+  color: $off-black;
   margin: 2rem 0 4rem 1rem;
 }
 
@@ -21,7 +25,7 @@ a .brand-bar__title {
 
 .brand-bar__title--subtitle {
   font-size: 0.66666667rem;
-  color: black;
+  color: $off-black;
   letter-spacing: .2rem;
   text-transform: uppercase;
   font-weight: 300;
@@ -102,15 +106,21 @@ a:hover .brand-bar__title--subtitle:before {
   margin: 0 0.2rem;
   text-align: center;
   font-size: 1.5rem;
-  width: 26px;
+  width: 1.625rem;
   display: inline-block;
-  a {
-    color: $meta-color;
-  }
 }
 
-.brand-bar__icon-item--variable-width {
+a.brand-bar__icon--meta {
+  color: $meta-color;
+}
+
+.brand-bar__search-icon {
   width: auto;
+  position: absolute;
+  bottom: 0.2rem;
+  right: 0.5rem;
+  text-align: right;
+  margin: 0.2rem 0.2rem;
 }
 
 .search-form__input {
@@ -138,6 +148,7 @@ a:hover .brand-bar__title--subtitle:before {
 .search-form__input:focus, .search-form__input--active {
   cursor: auto;
   width: 20rem;
+  outline: none !important;
   border: 1px solid $meta-color;
   border-radius: 3px;
 }
@@ -148,6 +159,7 @@ a:hover .brand-bar__title--subtitle:before {
   box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
   display: flex;
   align-items: flex-start;
+  flex-wrap: wrap;
   position: relative;
   background-color: $primary-color;
 }
@@ -157,6 +169,7 @@ ul.nav-bar__list {
   list-style: none;
   text-align: center;
   display: flex;
+  flex-wrap: wrap;
   margin: 0;
   justify-content: space-evenly;
   width: calc(100vw - 20rem);
@@ -251,56 +264,6 @@ h1.about-bar__title {
   font-size: 1.5rem;
 }
 
-/* CONTENT BAR */
-
-.content-bar {
-  padding: 4rem;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
-
-.content-box {
-  flex: 1 1 300px;
-  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
-  min-width: 300px;
-  min-height: 200px;
-  margin: 2rem;
-  position: relative;
-}
-
-.content-box__title-box {
-  position: absolute;
-  background-color: black;
-  transform: rotate(-45deg);
-}
-
-.content-box__title {
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  font-size: 2rem;
-  text-transform: capitalize;
-  a {
-    color: white;
-  }
-}
-
-#about-box {
-  background-image: url('/assets/img/header/arrow.jpg');
-}
-
-
-
-
-
-
-
-
-
-
-
 /* CONNECT BAR */
 
 .connect-bar {
@@ -308,43 +271,50 @@ h1.about-bar__title {
   box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
   background-color: rgba(0, 0, 0, 0.15);
+  min-height: 5rem;
+  padding: 1rem;
 }
 
-ul.connect-bar__list-group {
-  margin: 0.5rem 0;
-  text-align: center;
-  flex: 1 1 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.connect-bar__subscribe {
+  margin: 1rem 0.5rem;
 }
 
-.connect-bar__list-group--subscribe {
-  min-width: 300px;
-}
-
-li.connect-bar__list-item {
-  display: inline;
-  margin: 0 0.5rem;
-  font-size: 2rem;
-}
-
-a.connect-bar__icon {
-  color: $meta-color;
+.connect-bar__text {
+  font-weight: 300;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  margin: 1rem 0.5rem;
 }
 
 .connect-bar__form, .connect-bar__form__input {
-  display: inline-block;
-
   input {
     text-align: center;
     display: inline-block;
+    border: 2px solid $meta-color;
+  }
+  input:focus {
+    outline: none !important;
+    border: 2px solid $primary-color;
   }
   button {
     background-color: $primary-color;
     display: inline-block;
+  }
+}
+
+/* LATEST ARTICLES */
+
+.latest-articles {
+  margin: 4rem 0 -2rem;
+  color: $meta-color;
+  font-weight: 300;
+  font-size: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  @media screen and (max-width: $medium-screen) {
+    margin: 4rem 0 0;
   }
 }
