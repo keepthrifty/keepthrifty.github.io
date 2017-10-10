@@ -24,31 +24,19 @@ tags: [mini-retirement]
 
 audio:
   file: /assets/audio/posts/keep-thrifty-0006-mini-retirement-vision.mp3
-  duration: '00:08:25'
+  duration: '00:08:09'
   explicit: 'no'
   block: 'no'
-  length: 8087845
+  length: 7826203
 
 redirect_from:
   - /vision/
 
 ---
 
-"I mean, _if you can make that work_, it sounds amazing." I can't count the number of times I've heard this since revealing [my one-year mini-retirement]({% post_url 2017/2017-07-11-one-year-mini-retirement %}). It pains me to hear it because of the assumption of the person saying it that achieving a mini-retirement isn't possible for them. But we know that __they can__. The formula for getting to a mini-retirement is simpler than you might think.
+There's one phrase we've heard over and over again since revealing [our mini-retirement](({% post_url 2017/2017-07-11-one-year-mini-retirement %})): "I mean, _if you can make that work_, it sounds amazing." It pains me to hear because the person assumes that achieving a mini-retirement isn't possible for them. But I know that __they can__. The formula for getting to a mini-retirement is simpler than you might think.
 
-Here it is:
-
-!['Means' divided by 'Budget' multiplied by 'Commitment'](/assets/img/posts/2017-10-24-mini-retirement-formula/mini-retirement-formula.png){: class="no-shadow"}
-
-_That's it?_
-
-You got it. It's not rocket science.
-
-## Well Duh...
-
-Ok, stay with me here. I know this may all seem so simple as to be obvious, but let's dig a bit deeper.
-
-If you don't think a mini-retirement is possible for you, which part of the formula is holding you back?
+If you don't think a mini-retirement is possible for you, what's holding you back?
 
 _Is it your means_? Maybe you feel like your income isn't high enough - that your month-to-month spending is just covering your necessities and you don't have any room for savings.
 
@@ -77,9 +65,9 @@ Let's go through an activity to jump-start that process.
 
 _If you're single, you can do this activity alone. If you're married, get your spouse and kids involved. You're going to need some paper or a computer so you can record your answers._
 
-Ask yourself: "If money were no object for the next year but my life returned to normal afterward, how would I/we spend my time over that year?"
+Ask yourself: "If money were no object for the next year but my life returned to normal afterward, how would I spend my time over that year?"
 
-Leave the world of possibilities and go through these questions:
+Open the world of possibilities and go through these questions:
 
 - Who would you spend your time with?
 - What would you do? What activities, events would you spend time on?
