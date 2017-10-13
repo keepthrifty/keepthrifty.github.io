@@ -1,20 +1,90 @@
 <header class="site-header">
-  <nav class="navbar">
-    <ul class="navbar-list navbar-list--logo">
-      <a href="/" data-hover="Keep Thrifty" class="navbar-list__link"><li class="navbar-list__item navbar-list__item--current">Keep Thrifty</li></a>
+  <div class="brand-bar">
+    <a href="/">
+      <div class="brand-bar__title">
+        <span class="brand-bar__title--first">
+          Keep
+        </span>
+        <span class="brand-bar__title--second">
+          Thrifty
+        </span>
+        <span class="brand-bar__title--subtitle">
+          Create Freedom
+        </span>
+      </div>
+    </a>
+    <div class="brand-bar__icons">
+      <ul class="brand-bar__icon-list">
+        <li class="brand-bar__icon-item"><a href="/audio/" class="brand-bar__icon brand-bar__icon--meta"><i class="fa fa-headphones"></i></a></li>
+        <li class="brand-bar__icon-item"><a href="https://www.youtube.com/channel/UCHpQLpwuiNRNwQ_eLJQInQA" class="brand-bar__icon brand-bar__icon--meta"><i class="fa fa-youtube-play"></i></a></li>
+        <li class="brand-bar__icon-item"><a href="/work-with-me/#contact" class="brand-bar__icon brand-bar__icon--meta"><i class="fa fa-envelope"></i></a></li>
+      </ul>
+      <ul class="brand-bar__icon-list">
+        <li class="brand-bar__icon-item"><a href="https://www.twitter.com/keepthrifty" class="brand-bar__icon twitter"><i class="fa fa-twitter-square"></i></a></li>
+        <li class="brand-bar__icon-item"><a href="https://www.pinterest.com/keepthrifty/" class="brand-bar__icon pinterest"><i class="fa fa-pinterest-square"></i></a></li>
+        <li class="brand-bar__icon-item"><a href="https://www.facebook.com/keepthrifty/" class="brand-bar__icon facebook"><i class="fa fa-facebook-square"></i></a></li>
+      </ul>
+    </div>
+    <span class="brand-bar__search-icon">
+      <form action="{{ '/search/' | relative_url }}" class="search-form">
+        <input type="text" name="q" class="search-form__input">
+      </form>
+    </li>
+  </div>
+  <div class="nav-bar">
+    <ul class="nav-bar__list">
+      <li class="nav-bar__list__item {% if page.url == "/start-here/" %}nav-bar__list__item--current{% endif %}"><a href="/start-here/">Start Here</a></li>
+      <li class="nav-bar__list__item {% if page.url == "/archive/" %}nav-bar__list__item--current{% endif %}"><a href="/archive/">Archive</a></li>
+      <li class="nav-bar__list__item {% if page.url == "/favorite-resources/" %}nav-bar__list__item--current{% endif %}"><a href="/favorite-resources/">Favorites</a></li>
+      <li class="nav-bar__list__item"><a href="https://www.patreon.com/keepthrifty/">Patreon</a></li>
+      <li class="nav-bar__list__item"><a href="https://thrifty.keepthrifty.com">Thrifty</a></li>
+
     </ul>
-    <ul class="navbar-list">
-      <li class="navbar-list__item {% if page.url == "/start-here/" %}navbar-list__item--current{% endif %}"><a href="/start-here/" data-hover="Start Here">Start Here</a></li>
-      <li class="navbar-list__item {% if page.url == "/archive/" %}navbar-list__item--current{% endif %}"><a href="/archive/" data-hover="Archive">Archive</a></li>
-      <li class="navbar-list__item {% if page.url == "/audio/" %}navbar-list__item--current{% endif %}"><a href="/audio/" data-hover="Audio">Audio</a></li>
-      <li class="navbar-list__item {% if page.url == "/work-with-me/" %}navbar-list__item--current{% endif %}"><a href="/work-with-me/" data-hover="Work With Me">Work</a></li>
-      <li class="navbar-list__item {% if page.url == "/favorite-resources/" %}navbar-list__item--current{% endif %}"><a href="/favorite-resources/" data-hover="Favorites">Favorites</a></li>
-      <li class="navbar-list__item"><a href="https://thrifty.keepthrifty.com" data-hover="Thrifty">Thrifty</a></li>
-      <li class="navbar-list__item--no-highlight">
-        <form action="{{ '/search/' | relative_url }}" class="search-form">
-          <input type="text" name="q" class="search-form__input">
-        </form>
-      </li>
-    </ul>
-  </nav>
+  </div>
+  {% if page.url == '/' %}
+  <div class="content-bar">
+    <div class="content-box" data-title="start" id="start-here-box">
+      <img src="/assets/img/header/start.jpg" alt="Start Here" />
+      <a href="/start-here/"></a>
+    </div>
+    <div class="content-box" data-title="archive" id="archive-box">
+      <img src="/assets/img/header/archive.jpg" alt="Archive" />
+      <a href="/archive/"></a>
+    </div>
+    <div class="content-box" data-title="audio" id="audio-box">
+      <img src="/assets/img/header/audio.jpg" alt="Audio" />
+      <a href="/audio/"></a>
+    </div>
+    <div class="content-box" data-title="faves" id="favorites-box">
+      <img src="/assets/img/header/favorites.jpg" alt="Favorites" />
+      <a href="/favorite-resources/"></a>
+    </div>
+    <div class="content-box" data-title="thrifty" id="thrifty-box">
+      <img src="/assets/img/header/thrifty.jpg" alt="Thrifty" />
+      <a href="https://thrifty.keepthrifty.com"></a>
+    </div>
+    <div class="content-box" data-title="patreon" id="patreon-box">
+      <img src="/assets/img/header/patreon.jpg" alt="Patreon" />
+      <a href="https://www.patreon.com/keepthrifty/"></a>
+    </div>
+  </div>
+  <div class="connect-bar">
+    <div class="connect-bar__text">
+      Keep Thrifty, Create Your Freedom
+    </div>
+    <div class= "connect-bar__subscribe">
+      <form class="connect-bar__form" action="https://keepthrifty.us12.list-manage.com/subscribe/post" method="POST">
+        <div style="position: absolute; left: -5000px;" aria-hidden="true">
+          <input type="text" name="b_e2d9d07904421244770d81bdd_38f7b01157" tabindex="-1" value="">
+        </div>
+        <input type="hidden" name="u" value="e2d9d07904421244770d81bdd">
+        <input type="hidden" name="id" value="38f7b01157">
+        <input type="hidden" name="SIGNUP" value="{{ page.url | prepend: site.url }}">
+        <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" placeholder="Enter email to">
+        <button type="submit" value="Subscribe" name="subscribe">Subscribe</button>
+      </form>
+    </div>
+  </div>
+  <h2 class="latest-articles">Latest Articles</h2>
+  {% endif %}
 </header>

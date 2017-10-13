@@ -4,13 +4,19 @@
   }
 
   header.site-header {
-    display: block;
-    ul.navbar-list {
-      display: none;
+    display: block !important;
+    .brand-bar {
+      text-align: center;
+      -webkit-print-color-adjust: exact;
     }
-    ul.navbar-list--logo {
-      display: block !important;
-    }
+  }
+
+
+  .brand-bar__icons, .brand-bar__search-icon {
+    display: none !important;
+  }
+  .nav-bar {
+    display: none !important;
   }
 
   .post__audio, .tags, .post__comment-count {
@@ -39,7 +45,7 @@
       display: none;
     }
   }
-  .side-column, .tweet-link {
+  .tweet-link {
     display: none;
   }
 
@@ -117,4 +123,8 @@
   h3 {
       page-break-after: avoid;
   }
+
+  :last-child {
+     page-break-after: auto;
+   }
 }

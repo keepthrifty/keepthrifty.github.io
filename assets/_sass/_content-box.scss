@@ -1,0 +1,120 @@
+.content-bar {
+  margin: 2rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.content-box {
+  flex: 0 0 auto;
+  background-color: white;
+  color: $off-black;
+  display: inline-block;
+  font-weight: 300;
+  font-size: 1rem;
+  margin: 2rem 2rem;
+  max-width: 20rem;
+  min-width: 15rem;
+  overflow: hidden;
+  position: relative;
+  text-align: left;
+  width: 100%;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+}
+
+.content-box#start-here-box {
+  background-color: $bg-color;
+}
+.content-box#archive-box {
+  background-color: $meta-color;
+  color: white;
+}
+.content-box#audio-box {
+  background-color: white;
+}
+.content-box#patreon-box {
+  background-color: #F96854;
+  color: white;
+}
+.content-box#thrifty-box {
+  background-color: $primary-color;
+  color: white;
+}
+.content-box#favorites-box {
+  background-color: #607D8B;
+  color: white;
+}
+
+.content-box *,
+.content-box *:before,
+.content-box *:after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.45s ease;
+  transition: all 0.45s ease;
+}
+
+.content-box img {
+  backface-visibility: hidden;
+  max-width: 100%;
+  vertical-align: top;
+  color: rgba(0,0,0,0);
+}
+
+.content-box:before {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  content: '';
+  background-color: inherit;
+  opacity: 0.87;
+  -webkit-transition: all 0.45s ease;
+  transition: all 0.45s ease;
+}
+
+.content-box:after {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  content: attr(data-title);
+  font-size: 2rem;
+  text-transform: uppercase;
+  opacity: 1;
+  -webkit-transition: all 0.45s ease;
+  transition: all 0.45s ease;
+}
+
+.content-box:before {
+  transform: translate(-50%,-45%) rotate(-45deg);
+}
+
+.content-box:after {
+  transform: translate(-50%,-50%) rotate(-45deg) translate(-2.4rem,-6rem);
+}
+
+.content-box a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+
+.content-box:hover:before,
+.content-box.hover:before {
+  transform: translate(-50%,-45%) rotate(-45deg) scale(1.5,1.5);
+  transform: none;
+    opacity: 1;
+}
+
+.content-box:hover:after,
+.content-box.hover:after {
+  transform: translate(-50%,-50%) rotate(-45deg) translate(-1em,-2em);
+  transform: translate(-50%,-50%);
+}
