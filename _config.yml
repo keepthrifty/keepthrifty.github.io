@@ -9,7 +9,7 @@
 title: Keep Thrifty
 email: chris@keepthrifty.com
 description: > # this means to ignore newlines until "baseurl:"
-  Take control of your finances and schedule so you can pursue your dreams
+  Tools and inspiration to help you create your financial freedom
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.keepthrifty.com" # the base hostname & protocol for your site
 
@@ -33,6 +33,12 @@ defaults:
         width: 800
   - scope:
       path: ""
+      type: "pages"
+    values:
+      content-upgrade: 5-steps-to-mini-retirement-cheat-sheet
+  - scope:
+      path: ""
+      type: "posts"
     values:
       content-upgrade: 5-steps-to-mini-retirement-cheat-sheet
 

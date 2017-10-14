@@ -7,6 +7,14 @@ html{
   line-height: 1.5;
 
   @media only screen and (min-width: 0) {
+    font-size: 11px;
+  }
+
+  @media only screen and (min-width: $xs-screen) {
+    font-size: 12px;
+  }
+
+  @media only screen and (min-width: $small-screen) {
     font-size: 14px;
   }
 

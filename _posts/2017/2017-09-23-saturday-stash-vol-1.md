@@ -10,7 +10,8 @@ description: "Looking for great articles to check out this weekend? Check out my
 date: 2017-09-23 8:58:00 -0500
 
 image:
-  path: /assets/img/posts/2017-09-23-saturday-stash-vol-1/saturday-stash-vol-1.jpg
+  path: /assets/img/saturday-stash/saturday-stash.jpg
+pinterest-image: /assets/img/saturday-stash/saturday-stash-vol-1
 
 tags: [saturday stash]
 

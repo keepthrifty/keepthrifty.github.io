@@ -8,8 +8,11 @@ $secondary-color: #039BE5; //color("blue", "accent-4") !default;
 $meta-color: #9E9E9E; //color("grey", "base") !default;
 $bg-color: #F5F5F5; //color("grey", "lighten-4") !default;
 $code-color: #DCEDC8; //color("light-green", "lighten-4") !default;
+$off-black: rgba(0, 0, 0, 0.87);
 
 $minimum-break: 600px;
+$xs-screen: 360px;
+$small-screen: 400px;
 $medium-screen: 992px;
 $large-screen: 1200px;
 
@@ -18,6 +21,8 @@ $large-screen: 1200px;
         "roboto",
         "typography",
         "custom",
+        "header",
+        "content-box",
         "thrifty",
         "number-headings",
         "../font-awesome-4.7.0/scss/font-awesome",
