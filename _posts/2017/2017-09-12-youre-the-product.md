@@ -20,6 +20,7 @@ related-posts: [
   "/2016/07/21/spending-on-free"
 ]
 
+audio_archive: true
 audio:
   file: /assets/audio/posts/keep-thrifty-0001-youre-the-product.mp3
   duration: '00:05:28'

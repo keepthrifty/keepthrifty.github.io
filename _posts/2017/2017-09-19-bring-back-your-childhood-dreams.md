@@ -19,6 +19,7 @@ related-posts: [
   "/2016/03/23/engagement-ring-sold"
 ]
 
+audio_archive: true
 audio:
   file: /assets/audio/posts/keep-thrifty-0002-bring-back-childhood-dreams.mp3
   duration: '00:05:52'
