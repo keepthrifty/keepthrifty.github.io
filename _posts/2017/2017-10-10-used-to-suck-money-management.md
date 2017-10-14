@@ -19,6 +19,7 @@ related-posts: [
   /power-of-a-partner
 ]
 
+audio_archive: true
 audio:
   file: /assets/audio/posts/keep-thrifty-0004-suck-at-money-management.mp3
   duration: '00:03:01'
