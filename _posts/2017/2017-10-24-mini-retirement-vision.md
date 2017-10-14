@@ -22,6 +22,7 @@ related-posts: [
 
 tags: [mini-retirement]
 
+audio_archive: true
 audio:
   file: /assets/audio/posts/keep-thrifty-0006-mini-retirement-vision.mp3
   duration: '00:08:09'
