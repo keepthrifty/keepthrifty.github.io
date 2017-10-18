@@ -25,6 +25,8 @@ We decided to record a handful of videos to start, so without further ado, here 
 
 You can find each of the videos embedded below or on the [Keep Thrifty YouTube channel](https://www.youtube.com/playlist?list=PLfi4J9hdaYLxY2i6ic4ftJ4tWV58Sar7s). Check them out, subscribe to our channel, and let us know what you think in the comments below!
 
+Going forward, we'll be releasing a new episode every Thursday, so stay tuned for more.
+
 ## Series Intro
 
 {% include video-embed.html video-link='https://www.youtube.com/embed/3Hk7q7DnMY4?ecver=2' %}
