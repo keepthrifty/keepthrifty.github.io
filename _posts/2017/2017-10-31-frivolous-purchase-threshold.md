@@ -86,9 +86,9 @@ In addition, tracking manually (with a tool like [Thrifty](https://thrifty.keept
 
 Take a piece of painter's tape and write one of your big financial goals on it.
 
-Put that strip of tape on your credit card so you can your goal every time you pull your card out.
+Put that strip of tape on your credit card so you see your goal every time you pull your card out.
 
-When you see that note, think about every item in your cart - is this really worth more than my goal?
+When you see that reminder, think about every item in your shopping cart - is this really worth more than my goal?
 
 Having a constant reminder of your big goals whenever you're going to spend is a great way to force more mindful spending.
 
