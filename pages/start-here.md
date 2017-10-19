@@ -56,9 +56,11 @@ Once you've subscribed, you'll get links to every post from here on out in your 
 
 {% include post-list-featured-text-list.html %}
 
+If you're ready to go all-in, you can head on over to [the archives]({{site.url}}/archive/), where you can find every post (written and audio) starting from day one.
+
 If you prefer podcasts, we've started recording [audio versions of our posts]({{site.url}}/audio/) to help you access Keep Thrifty wherever you are. Plus, Chris has been told he has a voice for radio. Or was that face? Hmm...either way...
 
-If you're ready to go all-in, you can head on over to [the archives]({{site.url}}/archive/), where you can find every post (written and audio) starting from day one.
+Finally, we now have a video series called [_Our Thrifty Life_](https://www.youtube.com/playlist?list=PLfi4J9hdaYLxY2i6ic4ftJ4tWV58Sar7s) where we talk about living a thrifty life of intention, while working to create our own financial freedom.
 
 We'd love to hear your thoughts on what you find here and what your own financial experience has been. You can get a hold of us on [Twitter](https://www.twitter.com/keepthrifty/) or by [sending a note]({{site.url}}/work-with-me/#contact).
 
