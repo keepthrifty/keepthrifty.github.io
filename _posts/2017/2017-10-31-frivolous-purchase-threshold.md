@@ -19,11 +19,11 @@ related-posts: [
 
 audio_archive: true
 audio:
-  file: /assets/audio/posts/keep-thrifty-TK.mp3
-  duration: '00:03:01' #TK
+  file: /assets/audio/posts/keep-thrifty-0007-frivolous-purchase-threshold.mp3
+  duration: '00:04:39'
   explicit: 'no'
   block: 'no'
-  length: 2905569 #TK
+  length: 4473334
 
 tags: [money]
 
@@ -43,8 +43,6 @@ You could run in to buy one bottle of shampoo and walk out with a new kitchen ga
 Target is an expert at this. In marketing circles, the work they do on optimizing store layout, lighting, and product placement to maximize your purchases is legendary.
 
 But I think the biggest trick that merchandizers have pulled is convincing us that, below a certain price, a purchase is negligible.
-
-You hadn't ever considered buying a cheese knife but knowing that it was _"only $10"_ suddenly made it a reasonable purchase. Think of the fancy parties you could host!
 
 _Have you ever seen something in a store and said: "Well, it's only $..."?_
 
