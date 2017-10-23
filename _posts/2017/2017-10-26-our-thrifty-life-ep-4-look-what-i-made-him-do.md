@@ -6,7 +6,7 @@ author_email: chris@keepthrifty.com
 
 title: "Look What I Made Him Do"
 subtitle: "Our Thrifty Life - Episode 4"
-description: ""
+description: "What happens when you send an anti-shopping dad into Old Navy to get leggings for his daughters?"
 
 date: 2017-10-26 6:58:00 -0500
 
