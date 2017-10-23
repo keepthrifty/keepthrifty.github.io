@@ -42,9 +42,9 @@ Keep Thrifty is our way of sharing what we've learned with others so they can da
 
 Over 50,000 people have ventured into this little corner of the web to read an article, download a spreadsheet, [track their spending](https://thrifty.keepthrifty.com), or get inspired to dream.
 
-The best way to get connected is to subscribe for e-mail updates. We send a weekly newsletter with updates about what we're working on, what's going on with the Keep Thrifty Family, and with links to our latest articles and favorite finds from around the web.
+The best way to get connected is to subscribe for e-mail updates. We send two emails a week (one with each new post) and include updates about what we're working on and what's going on in our personal lives.
 
-If you subscribe, you'll also get a __free__ (who doesn't love free?) copy of our _"5 Steps to a Mini-Retirement"_ cheat sheet. Fill out the form below to get the cheat sheet and start getting the weekly Keep Thrifty update!
+If you subscribe, you'll also get a __free__ (who doesn't love free?) copy of our _"5 Steps to a Mini-Retirement"_ cheat sheet. Fill out the form below to get the cheat sheet and our regular updates!
 
 <div class="boxed">
 {% include content-upgrade.html %}
@@ -56,9 +56,11 @@ Once you've subscribed, you'll get links to every post from here on out in your 
 
 {% include post-list-featured-text-list.html %}
 
+If you're ready to go all-in, you can head on over to [the archives]({{site.url}}/archive/), where you can find every post (written and audio) starting from day one.
+
 If you prefer podcasts, we've started recording [audio versions of our posts]({{site.url}}/audio/) to help you access Keep Thrifty wherever you are. Plus, Chris has been told he has a voice for radio. Or was that face? Hmm...either way...
 
-If you're ready to go all-in, you can head on over to [the archives]({{site.url}}/archive/), where you can find every post (written and audio) starting from day one.
+Finally, we now have a video series called [_Our Thrifty Life_](https://www.youtube.com/playlist?list=PLfi4J9hdaYLxY2i6ic4ftJ4tWV58Sar7s) where we talk about living a thrifty life of intention, while working to create our own financial freedom.
 
 We'd love to hear your thoughts on what you find here and what your own financial experience has been. You can get a hold of us on [Twitter](https://www.twitter.com/keepthrifty/) or by [sending a note]({{site.url}}/work-with-me/#contact).
 
