@@ -14,7 +14,9 @@ image:
 pinterest-image: /assets/img/posts/2017-10-31-frivolous-purchase-threshold/frivolous-purchase-threshold
 
 related-posts: [
-  TK
+  /used-to-suck-money-management,
+  /2017/06/13/our-not-so-thrifty-past,
+  /2016/03/14/soda-for-retirement
 ]
 
 audio_archive: true
