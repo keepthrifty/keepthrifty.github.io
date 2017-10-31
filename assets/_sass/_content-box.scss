@@ -32,8 +32,13 @@
   background-color: $meta-color;
   color: white;
 }
-.content-box#audio-box {
-  background-color: white;
+.content-box#favorites-box {
+  background-color: #FF8F00;
+  color: white;
+}
+.content-box#video-box {
+  background-color: #cc181e;
+  color: white;
 }
 .content-box#patreon-box {
   background-color: #F96854;
@@ -43,7 +48,7 @@
   background-color: $primary-color;
   color: white;
 }
-.content-box#favorites-box {
+.content-box#audio-box {
   background-color: #607D8B;
   color: white;
 }

@@ -16,6 +16,8 @@ pinterest-image: /assets/img/our-thrifty-life/look-what-i-made-him-do-pinterest
 
 tags: [our thrifty life]
 
+video: true
+
 ---
 
 Chris and I had so much fun making this video. Chris shaved (his beard) a few days ago and I let my crazy hair down.
