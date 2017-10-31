@@ -35,7 +35,7 @@ redirect_from:
 
 ---
 
-There's one phrase we've heard over and over again since revealing [our mini-retirement](({% post_url 2017/2017-07-11-one-year-mini-retirement %})): "I mean, _if you can make that work_, it sounds amazing." It pains me to hear because the person assumes that achieving a mini-retirement isn't possible for them. But I know that __they can__. The formula for getting to a mini-retirement is simpler than you might think.
+There's one phrase we've heard over and over again since revealing [our mini-retirement]({% post_url 2017/2017-07-11-one-year-mini-retirement %}): "I mean, _if you can make that work_, it sounds amazing." It pains me to hear because the person assumes that achieving a mini-retirement isn't possible for them. But I know that __they can__. The formula for getting to a mini-retirement is simpler than you might think.
 
 If you don't think a mini-retirement is possible for you, what's holding you back?
 
