@@ -31,7 +31,7 @@ affiliate: true
 
 ---
 
-What a month! Between [moving]({% post_url 2017/2017-06-27-minimalist-moving %}), closing on the sale of our house, reaching debt freedom, celebrating [our nine-year anniversary]({% post_url 2017/2017-07-18-power-of-a-partner %}), and kicking off [a one-year mini-retirement]( 2017-07-11-one-year-mini-retirement %}), we've flipped a good chunk of our life over! We've got our road trip coming up this month and then the school year starts. At that point, everything _should_ settle down a bit. For now, let's take a look at how our nothing new year challenge is going and give the details of our final mortgage payment.
+What a month! Between [moving]({% post_url 2017/2017-06-27-minimalist-moving %}), closing on the sale of our house, reaching debt freedom, celebrating [our nine-year anniversary]({% post_url 2017/2017-07-18-power-of-a-partner %}), and kicking off [a one-year mini-retirement]({% post_url 2017/2017-07-11-one-year-mini-retirement %}), we've flipped a good chunk of our life over! We've got our road trip coming up this month and then the school year starts. At that point, everything _should_ settle down a bit. For now, let's take a look at how our nothing new year challenge is going and give the details of our final mortgage payment.
 
 Let's start with an overview of our spending for this month.
 
