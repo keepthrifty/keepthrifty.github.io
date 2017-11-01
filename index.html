@@ -8,7 +8,7 @@ exclude_from_search: true
   <article class="post">
     <header class="post__header">
       <div class="post__title">
-        <h3 class="post__title--main"><a href="{{ post.url}}">{{ post.title }}</a></h3>
+        <h3 class="post__title--main"><a href="{{ post.url}}">{% if post.video %}<i class="fa fa-youtube-play"></i> {% endif %}{{ post.title }}</a></h3>
         {% if post.subtitle %}<h4 class="post__title--subtitle"><a href="{{ post.url}}">{{ post.subtitle }}</h4></a>{% endif %}
       </div>
       {% unless post.nodisqus %}
@@ -29,7 +29,11 @@ exclude_from_search: true
     <main class="post__body">
       <p>{{ post.excerpt | strip_html }}</p>
       <div class="call-to-action-container">
+        {% if post.video %}
+        <div class="call-to-action"><a href="{{ post.url }}">Watch...</a></div>
+        {% else %}
         <div class="call-to-action"><a href="{{ post.url }}">Continue reading...</a></div>
+        {% endif %}
         {% if post.audio %}
         <span class="meta-header">or</span>
         <div class="call-to-action"><a href="{{ post.url }}#post__audio"><i class="fa fa-headphones"></i> Listen</a></div>

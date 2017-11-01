@@ -23,7 +23,9 @@ comments: true
         </div>
       </div>
       {% endunless %}
-      {% if page.image %}
+      {% if page.video.path %}
+        {% include video-embed.html video-link=page.video.path %}
+      {% elsif page.image %}
         <img class="post__header__image" alt="{{page.title}}" src="{{site.url}}{{page.image.path}}" />
       {% endif %}
       {% include page-audio.html %}
