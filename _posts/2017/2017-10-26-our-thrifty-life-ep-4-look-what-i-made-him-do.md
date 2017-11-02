@@ -16,7 +16,8 @@ pinterest-image: /assets/img/our-thrifty-life/look-what-i-made-him-do-pinterest
 
 tags: [our thrifty life]
 
-video: true
+video:
+  path: https://www.youtube.com/embed/wZ0oK4AM1u0?ecver=2
 
 ---
 
@@ -27,7 +28,5 @@ I’ve been stuck in bed for over a week with sciatic nerve pain. Chris has been
 This video is under four minutes long. Hope you enjoy!
 
 If you want to see more, check out the [Our Thrifty Life playlist on YouTube](https://www.youtube.com/playlist?list=PLfi4J9hdaYLxY2i6ic4ftJ4tWV58Sar7s).
-
-{% include video-embed.html video-link='https://www.youtube.com/embed/wZ0oK4AM1u0?ecver=2' %}
 
 _Wives - have you ever sent your husband to do the shopping? Husbands - ever been stuck in a store trying to figure out what leggings are?_
