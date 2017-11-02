@@ -22,7 +22,8 @@ related-posts: [
   "/2017/06/05/nothing-new-year-month-five-update",
   "/nothing-new-year-month-six-update",
   "/nothing-new-year-month-eight-update",
-  "/nothing-new-year-month-nine-update"
+  "/nothing-new-year-month-nine-update",
+  "/nothing-new-year-month-ten-update"
 ]
 
 tags: [nothing new year]
