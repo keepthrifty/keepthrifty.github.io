@@ -10,7 +10,7 @@ description: "We had our lowest spending month since January. It's a huge accomp
 date: 2017-11-07 6:58:00 -0500
 
 image:
-  path: /assets/img/posts/2017-11-07-nothing-new-year-month-ten-update/sunset.jpg
+  path: /assets/img/posts/2017-11-07-nothing-new-year-month-ten-update/running-shoes.jpg
 pinterest-image: /assets/img/posts/2017-11-07-nothing-new-year-month-ten-update/nny-month-10-update
 
 related-posts: [
