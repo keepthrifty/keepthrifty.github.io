@@ -1,0 +1,39 @@
+chris_durheim:
+  name: Chris
+  email: chris@keepthrifty.com
+  web: https://www.keepthrifty.com
+  image: /assets/img/authors/chris.jpg
+  twitter: keepthrifty
+  pinterest: keepthrifty
+  facebook: keepthrifty
+jaime_durheim:
+  name: Jaime
+  email: jaime@keepthrifty.com
+  web: https://www.keepthrifty.com
+  image: /assets/img/authors/jaime.jpg
+  twitter: keepthrifty
+  pinterest: keepthrifty
+  facebook: keepthrifty
+gundo_money:
+  name: '[Guest] Elsie from Gundo Money'
+  web: http://www.gundomoney.com
+  twitter: gundo_money
+mystery_money_man:
+  name: '[Guest] Mystery Money Man'
+  web: http://www.mysterymoneyman.com
+  twitter: mysteremoneyman
+power_over_life:
+  name: '[Guest] Jacob from Power Over Life'
+  web: https://www.poweroverlife.com/
+  twitter: poweroverlife
+crispy_cabbage:
+  name: '[Guest] Crispy Cabbage'
+  web: http://www.crispycabbage.com/
+  twitter: cabbageblog
+mrs_picky_pincher:
+  name: '[Guest] Mrs. Picky Pincher'
+  web: https://www.pickypinchers.com/
+  twitter: mrspickypincher
+lauren_davidson:
+  name: '[Guest] Lauren Davidson'
+  web: http://laurdavidson.com/

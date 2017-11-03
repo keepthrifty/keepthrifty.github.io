@@ -3,8 +3,8 @@ layout: post
 title:  "KeepThrifty Experiment - March 2016 Challenge (Household Care) - Week 4 Results"
 description: "Keep Thrifty challenge for March 2016: spend less on household items; see our week 4 results"
 date:   2016-03-27
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 image:
   path: /assets/img/posts/2016-03-27-march-challenge-household-care-update-4/makeup-brush.jpg
 redirect_from:

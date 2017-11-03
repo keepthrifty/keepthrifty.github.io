@@ -3,8 +3,8 @@ layout: post
 title:  "How to have a Thrifty Valentine's Day"
 description: "Here's how we had an awesome Valentine's day for less than $100"
 date:   2016-02-13 06:00:00 -0600
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 image:
   path: /assets/img/posts/2016-02-13-thrifty-valentines-day/valentines.jpg
 image-folder: /assets/img/posts/2016-02-13-thrifty-valentines-day

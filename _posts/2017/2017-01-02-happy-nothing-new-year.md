@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Happy Nothing New Year!"
 subtitle: "Buying Nothing New in 2017"

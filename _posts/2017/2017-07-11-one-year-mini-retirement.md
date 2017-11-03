@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "A One Year Mini-Retirement"
 subtitle: "Our Biggest Experiment Yet"

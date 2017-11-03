@@ -1,7 +1,7 @@
 ---
 layout: post
 
-author_email: chris@keepthrifty.com
+
 
 title: "Take Back Your Sanity By Switching From Push to Pull"
 description: "Have you ever felt like your life is a constant shift from one commitment to the next? As soon as one meeting finishes, another is about to begin. One of my goals in is to take back my schedule (and my sanity) by shifting my actions from 'push' to 'pull'. Here's how I'm doing it - starting with one little experiment."

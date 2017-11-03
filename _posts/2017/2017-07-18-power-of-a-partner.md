@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "The Power of a Partner in Chasing Your Dreams"
 description: "It took us a number of years before we figured out how to really harness our marriage - finding happiness and strength to chase our dreams. Here's our story and some practical advice on how to get there faster than we did."

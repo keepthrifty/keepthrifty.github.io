@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Money and Life Lessons from The Oregon Trail"
 description: "It's not just an iconic game from most Millennials' childhoods - this game has serious lessons you can use to master money"

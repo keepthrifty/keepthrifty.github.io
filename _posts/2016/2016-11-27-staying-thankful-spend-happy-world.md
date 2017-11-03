@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Staying Thankful in a Spend-Happy World"
 description: "Thanksgiving is about thanks but the stress of the holiday season often pulls us in the other direction; here's what we did this year to stay centered"

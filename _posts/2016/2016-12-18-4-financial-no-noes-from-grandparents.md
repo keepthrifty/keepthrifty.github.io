@@ -1,9 +1,7 @@
 ---
 layout: post
 
-author: Jacob Merkley
-author_site: PowerOverLife
-author_site_url: http://www.poweroverlife.com
+author: power_over_life
 
 title: "Guest Post: 4 Financial No-Noes From Your Grandparents"
 description: "Listen to your elders - your grandparents have some important lessons about no-noes to avoid if you want to improve your finances!"

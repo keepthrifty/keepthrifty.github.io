@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "The Ultimate Guide to an Epic Frugal Road Trip"
 description: "When it comes to family vacations, there's a clear winner in terms of budget and experiences - the road trip. Get the full guide from Keep Thrifty on how to plan out your next epic, frugal road trip."

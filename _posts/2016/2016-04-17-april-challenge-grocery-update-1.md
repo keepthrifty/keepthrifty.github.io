@@ -3,8 +3,8 @@ layout: post
 title:  April 2016 Challenge (Grocery) - Mid-month Results
 description: "Keep Thrifty challenge for April 2016: spend less on groceries; see our mid-month results"
 date:   2016-04-17
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 image:
   path: /assets/img/posts/2016-04-17-april-challenge-grocery-update-1/box-of-food.jpg
 redirect_from:

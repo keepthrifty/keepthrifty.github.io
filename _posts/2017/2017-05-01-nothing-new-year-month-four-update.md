@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Nothing New Year: Month 4 Update"
 description: "With our new plan to sell our house and downsize to an apartment, we still had a big spending month - getting our home updates close to finished."

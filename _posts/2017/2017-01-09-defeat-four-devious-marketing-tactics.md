@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Four Devious Marketing Tactics (and How to Defeat Them)"
 description: "Don't get fooled by these devious marketing tactics from people looking to take your hard-earned dollars"

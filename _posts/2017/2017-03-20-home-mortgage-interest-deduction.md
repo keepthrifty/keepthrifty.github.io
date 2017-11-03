@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Fact Check: The Home Mortgage Interest Deduction"
 description: "Debunking the claim that prepaying your mortgage messes up your taxes."

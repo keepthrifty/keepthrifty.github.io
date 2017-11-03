@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Introducing Retirement Freedom"
 description: "The road to financial freedom can take a long time; an intermediate step to celebrate is Retirement Freedom - never heard of it? That's because I made it up"

@@ -4,8 +4,8 @@ title:  "KeepThrifty Experiment May 2016 — Challenge: Food"
 description: "Keep Thrifty challenge for May 2016: spend less on food"
 date:   2016-05-01
 timeline: May 2016
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 image:
   path: /assets/img/posts/2016-05-01-may-challenge-food/happy-pancake.jpg
 redirect_from:

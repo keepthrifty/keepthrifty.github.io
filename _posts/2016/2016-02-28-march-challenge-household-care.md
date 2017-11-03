@@ -4,8 +4,8 @@ title:  "KeepThrifty Experiment March 2016 — Challenge: Household Care"
 description: "Keep Thrifty challenge for March 2016: spend less on household items"
 date:   2016-02-28
 timeline: March 2016
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 image:
   path:  /assets/img/posts/2016-02-28-march-challenge-household-care/laundromat-jump.jpg
 image-folder: /assets/img/posts/2016-02-28-march-challenge-household-care

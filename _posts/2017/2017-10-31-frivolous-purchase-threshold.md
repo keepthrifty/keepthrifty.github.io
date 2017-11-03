@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Beware the Frivolous Purchase Threshold"
 description: "Read about how you can change your Frivolous Purchase Threshold to $0"

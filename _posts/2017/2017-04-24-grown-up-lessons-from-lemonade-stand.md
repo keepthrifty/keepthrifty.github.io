@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Grown-Up Lessons from a Lemonade Stand"
 description: "Our oldest daughter just set up her first lemonade stand this weekend. I viewed it as a great way to teach her about business but I think I might have learned more from watching her than she did from me."

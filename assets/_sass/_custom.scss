@@ -119,7 +119,7 @@ a {
   color: $meta-color;
   text-align: center;
   display: block;
-  margin-bottom: 1rem;
+  margin: 1rem 0;
   .date {
     padding: 0.5rem 0 0.5rem 0;
     border-top: 1px solid $meta-color;
@@ -143,6 +143,14 @@ a {
     a {
       color: $meta-color;
     }
+  }
+  .post__author {
+    a {
+      color: $meta-color;
+    }
+  }
+  .post__author__icon a {
+    color: $meta-color;
   }
 
 }

@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Trading Financial Freedom for Mini-Retirement"
 description: "We've chosen to delay financial freedom to focus on the present by taking a mini-retirement. I'm confident it's the right choice for us - here's why."

@@ -3,9 +3,7 @@ layout: post
 title: "Guest Post: Have You Been Spending All Your Money on Something Free?"
 description: "The best things in life are free - so why would you spend money when you don't need to?"
 date:   2016-07-21 05:00:00 -0500
-author: Elsie Brown
-author_site: GundoMoney
-author_site_url: http://www.gundomoney.com
+author: gundo_money
 image:
   path: /assets/img/posts/2016-07-21-spending-on-free/sunset-heart.jpg
 related-posts: [

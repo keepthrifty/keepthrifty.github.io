@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: crispy_cabbage
+
 
 title: "Guest Post: A Hot Cheeto Called Harambe"
 subtitle: "5 Ideas to Capitalize on a Craze Without Getting Your Fingers Dirty"

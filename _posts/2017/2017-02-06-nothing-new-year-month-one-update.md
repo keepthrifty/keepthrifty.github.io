@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Nothing New Year: Month 1 Update"
 description: "We're one month in to our nothing new year. How did we do and where are we at on our mortgage? Read on to find out!"

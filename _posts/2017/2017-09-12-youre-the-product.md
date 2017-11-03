@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "If You're Not a Paying Customer, You're Probably the Product"
 subtitle: "Why Keep Thrifty is joining Patreon"

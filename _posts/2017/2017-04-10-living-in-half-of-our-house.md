@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Living In Half of Our House"
 description: "Half of our house sits empty, unused. Why are we living like this?"

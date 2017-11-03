@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Nothing New Year: Month 3 Update"
 description: "We spent a ton this month and are making a pretty big change in our strategy to become debt-free"

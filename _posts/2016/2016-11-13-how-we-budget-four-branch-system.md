@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "How We Budget: The Four-Branch System"
 description: "This comprehensive system helps you master budgeting with some awesome tricks to build a safety net and accomplish your big goals"

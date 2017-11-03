@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Bring Back Your Childhood Dreams"
 description: "Struggling to come up with dreams worth chasing? Here's a great way to get started - digging up dreams from your childhood."

@@ -2,8 +2,8 @@
 layout: post
 title: "Guide: Create a Spreadsheet Dashboard for the Price of a Day of Retirement"
 description: "I'll walk you through making your own awesome spreadsheet to calculate your personal exchange rate between retirement days and money"
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 date: 2016-09-25
 image:
   path: /assets/img/posts/2016-09-25-the-price-of-an-extra-day-spreadsheet-edition/s-51.jpg

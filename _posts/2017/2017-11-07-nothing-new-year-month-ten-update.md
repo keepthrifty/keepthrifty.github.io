@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Nothing New Year: Month 10 Update"
 description: "We had our lowest spending month since January. It's a huge accomplishment, but we flubbed quite a bit on buying nothing new - oops!"

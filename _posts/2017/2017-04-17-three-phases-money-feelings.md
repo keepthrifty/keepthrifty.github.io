@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Three Phases of Money Feelings"
 description: "How does money make you feel? Stressed? Excited? Or do you generally feel indifferent? Each of these is a step in your path to financial independence"

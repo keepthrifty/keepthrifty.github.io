@@ -2,8 +2,8 @@
 layout: post
 title: "Would You Trade $25 for an Extra Day of Freedom?"
 description: "The math and application behind calculating how much a day of retirement costs"
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 image:
   path: /assets/img/posts/2016-09-18-the-price-of-an-extra-day/extra-day.jpg
 image-folder: /assets/img/posts/2016-09-18-the-price-of-an-extra-day

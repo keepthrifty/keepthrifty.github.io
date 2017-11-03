@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Nothing New Year: Month 9 Update"
 description: "It's October and our spending is FALLing! Sorry, that was bad - I know. Let's look at our spending for this month and how we're doing on the nothing new year challenge!"

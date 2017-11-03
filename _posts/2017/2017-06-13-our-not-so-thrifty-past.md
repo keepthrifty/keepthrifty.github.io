@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Our Not-So-Thrifty Past"
 description: "Think we've always been thrifty? Not even close. Here's the full confessional of where we came from and how we figured this whole thrifty thing out."

@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Nothing New Year: Month 5 Update"
 description: "We've gotten our house on the market and have an accepted offer. Our path to debt freedom is coming to a close; here's a look at our finances this month and how we're doing on our nothing new year challenge."

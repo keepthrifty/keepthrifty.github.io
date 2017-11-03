@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Can Frugality Be Selfish?"
 description: "We've been making some pretty big frugal moves recently, but one of them has me wondering whether all this frugality is starting to get a little bit selfish."

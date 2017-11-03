@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: lauren_davidson
+
 
 title: "Guest Post: Why I Don’t Care If You Think My Major Is a Waste of Money"
 description: "Think Liberal Arts degrees are worthless? Today's guest writer is working on getting one of those degrees and she's got a pretty compelling argument for why it's a great investment for her."

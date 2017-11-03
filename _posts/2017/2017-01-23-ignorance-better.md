@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Ignorance Might Be Better"
 description: "Just because something is common knowledge doesn't mean it's actually right. Some say ignorance is bliss; I think ignorance might just be better."

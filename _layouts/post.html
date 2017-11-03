@@ -28,6 +28,7 @@ comments: true
       {% elsif page.image %}
         <img class="post__header__image" alt="{{page.title}}" src="{{site.url}}{{page.image.path}}" />
       {% endif %}
+      {% include page-author.html %}
       {% include page-audio.html %}
     </header>
 
