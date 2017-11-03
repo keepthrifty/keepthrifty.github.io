@@ -19,7 +19,7 @@ layout: null
     {% for post in site.posts limit: 26 %}
       <item>
         <title type="html">{{ post.title | xml_escape }}</title>
-        <description type="html"><![CDATA[<img src='{{ post.image.path | prepend: site.url }}' width='{{ site.rss-imageW }}' height='{{ site.rss-imageH }}' class='webfeedsFeaturedVisual'><br><p>]]>{{ post.content | xml_escape }}</description>
+        <description type="html"><![CDATA[<img src='{{ post.image.path | prepend: site.url }}' width='{{ site.rss-imageW }}' height='{{ site.rss-imageH }}' class='webfeedsFeaturedVisual'><br><p>]]>{{ post.content | xml_escape }}{% if post.video.path %}<![CDATA[<a href="{{post.url | prepend: site.baseurl | prepend: site.url}}">Watch the video</a>]]>{% endif %}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>

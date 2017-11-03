@@ -24,8 +24,6 @@ related-posts: [
 
 tags: [money]
 
-content-upgrade: debt-snowball-vs-debt-avalanche-spreadsheet
-
 audio_archive: true
 audio:
   file: /assets/audio/posts/keep-thrifty-0005-debt-snowball-vs-debt-avalanche.mp3
@@ -157,7 +155,7 @@ Yes, there's such a thing and some nerds like me even put it on their calendar. 
 
 In honor of this wonderful day, I created a spreadsheet to show the actual impact of using Debt Avalanche over Debt Snowball - to see how big of a difference the optimal method really makes.
 
-You can get your own copy by filling out the form below. You'll get a link to your very own copy of the spreadsheet and you'll get signed up for the weekly Keep Thrifty Update.
+If you're curious, you can [get your own copy on Google Sheets here](https://docs.google.com/spreadsheets/d/1DuVQ5OMoPssftm6qeSX72GLrbXv5S9tBBlQ82TCDQwM/copy)
 
 Happy number crunching!
 

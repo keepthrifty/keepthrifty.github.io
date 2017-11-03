@@ -1,8 +1,9 @@
 ---
 layout: page
 permalink: /subscribe/
-image: /assets/img/mailbox.jpg
-description: Subscribe now and get a free copy of our _"5 Steps to a Mini-Retirement" cheat sheet.
+image:
+  path: /assets/img/mailbox.jpg
+description: Subscribe now and get a free copy of our "5 Steps to a Mini-Retirement" cheat sheet.
 title: Join the Keep Thrifty Community
 ---
 

@@ -23,7 +23,9 @@ comments: true
         </div>
       </div>
       {% endunless %}
-      {% if page.image %}
+      {% if page.video.path %}
+        {% include video-embed.html video-link=page.video.path %}
+      {% elsif page.image %}
         <img class="post__header__image" alt="{{page.title}}" src="{{site.url}}{{page.image.path}}" />
       {% endif %}
       {% include page-audio.html %}
@@ -36,9 +38,7 @@ comments: true
     <fooder class="post__footer">
       {% include patreon.html %}
       {% include share-buttons-only.html %}
-      <div class="boxed">
       {% include content-upgrade.html %}
-      </div>
       {% if page.related-posts.size > 0 %}
       {% include post-list-related.html %}
       {% endif %}
