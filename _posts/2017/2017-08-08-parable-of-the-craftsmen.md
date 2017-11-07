@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "The Parable of the Craftsmen"
 description: "What does it really take to be successful, to find happiness? This parable explores whether money can really buy happiness."

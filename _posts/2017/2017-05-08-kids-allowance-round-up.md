@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Kids Allowances - Advice from the Experts"
 description: "I picked the brains of some great personal finance bloggers to see how different families structure allowances for their kids. By the end, I was all ready to build my own custom allowance system for our family."

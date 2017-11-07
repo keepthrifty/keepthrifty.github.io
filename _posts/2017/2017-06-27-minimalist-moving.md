@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Minimalist Moving - Benefits and Strategies"
 description: "Let's face it - moving sucks. When you're a minimalist, though, it sucks quite a bit less. Learn why and how to get there."

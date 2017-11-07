@@ -1,0 +1,19 @@
+{% assign author = site.data.authors[page.author] %}
+
+{% if author %}
+<div class="post__meta">
+  <span class="post__author">
+    {% if author.web %}
+      <a href="{{author.web}}" target="_blank">
+        <span class="post__author__name">by {{ author.name }}</span>
+      </a>
+    {% else %}
+      <span class="post__author__name">by {{ author.name }}</span>
+    {% endif %}
+    {% if author.twitter || author.pinterest || author.facebook %} | {% endif %}
+    {% if author.twitter %} <span class="post__author__icon"><a href="https://www.twitter.com/{{author.twitter}}"><i class="fa fa-twitter"></i></a></span>{% endif %}
+    {% if author.pinterest %} <span class="post__author__icon"><a href="https://www.pinterest.com/{{author.pinterest}}"><i class="fa fa-pinterest"></i></a></span>{% endif %}
+    {% if author.facebook %} <span class="post__author__icon"><a href="https://www.facebook.com/{{author.facebook}}"><i class="fa fa-facebook"></i></a></span>{% endif %}
+  </span>
+</div>
+{% endif %}

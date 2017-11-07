@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Happy Nothing New Year!"
 subtitle: "Buying Nothing New in 2017"
@@ -21,7 +21,8 @@ related-posts: [
   "/nothing-new-year-month-six-update",
   "/nothing-new-year-month-seven-update",
   "/nothing-new-year-month-eight-update",
-  "/nothing-new-year-month-nine-update"
+  "/nothing-new-year-month-nine-update",
+  "/nothing-new-year-month-ten-update"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [nothing new year]

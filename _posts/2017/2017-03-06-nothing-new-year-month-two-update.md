@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Nothing New Year: Month 2 Update"
 description: "Two months down in our nothing new year challenge. How did we do and where are we at on our mortgage? Read on to find out!"
@@ -20,7 +20,8 @@ related-posts: [
   "/nothing-new-year-month-six-update",
   "/nothing-new-year-month-seven-update",
   "/nothing-new-year-month-eight-update",
-  "/nothing-new-year-month-nine-update"
+  "/nothing-new-year-month-nine-update",
+  "/nothing-new-year-month-ten-update"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [nothing new year]

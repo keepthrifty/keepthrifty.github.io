@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Your Debt is an Infestation"
 description: "Treat your debt like a hornet's nest in your living room"

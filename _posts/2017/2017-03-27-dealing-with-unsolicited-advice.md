@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: mrs_picky_pincher
+
 
 title: "Guest Post: Dealing with Unsolicited Advice"
 description: "Don't let some know-it-all tell you that your frugal lifestyle is the wrong way to go. Here's how to combat those naysayers."

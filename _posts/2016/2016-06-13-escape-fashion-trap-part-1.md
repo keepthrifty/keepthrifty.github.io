@@ -3,8 +3,8 @@ layout: post
 title: "Escaping the Fashion Money Trap (Part 1)"
 description: "When you look at history, the way we view clothing today is really messed up; take a step back and be more awesome"
 date:   2016-06-13 21:30:00 -0500
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 image:
   path: /assets/img/posts/2016-06-13-escape-fashion-trap-part-1/fancy-suit.jpg
 image-folder: /assets/img/posts/2016-06-13-escape-fashion-trap-part-1

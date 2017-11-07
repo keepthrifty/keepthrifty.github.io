@@ -4,8 +4,8 @@ title:  "KeepThrifty Experiment April 2016 — Challenge: Grocery"
 description: "Keep Thrifty challenge for April 2016: spend less on groceries"
 date:   2016-03-28
 timeline: April 2016
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 image:
   path: /assets/img/posts/2016-03-28-april-challenge-grocery/grocery-bananas.jpg
 redirect_from:

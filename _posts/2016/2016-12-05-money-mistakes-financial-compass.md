@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Before You Start, Set Your Financial Compass"
 description: "Avoid money mistakes by setting your financial compass. After all, if you don't know where you want to go, how will you know if you're headed in the wrong direction?"

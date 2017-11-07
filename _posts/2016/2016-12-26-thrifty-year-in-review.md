@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "2016: A Thrifty Year In Review"
 description: "Reviewing 2016 for our family, our finances, and for the Keep Thrifty blog and Thrifty Tool"

@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "The Ultimate Refinancing Spreadsheet Calculator"
 description: "A refinancing calculator that includes prepayments to let you really understand how much time and money you can save"

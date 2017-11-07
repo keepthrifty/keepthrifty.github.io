@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: jaime_durheim
+
 
 title: "Our Thrifty Life - Video Series Launch"
 description: "Join Chris and Jaime for their new video series about living thrifty and creating freedom."

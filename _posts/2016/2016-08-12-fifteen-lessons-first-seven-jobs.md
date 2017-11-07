@@ -3,8 +3,8 @@ layout: post
 title: "15 Lessons from my First Seven Jobs"
 description: "My own response to #firstsevenjobs - here are mine and the fifteen lessons I learned from my first jobs"
 date:   2016-08-12 16:00:00 -0500
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 image:
   path: /assets/img/posts/2016-08-12-first-seven-jobs/parking-lot.jpg
 image-folder: /assets/img/posts/2016-08-12-first-seven-jobs

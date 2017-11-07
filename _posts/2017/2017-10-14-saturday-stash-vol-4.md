@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "The Saturday Stash: Volume 4"
 description: "Looking for great articles to check out this weekend? Check out my favorite finds from the week of October 8 - October 14, 2017"

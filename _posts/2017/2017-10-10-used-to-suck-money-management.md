@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: jaime_durheim
+
 
 title: "I Used To Suck At Money Management"
 description: "I can change my spending habits, but before I can do that, I need to understand where my money is going."

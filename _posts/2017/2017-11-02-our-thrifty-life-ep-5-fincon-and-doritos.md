@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: jaime_durheim
+
 
 title: "I'm a Survivor"
 subtitle: "Our Thrifty Life - Episode 5"

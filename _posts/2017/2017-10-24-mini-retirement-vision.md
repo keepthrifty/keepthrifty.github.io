@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "The Most Powerful Factor for Creating a Mini-Retirement"
 subtitle: "...or any Other Financial Goal"

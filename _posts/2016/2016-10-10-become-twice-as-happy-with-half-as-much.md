@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "How to Become Twice as Happy with Half as Much"
 description: "Four examples of how our family of minimalists became twice as happy with half as much"

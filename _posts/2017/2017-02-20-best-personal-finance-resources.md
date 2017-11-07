@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "My Favorite Personal Finance Resources"
 description: "Here are my personal favorite resources to help you kick financial butt. Blogs, books, podcasts, tools, spreadsheets, and more - find the best of the best here."

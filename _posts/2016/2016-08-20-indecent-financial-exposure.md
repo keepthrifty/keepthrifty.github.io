@@ -2,8 +2,8 @@
 layout: post
 title: "Indecent (Financial) Exposure: Every Penny We Spent in the Last 12 Months"
 description: "Baring all, here's everything we spent in the last year"
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 image:
   path: /assets/img/posts/2016-08-20-indecent-financial-exposure/indecent-financial-exposure.jpg
 image-folder: /assets/img/posts/2016-08-20-indecent-financial-exposure

@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: jaime_durheim
+
 
 title: "Look What I Made Him Do"
 subtitle: "Our Thrifty Life - Episode 4"

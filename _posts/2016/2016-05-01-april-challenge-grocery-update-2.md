@@ -3,8 +3,8 @@ layout: post
 title:  April 2016 Challenge (Grocery) - Final Results
 description: "Keep Thrifty challenge for April 2016: spend less on groceries; see our final results"
 date:   2016-05-01
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 image:
   path: /assets/img/posts/2016-05-01-april-challenge-grocery-update-2/strawberries.jpg
 redirect_from:

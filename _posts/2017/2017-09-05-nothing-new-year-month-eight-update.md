@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Nothing New Year: Month 8 Update"
 description: "We had an awesome road trip, got ready for the school year to start and maybe even bought a piece of land?! It was another crazy month in our Nothing New Year!"
@@ -22,7 +22,8 @@ related-posts: [
   "/2017/06/05/nothing-new-year-month-five-update",
   "/nothing-new-year-month-six-update",
   "/nothing-new-year-month-seven-update",
-  "/nothing-new-year-month-nine-update"
+  "/nothing-new-year-month-nine-update",
+  "/nothing-new-year-month-ten-update"
 ]
 
 tags: [nothing new year]

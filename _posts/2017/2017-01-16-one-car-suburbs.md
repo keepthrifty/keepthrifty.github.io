@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Surviving the Suburbs with One Car"
 description: "Can a family of five survive in the suburbs with just one car? Of course, if they are keeping thrifty!"

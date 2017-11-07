@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Learning to Spend Without Fear"
 description: "My first big purchase was a $200 boombox and my hands were shaking when we went to the bank. Somehow I got over this feeling and learned how to spend without fear."

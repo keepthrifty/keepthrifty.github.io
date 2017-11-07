@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Is the 4% Safe Withdrawal Rate Still Relevant?"
 subtitle: "The Trinity Study Revisited and Expanded"

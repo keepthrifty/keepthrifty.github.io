@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Nothing New Year: Month 4 Update"
 description: "With our new plan to sell our house and downsize to an apartment, we still had a big spending month - getting our home updates close to finished."
@@ -22,7 +22,8 @@ related-posts: [
   "/nothing-new-year-month-six-update",
   "/nothing-new-year-month-seven-update",
   "/nothing-new-year-month-eight-update",
-  "/nothing-new-year-month-nine-update"
+  "/nothing-new-year-month-nine-update",
+  "/nothing-new-year-month-ten-update"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [nothing new year]

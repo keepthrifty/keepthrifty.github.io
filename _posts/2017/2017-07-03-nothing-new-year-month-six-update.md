@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Nothing New Year: Month 6 Update"
 description: "We're halfway through the year and everything's about to change. We're selling our house and moving into an apartment - how are we doing on our nothing new year challenge?"
@@ -22,7 +22,8 @@ related-posts: [
   "/2017/06/05/nothing-new-year-month-five-update",
   "/nothing-new-year-month-seven-update",
   "/nothing-new-year-month-eight-update",
-  "/nothing-new-year-month-nine-update"
+  "/nothing-new-year-month-nine-update",
+  "/nothing-new-year-month-ten-update"
 ]
 
 tags: [nothing new year]

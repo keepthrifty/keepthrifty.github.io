@@ -1,8 +1,8 @@
 ---
 layout: post
 
-author: keepthrifty
-author_email: chris@keepthrifty.com
+author: chris_durheim
+
 
 title: "Big Barriers to Living Smaller"
 description: "Who knew it could be so tough finding a smaller place to live? In our pursuit of living out our values, downsizing is our next big step but it was a lot more work than we thought to find a solution that worked for us."
