@@ -11,11 +11,10 @@ image:
   path: /assets/img/posts/2016-11-13-how-we-budget-four-branch-system/money-plants.jpg
 
 related-posts: [
-  "/2016/08/20/indecent-financial-exposure",
   "/2016/04/10/how-we-saved-on-our-mortgage",
-  "/2016/10/31/moneysmart-family-system-review",
   "/2017/01/16/one-car-suburbs",
-  "/2017/05/08/kids-allowance-round-up"
+  "/2017/05/08/kids-allowance-round-up",
+  "/mini-retirement-budget"
 ]
 
 affiliate: true

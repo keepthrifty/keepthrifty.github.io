@@ -4,7 +4,7 @@ layout: post
 author: jaime_durheim
 
 title: "Our Mini-Retirement Budget"
-description: "TK"
+description: "How much is it costing us to take a year off? Here's the system (and the numbers) that we're using to budget a one-year mini-retirement."
 
 date: 2017-11-14 6:58:00 -0500
 

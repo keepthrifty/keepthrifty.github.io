@@ -16,7 +16,8 @@ pinterest-image: /assets/img/posts/2017-10-10-used-to-suck-money-management/used
 related-posts: [
   /2017/05/22/major-waste-of-money-dont-care,
   /2016/03/23/engagement-ring-sold,
-  /power-of-a-partner
+  /power-of-a-partner,
+  /frivolous-purchase-threshold
 ]
 
 audio_archive: true

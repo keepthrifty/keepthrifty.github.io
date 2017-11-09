@@ -17,6 +17,7 @@ pinterest-image: /assets/img/posts/2017-10-24-mini-retirement-formula/mini-retir
 related-posts: [
   /one-year-mini-retirement,
   /trade-financial-freedom-mini-retirement,
+  /mini-retirement-budget,
   /2016/11/13/how-we-budget-four-branch-system
 ]
 
