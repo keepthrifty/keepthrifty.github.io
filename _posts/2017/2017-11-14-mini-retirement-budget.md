@@ -47,7 +47,7 @@ Before this mini-retirement, I never thought about our living expenses holistica
 
 While I was successful in not creating debt, I would find myself dipping into our emergency savings fund or vacation fund to pay off the credit card. So, we weren’t saving as much as we told ourselves we had.
 
-I eventually got better at this, but our mini-retirement pulled me into a whole new level of financial discipline and intention.
+I eventually got better at this, but {% include tweet-link.html tweet-text="our mini-retirement pulled me into a whole new level of financial discipline and intention" %}.
 
 ## Mini-Retirement Budget
 
