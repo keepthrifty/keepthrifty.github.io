@@ -16,7 +16,9 @@ related-posts: [
   /one-year-mini-retirement,
   /parable-of-the-craftsmen,
   /2016/09/18/the-price-of-an-extra-day,
-  /2016/03/23/engagement-ring-sold
+  /2016/03/23/engagement-ring-sold,
+  /mini-retirement-vision,
+  /mini-retirement-budget
 ]
 
 audio_archive: true
