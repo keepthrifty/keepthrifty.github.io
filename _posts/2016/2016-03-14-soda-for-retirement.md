@@ -9,11 +9,10 @@ image:
   path: /assets/img/posts/2016-03-14-soda-for-retirement/soda-cans.jpg
 image-folder: /assets/img/posts/2016-03-14-soda-for-retirement
 related-posts: [
-  "/2016/09/25/the-price-of-an-extra-day-spreadsheet-edition",
   "/2016/03/23/engagement-ring-sold",
   "/2016/01/20/living-with-less",
-  "/2016/09/04/let-it-burn",
-  "/breaking-addiction-home-updates"
+  "/breaking-addiction-home-updates",
+  "/frivolous-purchase-threshold"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [money]

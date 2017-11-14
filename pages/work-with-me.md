@@ -62,7 +62,7 @@ Dream timelines vary by person - depending on the size of the goal and how close
 <div class="work--price">Coaching: $100 per month</div>
 
 <div class="boxed">
-  <form class="form--contact" action="https://formspree.io/chris@keepthrifty.com" method="POST">
+  <form class="form--contact" action="https://formspree.io/&#099;&#104;&#114;&#105;&#115;&#064;&#107;&#101;&#101;&#112;&#116;&#104;&#114;&#105;&#102;&#116;&#121;&#046;&#099;&#111;&#109;" method="POST">
     <h3 class="title">Schedule a free 30-minute introduction call</h3>
     <p class="text">You have a lot of promise - I'd like to help you reach your full potential. Fill out the form below and we'll schedule a FREE 30-minute chat to see if I'd be a good coach for you.</p>
     <input type="hidden" name="_next" value="{{ "/thank-you/" | prepend: site.baseurl }}" />
@@ -92,7 +92,7 @@ I'm available to discuss other topics, such as:
 <div class="work--price">Consulting: $100 per hour</div>
 
 <div class="boxed">
-  <form class="form--contact" action="https://formspree.io/chris@keepthrifty.com" method="POST">
+  <form class="form--contact" action="https://formspree.io/&#099;&#104;&#114;&#105;&#115;&#064;&#107;&#101;&#101;&#112;&#116;&#104;&#114;&#105;&#102;&#116;&#121;&#046;&#099;&#111;&#109;" method="POST">
     <h3 class="title">Request a Consulting Session</h3>
     <input type="hidden" name="_next" value="{{ "/thank-you/" | prepend: site.baseurl }}" />
     <input type="hidden" name="_subject" value="Consulting Contact" />

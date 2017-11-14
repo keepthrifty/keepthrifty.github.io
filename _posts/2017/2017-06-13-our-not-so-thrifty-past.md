@@ -18,7 +18,8 @@ related-posts: [
   "/2017/04/17/three-phases-money-feelings",
   "/2016/10/16/talent-is-overrated",
   "/2016/07/06/roadtrip-recap",
-  "/breaking-addiction-home-updates"
+  "/breaking-addiction-home-updates",
+  "/frivolous-purchase-threshold"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [dreams & values]
