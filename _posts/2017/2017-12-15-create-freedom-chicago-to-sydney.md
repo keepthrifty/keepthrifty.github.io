@@ -4,7 +4,7 @@ layout: post
 author: not_your_parents_financial_guy
 
 title: "From Chicago to Sydney"
-subtitle: "Create Your Freedom Series"
+subtitle: "Create Your Freedom Series - Meet Kyle"
 description: "TK"
 
 date: 2017-12-15 6:58:00 -0500
@@ -95,4 +95,4 @@ In May 2018, we'll sell our possessions, move out of our apartment and take a on
 
 _Thank you to Kyle for sharing his story. We love the side hustle and the fact that he bought a plane ticket with the confidence that the rest will work out. We wish him and Lauren the best and an amazing next adventure! We can’t wait to hear all about the mini-retirement once they are back in the States!_
 
-_Do you have a freedom story you would like to share? We would love to hear from you! Email Jaime at jaime@keepthrifty.com Share your name, email address, website (if you have one), and your freedom topic! I’ll email you back with our questions._
+{% include cyf-submit.html %}
