@@ -65,6 +65,7 @@ main.page {
 
 a {
   opacity: 1.0;
+  transition: opacity 350ms;
   &:hover {
     opacity: 0.7;
   }
@@ -425,6 +426,23 @@ a {
   a:hover {
     opacity: 1;
   }
+}
+
+$twitter-color: #55ACEE;
+$facebook-color: #3B5998;
+$pinterest-color: #BD081C;
+
+a.twitter-hover:hover {
+  background-color: $twitter-color;
+  border: 1px solid $twitter-color;
+}
+a.facebook-hover:hover {
+  background-color: $facebook-color;
+  border: 1px solid $facebook-color;
+}
+a.pinterest-hover:hover {
+  background-color: $pinterest-color;
+  border: 1px solid $pinterest-color;
 }
 
 .twitter { color: #55ACEE; }

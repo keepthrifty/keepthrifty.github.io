@@ -9,6 +9,7 @@ $meta-color: #9E9E9E; //color("grey", "base") !default;
 $bg-color: #F5F5F5; //color("grey", "lighten-4") !default;
 $code-color: #DCEDC8; //color("light-green", "lighten-4") !default;
 $off-black: rgba(0, 0, 0, 0.87);
+$off-white: rgba(255, 255, 255, 0.87);
 
 $minimum-break: 600px;
 $xs-screen: 360px;
@@ -20,12 +21,12 @@ $large-screen: 1200px;
 @import
         "roboto",
         "typography",
-        "custom",
         "header",
         "content-box",
         "thrifty",
         "number-headings",
         "convertkit",
+        "custom",
         "../font-awesome-4.7.0/scss/font-awesome",
         "print"
 ;

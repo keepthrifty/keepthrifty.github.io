@@ -22,8 +22,6 @@ redirect_from:
   <ul class="in-page-nav--list">
     <li class="in-page-nav--list-item"><a href="#popular">Popular</a></li>
     <li class="in-page-nav--list-item"><a href="#by-date">All (by date)</a></li>
-    <li class="in-page-nav--list-item"><a href="#by-topic">All (by topic)</a></li>
-    <li class="in-page-nav--list-item"><a href="/audio/">Audio Format</a></li>
   </ul>
 </div>
 
@@ -58,28 +56,5 @@ redirect_from:
     </li>
   {% endfor %}
 </ul>
-
-<hr />
-
-<h2 id="by-topic" class="archive-heading">
-  All (by topic)
-</h2>
-
-{% assign sorted_tags = site.tags | sort %}
-
-{% for tag in sorted_tags %}
-  {% assign t = tag | first %}
-  {% assign posts = tag | last %}
-<ul class="archive-list">
-<h3 id="{{t | handleize | replace: ' ', '-'}}" class="archive-list--title">{{ t | capitalize }}</h3>
-{% for post in posts %}
-  {% if post.tags contains t %}
-  <li class="archive-list--entry">
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-  {% endif %}
-{% endfor %}
-</ul>
-{% endfor %}
 
 <script id="dsq-count-scr" src="//keepthrifty.disqus.com/count.js" async></script>
