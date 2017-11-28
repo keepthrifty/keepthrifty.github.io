@@ -18,7 +18,8 @@ related-posts: [
   /one-year-mini-retirement,
   /trade-financial-freedom-mini-retirement,
   /mini-retirement-budget,
-  /2016/11/13/how-we-budget-four-branch-system
+  /2016/11/13/how-we-budget-four-branch-system,
+  /marriage-lesson-mini-retirement
 ]
 
 tags: [mini-retirement]
