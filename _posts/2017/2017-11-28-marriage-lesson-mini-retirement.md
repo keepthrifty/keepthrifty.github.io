@@ -4,7 +4,7 @@ layout: post
 author: jaime_durheim
 
 
-title: "A Marriage Lesson from Mini-Retirement"
+title: "A Marriage Lesson from a Mini-Retirement"
 description: "Taking a mini-retirement can be great for your marriage. But if you don't approach it the right way, things can get worse before they get better. Take it from us!"
 
 date: 2017-11-28 6:58:00 -0500
