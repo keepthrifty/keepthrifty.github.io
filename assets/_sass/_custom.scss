@@ -467,7 +467,7 @@ form {
   }
 }
 
-.form--contact {
+.form--contact, .form--cyf {
   margin-bottom: 2rem;
 
   input, textarea, button, select {
@@ -487,6 +487,38 @@ form {
     text-align: center;
     margin-bottom: 0;
   }
+}
+
+.form--cyf {
+  border-bottom: 1px solid $meta-color;
+  max-width: 40rem;
+  padding: 0.5rem 4rem 1.5rem;
+  margin: 0 auto;
+
+  display: flex;
+  flex-wrap: wrap;
+
+  .cyf-title {
+    flex: 0 0 100%;
+    color: $meta-color;
+  }
+
+  .cyf-title, .cyf-submit {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0.5rem;
+    margin: 0.5rem auto;
+  }
+
+  .cyf-submit:hover {
+    cursor: pointer;
+  }
+
+  .cyf-entry {
+    flex: 1 1 10rem;
+    margin: 0.5rem;
+  }
+
 }
 
 .site-footer {
