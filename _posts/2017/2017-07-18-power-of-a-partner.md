@@ -17,7 +17,8 @@ related-posts: [
   "/2016/03/23/engagement-ring-sold",
   "/2016/02/13/thrifty-valentines-day",
   "/2016/10/31/moneysmart-family-system-review",
-  "/2017/05/08/kids-allowance-round-up"
+  "/2017/05/08/kids-allowance-round-up",
+  "/marriage-lesson-mini-retirement"
 ]
 
 tags: [dreams & values]
