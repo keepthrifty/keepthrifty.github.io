@@ -30,6 +30,8 @@ tags: [nothing new year]
 
 affiliate: true
 
+categories: [article]
+
 ---
 
 We're officially halfway through our [year-long challenge to buy nothing new]({% post_url 2017/2017-01-02-happy-nothing-new-year %})! While we've had some hiccups, we're still buying way less new stuff and we're feeling good about our progress. Our life of craziness continues - over this last weekend, we [downsized into our apartment]({% post_url 2017/2017-06-27-minimalist-moving %}), dropping our living space by a third. On Wednesday, we are due to close on selling our house , which will finally bring us to complete debt freedom.

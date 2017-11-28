@@ -18,6 +18,8 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title/
 tags: [money]
+
+categories: [article]
 ---
 
 _This week, we've got another great guest post; this one from Jacob Merkley at PowerOverLife. Jacob's going to share some great lessons he learned from his grandparents about what_ ___not___ _to do with your finances._

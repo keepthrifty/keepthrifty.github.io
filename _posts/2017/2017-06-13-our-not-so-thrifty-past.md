@@ -26,6 +26,8 @@ tags: [dreams & values]
 
 affiliate: true
 
+categories: [article]
+
 ---
 
 Our life hasn't always been about minimalism, financial discipline, and living out our dreams. We spent the better part of a decade acting as mindless consumers, wasting money and worse along the way. _Shocking?_ Maybe not. Join me on a walk down memory lane as I expose our not-so-thrifty past.

@@ -20,6 +20,8 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [money]
+
+categories: [article]
 ---
 
 If you're going to commit to paying hundreds of thousands of dollars on something, shouldn't you understand the math involved?

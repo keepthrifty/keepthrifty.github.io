@@ -18,6 +18,8 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title/
 tags: [money]
+
+categories: [article]
 ---
 
 Last time, I put up a couple calculators to help you understand your [personal exchange rate for retirement days and money]({{ site.url }}{% post_url 2016/2016-09-18-the-price-of-an-extra-day %}). Here, I'll walk you through making your own awesome spreadsheet so you can have those calculators (and more) at your disposal.

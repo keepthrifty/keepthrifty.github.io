@@ -17,6 +17,8 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [think different]
+
+categories: [article]
 ---
 
 Jewelry, flowers, and bears, oh my! If you’re not careful, this holiday is a great way to burn a hole in your wallet.

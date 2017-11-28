@@ -27,6 +27,8 @@ affiliate: true
 featured: true
 rockstar: true
 
+categories: [article]
+
 ---
 
 Last year, we set an audacious goal to become debt-free by 2020 by aggressively prepaying our mortgage. Changing paths a bit, we accomplished our goal this month by selling our house and moving into an apartment. While this has been a huge change, it's just a piece of our even bigger life change - I parted ways with my employer at the end of June. __I'm officially unemployed__.

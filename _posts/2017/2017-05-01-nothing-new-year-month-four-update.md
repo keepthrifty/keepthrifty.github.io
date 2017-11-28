@@ -30,6 +30,8 @@ tags: [nothing new year]
 
 affiliate: true
 
+categories: [article]
+
 ---
 
 We kicked off this year with a goal to [buy nothing new]({% post_url 2017/2017-01-02-happy-nothing-new-year %}). Last month, we made a big decision - to finish up our home updates and put our house on the market. This month, we worked on getting our remodeling done while also celebrating our twins' birthday. It was a crazy busy month!

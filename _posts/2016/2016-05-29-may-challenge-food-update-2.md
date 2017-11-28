@@ -18,6 +18,8 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [challenge]
+
+categories: [article]
 ---
 
 > The May challenge is over! Here's the full set of update/results posts:

@@ -24,6 +24,8 @@ permalink: /:year/:month/:day/:title/
 tags: [minimalism]
 
 affiliate: true
+
+categories: [article]
 ---
 
 How would you react if you were told you that you had to give up half of your stuff? TVs, clothes, cars, and even dinnerware. Does it sound terrifying? Would you believe me if I told you doing this could make you even happier than you are today?

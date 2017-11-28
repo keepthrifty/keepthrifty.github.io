@@ -20,6 +20,8 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title/
 tags: [minimalism]
+
+categories: [article]
 ---
 
 It's the Sunday after Thanksgiving and the holiday shopping season has officially kicked off. With cyber Monday just around the corner, it's easy to get sucked into the world of "stuff" and miss the spirit of the season. Here's what we did this week to keep fighting the good fight and focus on being truly thankful this holiday season without busting our budget.

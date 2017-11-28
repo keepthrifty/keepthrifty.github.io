@@ -26,6 +26,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [nothing new year]
 
+categories: [article]
+
 ---
 
 We kicked off this year with a goal to [buy nothing new]({% post_url 2017/2017-01-02-happy-nothing-new-year %}). We're now through our second month and it's accountability time. Here's a look at our finances for the month, our progress on the nothing new year goal, and how we're doing on paying off our mortgage by 2020.

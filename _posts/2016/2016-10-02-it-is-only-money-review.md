@@ -26,6 +26,8 @@ permalink: /:year/:month/:day/:title/
 tags: [money]
 
 affiliate: true
+
+categories: [article]
 ---
 
 Most personal finance resources around (blogs, books, etc) do a great job of telling you what to do with your money. _Rent! Buy! Sell! Hold! Earn! Save! Spend!_

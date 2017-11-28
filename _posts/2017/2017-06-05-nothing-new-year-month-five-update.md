@@ -30,6 +30,8 @@ tags: [nothing new year]
 
 affiliate: true
 
+categories: [article]
+
 ---
 
 It's been another interesting month in our pursuit of making it through the year [without buying anything new]({% post_url 2017/2017-01-02-happy-nothing-new-year %}). To say that we have a lot going on is an understatement, but we're still doing our best to keep on-track :)

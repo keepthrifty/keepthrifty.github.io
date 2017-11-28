@@ -19,6 +19,8 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [challenge]
+
+categories: [article]
 ---
 
 Thrifters,

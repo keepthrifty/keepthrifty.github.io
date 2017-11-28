@@ -28,6 +28,8 @@ tags: [nothing new year]
 
 affiliate: true
 
+categories: [article]
+
 ---
 
 We kicked off this year with a goal to [buy nothing new]({% post_url 2017/2017-01-02-happy-nothing-new-year %}). We're now through our third month. It's accountability time and this month is going to be interesting. We _spent a ton_ and made a _big strategy shift_ in our quest to become debt-free.

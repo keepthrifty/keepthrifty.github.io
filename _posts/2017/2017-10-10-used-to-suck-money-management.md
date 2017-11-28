@@ -33,6 +33,8 @@ tags: [money]
 redirect_from:
   - /moneymanagement
 
+categories: [article]
+
 ---
 
 _Today's article is a special one folks - you're getting an awesome article from the one and only Mrs. Keep Thrifty - better known as my wife, Jaime. Going forward, you can expect to see her writing here about once a month as a great way to change things up and get a different perspective. Today, she's going to talk about how she used to "suck" at money management and how that's changed. Take it away, love!_

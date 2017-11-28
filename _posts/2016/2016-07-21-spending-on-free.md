@@ -16,6 +16,8 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [think different]
+
+categories: [article]
 ---
 
 _We've got a first this week for Keep Thrifty - our first guest post! This one comes to you from Elsie Brown from [GundoMoney.com][gundo-money]_

@@ -24,6 +24,8 @@ tags: [money]
 
 affiliate: true
 
+categories: [article]
+
 ---
 
 As financially-focused parents, we want to ensure that our kids learn the value of money. Our twins recently turned five years old and the topic of allowances is back on my mind. Rather than try to invent everything from scratch, I reached out to the experts on the [Rockstar Finance Forums](http://forums.rockstarfinance.com/){: target="_blank"} to see how others have made things work in their families.

@@ -23,6 +23,8 @@ related-posts: [
 
 tags: [dreams & values]
 
+categories: [article]
+
 ---
 
 A [survey in 2014](http://www.telegraph.co.uk/news/newstopics/howaboutthat/11014591/One-in-five-children-just-want-to-be-rich-when-they-grow-up.html){: target="_blank"} found 22% of children responding in the UK had an interesting aspiration for when they grew up: _"I just want to be rich"_. Another 19% wanted to be _"famous"_. More traditional answers like police officer, zoo keeper, firefighter, and doctor showed up lower in the survey. Can money really buy happiness? Read on to hear my answer in parable form.

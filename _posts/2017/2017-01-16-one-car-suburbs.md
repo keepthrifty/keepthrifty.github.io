@@ -23,6 +23,8 @@ tags: [minimalism]
 
 affiliate: true
 
+categories: [article]
+
 ---
 
 One year ago we sold our Toyota Prius and officially became a one-car family. Many families in the city make due with one car or even go car-free. What about us in the suburbs though? It seems like a tall order for a family of five.

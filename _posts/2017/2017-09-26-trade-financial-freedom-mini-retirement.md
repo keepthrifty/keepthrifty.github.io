@@ -31,6 +31,8 @@ audio:
 
 tags: [mini-retirement]
 
+categories: [article]
+
 ---
 
 Who doesn't want financial freedom? Getting to the point that your passive income can cover your expenses buys you opportunities and time in a way that most people can't imagine. Despite the allure, I took an active step _away_ from financial freedom this year, choosing to delay my freedom date by __over 2 years__. What siren could have pulled me away from my destination? An even better one - mini-retirement.

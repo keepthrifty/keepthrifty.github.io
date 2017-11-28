@@ -24,6 +24,8 @@ custom_js:
 
 featured: true
 rockstar: true
+
+categories: [article]
 ---
 
 How much money does an extra day of financial freedom cost? While it seems like a pretty cool philosophical question, there's actually a way you can calculate it to the penny. Get ready for the theory, the math, and the free calculators to give you a personalized quote on the cost of a day of freedom.

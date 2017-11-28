@@ -21,6 +21,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [money]
 
+categories: [article]
+
 ---
 
 You can hardly open your eyes these days without being bombarded by advertisements. By some estimates, we are exposed to around [3500 advertisements every day](https://www.theguardian.com/media/2005/nov/19/advertising.marketingandpr){: target="_blank"}. In a world that's constantly telling you that you need to spend more, the best defense is to understand the tactics marketers use and immunize yourself against them.

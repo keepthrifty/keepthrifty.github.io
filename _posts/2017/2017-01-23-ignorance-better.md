@@ -20,6 +20,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [think different]
 
+categories: [article]
+
 ---
 
 A few months ago, my wife and I [took a trip to Portland, Oregon](http://www.jaimedeclutters.com/blog/2016/11/01/three-minimalist-toys-orenco-station/){: target="_blank"}. To keep costs down, we took the light rail from the airport all the way out to our hotel in Orenco Station. At $2.50 each for a 2.5-hour ticket, it seemed like an awesome deal. When we arrived at our hotel, the receptionist asked how our trip had gone. When we told her we took the light rail, she had an unexpected response.

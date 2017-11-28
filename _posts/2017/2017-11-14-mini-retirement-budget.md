@@ -29,6 +29,8 @@ audio:
 
 tags: [mini-retirement]
 
+categories: [article]
+
 ---
 
 Before [our mini-retirement]({% post_url 2017/2017-07-11-one-year-mini-retirement %}), we were focused on building our finances. We were prepaying our mortgage, saving for vacations, contributing to a 401K, and building our emergency savings fund. Then we decided to temporarily step away from getting a paycheck for a full year. Our focus on our finances had to change. Here’s how:

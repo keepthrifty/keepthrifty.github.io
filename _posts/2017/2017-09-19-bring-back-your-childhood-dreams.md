@@ -29,6 +29,8 @@ audio:
 
 tags: [dreams & values]
 
+categories: [article]
+
 ---
 
 Some people have great clarity of what's on their bucket list - the things they want to accomplish with their life. But others struggle, not even knowing where to start. If you're struggling with finding big dreams worth chasing, consider seeking inspiration from a younger version of yourself.

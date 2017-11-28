@@ -28,6 +28,8 @@ related-posts: [
 
 tags: [nothing new year]
 
+categories: [article]
+
 ---
 
 It's October and our spending is _FALLing_! Ok, yeah, that was a terrible joke, but I couldn't help it :) After a few months of craziness - selling our house, going on a road trip, buying land - we're finally getting back to a more normal life. Our kids were all in school this month and Jaime and I got a lot done on our respective projects and have started working on some fun things together. Let's take a look at our spending this month and see how we did in our quest to buy nothing new.

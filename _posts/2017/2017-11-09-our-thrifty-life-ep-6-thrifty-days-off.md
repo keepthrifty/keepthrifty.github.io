@@ -19,6 +19,8 @@ tags: [our thrifty life]
 video:
   path: https://www.youtube.com/embed/50plO8RqGGU?ecver=2
 
+categories: [video]
+
 ---
 
 There are usually five school days in a week, but all too often, there is an inservice day that cancels school and leaves you wondering, ___now what?___

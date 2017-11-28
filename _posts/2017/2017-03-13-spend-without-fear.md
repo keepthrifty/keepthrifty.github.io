@@ -20,6 +20,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [think different]
 
+categories: [article]
+
 ---
 
 I spent $3,200 today. That's not a typo - it was a spendy day. For a relatively thrifty guy, you'd think dropping this kind of money would cause heartburn or stress. Not now. Years ago, though? That's a different story altogether.

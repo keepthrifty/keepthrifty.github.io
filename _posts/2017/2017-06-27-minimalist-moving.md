@@ -24,6 +24,8 @@ tags: [minimalism]
 
 affiliate: true
 
+categories: [article]
+
 ---
 
 Most people wouldn't put the process of moving from one home to the next very high on their list of favorite activities. For most, it's an expensive, stressful process that requires weeks of planning. Our family is about to be a part of the millions of people that will move this year, but we're hoping our minimalist lifestyle provides for a very different experience.

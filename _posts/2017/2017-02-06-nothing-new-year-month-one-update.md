@@ -26,6 +26,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [nothing new year]
 
+categories: [article]
+
 ---
 
 We kicked off this year with a goal to [buy nothing new]({% post_url 2017/2017-01-02-happy-nothing-new-year %}). Time flies when you're having fun - January is _already_ over so it's time to give our first monthly update on how we're doing in our Nothing New Year Challenge for 2017.

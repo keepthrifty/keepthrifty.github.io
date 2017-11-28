@@ -24,6 +24,8 @@ tags: [dreams & values]
 
 affiliate: true
 
+categories: [article]
+
 ---
 
 Tomorrow is a special day in the Keep Thrifty household - it's our 9-year wedding anniversary! When we got married, I was so excited to spend the rest of our lives together. Looking back, I didn't actually grasp the full power of having a partner in my life. Our marriage has had plenty of ups and downs but in the last two years, I feel we've really started to figure this whole thing out.

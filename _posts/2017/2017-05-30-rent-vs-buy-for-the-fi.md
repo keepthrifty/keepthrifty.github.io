@@ -24,6 +24,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [money]
 
+categories: [article]
+
 ---
 
 As we've been speeding toward closing on our house and [downsizing into a rental]({% post_url 2017/2017-05-15-big-barriers-living-smaller %}), I've been thinking a lot about how we'd make the rent versus buy decision if we were already financially independent. There are lots of great articles in the personal finance world that examine the trade-offs between renting and buying but I haven't yet stumbled across one that looks at it from the perspective of someone who's already covering all their expenses from retirement savings accounts. __Let's fix that.__

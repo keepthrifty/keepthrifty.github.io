@@ -17,6 +17,8 @@ tags: [our thrifty life]
 
 video: true
 
+categories: [video]
+
 ---
 
 Hey everyone! We are so excited to bring you our new video series, _Our Thrifty Life_. We’ve never done this before, so our videos aren’t perfect, but we plan on learning and getting better along the way. We hope you enjoy them.

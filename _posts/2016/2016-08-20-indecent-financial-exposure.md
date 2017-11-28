@@ -18,6 +18,8 @@ permalink: /:year/:month/:day/:title.html
 tags: [money]
 
 affiliate: true
+
+categories: [article]
 ---
 
 One year ago, I launched [Thrifty][thrifty-link], a web-based expense and income tracking tool and became the first user. Using Thrifty, our family has logged every penny we've earned, paid in taxes, and spent on expenses over the last 12 months.

@@ -19,6 +19,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [money]
 
+categories: [article]
+
 ---
 
 _Greetings my Thrifty compadres! This week we've got a guest post from my good friend Adam at [Crispy Cabbage](http://www.crispycabbage.com){: target="_blank"}. Adam's a man of many talents - digging deep into ideas, cracking his readers up, and making awesome drawings on college-ruled paper. Today he's going to do all three for you with a fun post about how he'd capitalize on the success of a gorilla-shaped Cheeto that sold for $100,000._

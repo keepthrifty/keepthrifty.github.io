@@ -19,6 +19,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism]
 affiliate: true
+
+categories: [article]
 ---
 
 Millennial males spend _twice as much_ each year on apparel when compared to men of prior generations. Millennial females are in a similar situation, spending a third more than women of prior generations. How can we avoid losing the shirts off our backs?

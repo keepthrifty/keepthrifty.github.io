@@ -24,6 +24,8 @@ tags: [minimalism]
 
 affiliate: true
 
+categories: [article]
+
 ---
 
 This was a big week for our family. We accepted an offer on our 1900 square-foot house and _signed a lease to move into an 1166 square-foot apartment!_ We've been planning on downsizing for some time and are excited to finally be there. One of the biggest surprises we had in this process was how __hard__ it is to find smaller places to live in our area, _especially as a family of five_.

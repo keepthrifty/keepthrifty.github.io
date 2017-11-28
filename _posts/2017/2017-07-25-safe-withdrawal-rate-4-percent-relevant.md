@@ -23,6 +23,8 @@ related-posts: [
 
 tags: [money]
 
+categories: [article]
+
 ---
 
 One of the cornerstones of financial independence math is the _safe withdrawal rate_ (SWR). The SWR is the amount you can withdraw from your retirement accounts every year without fearing that you'll run out of money before you kick the bucket. If you've got financial freedom on your goals list, the safe withdrawal rate is something you'll probably want to understand! One of the most well-known papers on this was _The Trinity Study_, which gave guidance on how to establish a portfolio with a sustainable 4% SWR. You'll see this number used all over the place (including on this site), but looking at the study raised some questions for me about whether the 4% SWR is applicable for financial freedomists today.

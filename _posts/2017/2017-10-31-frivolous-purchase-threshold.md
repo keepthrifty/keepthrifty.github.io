@@ -32,6 +32,8 @@ tags: [money]
 redirect_from:
   - /fpt
 
+categories: [article]
+
 ---
 
 Do you ever get to the end of the month and wonder where all your money went? There's a negative force at work against your journey to financial freedom called the Frivolous Purchase Threshold. It'll steal your money and leave you with worthless trinkets you didn't need. Let's learn how to identify this bugger so we can exterminate it from our lives.

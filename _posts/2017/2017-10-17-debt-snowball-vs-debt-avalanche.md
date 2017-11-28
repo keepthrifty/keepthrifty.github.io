@@ -35,6 +35,8 @@ audio:
 redirect_from:
   - /debtsnowball/
 
+categories: [article]
+
 ---
 
 If you've got a mountain of debt, there are two awesome ways to shred it - _the Debt Snowball_ and _the Debt Avalanche_. Read on to learn how to choose which is right for you and what to do if you can only pay your minimums. If you're already well-versed, check out the end of the post for an awesome spreadsheet to show how much better Debt Avalanche is.

@@ -18,6 +18,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title.html
 tags: [money]
 affiliate: true
+
+categories: [article]
 ---
 
 My twitter feed keeps coming up with links to financial calculators framed around the question "How much car can you afford?". This question makes me cringe because it's totally the wrong question to ask.

@@ -16,6 +16,8 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [dreams & values]
+
+categories: [article]
 ---
 
 I've [mentioned before][engagement-ring-post] that we have a family goal to reach all 50 states with our daughters before they graduate high school. We just got back from our third annual road trip - our longest one yet: 4600 miles of driving over 12 days, reaching 9 states.

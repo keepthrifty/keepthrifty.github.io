@@ -22,6 +22,8 @@ tags: [money]
 
 number-headings: true
 
+categories: [article]
+
 ---
 
 We're back from our 12-day road trip of the Northeastern US. Over the years, we've come to believe that the road trip is _the best frugal way to travel as a family_. Let's look at how we make our trips memorable (and manageable). Get ready for an adventure as we explore the Keep Thrifty guide to the best family vacation on a budget: the road trip.

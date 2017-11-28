@@ -21,6 +21,8 @@ related-posts: [
 
 tags: [think different]
 
+categories: [article]
+
 ---
 
 Have you ever felt like your life is a constant shift from one commitment to the next? As soon as one meeting finishes, another is about to begin. In the open spaces of your calendar, you do your best to keep up with your inbox, respond to texts, and answer the call of social media. I've been there, putting myself in a position where my obligations were in charge of my attention. One of my goals in [mini-retirement]({% post_url 2017/2017-07-11-one-year-mini-retirement %}) is to take back my schedule (and my sanity) by shifting my actions from "push" to "pull". Here's how I'm doing it - starting with one little experiment.

@@ -33,6 +33,8 @@ tags: [money]
 redirect_from:
   - /patience
 
+categories: [article]
+
 ---
 
 Patience is a virtue, but it's more than that. It's an incredible source of passive income. OK, maybe not income in the traditional sense, but at the end of the day, patience leaves you with extra money in your bank account for doing _absolutely nothing_.

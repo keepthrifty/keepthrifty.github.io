@@ -31,6 +31,8 @@ tags: [nothing new year]
 redirect_from:
   - /nny10
 
+categories: [article]
+
 ---
 
 October has come and gone and we've only got two months of our challenge left! This month, we'll look at our October spending and "new" purchases, as well as take a deep dive at the cost of me attending FinCon, the personal finance conference I spent 5 days at this month.

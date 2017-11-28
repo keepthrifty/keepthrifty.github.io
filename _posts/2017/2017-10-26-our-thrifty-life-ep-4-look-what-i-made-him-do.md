@@ -19,6 +19,8 @@ tags: [our thrifty life]
 video:
   path: https://www.youtube.com/embed/wZ0oK4AM1u0?ecver=2
 
+
+categories: [video]
 ---
 
 Chris and I had so much fun making this video. Chris shaved (his beard) a few days ago and I let my crazy hair down.

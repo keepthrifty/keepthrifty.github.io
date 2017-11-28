@@ -23,6 +23,8 @@ excerpt: |
 
 permalink: /:year/:month/:day/:title/
 tags: [money]
+
+categories: [article]
 ---
 
 _This week I wrote a guest post for the Mystery Money Man blog. The teaser for my post is below and you can find a link to the full post at the end. Enjoy!_
