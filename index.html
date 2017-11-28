@@ -3,6 +3,25 @@ layout: default
 exclude_from_search: true
 ---
 
+{% if paginator.page == 1 %}
+<div class="welcome-box">
+  <div class="welcome-box__image">
+    <img src="{{site.url}}/assets/img/our-family.jpg">
+  </div>
+  <div class="welcome-box__message">
+    <h2 class="welcome-title">Create the freedom you've been missing by living a thrifty life</h2>
+
+    <p>After years of just getting by, we decided to take charge of our money and create our own freedom.</p>
+    <p>We broke out of the consumerist mindset, paid off our mortgage, road tripped across 46 states with our three daughters, and are taking a one-year mini-retirement.</p>
+    <p>Here at Keep Thrifty, we share our journey and bring you inspiration and tools to help you create your freedom.</p>
+    <div class="welcome-box__cta">
+      <a href="{{site.url}}/newsletter">Get our Newsletter</a>
+    </div>
+  </div>
+
+</div>
+{% endif %}
+
 <div class="post-summary-list">
 {% for post in paginator.posts %}
   <article class="post">

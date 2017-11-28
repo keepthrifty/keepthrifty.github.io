@@ -30,8 +30,8 @@ main.page {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
   @media screen and (min-width: $minimum-break) {
-    padding-top: 2.75rem;
-    padding-bottom: 2.75rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
   }
 }
 
@@ -43,24 +43,6 @@ main.page {
 }
 .right {
   text-align: right;
-}
-
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
-
-.col {
-  min-width: 25%;
-  -webkit-flex: 1 200px;
-  flex: 1 200px;
-}
-
-.col-three-quarters {
-  -webkit-flex: 1 700px;
-  flex: 1 700px;
-  min-width: 66%;
 }
 
 a {
