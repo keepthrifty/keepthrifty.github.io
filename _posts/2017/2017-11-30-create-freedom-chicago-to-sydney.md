@@ -7,11 +7,11 @@ title: "From Chicago to Sydney"
 subtitle: "Create Your Freedom Series - Meet Kyle"
 description: "TK"
 
-date: 2017-12-15 6:58:00 -0500
+date: 2017-11-30 6:58:00 -0500
 
 image:
-  path: /assets/img/posts/2017-12-15-create-freedom-chicago-to-sydney/feeding-kangaroos.jpg
-pinterest-image: /assets/img/posts/2017-12-15-create-freedom-chicago-to-sydney/TK.jpg
+  path: /assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/feeding-kangaroos.jpg
+pinterest-image: /assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/TK.jpg
 
 tags: [create your freedom]
 
@@ -33,7 +33,7 @@ Ever since I studied abroad in Australia back in college, I always told myself I
 
 I was laid off from my job in 2015 and was at a bit of turning point. I didn't know what I wanted to do next and was not feeling inspired about just getting any job in Chicago to continue on as I was. It was also one of the worst winters in recent history (sub-zero temperatures and record snowfall) so we were ready to move somewhere warm. My girlfriend Lauren and I just decided we were going to do it. We bought one-way tickets, applied for 1-year work visas and then decided we would figure everything else out over the next few months before we left.
 
-![Kyle and Lauren at the Byron Bay Lookout]({{site.url}}/assets/img/posts/2017-12-15-create-freedom-chicago-to-sydney/byron-bay-lookout.jpg)
+![Kyle and Lauren at the Byron Bay Lookout]({{site.url}}/assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/byron-bay-lookout.jpg)
 
 ## Strategy
 
@@ -51,7 +51,7 @@ Obviously I was stressed about money at first, but once I started making money f
 
 Luckily, Sydney has a large community of foreigners who are all looking to connect, so I joined a fitness bootcamp for international ex-pats and went to a few other Meetups where I made a lot of new friends. I was based at home for work, but Lauren made plenty of friends with her new coworkers. It simply just took some effort on our part to introduce ourselves to new people.
 
-We lived in an Airbnb for the first week while we looked for an apartment, which was luckily a quick process. Sydney is a popular city so apartment hunting is competitive, but we used a few different websites like realestate.com.au and Gumtree to find apartment listings and meet with agents. We were moved into our place in Bondi Beach within a week.
+We lived in an Airbnb for the first week while we looked for an apartment, which was luckily a quick process. Sydney is a popular city so apartment hunting is competitive, but we used a few different websites like [realestate.com.au](http://realestate.com.au) and Gumtree to find apartment listings and meet with agents. We were moved into our place in Bondi Beach within a week.
 
 Things like opening a bank account, getting a cell phone plan or finding furniture for our apartment were all items that we just dealt with once we arrived. You could spend hours researching this stuff online, but you will get better answers by having a 5 minute conversation with your cab driver from the airport. Once you arrive, things tend to fall into place.
 
@@ -61,7 +61,7 @@ Well, in the beginning, neither Lauren or I had a job lined up when we decided t
 
 However, Lauren simply asked her current employer at the time for a transfer and was ended up given a position, even after she was told no a few times. Then I had a former employer reach out to me asking if I would be interested in coming back to work for them. I told them I was moving to Sydney, they said they had an opening there, the rest was history. We both ended up having jobs lined up before we left. Sometimes you just need to be brave and ask for what you want.
 
-![Bronte Ocean Pool]({{site.url}}/assets/img/posts/2017-12-15-create-freedom-chicago-to-sydney/bronte-ocean-pool.jpg)
+![Bronte Ocean Pool]({{site.url}}/assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/bronte-ocean-pool.jpg)
 
 ## Life Now
 
@@ -69,7 +69,7 @@ However, Lauren simply asked her current employer at the time for a transfer and
 
 To be honest, on a day-to-day basis our lives are only slightly different. We go to work during the week and spend time with our friends on the weekends. But it's the little things that really make a difference. We can go for walks on the beach whenever we want, we don't have to deal with cold and miserable winters and the Aussie work-life balance is a lot better. People really enjoy not working too hard or taking themselves too seriously. Also, it's just great to know how adaptable we are, and that we can handle any changes that come our way.
 
-_Read more from Kyle on how he [saves money while living in one of the most expensive cities in the world](https://notyourparentsfinancialguy.com/how-to-save-money-while-living-in-one-of-the-most-expensive-cities-in-the-world/)_
+_Read more from Kyle on how he [saves money while living in one of the most expensive cities in the world](https://notyourparentsfinancialguy.com/how-to-save-money-while-living-in-one-of-the-most-expensive-cities-in-the-world/) and how he went from [unemployed to saving $30k a year](https://notyourparentsfinancialguy.com/how-i-went-from-unemployed-to-saving-30k-per-year/)_
 
 ### Do you have any regrets or things you would do differently?
 
@@ -78,6 +78,8 @@ I'd say the biggest thing would be to not take it so seriously. We completely ov
 ### What would you say to someone who wants to do what you did?
 
 I've had a few friends from Sydney who wanted to make big moves of their own (one friend went to Berlin and another to London). The one thing I would say is just buy the plane ticket. Once that's done you'll find a way to make the rest of it work.
+
+![Kyle and Lauren on the beach ]({{site.url}}/assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/great-ocean-road.jpg)
 
 ## A New Dream Begins
 
@@ -93,6 +95,6 @@ We've met so many people who have shared their stories and strategies for travel
 
 In May 2018, we'll sell our possessions, move out of our apartment and take a one-way flight to Indonesia where we'll start our adventure.
 
-_Thank you to Kyle for sharing his story. We love the side hustle and the fact that he bought a plane ticket with the confidence that the rest will work out. We wish him and Lauren the best and an amazing next adventure! We can’t wait to hear all about the mini-retirement once they are back in the States!_
+_Thank you to [Kyle]({{site.data.authors[page.author].web}}) for sharing his story. We love the side hustle and the fact that he bought a plane ticket with the confidence that the rest will work out. We wish him and Lauren the best and an amazing next adventure! We can’t wait to hear all about the mini-retirement once they are back in the States!_
 
 {% include cyf-submit.html %}
