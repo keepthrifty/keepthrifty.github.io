@@ -206,23 +206,12 @@ a {
     color: $meta-color;
   }
 
-  blockquote {
-    color: $meta-color;
-    border-left: 2px solid $primary-color;
-    border-right: 2px solid $primary-color;
-    padding: 0 1.5rem 0 1.5rem;
-  }
-
   .side-note {
     text-align: right;
     color: $meta-color;
     font-size: 0.8rem;
   }
 
-  p, li {
-    font-weight: 300;
-    font-size: 1.2rem;
-  }
   .disclaimer {
     color: $meta-color;
     font-weight: 300;
@@ -240,33 +229,6 @@ a {
     text-align: center;
   }
 
-  h4, h5, h6 {
-    font-weight: 300;
-  }
-
-  h1 {
-    font-size: 2rem;
-    font-weight: 600;
-  }
-  h2 {
-    font-size: 1.6rem;
-    font-weight: 500;
-  }
-  h3 {
-    font-size: 1.5rem;
-    font-weight: 400;
-  }
-  h4 {
-    font-weight: 400;
-    font-size: 1.4rem;
-  }
-  h5 {
-    font-size: 1.3rem;
-  }
-  h6 {
-    font-size: 1.2rem;
-  }
-
   ul {
     list-style-type: disc;
 
@@ -275,16 +237,6 @@ a {
     li {
       list-style-type: disc;
     }
-  }
-  pre.highlight {
-    code {
-      margin-left: 2rem;
-    }
-  }
-  code {
-    background-color: $code-color;
-    padding: 0.2rem;
-    font-size: 1rem;
   }
 
   table {
@@ -538,6 +490,9 @@ form {
 }
 
 .site-footer {
+  p, li {
+    font-size: 1rem;
+  }
   font-weight: 300;
   background-color: white;
   text-align: center;

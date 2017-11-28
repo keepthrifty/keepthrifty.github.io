@@ -4,7 +4,7 @@
 @charset "utf-8";
 /*** Colors ***/
 $primary-color: #558B2F; //color("light-green", "darken-3") !default;
-$secondary-color: #4DBED2; 
+$secondary-color: #4DBED2;
 $meta-color: #9E9E9E; //color("grey", "base") !default;
 $bg-color: #F5F5F5; //color("grey", "lighten-4") !default;
 $code-color: #DCEDC8; //color("light-green", "lighten-4") !default;
@@ -22,6 +22,7 @@ $large-screen: 1200px;
         "roboto",
         "typography",
         "header",
+        "latest-content",
         "content-box",
         "thrifty",
         "number-headings",

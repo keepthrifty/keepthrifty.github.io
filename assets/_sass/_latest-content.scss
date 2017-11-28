@@ -1,0 +1,27 @@
+#latest-content {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 960px;
+}
+
+.latest-content__box {
+  flex: 1 1 auto;
+}
+
+h3.latest-content__box-title {
+  
+}
+
+.latest-content__box-link {
+
+}
+
+.latest-content__content-title {
+
+}
+
+.latest-content__content-image {
+  img {
+    max-width: 100%;
+  }
+}

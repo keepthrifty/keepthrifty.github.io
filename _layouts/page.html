@@ -6,11 +6,11 @@ layout: default
   <header class="post__header">
     <div class="post__title">
       <h1 class="post__title--main">{{ page.title }}</h1>
-      {% if page.subtitle %}<h2 class="post__title--subtitle">{{ page.subtitle }}</h2>{% endif %}
+      {%- if page.subtitle -%}<h2 class="post__title--subtitle">{{ page.subtitle }}</h2>{%- endif -%}
     </div>
-    {% if page.image %}
+    {%- if page.image -%}
     <img src="{{ site.url }}{{ page.image.path }}" class="post__header__image" alt="" />
-    {% endif %}
+    {%- endif -%}
   </header>
 
   <main class="post__body">
@@ -18,12 +18,12 @@ layout: default
   </main>
 
   <fooder class="post__footer">
-    {% unless page.no-share %}
+    {%- unless page.no-share -%}
       <hr>
-      {% include share-buttons-only.html %}
-    {% endunless %}
-    {% if page.comments %}
+      {% include share-buttons-only.html -%}
+    {%- endunless %}
+    {%- if page.comments -%}
       {% include comments.html %}
-    {% endif %}
+    {%- endif -%}
   </footer>
 </article>
