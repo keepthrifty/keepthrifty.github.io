@@ -1,7 +1,7 @@
 <div class="latest-content__box">
-  <div class="latest-content__box-title">
+  <h2 class="latest-content__box-title">
     {{ include.label }}
-  </div>
+  </h2>
   {% assign post = site.categories[include.type].first %}
   <h3 class="latest-content__content-title">
     <a href="{{ post.url }}">{{ post.title }}</a>
@@ -12,6 +12,6 @@
     </a>
   </div>
   <div class="latest-content__box-link">
-    <a href="{{site.url}}{{ include.link }}">Full List of {{ include.link-label | capitalize }} </a>
+    <a href="{{site.url}}{{ include.link }}">Full List of {{ include.link-label }} </a>
   </div>
 </div>

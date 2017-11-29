@@ -77,7 +77,7 @@ We talked about the pressure Chris was feeling to make Keep Thrifty successful. 
 
 It turned into Chris walking me to the gym in the morning. He also surprised me by waiting outside our building on my way home.
 
-_Let me say that again -_ __he was waiting for me!!!___
+_Let me say that again -_ ___he was waiting for me!!!___
 
 I’ve been waiting 12 years for this man to do that! That was amazing!
 

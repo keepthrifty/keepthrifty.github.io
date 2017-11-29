@@ -78,3 +78,26 @@ strong { font-weight: 500; }
 small { font-size: 75%; }
 .light { font-weight: 300; }
 .thin { font-weight: 200; }
+
+h3.meta-header {
+  font-size: 1.2rem;
+  color: $meta-color;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+a.button, button.button {
+  border: 1px solid $primary-color;
+  border-radius: 0.2rem;
+  color: $primary-color;
+  padding: 0.5rem 1rem;
+  letter-spacing: 0.4rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  &:hover {
+    background-color: $primary-color;
+    color: white;
+    opacity: 1.0;
+    transition: color 350ms, background-color 350ms;
+  }
+}
