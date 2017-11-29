@@ -1,0 +1,134 @@
+.landing-box {
+  margin: 2rem auto;
+  max-width: 960px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  h2.landing-title {
+    margin-top: 0rem;
+    font-size: 2rem;
+    font-weight: 300;
+    text-align: center;
+  }
+  p {
+    font-size: 1.1rem;
+    font-weight: 300;
+    text-align: justify;
+  }
+  @media screen and (max-width: 700px) {
+    h2.landing-title {
+      font-size: 1.5rem;
+    }
+    p {
+
+    }
+  }
+}
+
+.landing-box__image {
+  text-align: center;
+  padding: 1rem 3rem;
+  flex: 3 3 10rem;
+  border-radius: 0.2rem;
+  img {
+    max-width: 100%;
+    border-radius: 0.2rem;
+  }
+  @media screen and ( max-width: $minimum-break ) {
+    flex: 0 0 auto;
+    width: 100%;
+    padding: 1rem 0;
+    img {
+      width: 250px;
+    }
+  }
+}
+
+.landing-box__image--welcome {
+  flex: 2 2 5rem;
+
+  @media screen and ( max-width: $minimum-break ) {
+    flex: 0 0 auto;
+  }
+
+  @media screen and ( max-width: $minimum-break ) {
+    img {
+      background: url(/assets/img/our-family-horizontal.jpg) no-repeat;
+      height: 178px; /* Height of new image */
+      padding-left: 250px; /* Equal to width of new image */
+    }
+  }
+}
+
+.landing-box__message {
+  padding: 1rem 3rem;
+  flex: 3 3 10rem;
+  @media screen and ( max-width: $minimum-break ) {
+    order: 1;
+  }
+}
+
+.landing-box__cta {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+#latest-content {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap-reverse;
+  justify-content: space-evenly;
+  align-items: stretch;
+  max-width: 1040px;
+  margin: 4rem auto;
+}
+
+.latest-content__box {
+  flex: 1 1 12rem;
+  margin: 2rem 2rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+h2.latest-content__box-title {
+  font-size: 1.2rem;
+  flex: 0 0 auto;
+  margin: 0 0.5rem 0.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+  color: $meta-color;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+h3.latest-content__content-title {
+  flex: 1 1 auto;
+  margin: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  a {
+    color: $off-black;
+  }
+  font-weight: 300;
+}
+
+.latest-content__content-image {
+  margin: 0.5rem;
+  flex: 0 0 auto;
+  img {
+    max-width: 100%;
+  }
+}
+
+.latest-content__box-link {
+  flex: 0 0 auto;
+  margin: 0 0.5rem 0.5rem;
+  font-weight: 300;
+  a {
+    color: $meta-color;
+  }
+  text-transform: uppercase;
+}
