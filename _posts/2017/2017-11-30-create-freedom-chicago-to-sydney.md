@@ -3,15 +3,15 @@ layout: post
 
 author: not_your_parents_financial_guy
 
-title: "From Chicago to Sydney"
+title: "Chicago to Sydney"
 subtitle: "Create Your Freedom Series - Meet Kyle"
-description: "Ever dreamed of packing up and moving halfway across the world? It's just as exciting as you might think but easier than you'd imagine. Read how Kyle did just that, moving from Chicago to Australia."
+description: "TK"
 
 date: 2017-11-30 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/feeding-kangaroos.jpg
-pinterest-image: /assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/chicago-to-sydney
+pinterest-image: /assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/TK.jpg
 
 tags: [create your freedom]
 
