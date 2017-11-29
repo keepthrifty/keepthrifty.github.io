@@ -3,7 +3,7 @@ layout: post
 
 author: not_your_parents_financial_guy
 
-title: "From Chicago to Sydney"
+title: "Chicago to Sydney"
 subtitle: "Create Your Freedom Series - Meet Kyle"
 description: "Ever dreamed of packing up and moving halfway across the world? It's just as exciting as you might think but easier than you'd imagine. Read how Kyle did just that, moving from Chicago to Australia."
 
