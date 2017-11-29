@@ -564,11 +564,10 @@ form {
 }
 
 .footer-row__element {
-  -webkit-flex: 1 20rem;
-  flex: 1 20rem;
+  flex: 1 0 18rem;
   color: $meta-color;
   padding: 0 2rem;
-  min-width: 20rem;
+  //min-width: 20rem;
 }
 
 
@@ -925,4 +924,16 @@ a.tipue_search_foot_box {
 
 .content-upgrade__groups {
   display: none;
+}
+
+@media screen and ( max-width: $footer-break ) {
+  .collapse-order-1 {
+    order: 1;
+  }
+  .collapse-order-2 {
+    order: 2;
+  }
+  .collapse-order-3 {
+    order: 3;
+  }
 }
