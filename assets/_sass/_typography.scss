@@ -52,8 +52,15 @@ p, li {
 }
 
 a {
+  color: $secondary-color;
   text-decoration: none;
+  opacity: 1.0;
+  transition: opacity 350ms;
+  &:hover {
+    color: $primary-color;
+  }
 }
+
 pre.highlight {
   code {
     margin-left: 2rem;
@@ -86,7 +93,7 @@ h3.meta-header {
   text-transform: uppercase;
 }
 
-a.button, button.button {
+a.button, button.button, button.subscribe-button {
   border: 1px solid $primary-color;
   border-radius: 0.2rem;
   color: $primary-color;

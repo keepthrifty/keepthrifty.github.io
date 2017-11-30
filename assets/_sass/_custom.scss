@@ -14,11 +14,6 @@ ul {
   list-style: none;
 }
 
-a {
-	color: $secondary-color;
-	text-decoration: none;
-}
-
 body {
   margin: 0;
   min-height: 100vh;
@@ -43,14 +38,6 @@ main.page {
 }
 .right {
   text-align: right;
-}
-
-a {
-  opacity: 1.0;
-  transition: opacity 350ms;
-  &:hover {
-    opacity: 0.7;
-  }
 }
 
 .post {
@@ -462,9 +449,6 @@ form {
     margin: 0.5rem auto;
     display: block;
     text-transform: uppercase;
-    &:hover {
-      opacity: 0.7;
-    }
   }
   p {
     text-align: center;
@@ -611,90 +595,6 @@ div.call-to-action-container {
       display: block;
     }
   }
-}
-
-div.call-to-action {
-  display: inline;
-  margin: 1rem 0 0 0;
-  text-align: center;
-  a {
-    color: $meta-color;
-    border: 1px solid $meta-color;
-    box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
-    border-radius: 0.2rem;
-    padding: 1rem;
-    text-transform: uppercase;
-    font-weight: 300;
-  }
-  a:hover {
-    background-color: $meta-color;
-    color: white;
-    transition-duration: 200ms;
-  }
-}
-
-div.call-to-action--hero {
-  a {
-    background-color: $secondary-color;
-    border: none;
-    color: white;
-    font-size: 1.1rem;
-    padding: 0.5rem;
-    font-weight: 500;
-  }
-  a:hover {
-    background-color: $secondary-color;
-  }
-  margin: 1.5rem 0;
-}
-
-
-#next-post, #previous-post {
-  text-align: center;
-  margin: 0 2rem;
-  font-size: 1rem;
-}
-
-.pagination {
-
-  li {
-    display: inline-block;
-    font-size: 1.2rem;
-    padding: 0 10px;
-    line-height: 30px;
-    border-radius: 2px;
-    text-align: center;
-
-    a { color: $meta-color; }
-
-    &.active a {
-      color: #fff;
-      cursor: default;
-      &:hover {
-        opacity: 1;
-      }
-    }
-
-    &.active { background-color: $secondary-color; }
-
-    &.disabled a {
-      cursor: default;
-      color: #999;
-    }
-
-    i {
-      font-size: 2.2rem;
-      vertical-align: middle;
-    }
-  }
-  li.pages ul li {
-    display: inline-block;
-    float: none;
-  }
-}
-
-img.full {
-  max-width: 100%;
 }
 
 .tweet-link {
