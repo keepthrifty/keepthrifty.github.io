@@ -18,7 +18,7 @@ Typos happen from time-to-time; sometimes a cat just decides to lay on your keyb
 
 So _please, go check your inbox_ so we know you're not just some cat.
 
-You should see an email titled _"Welcome to Keep Thrifty!"_. In that e-mail you'll just have to click one little link and then you'll be good to go.
+You should see an email titled _"Confirm Your Keep Thrifty Subscription"_. In that e-mail you'll just have to click one little link and then you'll be good to go.
 
 Plus, when you click the link, you'll get a free copy of our _"5 Steps to a Mini-Retirement"_ cheat sheet. Yay freebies!
 
