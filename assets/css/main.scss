@@ -22,9 +22,11 @@ $large-screen: 1200px;
 @import
         "roboto",
         "typography",
-        "header",
+        "components/brand-bar",
+        "components/nav-bar",
+        "components/search-form",
+        "components/modal",
         "landing",
-        "modal",
         "number-headings",
         "convertkit",
         "custom",
