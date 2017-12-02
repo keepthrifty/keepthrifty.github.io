@@ -30,7 +30,7 @@ tags: [nothing new year]
 
 categories: [article]
 
-affiliate: true
+
 
 ---
 

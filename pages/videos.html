@@ -1,0 +1,16 @@
+---
+layout: page
+title: Videos
+description: "TK"
+permalink: /videos/
+---
+
+<ul class="archive-list">
+  {%- for post in site.posts -%}
+    {%- if post.categories contains 'our thrifty life' -%}
+    <li class="archive-list--entry">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {%- endif -%}
+  {%- endfor -%}
+</ul>

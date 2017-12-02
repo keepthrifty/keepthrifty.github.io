@@ -17,7 +17,7 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [think different]
-affiliate: true
+
 
 categories: [article]
 ---

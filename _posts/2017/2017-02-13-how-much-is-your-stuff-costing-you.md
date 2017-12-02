@@ -20,7 +20,7 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [minimalism]
 
-affiliate: true
+
 
 categories: [article]
 

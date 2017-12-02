@@ -16,7 +16,7 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [money]
-affiliate: true
+
 
 categories: [article]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Start Here
-permalink: /start-here/
+permalink: /start-here-old/
 comments: true
 redirect_from:
   - /about/

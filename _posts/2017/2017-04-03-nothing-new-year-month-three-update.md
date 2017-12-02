@@ -26,7 +26,7 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [nothing new year]
 
-affiliate: true
+
 
 categories: [article]
 

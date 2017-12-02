@@ -11,7 +11,7 @@ $code-color: #DCEDC8; //color("light-green", "lighten-4") !default;
 $off-black: rgba(0, 0, 0, 0.87);
 $off-white: rgba(255, 255, 255, 0.87);
 
-$minimum-break: 600px;
+$minimum-break: 700px;
 $footer-break: 755px;
 $xs-screen: 360px;
 $small-screen: 400px;
@@ -22,9 +22,12 @@ $large-screen: 1200px;
 @import
         "roboto",
         "typography",
+        "page",
+        "post",
         "components/brand-bar",
         "components/nav-bar",
         "components/search-form",
+        "components/featured-content",
         "components/modal",
         "landing",
         "number-headings",

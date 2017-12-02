@@ -23,7 +23,7 @@ related-posts: [
 
 tags: [dreams & values]
 
-affiliate: true
+
 
 categories: [article]
 

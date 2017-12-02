@@ -73,10 +73,18 @@ code {
 }
 
 blockquote {
-  color: $meta-color;
-  border-left: 2px solid $primary-color;
-  border-right: 2px solid $primary-color;
-  padding: 0 1.5rem 0 1.5rem;
+  display: block;
+  clear: both;
+  margin: 3rem 2rem;
+  border-top: 1px solid rgba(0,0,0,0.15);
+  border-bottom: 1px solid rgba(0,0,0,0.15);
+  font-style: italic;
+  p {
+    margin: 1rem;
+    font-size: 2.5rem;
+    letter-spacing: 0.1rem;
+    text-align: justify;
+  }
 }
 
 // Text Styles

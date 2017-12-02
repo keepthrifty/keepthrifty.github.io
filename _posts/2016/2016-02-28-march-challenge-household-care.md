@@ -23,7 +23,7 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [challenge]
-affiliate: true
+
 
 categories: [article]
 ---

@@ -22,7 +22,7 @@ related-posts: [
 
 tags: [mini-retirement]
 
-affiliate: true
+
 
 featured: true
 rockstar: true

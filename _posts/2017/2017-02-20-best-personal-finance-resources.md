@@ -14,7 +14,7 @@ image:
 
 permalink: /favorite-resources/
 
-affiliate: true
+
 
 nometa: true
 

@@ -15,9 +15,8 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [think different]
-featured: true
 rockstar: true
-affiliate: true
+
 
 categories: [article]
 ---

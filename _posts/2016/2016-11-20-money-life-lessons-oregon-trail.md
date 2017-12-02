@@ -18,7 +18,7 @@ related-posts: [
   "/2017/04/17/three-phases-money-feelings"
 ]
 
-affiliate: true
+
 permalink: /:year/:month/:day/:title/
 tags: [money]
 

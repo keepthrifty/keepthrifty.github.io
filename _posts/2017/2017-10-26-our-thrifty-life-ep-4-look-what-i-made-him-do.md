@@ -19,6 +19,7 @@ tags: [our thrifty life]
 video:
   path: https://www.youtube.com/embed/wZ0oK4AM1u0?ecver=2
 
+featured: true
 
 categories: [video]
 ---

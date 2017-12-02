@@ -18,7 +18,7 @@ related-posts: [
   "/power-of-a-partner"
 ]
 
-affiliate: true
+
 
 permalink: /:year/:month/:day/:title/
 tags: [money]

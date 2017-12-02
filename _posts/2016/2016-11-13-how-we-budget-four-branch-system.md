@@ -17,7 +17,7 @@ related-posts: [
   "/mini-retirement-budget"
 ]
 
-affiliate: true
+
 permalink: /:year/:month/:day/:title/
 tags: [money]
 

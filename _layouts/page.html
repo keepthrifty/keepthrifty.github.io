@@ -2,28 +2,11 @@
 layout: default
 ---
 
-<article class="post">
-  <header class="post__header">
-    <div class="post__title">
-      <h1 class="post__title--main">{{ page.title }}</h1>
-      {%- if page.subtitle -%}<h2 class="post__title--subtitle">{{ page.subtitle }}</h2>{%- endif -%}
-    </div>
-    {%- if page.image -%}
-    <img src="{{ site.url }}{{ page.image.path }}" class="post__header__image" alt="" />
-    {%- endif -%}
-  </header>
-
-  <main class="post__body">
-    {{ content }}
-  </main>
-
-  <fooder class="post__footer">
-    {%- unless page.no-share -%}
-      <hr>
-      {% include share-buttons-only.html -%}
-    {%- endunless %}
-    {%- if page.comments -%}
-      {% include comments.html %}
-    {%- endif -%}
-  </footer>
-</article>
+<main class="page__body">
+  {{ content }}
+</main>
+<fooder class="page__footer">
+  {%- if page.comments -%}
+    {% include comments.html %}
+  {%- endif -%}
+</footer>

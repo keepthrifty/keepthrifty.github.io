@@ -28,7 +28,7 @@ related-posts: [
 
 tags: [nothing new year]
 
-affiliate: true
+
 
 categories: [article]
 

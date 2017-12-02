@@ -37,6 +37,9 @@ ul.nav-bar__list {
     text-transform: uppercase;
     position: relative;
     padding: 1rem 0px;
+    &:hover {
+      opacity: 0.7;
+    }
   }
 }
 

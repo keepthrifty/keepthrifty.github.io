@@ -82,6 +82,9 @@
   align-items: stretch;
   max-width: 1040px;
   margin: 4rem auto;
+  a:hover {
+    opacity: 0.7;
+  }
 }
 
 .latest-content__box {

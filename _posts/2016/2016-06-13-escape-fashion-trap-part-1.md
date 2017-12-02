@@ -18,7 +18,7 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism]
-affiliate: true
+
 
 categories: [article]
 ---

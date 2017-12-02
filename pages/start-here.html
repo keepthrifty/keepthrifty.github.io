@@ -1,0 +1,63 @@
+---
+layout: page
+title: Start Here
+permalink: /start-here/
+comments: true
+no-share: true
+---
+
+<div class="landing-box">
+  <div class="landing-box__image landing-box__image--welcome">
+    <img src="{{site.url}}/assets/img/our-family-vertical.jpg">
+  </div>
+  <div class="landing-box__message">
+    <h2 class="landing-title">Welcome to Keep Thrifty</h2>
+    <p>If you're like most of our readers, you're looking to do something different.</p>
+    <p>You've got big dreams underneath the surface and want to make them a reality. You've felt stuck by never-enough finances and overloaded schedules and are ready to take control and chase your dreams.</p>
+    <p><strong><em>We know exactly how you feel. We've been there too.</em></strong></p>
+    <p>After years of just getting by, we decided to take charge of our money and create our own freedom. You can <a href="{{site.url}}/about-us/">read our full story here</a>.</p>
+  </div>
+</div>
+
+<blockquote>
+  <p>Don't let your finances keep you from chasing your dreams</p>
+</blockquote>
+
+<div class="landing-box">
+  <div class="landing-box__message">
+    <h2 class="landing-title">What We Provide</h2>
+    <p>Here at Keep Thrifty, we share our journey and bring you inspiration and tools to help you create your freedom.</p>
+    <p>We've got <a href="{{site.url}}/articles/">articles</a>, <a href="{{site.url}}/videos/">videos</a>, and <a href="{{site.url}}/create-your-freedom/">success stories</a> to help inspire you to think differently about your dreams and your finances.</p>
+    <p>We've also created a <a href="https://thrifty.keepthrifty.com">money tracking app</a> to help you take control and make those dreams a reality.</p>
+  </div>
+</div>
+
+<div class="landing-box">
+  <div class="landing-box__message">
+    <h2 class="landing-title">How to Connect With Us</h2>
+    <p>We love connecting with our readers and we hope to build a supportive community of like-minded dreamers.</p>
+    <p>The best way to connect with us is to join our email list.</p>
+    <p>You'll get a personal update and link whenever we publish a new article, story, or video and we'll occasionally send you special subscriber-only content and invitations.</p>
+    {% include subscribe-modal-start-here.html %}
+    <p>Otherwise, feel free to <a href="{{site.url}}/contact/">send us a note</a> or find us on on <a href="https://www.twitter.com/keepthrifty/">Twitter</a>, <a href="https://www.youtube.com/channel/UCHpQLpwuiNRNwQ_eLJQInQA">YouTube</a>, <a href="https://www.facebook.com/keepthrifty/">Facebook</a>, or <a href="https://www.pinterest.com/keepthrifty/">Pinterest</a>.</p>
+  </div>
+</div>
+
+<div class="landing-box">
+  <div class="landing-box__message">
+    <h2 class="landing-title">Diving In</h2>
+    <p>Are you ready to dive in?</p>
+    <p><em>Great!</em> check below for some of our favorite pieces to get you started.</p>
+    <p>We're so excited that you came to check out Keep Thrifty. If there's any way we can help you define and reach your dreams, we'd love to <a href="{{site.url}}/contact/">hear from you</a>.</p>
+    <p>God bless</p>
+    <p>- Chris and Jaime</p>
+  </div>
+</div>
+
+<div id="featured-content">
+  {%- for post in site.posts reversed -%}
+    {%- if post.featured == true -%}
+      {% include featured-post.html post=post %}
+    {%- endif -%}
+  {%- endfor -%}
+</div>
