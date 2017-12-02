@@ -1,0 +1,15 @@
+<div class="nav-bar">
+  <ul class="nav-bar__list">
+    <li class="nav-bar__list__item {% if page.url == "/start-here/" %}nav-bar__list__item--current{% endif %}"><a href="/start-here/">Start Here</a></li>
+    <li class="nav-bar__list__item {% if page.url == "/about-us/" %}nav-bar__list__item--current{% endif %}"><a href="/about-us/">About Us</a></li>
+    <li class="nav-bar__list__item"><a>Blog <i class="fa fa-chevron-down"></a></i>
+      <ul>
+        <li {% if page.url == "/articles/" %}class="current"{% endif %}><a href="/articles/">Articles</a></li>
+        <li {% if page.url == "/videos/" %}class="current"{% endif %}><a href="/videos/">Videos</a></li>
+        <li {% if page.url == "/create-your-freedom/" %}class="current"{% endif %}><a href="/create-your-freedom/">Freedom Stories</a></li>
+      </ul>
+    </li>
+    <li class="nav-bar__list__item {% if page.url == "/contact-us/" %}nav-bar__list__item--current{% endif %}"><a href="/contact-us/">Contact Us</a></li>
+    <li class="nav-bar__list__button"><a href="https://thrifty.keepthrifty.com" class="button">Thrifty App</a></li>
+  </ul>
+</div>

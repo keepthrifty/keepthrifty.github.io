@@ -73,42 +73,42 @@ Expenses come in all different shapes and sizes. Some things are weekly, bi-week
   <div class="post__emphasis__box__header">
     We first made a list of all our expense categories:
   </div>
-  {% include post-emphasis-box-entry.html title="Rent" %}
-  {% include post-emphasis-box-entry.html title="Gas & Electric" %}
-  {% include post-emphasis-box-entry.html title="Internet" %}
-  {% include post-emphasis-box-entry.html title="Water & Sewer" %}
-  {% include post-emphasis-box-entry.html title="Household Care" note="(all items for our home - shampoo, floss, toilet paper, etc)" %}
+  {% include post/post-emphasis-box-entry.html title="Rent" %}
+  {% include post/post-emphasis-box-entry.html title="Gas & Electric" %}
+  {% include post/post-emphasis-box-entry.html title="Internet" %}
+  {% include post/post-emphasis-box-entry.html title="Water & Sewer" %}
+  {% include post/post-emphasis-box-entry.html title="Household Care" note="(all items for our home - shampoo, floss, toilet paper, etc)" %}
 
-  {% include post-emphasis-box-entry.html title="Regular Charity" note="(we give regularly to our church and The Hope Effect and didn’t want to stop)" %}
-  {% include post-emphasis-box-entry.html title="Other Charity" note="(this is important to us, so we wanted some extra money for other giving)" %}
+  {% include post/post-emphasis-box-entry.html title="Regular Charity" note="(we give regularly to our church and The Hope Effect and didn’t want to stop)" %}
+  {% include post/post-emphasis-box-entry.html title="Other Charity" note="(this is important to us, so we wanted some extra money for other giving)" %}
 
-  {% include post-emphasis-box-entry.html title="Gas" %}
-  {% include post-emphasis-box-entry.html title="Car care" note="(oil changes, registration, etc)" %}
+  {% include post/post-emphasis-box-entry.html title="Gas" %}
+  {% include post/post-emphasis-box-entry.html title="Car care" note="(oil changes, registration, etc)" %}
 
-  {% include post-emphasis-box-entry.html title="Groceries" %}
-  {% include post-emphasis-box-entry.html title="Eating Out" note="(because sometimes we are lazy or have friends over for pizza)" %}
+  {% include post/post-emphasis-box-entry.html title="Groceries" %}
+  {% include post/post-emphasis-box-entry.html title="Eating Out" note="(because sometimes we are lazy or have friends over for pizza)" %}
 
-  {% include post-emphasis-box-entry.html title="Pizza Night" note="(family Friday night tradition - ordering pizza, ice cream & renting a movie)" %}
-  {% include post-emphasis-box-entry.html title="Date Nights" note="(we are making this a priority - cost includes food, activity, babysitter)" %}
+  {% include post/post-emphasis-box-entry.html title="Pizza Night" note="(family Friday night tradition - ordering pizza, ice cream & renting a movie)" %}
+  {% include post/post-emphasis-box-entry.html title="Date Nights" note="(we are making this a priority - cost includes food, activity, babysitter)" %}
 
-  {% include post-emphasis-box-entry.html title="Life Insurance" %}
-  {% include post-emphasis-box-entry.html title="Health Insurance" %}
-  {% include post-emphasis-box-entry.html title="Healthcare Premiums & Co-pays" note="(we pay our bills with our HSA money)" %}
+  {% include post/post-emphasis-box-entry.html title="Life Insurance" %}
+  {% include post/post-emphasis-box-entry.html title="Health Insurance" %}
+  {% include post/post-emphasis-box-entry.html title="Healthcare Premiums & Co-pays" note="(we pay our bills with our HSA money)" %}
 
-  {% include post-emphasis-box-entry.html title="School" note="(cost related to kids school - supplies, fees, photos, etc)" %}
+  {% include post/post-emphasis-box-entry.html title="School" note="(cost related to kids school - supplies, fees, photos, etc)" %}
 
-  {% include post-emphasis-box-entry.html title="Clothes & Shoes" %}
-  {% include post-emphasis-box-entry.html title="Haircuts" note="(for Chris regularly, and Jaime twice a year including highlights)" %}
-  {% include post-emphasis-box-entry.html title="Tax Prep" note="(cost of filing taxes)" %}
+  {% include post/post-emphasis-box-entry.html title="Clothes & Shoes" %}
+  {% include post/post-emphasis-box-entry.html title="Haircuts" note="(for Chris regularly, and Jaime twice a year including highlights)" %}
+  {% include post/post-emphasis-box-entry.html title="Tax Prep" note="(cost of filing taxes)" %}
 
-  {% include post-emphasis-box-entry.html title="Hobbies" note="(kids sports/swimming lessons, and art supplies)" %}
-  {% include post-emphasis-box-entry.html title="Entertainment" note="(renting a random movie, going to the pool, etc)" %}
-  {% include post-emphasis-box-entry.html title="Gifts" note="(Christmas, Easter, each of our birthdays, niece/nephew birthday, school friends birthdays, our wedding anniversary, and other - because you never know)" %}
-  {% include post-emphasis-box-entry.html title="Thrifty" note="(costs of website, app hosting, etc)" %}
+  {% include post/post-emphasis-box-entry.html title="Hobbies" note="(kids sports/swimming lessons, and art supplies)" %}
+  {% include post/post-emphasis-box-entry.html title="Entertainment" note="(renting a random movie, going to the pool, etc)" %}
+  {% include post/post-emphasis-box-entry.html title="Gifts" note="(Christmas, Easter, each of our birthdays, niece/nephew birthday, school friends birthdays, our wedding anniversary, and other - because you never know)" %}
+  {% include post/post-emphasis-box-entry.html title="Thrifty" note="(costs of website, app hosting, etc)" %}
 
-  {% include post-emphasis-box-entry.html title="Travel" note="(summer road trip, a family wedding out a state we knew about, a winter getaway)" %}
+  {% include post/post-emphasis-box-entry.html title="Travel" note="(summer road trip, a family wedding out a state we knew about, a winter getaway)" %}
 
-  {% include post-emphasis-box-entry.html title="Other" note="(as much as I don’t want a miscellaneous, you never know)" %}
+  {% include post/post-emphasis-box-entry.html title="Other" note="(as much as I don’t want a miscellaneous, you never know)" %}
 </div>
 
 _If you are wondering where our cell phone bill is, we don’t have one right now. Not because we don’t have cell phones, but because my parents are in the industry and have gifted us with being on their plan for free. I'm so grateful!_
@@ -121,53 +121,53 @@ _If you are wondering where our cell phone bill is, we don’t have one right no
     <div class="post__emphasis__box__group-title">
       Weekly
     </div>
-    {% include post-emphasis-box-entry.html title="Groceries" value="$200" %}
-    {% include post-emphasis-box-entry.html title="Gas" value="$50" %}
-    {% include post-emphasis-box-entry.html title="Pizza/Movie Night" value="$35" %}
+    {% include post/post-emphasis-box-entry.html title="Groceries" value="$200" %}
+    {% include post/post-emphasis-box-entry.html title="Gas" value="$50" %}
+    {% include post/post-emphasis-box-entry.html title="Pizza/Movie Night" value="$35" %}
   </div>
   <div class="post__emphasis__box__group">
     <div class="post__emphasis__box__group-title">
       Bi-weekly
     </div>
-    {% include post-emphasis-box-entry.html title="Date Night" value="$70" %}
+    {% include post/post-emphasis-box-entry.html title="Date Night" value="$70" %}
   </div>
   <div class="post__emphasis__box__group">
     <div class="post__emphasis__box__group-title">
       Monthly
     </div>
-    {% include post-emphasis-box-entry.html title="Rent" value="$975" %}
-    {% include post-emphasis-box-entry.html title="Household Care" value="$250" %}
-    {% include post-emphasis-box-entry.html title="Health Insurance" value="$238.66" %}
-    {% include post-emphasis-box-entry.html title="Gas & Electric" value="$102" %}
-    {% include post-emphasis-box-entry.html title="Regular Charity" value="$100" %}
-    {% include post-emphasis-box-entry.html title="Internet" value="$47.46" %}
-    {% include post-emphasis-box-entry.html title="Life Insurance (Chris)" value="$9.12" %}
+    {% include post/post-emphasis-box-entry.html title="Rent" value="$975" %}
+    {% include post/post-emphasis-box-entry.html title="Household Care" value="$250" %}
+    {% include post/post-emphasis-box-entry.html title="Health Insurance" value="$238.66" %}
+    {% include post/post-emphasis-box-entry.html title="Gas & Electric" value="$102" %}
+    {% include post/post-emphasis-box-entry.html title="Regular Charity" value="$100" %}
+    {% include post/post-emphasis-box-entry.html title="Internet" value="$47.46" %}
+    {% include post/post-emphasis-box-entry.html title="Life Insurance (Chris)" value="$9.12" %}
   </div>
   <div class="post__emphasis__box__group">
     <div class="post__emphasis__box__group-title">
       Quarterly
     </div>
-    {% include post-emphasis-box-entry.html title="Water & Sewer" value="$185" %}
+    {% include post/post-emphasis-box-entry.html title="Water & Sewer" value="$185" %}
   </div>
   <div class="post__emphasis__box__group">
     <div class="post__emphasis__box__group-title">
       Annual
     </div>
-    {% include post-emphasis-box-entry.html title="Travel" value="$5520" %}
-    {% include post-emphasis-box-entry.html title="Healthcare Deductibles & Copays" value="$2750" %}
-    {% include post-emphasis-box-entry.html title="Hobbies" value="$2500" %}
-    {% include post-emphasis-box-entry.html title="Gifts" value="$2200" %}
-    {% include post-emphasis-box-entry.html title="Clothes & Shoes" value="$1800" %}
-    {% include post-emphasis-box-entry.html title="Thrifty" value="$1600" %}
-    {% include post-emphasis-box-entry.html title="Car Care" value="$1100" %}
-    {% include post-emphasis-box-entry.html title="School" value="$800" %}
-    {% include post-emphasis-box-entry.html title="Entertainment" value="$500" %}
-    {% include post-emphasis-box-entry.html title="Eating Out" value="$420" %}
-    {% include post-emphasis-box-entry.html title="Haircuts" value="$400" %}
-    {% include post-emphasis-box-entry.html title="Other Charity" value="$300" %}
-    {% include post-emphasis-box-entry.html title="Tax Prep" value="$150" %}
-    {% include post-emphasis-box-entry.html title="Life Insurance (Jaime)" value="$75" %}
-    {% include post-emphasis-box-entry.html title="Other" value="$2000" %}
+    {% include post/post-emphasis-box-entry.html title="Travel" value="$5520" %}
+    {% include post/post-emphasis-box-entry.html title="Healthcare Deductibles & Copays" value="$2750" %}
+    {% include post/post-emphasis-box-entry.html title="Hobbies" value="$2500" %}
+    {% include post/post-emphasis-box-entry.html title="Gifts" value="$2200" %}
+    {% include post/post-emphasis-box-entry.html title="Clothes & Shoes" value="$1800" %}
+    {% include post/post-emphasis-box-entry.html title="Thrifty" value="$1600" %}
+    {% include post/post-emphasis-box-entry.html title="Car Care" value="$1100" %}
+    {% include post/post-emphasis-box-entry.html title="School" value="$800" %}
+    {% include post/post-emphasis-box-entry.html title="Entertainment" value="$500" %}
+    {% include post/post-emphasis-box-entry.html title="Eating Out" value="$420" %}
+    {% include post/post-emphasis-box-entry.html title="Haircuts" value="$400" %}
+    {% include post/post-emphasis-box-entry.html title="Other Charity" value="$300" %}
+    {% include post/post-emphasis-box-entry.html title="Tax Prep" value="$150" %}
+    {% include post/post-emphasis-box-entry.html title="Life Insurance (Jaime)" value="$75" %}
+    {% include post/post-emphasis-box-entry.html title="Other" value="$2000" %}
   </div>
 </div>
 
@@ -179,15 +179,15 @@ _If you are wondering where our cell phone bill is, we don’t have one right no
     <div class="post__emphasis__box__group-title">
       Weekly
     </div>
-    {% include post-emphasis-box-entry.html title="Groceries" value="$200 ($800 for the month)" %}
-    {% include post-emphasis-box-entry.html title="Gas" value="$50 ($200 for the month)" %}
-    {% include post-emphasis-box-entry.html title="Pizza/Movie Night" value="$35 ($140 for the month)" %}
+    {% include post/post-emphasis-box-entry.html title="Groceries" value="$200 ($800 for the month)" %}
+    {% include post/post-emphasis-box-entry.html title="Gas" value="$50 ($200 for the month)" %}
+    {% include post/post-emphasis-box-entry.html title="Pizza/Movie Night" value="$35 ($140 for the month)" %}
   </div>
   <div class="post__emphasis__box__group">
     <div class="post__emphasis__box__group-title">
       Bi-weekly
     </div>
-    {% include post-emphasis-box-entry.html title="Date Night" value="$70 ($140 for the month)" %}
+    {% include post/post-emphasis-box-entry.html title="Date Night" value="$70 ($140 for the month)" %}
   </div>
 </div>
 

@@ -7,7 +7,7 @@ comments: true
   <header class="post__header">
     {%- unless page.nometa -%}
     <div class="post__meta">
-      {% include page-date.html %}
+      {% include post/post-date.html %}
     </div>
     {%- endunless -%}
     <div class="post__title">
@@ -16,7 +16,7 @@ comments: true
     </div>
     {%- unless page.nometa -%}
     <div class="post__meta">
-      {% include page-tags.html %}
+      {% include post/post-tags.html %}
       <div class="post__comment-count">
         {% include comment-count.html %}
       </div>
@@ -27,8 +27,8 @@ comments: true
     {%- elsif page.image -%}
       <img class="post__header__image" alt="{{page.title}}" src="{{site.url}}{{page.image.path}}" />
     {%- endif -%}
-    {% include page-author.html %}
-    {% include page-audio.html %}
+    {% include post/post-author.html %}
+    {% include post/post-audio.html %}
   </header>
 
   <main class="post__body{% if page.number-headings %} post__body--numbered-headings{% endif %}">
@@ -36,11 +36,11 @@ comments: true
   </main>
 
   <fooder class="post__footer">
-    {% include share-buttons-only.html %}
-    {% include content-upgrade.html %}
+    {% include shared/share-buttons-only.html %}
+    {% include shared/content-upgrade.html %}
     {%- if page.related-posts.size > 0 -%}
-    {% include post-list-related.html %}
+    {% include post/post-list-related.html %}
     {%- endif -%}
-    {% include comments.html %}
+    {% include components/comments.html %}
   </footer>
 </article>

@@ -16,5 +16,5 @@ The best way to get connected is to subscribe for e-mail updates. We send two em
 If you subscribe, you'll also get a __free__ (who doesn't love free?) copy of our _"5 Steps to a Mini-Retirement"_ cheat sheet. Fill out the form below to get the cheat sheet and our regular updates! Thrifty update!
 
 <div class="boxed">
-{% include content-upgrade.html %}
+{% include shared/content-upgrade.html %}
 </div>
