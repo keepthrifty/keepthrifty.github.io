@@ -5,30 +5,29 @@ comments: true
 
 <article class="post">
   <header class="post__header">
-    {%- unless page.nometa -%}
-    <div class="post__meta">
-      {% include post/post-date.html %}
-    </div>
-    {%- endunless -%}
     <div class="post__title">
       <h1 class="post__title--main">{{ page.title }}</h1>
       {%- if page.subtitle -%}<h2 class="post__title--subtitle">{{ page.subtitle }}</h2>{%- endif -%}
     </div>
-    {%- unless page.nometa -%}
-    <div class="post__meta">
-      {% include post/post-tags.html %}
-      <div class="post__comment-count">
-        {% include comment-count.html %}
-      </div>
-    </div>
-    {%- endunless -%}
+
+    <div class="post__visual">
     {%- if page.video.path -%}
       {% include video-embed.html video-link=page.video.path %}
     {%- elsif page.image -%}
       <img class="post__header__image" alt="{{page.title}}" src="{{site.url}}{{page.image.path}}" />
     {%- endif -%}
-    {% include post/post-author.html %}
-    {% include post/post-audio.html %}
+    </div>
+
+    {%- unless page.nometa -%}
+    <div class="post__meta">
+      {% include post/post-date.html %}
+      {% include post/post-author.html %}
+      <div class="post__comment-count">
+        {% include shared/comment-count.html %}
+      </div>
+      {% include post/post-audio.html %}
+    </div>
+    {%- endunless -%}
   </header>
 
   <main class="post__body{% if page.number-headings %} post__body--numbered-headings{% endif %}">
@@ -41,6 +40,6 @@ comments: true
     {%- if page.related-posts.size > 0 -%}
     {% include post/post-list-related.html %}
     {%- endif -%}
-    {% include components/comments.html %}
+    {% include shared/comments.html %}
   </footer>
 </article>

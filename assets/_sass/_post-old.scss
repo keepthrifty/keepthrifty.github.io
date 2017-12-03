@@ -1,0 +1,262 @@
+.post {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  padding: 2rem;
+  max-width: 800px;
+  border-radius: 0.2rem;
+  position: relative;
+}
+
+.post__link {
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  position: absolute;
+  z-index: 1;
+}
+
+.post__title {
+  font-size: 2.5rem;
+  text-align: center;
+  color: $off-black;
+  margin: 0rem 0 1rem 0;
+  text-transform: uppercase;
+  a {
+    color: inherit;
+  }
+}
+
+.post__title--main {
+  font-size: 2.5rem;
+  color: $off-black;
+  margin: 0 0 0.5rem 0;
+  font-weight: 300;
+}
+
+.post__title--subtitle {
+  font-size: 2.0rem;
+  color: $meta-color;
+  margin: 0;
+  font-weight: 300;
+}
+
+.post__meta {
+  color: $meta-color;
+  text-align: center;
+  display: block;
+  margin: 1rem 0;
+  .date {
+    padding: 0.5rem 0 0.5rem 0;
+    border-top: 1px solid $meta-color;
+    border-bottom: 1px solid $meta-color;
+    text-transform: uppercase;
+  }
+  .tags {
+    display: inline-block;
+    float: left;
+    text-transform: capitalize;
+  }
+  .post__reading-time {
+    display: block;
+    text-align: right;
+    color: $meta-color;
+  }
+  .post__comment-count {
+    display: block;
+    text-align: right;
+    color: $meta-color;
+    a {
+      color: $meta-color;
+    }
+  }
+  .post__author {
+    a {
+      color: $meta-color;
+    }
+  }
+  .post__author__icon a {
+    color: $meta-color;
+  }
+
+}
+
+.post__header__image {
+  display: block;
+  margin: auto;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  object-fit: cover;
+  border-radius: 0.2rem;
+  object-position: center center;
+}
+
+.post__top-right {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  color: $meta-color;
+  a {
+    color: $meta-color;
+  }
+}
+.post__meta--center {
+  display: block;
+  margin: 1rem 0;
+  text-align: center;
+  color: $meta-color;
+  a {
+    color: $meta-color;
+  }
+}
+
+.post__body {
+  @media (min-width: $minimum-break) {
+    img {
+      max-width: 80%;
+    }
+  }
+  img {
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    &.active {
+      max-width: inherit;
+    }
+    border-radius: 0.2rem;
+    box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+  }
+
+  img.no-shadow {
+    box-shadow: none;
+  }
+
+  .image-caption {
+    text-align: center;
+    color: $meta-color;
+  }
+
+  .side-note {
+    text-align: right;
+    color: $meta-color;
+    font-size: 0.8rem;
+  }
+
+  .disclaimer {
+    color: $meta-color;
+    font-weight: 300;
+    font-size: 1rem;
+    text-transform: uppercase;
+  }
+  .rss {
+    color: $meta-color;
+    a {
+      color: $meta-color;
+    }
+    font-weight: 300;
+    font-size: 1rem;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  ul {
+    list-style-type: disc;
+
+    margin-left: 2rem;
+
+    li {
+      list-style-type: disc;
+    }
+  }
+
+  p {
+    text-align: justify;
+  }
+
+  table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+
+    border-spacing: 0px;
+
+    th,
+    td {
+      padding: 0.3rem;
+      @media (min-width: $minimum-break) {
+        padding: 0.75rem;
+      }
+      vertical-align: top;
+      border-bottom: 1px solid $meta-color;
+    }
+
+    thead th {
+      vertical-align: bottom;
+      border-bottom: 2px solid $meta-color;
+    }
+
+    tbody + tbody {
+      border-top: 2px solid $meta-color;
+    }
+
+    tbody tr:nth-of-type(odd) {
+      background-color: $bg-color;
+    }
+  }
+}
+
+.post__emphasis__box {
+  border: 2px solid $primary-color;
+  margin: 2rem;
+  padding: 2rem;
+}
+.post__emphasis__box__group:nth-child(1) {
+  margin-top: 0;
+}
+.post__emphasis__box__group {
+  margin-top: 1rem;
+  clear: both;
+}
+.post__emphasis__box__group-title {
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+.post__emphasis__box__header {
+  margin: 0 0 1rem;
+  text-align: center;
+  font-size: 1.2rem;
+}
+.post__emphasis__box__entry {
+  clear: both;
+  font-size: 1.1rem;
+}
+.post__emphasis__box__entry-title {
+  text-transform: uppercase;
+}
+.post__emphasis__box__entry-note {
+  color: $meta-color;
+  font-weight: 300;
+}
+.post__emphasis__box__entry-value {
+  float: right;
+}
+.post__emphasis__box__footer {
+  margin: 1rem 0 0;
+  color: $meta-color;
+  font-weight: 300;
+  clear: both;
+  font-size: 1.1rem;
+}
+
+.post__footer {
+  display: block;
+  clear: both;
+  hr {
+    margin: 2rem 0 2rem 0;
+    color: $meta-color;
+  }
+}
