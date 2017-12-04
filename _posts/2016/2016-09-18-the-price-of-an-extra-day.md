@@ -69,7 +69,7 @@ The most fun part for me here was to crunch my numbers and see a few things:
 3. For the low price of $24.47, I can buy a day of retirement
 
 ![Barney Stinson from How I Met Your Mother - Mind Blown]({{ site.url }}{{ page.image-folder }}/mind-blown.gif)
-<div class="image-caption">Mind blown!</div>
+<div class="caption">Mind blown!</div>
 
 {% include tweet-link.html tweet-text="I can buy a day of FI for $25" %}
 

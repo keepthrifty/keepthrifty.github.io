@@ -34,7 +34,7 @@ When our time in Orenco Station was over, we "toughed it out" and rode the light
 
 ![Orenco Station light rail stop]({{site.url}}/assets/img/posts/2017-01-23-ignorance-might-be-better/orenco-station.jpg)
 
-<div class="image-caption">The Orenco Station stop <a href="https://commons.wikimedia.org/w/index.php?curid=9775517" target ="_blank">By M.O. Stevens - Own work, CC BY-SA 3.0</a></div>
+<div class="caption">The Orenco Station stop <a href="https://commons.wikimedia.org/w/index.php?curid=9775517" target ="_blank">By M.O. Stevens - Own work, CC BY-SA 3.0</a></div>
 
 If we had known how the locals felt about riding the light rail through Portland, we might have been scared away. Were we just lucky, or was our ignorance actually an advantage?
 
@@ -84,7 +84,7 @@ I don't think it'd be fair to describe people in the 1950's as miserable souls w
 
 ![Leave it to Beaver poster]({{site.url}}/assets/img/posts/2017-01-23-ignorance-might-be-better/leave-it-to-beaver.jpg)
 
-<div class="image-caption">These two seem pretty happy, right?</div>
+<div class="caption">These two seem pretty happy, right?</div>
 
 Whenever the data isn't clear, try to find out how people handled that situation years ago.
 

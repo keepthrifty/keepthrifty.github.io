@@ -86,7 +86,7 @@ Using [Thrifty][thrifty], I’ve got a good sense of where our family stands on 
 
 ![Monthly spending summary][household-care-summary]
 
-<div class="image-caption">Monthly summary of Household Care spending — Average: $255.44</div>
+<div class="caption">Monthly summary of Household Care spending — Average: $255.44</div>
 
 Looking at the details, our last 6 months of household care has included a laundry list of items:
 

@@ -43,7 +43,7 @@ So where does this put us?
 
 ![Chart showing grocery spending since August 2016][april-2016-grocery-chart]
 
-<div class="image-caption" markdown="span">Man, [Thrifty][thrifty-link] is nice for these kinds of questions...ok, that was a shameless plug, but [Thrifty][thrifty-link] is free!</div>
+<div class="caption" markdown="span">Man, [Thrifty][thrifty-link] is nice for these kinds of questions...ok, that was a shameless plug, but [Thrifty][thrifty-link] is free!</div>
 
 Since August, our monthly grocery spending has ranged from $836.25 to $1410.69. None of this is terrible for a family of five where we live, but certainly I'd like to keep to the lower end of that spectrum if possible :)
 

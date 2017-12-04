@@ -46,7 +46,7 @@ We've looked at three different routes to live smaller - living in a _tiny house
 
 ![]({{site.url}}/assets/img/posts/2017-05-15-big-barriers-living-smaller/nomads-nest.jpg)
 
-<div class="image-caption">Nomad's Nest from <a href="http://www.windrivertinyhomes.com/" target="_blank">Wind River Tiny Homes</a></div>
+<div class="caption">Nomad's Nest from <a href="http://www.windrivertinyhomes.com/" target="_blank">Wind River Tiny Homes</a></div>
 
 The growing interest of tiny houses should be evident from the popularity of shows like Tiny House Nation and Tiny House Hunters. That said, building codes and zoning restrictions haven't caught up in most places in the United States to make building a tiny house on wheels a viable living option.
 

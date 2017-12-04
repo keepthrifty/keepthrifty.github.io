@@ -71,7 +71,7 @@ __A shared dream was born.__
 
 ![US Map with each state filled with a picture from our road trips. States we haven't visited are empty.](/assets/img/posts/2017-07-18-power-of-a-partner/usa-road-trip-map.jpg)
 
-<div class="image-caption">My wife put together this awesome way for our family to remember our road trips</div>
+<div class="caption">My wife put together this awesome way for our family to remember our road trips</div>
 
 When we got home, we couldn't wait to plan our next trip. Even though we wouldn't leave for another year, we started looking at our stops right away.
 
@@ -93,7 +93,7 @@ Once we stopped working as individuals and started working as a team, we started
 
 ![Before and after of taking down an interior wall - my wife in the before photo, me in the after]({{site.url}}/assets/img/posts/2017-07-18-power-of-a-partner/wall-down.jpg)
 
-<div class="image-caption">Now that's teamwork</div>
+<div class="caption">Now that's teamwork</div>
 
 Before we met, my wife and I had each considered studying abroad in Australia during college. I got tripped up by the big picture - _it'd be expensive and way outside my comfort zone - what if it isn't worth it?_ My wife got tripped up by the logistics - _this paperwork is crazy - how do I know I've got everything taken care of_?
 

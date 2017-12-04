@@ -36,7 +36,7 @@ While our family didn't do this in one fell swoop, we've been trending this dire
 
 ![TVs for sale in a big box store]({{ site.url }}{{ page.image-folder }}/tvs.jpg)
 
-<div class="image-caption">"I find television very educating. Every time somebody turns on the set, I go into the other room and read a book.” ― Groucho Marx</div>
+<div class="caption">"I find television very educating. Every time somebody turns on the set, I go into the other room and read a book.” ― Groucho Marx</div>
 
 To get grounded here, lets look at some statistics:
 
@@ -103,7 +103,7 @@ For the next example, we'll move out of the living room and into the kitchen...
 
 ![Stacks of plates and bowls]({{ site.url }}{{ page.image-folder }}/dinnerware.jpg)
 
-<div class="image-caption">Honey, I forgot to tell you, but I invited the whole town over for dinner</div>
+<div class="caption">Honey, I forgot to tell you, but I invited the whole town over for dinner</div>
 
 Looking at [this forum thread on wedding registries](https://forums.theknot.com/discussion/281001/how-many-place-settings-to-register-for){: target="_blank"}, it looks like most people register for 12 place settings as wedding gifts.
 
@@ -180,7 +180,7 @@ Our next example is tucked back in the closet...
 
 ![Clothes rack with dozens of shirts]({{ site.url }}{{ page.image-folder }}/shirts.jpg)
 
-<div class="image-caption">From the blindingly-neon collection...</div>
+<div class="caption">From the blindingly-neon collection...</div>
 
 Here are some interesting clothing stats aggregated on [Becoming Minimalist](http://www.becomingminimalist.com/clutter-stats/){: target="_blank"}:
 

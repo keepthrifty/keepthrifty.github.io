@@ -135,7 +135,7 @@ Here's the update chart for where we're at after our April 1 payment:
 
 ![Mortgage payoff progress: outstanding principal is down to $80,686.89 and we're due to pay off by Aug 1, 2017. By prepaying and refinancing, we are saving $164,724.02 and 20.1 years over original mortgage plan.]({{site.url}}/assets/img/mortgage-payoff/Mortgage-Payoff-Apr-2017.png)
 
-<div class="image-caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
+<div class="caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
 
 With our standard payment this month, __we knocked another $750 off our outstanding principal__!
 

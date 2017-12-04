@@ -37,7 +37,7 @@ It's hard to believe how much has happened in the last year. While some of this 
 
 ![Our main living space - almost completely remodeled (a few tweaks to go)]({{site.url}}/assets/img/posts/2016-12-26-thrifty-year-in-review/main-floor.jpg)
 
-<div class="image-caption">We're close but not quite there yet; backsplash, moulding, and a bit of painting yet to do</div>
+<div class="caption">We're close but not quite there yet; backsplash, moulding, and a bit of painting yet to do</div>
 
 In order to fund these crazy adventures, we needed a strong focus on our finances - tracking, improving, and, of course, [some serious spreadsheeting]({{site.url}}{% post_url 2016/2016-09-25-the-price-of-an-extra-day-spreadsheet-edition %}).
 
@@ -83,7 +83,7 @@ At the start of the year, Thrifty was only for tracking expenses, but over the m
 
 ![Screenshot of Thrifty's analysis view for Utilities]({{site.url}}/assets/img/posts/2016-12-26-thrifty-year-in-review/thrifty-analysis.jpg)
 
-<div class="image-caption">If you look closely, you'll see that we're slowly trending down :)</div>
+<div class="caption">If you look closely, you'll see that we're slowly trending down :)</div>
 
 If you're not tracking your spending, you should really give it a try. Right now, [Thrifty is free]({{site.url}}/thrifty) and has no ads. I pay for the hosting out of my own pocket because of the value I get from using the tool and am happy to share it for free with others as long as the costs don't get too high :)
 

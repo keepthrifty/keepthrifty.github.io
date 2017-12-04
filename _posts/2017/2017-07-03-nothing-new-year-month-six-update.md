@@ -123,7 +123,7 @@ At the start of this month, we made our last regular payment so here's the updat
 
 ![Mortgage payoff progress: outstanding principal is down to $78424.84 and we're due to pay off on July 5, 2017. By prepaying and refinancing, we are saving $164,903.73 and 20.2 years over original mortgage plan.]({{site.url}}/assets/img/mortgage-payoff/Mortgage-Payoff-Jul-2017.png)
 
-<div class="image-caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
+<div class="caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
 
 With our standard payment this month, we knocked another $755 off our outstanding principal and are now at just under $78,500 remaining. In two days, we should be done selling the house and can write the last check to the bank, paying off the rest!
 

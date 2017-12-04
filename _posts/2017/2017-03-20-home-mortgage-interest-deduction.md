@@ -112,7 +112,7 @@ A picture is worth a thousand words, so here's my expertly drawn comparison diag
 
 ![Pay $4,000 to the bank and get $1,000 back from the government or put $3,000 in your own savings account]({{site.url}}/assets/img/posts/2017-03-20-home-mortgage-interest-deduction/optimizing-taxes-vs-overall.jpg)
 
-<div class="image-caption">Yes, I probably need some drawing lessons from <a href="http://www.crispycabbage.com" target="_blank">Crispy Cabbage</a></div>
+<div class="caption">Yes, I probably need some drawing lessons from <a href="http://www.crispycabbage.com" target="_blank">Crispy Cabbage</a></div>
 
 For some people, it might feel great to "stick it to the man" and pay $1,000 less in taxes. The thing they're forgetting is that the cost of doing that is you giving $4,000 extra to the bank.
 

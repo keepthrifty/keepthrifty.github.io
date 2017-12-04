@@ -49,7 +49,7 @@ Remember the scene where the two smarmy mortgage brokers are talking about how t
 
 ![Still image from the movie of two mortgage brokers in a bar][schmidt-picture]
 
-<div class="image-caption">Yeah, that's Schmidt from New Girl - that guy is hilarious</div>
+<div class="caption">Yeah, that's Schmidt from New Girl - that guy is hilarious</div>
 
 These guys represented the worst of the worst - everything in their book was about closing deals, not about whether they were doing right by their customers.
 

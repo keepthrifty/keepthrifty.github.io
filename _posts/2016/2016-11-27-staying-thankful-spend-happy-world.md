@@ -79,7 +79,7 @@ While they start small, Norfolk Pines can grow as high as 20 feet tall indoors. 
 In the meantime, it's a great new member of the family - the girls really enjoyed the naming process :)
 
 ![Our new Norfolk Pine houseplant and Christmas tree]({{ site.url}}/assets/img/posts/2016-11-27-staying-thankful-spend-happy-world/norfolk-pine-tree.jpg)
-<div class="image-caption">We're in the presence of royalty (as named by our children)! I present: Princess Lulu Cora Isabella Elena of Norfolk Island</div>
+<div class="caption">We're in the presence of royalty (as named by our children)! I present: Princess Lulu Cora Isabella Elena of Norfolk Island</div>
 
 ## Thankful for Our Individuality
 
@@ -94,7 +94,7 @@ While strawberries, buns, pumpkin pie, sugar cookies, and _fancy_ grilled cheese
 The grilled cheese even had deli turkey on it for the family members that were up for it.
 
 ![Fancy grilled cheese sandwiches...mmm...]({{ site.url}}/assets/img/posts/2016-11-27-staying-thankful-spend-happy-world/fancy-grilled-cheese.jpg)
-<div class="image-caption">Fancy grilled cheese sandwiches on homemade french bread with provolone, parmesan, pasta sauce and deli turkey</div>
+<div class="caption">Fancy grilled cheese sandwiches on homemade french bread with provolone, parmesan, pasta sauce and deli turkey</div>
 
 ## Thankful for Enough
 

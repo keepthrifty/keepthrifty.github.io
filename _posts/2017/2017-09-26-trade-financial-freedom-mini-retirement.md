@@ -69,7 +69,7 @@ I hope my kids still want to make time to hang out with me when they are teenage
 
 ![]({{site.url}}/assets/img/posts/2017-09-26-trade-financial-freedom-mini-retirement/get-silly.jpg)
 
-<div class="image-caption">Case in point...</div>
+<div class="caption">Case in point...</div>
 
 _My kids are more important to me than just about anything in this world - and they aren't going to stay little forever._
 

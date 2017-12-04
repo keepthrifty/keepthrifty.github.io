@@ -53,7 +53,7 @@ Despite all five of us catching a cold, we had a great time on the trip. We got 
 
 ![Our three kids at the beach]({{site.url}}/assets/img/posts/2017-03-06-nothing-new-year-month-two-update/hilton-head-island-beach.jpg)
 
-<div class="image-caption">All three of our girls loved the beach, but you can tell which one was pretty much born to be there...</div>
+<div class="caption">All three of our girls loved the beach, but you can tell which one was pretty much born to be there...</div>
 
 Back to the finances, here's our breakdown this month by category:
 
@@ -114,7 +114,7 @@ Along with our nothing new year challenge, we're still working hard on paying do
 
 ![Mortgage payoff progress: outstanding principal is down to $81,436.61 and we're due to pay off by Aug 1, 2020. By prepaying and refinancing, we are saving $161,693.48 and 17.1 years over original mortgage plan.]({{site.url}}/assets/img/mortgage-payoff/Mortgage-Payoff-Mar-2017.png)
 
-<div class="image-caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
+<div class="caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
 
 We're sticking with the same payment at the moment, so no changes to our projected date or interest savings. That said, between our standard payment and our additional prepayment this month, __we knocked another $1909 off our outstanding principal__!
 

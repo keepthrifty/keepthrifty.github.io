@@ -8,7 +8,7 @@ exclude_from_search: true
 
 ![Chris and Jaime](/assets/img/header/start.jpg)
 
-<div class="image-caption">You joining the community makes us do this &uarr;</div>
+<div class="caption">You joining the community makes us do this &uarr;</div>
 
 We are so excited you've decided to join the Keep Thrifty community! To start getting e-mails, there's just one more thing for you to do:
 

@@ -90,7 +90,7 @@ Here's an example, I ran into. I don't get lunch out often, but the last time I 
 
 ![Taco Bell sign - "Working at Taco Bell has its bonuses"; includes image of teenage boy standing in front of school buses showing a teenage girl his red convertible]({{site.url}}/assets/img/posts/2017-01-09-four-devious-marketing-tactics/taco-bell.jpg)
 
-<div class="image-caption">Do you want to become a Taco-Billionaire?</div>
+<div class="caption">Do you want to become a Taco-Billionaire?</div>
 
 That's right high-school students; you too can own a convertible by working part-time at Taco Bell!
 

@@ -54,7 +54,7 @@ Since [last week][week-2-update], we've added $26.92 to our household care total
 The mason jars are for my wife's new lunch plan - [salad-in-a-jar][salad-in-a-jar-video]. Pre-making tasty lunches from raw ingredients is a great way to keep healthy and keep thrifty, so it's well worth the investment in mason jars.
 
 ![Salad in a mason jar][salad-in-a-jar]
-<div class="image-caption">Yellow bell pepper, cucumber, cherry tomatoes, red onion, olives, and homemade dressing</div>
+<div class="caption">Yellow bell pepper, cucumber, cherry tomatoes, red onion, olives, and homemade dressing</div>
 
 Overall, we're still on track. Keeping within budget despite the originally unplanned mason jars makes me feel good that we're in a maintainable state for the future :)
 

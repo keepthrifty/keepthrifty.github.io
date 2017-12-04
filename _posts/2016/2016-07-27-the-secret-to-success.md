@@ -28,7 +28,7 @@ I want you to try something for me. I'm going to tell you the secret to success 
 
 ![Wristwatch on someone's wrist][wristwatch]
 
-<div class="image-caption">Cue Jeopardy music...buh bah buh bo buh bah buh...</div>
+<div class="caption">Cue Jeopardy music...buh bah buh bo buh bah buh...</div>
 
 How'd you do? Did you make it all the way to 100 before scrolling down here? Actually counting every number along the way?
 

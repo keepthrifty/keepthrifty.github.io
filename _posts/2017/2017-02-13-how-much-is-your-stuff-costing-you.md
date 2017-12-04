@@ -51,7 +51,7 @@ If you’re adventurous, do the same for all the other rooms in your house. Cove
 
 ![Legos on the floor]({{site.url}}/assets/img/posts/2017-02-13-how-much-is-your-stuff-costing-you/legos.jpg)
 
-<div class="image-caption">As a kid, about 200,000 of my things were these...</div>
+<div class="caption">As a kid, about 200,000 of my things were these...</div>
 
 Even if you can count it all up, how would you even begin to assess how much it's all worth?
 

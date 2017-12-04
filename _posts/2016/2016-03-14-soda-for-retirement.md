@@ -41,7 +41,7 @@ As a replacement, we bought a grinder and a french press and we buy our coffee b
 
 ![Coffee cup filled with beans][coffee-cup]
 
-<div class="image-caption">Maybe this is why it always comes out so crunchy?</div>
+<div class="caption">Maybe this is why it always comes out so crunchy?</div>
 
 With [100 tablespoons per pound][coffee-lb-to-tablespoons] and 4 tablespoons per cup (we like it strong), that gives us a cost of about 44 cents a cup for what I drink at home.
 
@@ -88,7 +88,7 @@ At this point, you're probably thinking something like this:
 
 ![Boxing match - fighter labeled coffee winning over fighter labeled Diet Mt. Dew][coffee-vs-dew]
 
-<div class="image-caption">Diet Mt. Dew looks so disappointed here; sorry buddy - it isn't personal</div>
+<div class="caption">Diet Mt. Dew looks so disappointed here; sorry buddy - it isn't personal</div>
 
 While I don't disagree, we can't stop here - we've only figured out one of the two benefits of the switch and - get this - that was the __smaller__ number :)
 

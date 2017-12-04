@@ -115,7 +115,7 @@ As you go through the process, you may find yourself in a position where things 
 
 ![Map of USA with our routes on each trip. All that's left is California, Nevada, Alaska, and Hawaii]({{site.url}}/assets/img/posts/2017-08-29-best-family-vacation-on-budget-road-trip/road-trip-routes.jpg)
 
-<div class="image-caption">Our routes so far - looks like a Rorschach test to me!</div>
+<div class="caption">Our routes so far - looks like a Rorschach test to me!</div>
 
 I advise splitting your road trip planning into three segments:
 - The departure route

@@ -39,7 +39,7 @@ I don't know about you, but for me this was a:
 
 ![lightbulb moment][lightbulb]
 
-<div class="image-caption">Source: http://giphy.com/gifs/despicable-me-idea-gru-L7DUwZJZc4agU</div>
+<div class="caption">Source: http://giphy.com/gifs/despicable-me-idea-gru-L7DUwZJZc4agU</div>
 
 Let's re-hash this:
 
@@ -86,7 +86,7 @@ Now pretend that today, you saw a "food fashion" update on your favorite TV show
 
 ![A happy green apple and a sad red apple][apple-faces]
 
-<div class="image-caption">Red is sooooo last week.</div>
+<div class="caption">Red is sooooo last week.</div>
 
 Being a good consumer food fashionista, you promptly throw away the remaining 4 pounds of red apples you have and go out and buy some green apples.
 
@@ -100,7 +100,7 @@ Or even better, what about the awesome, impractical, clothing styles that get ad
 
 ![MC Hammer wearing parachute pants][hammer-pants]
 
-<div class="image-caption">Sadly, I never owned a pair of these. Zubas, yes. Hammer Pants, no.</div>
+<div class="caption">Sadly, I never owned a pair of these. Zubas, yes. Hammer Pants, no.</div>
 
 ## Financial Aspects of Modern Clothing #
 

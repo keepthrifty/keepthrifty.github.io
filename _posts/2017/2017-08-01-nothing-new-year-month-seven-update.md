@@ -134,7 +134,7 @@ Here's the result of our efforts:
 
 ![We saved $70,782.87]({{site.url}}/assets/img/mortgage-payoff/Mortgage-Payoff-Aug-2017.png)
 
-<div class="image-caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
+<div class="caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
 
 Over the last ten years, we saved over $70,000. That's just enough to fund [a one-year mini-retirement]({% post_url 2017/2017-07-11-one-year-mini-retirement %}).
 

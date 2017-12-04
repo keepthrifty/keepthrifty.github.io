@@ -118,7 +118,7 @@ Will you focus on the "Bummers" or the "Awesomes"?
 
 ![Van in parking lot with "Dont Worry Be Happy" on window][happy-van]
 
-<div class="image-caption">Fun fact: this was an ACCIDENTAL picture from our first road trip; my wife set her phone down in one of the car seat cupholders and accidentally hit the screen taking this photo</div>
+<div class="caption">Fun fact: this was an ACCIDENTAL picture from our first road trip; my wife set her phone down in one of the car seat cupholders and accidentally hit the screen taking this photo</div>
 
 ## We Choose Awesome #
 

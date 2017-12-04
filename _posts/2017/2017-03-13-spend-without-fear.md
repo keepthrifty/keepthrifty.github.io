@@ -38,7 +38,7 @@ But I was going to slog it out - to put at least half of whatever I earned in my
 
 ![Boombox]({{site.url}}/assets/img/posts/2017-03-13-spend-without-fear/boombox.jpg)
 
-<div class="image-caption">AM/FM radio, two tape decks and a CD player with bass boost. You could really jam out to Spin Doctors on this bad boy. I know firsthand.</div>
+<div class="caption">AM/FM radio, two tape decks and a CD player with bass boost. You could really jam out to Spin Doctors on this bad boy. I know firsthand.</div>
 
 After months of saving, I finally had just over $200 in my savings account. My oldest brother drove me to the bank to make my first big withdrawal.
 
@@ -86,7 +86,7 @@ It only took a few weeks this time but then I was goal-broke again.
 
 ![Wayne's World and Wayne's World 2 Soundtrack covers]({{site.url}}/assets/img/posts/2017-03-13-spend-without-fear/waynes-world-soundtracks.jpg)
 
-<div class="image-caption">Party on Wayne, Party on Garth. Worth every penny. (<a href="//en.wikipedia.org/wiki/File:Wayne%27s_World_Soundtrack.jpg" title="Fair use of copyrighted material in the context of Wayne's World (soundtrack)">Fair</a><a href="//en.wikipedia.org/wiki/File:Wayne%27sWorld2Soundtrack.jpg" title="This image is of a cover of an audio recording, and the copyright for it is most likely owned by either the publisher of the work or the artist(s) which produced the recording or cover artwork in question."> use</a>)</div>
+<div class="caption">Party on Wayne, Party on Garth. Worth every penny. (<a href="//en.wikipedia.org/wiki/File:Wayne%27s_World_Soundtrack.jpg" title="Fair use of copyrighted material in the context of Wayne's World (soundtrack)">Fair</a><a href="//en.wikipedia.org/wiki/File:Wayne%27sWorld2Soundtrack.jpg" title="This image is of a cover of an audio recording, and the copyright for it is most likely owned by either the publisher of the work or the artist(s) which produced the recording or cover artwork in question."> use</a>)</div>
 
 I was getting what I wanted, but I still felt stressed.
 

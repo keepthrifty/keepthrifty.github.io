@@ -203,6 +203,13 @@ main.post__body {
     box-shadow: 0 0 0.2rem 0 $line-color;
     border-radius: 0.2rem;
   }
+  .caption {
+    display: block;
+    text-align: center;
+    color: $meta-color;
+    font-weight: 300;
+    font-style: italic;
+  }
 }
 
 /* POST FOOTER */
