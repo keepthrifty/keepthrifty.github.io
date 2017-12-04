@@ -4,14 +4,14 @@ layout: post
 author: chris_durheim
 
 
-title: "Nothing New Year: Month 10 Update"
-description: "We had our lowest spending month since January. It's a huge accomplishment, but we flubbed quite a bit on buying nothing new - oops!"
+title: "Nothing New Year: Month 11 Update"
+description: "TK"
 
-date: 2017-11-07 6:58:00 -0500
+date: 2017-12-05 6:58:00 -0500
 
 image:
-  path: /assets/img/posts/2017-11-07-nothing-new-year-month-ten-update/running-shoes.jpg
-pinterest-image: /assets/img/posts/2017-11-07-nothing-new-year-month-ten-update/nny-month-10-update
+  path: /assets/img/posts/2017-12-05-nothing-new-year-month-eleven-update/
+pinterest-image: /assets/img/posts/2017-12-05-nothing-new-year-month-eleven-update/TK
 
 related-posts: [
   "/2017/01/02/happy-nothing-new-year",
@@ -24,13 +24,13 @@ related-posts: [
   "/nothing-new-year-month-seven-update",
   "/nothing-new-year-month-eight-update",
   "/nothing-new-year-month-nine-update",
-  "/nothing-new-year-month-eleven-update"
+  "/nothing-new-year-month-ten-update"
 ]
 
 tags: [nothing new year]
 
 redirect_from:
-  - /nny10
+  - /nny11
 
 ---
 
