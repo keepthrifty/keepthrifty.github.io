@@ -1,6 +1,9 @@
 <span class="comment-count" title="Comments">
   <a href="#disqus_thread">
-    <span class="disqus-comment-count" data-disqus-identifier="{{ page.title }}">0</span>
+    {%- if jekyll.environment == "production" -%}
+      <span class="disqus-comment-count" data-disqus-identifier="{{ page.title }}">0 comments</span>
+    {%- else -%}
+      <span class="disqus-comment-count" data-disqus-identifier="na">10 comments</span>
+    {%- endif -%}
   </a>
-  <i class="fa fa-comments"></i>
 </span>

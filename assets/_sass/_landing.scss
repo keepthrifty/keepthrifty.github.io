@@ -35,7 +35,7 @@
     max-width: 100%;
     border-radius: 0.2rem;
   }
-  @media screen and ( max-width: $minimum-break ) {
+  @media screen and ( max-width: $screen-m ) {
     flex: 0 0 auto;
     width: 100%;
     padding: 1rem 0;
@@ -48,11 +48,11 @@
 .landing-box__image--welcome {
   flex: 2 2 5rem;
 
-  @media screen and ( max-width: $minimum-break ) {
+  @media screen and ( max-width: $screen-m ) {
     flex: 0 0 auto;
   }
 
-  @media screen and ( max-width: $minimum-break ) {
+  @media screen and ( max-width: $screen-m ) {
     img {
       background: url(/assets/img/our-family-horizontal.jpg) no-repeat;
       height: 178px; /* Height of new image */
@@ -64,7 +64,7 @@
 .landing-box__message {
   padding: 1rem 3rem;
   flex: 3 3 10rem;
-  @media screen and ( max-width: $minimum-break ) {
+  @media screen and ( max-width: $screen-m ) {
     order: 1;
   }
 }

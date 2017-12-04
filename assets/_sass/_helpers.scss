@@ -1,0 +1,49 @@
+.center {
+  text-align: center;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+
+.image--right {
+  img {
+    max-width: 300px;
+    border-radius: 0.2rem;
+  }
+  @media (min-width: $screen-m) {
+    float: right;
+    padding: 0 0 0 2rem;
+  }
+}
+
+.image--left {
+  img {
+    max-width: 300px;
+    border-radius: 0.2rem;
+  }
+  @media (min-width: $screen-m) {
+    float: left;
+    padding: 0 2rem 0 0;
+  }
+}
+
+// For responsive YouTube Embeds
+
+.video-container {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}

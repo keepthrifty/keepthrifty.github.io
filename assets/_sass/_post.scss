@@ -1,8 +1,9 @@
 .post {
-  max-width: 800px;
-  margin: 2rem auto;
+  max-width: 1600px;
+  padding: 0 2rem;
   display: flex;
   flex-wrap: wrap;
+  margin: 0 auto;
 }
 
 /* POST HEADER */
@@ -13,28 +14,172 @@
   flex-wrap: wrap;
 }
 
+.post__meta {
+  flex: 1 1 20rem;
+  margin: 2rem;
+  align-self: center;
+}
+
 .post__title {
   width: 100%;
 }
 
+h1.post__title--main {
+  font-size: 3rem;
+  margin: 0 auto 0.5rem;
+  line-height: 1;
+  text-align: center;
+  font-weight: 300;
+}
+
+h2.post__title--subtitle {
+  font-size: 2rem;
+  margin: 0 auto 1rem;
+  line-height: 1;
+  text-align: center;
+  font-weight: 300;
+}
+
+.post__meta__line {
+  font-weight: 300;
+  margin: 1rem auto 0;
+  text-align: center;
+  color: $meta-color;
+  a {
+    color: $meta-color;
+  }
+}
+
+.post__comment-count {
+  margin: 0 auto 1rem;
+  font-weight: 300;
+  text-align: center;
+  color: $meta-color;
+  a {
+    color: $meta-color;
+  }
+}
+
+.post__author__social {
+  text-align: center;
+  a {
+    color: $off-black;
+    display: inline-block;
+
+    border: 1px solid white;
+    border-radius: 0.2rem;
+
+    width: 2.5rem;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    font-size: 2rem;
+
+    text-align: center;
+
+    i.fa {
+      font-size: 2rem;
+    }
+  }
+}
+
+.post__audio {
+  text-align: center;
+  margin: 1rem auto 0;
+  color: $meta-color;
+  border-radius: 0.2rem;
+  font-weight: 300;
+  font-size: 1rem;
+  audio {
+    max-width: 85%;
+  }
+}
+
+.post__audio__text {
+  margin: 0 auto 0.5rem;
+}
+
 .post__visual {
   flex: 1 1 20rem;
-  padding: 1rem;
+  margin: 2rem;
+  align-self: center;
 }
 
 .post__header__image {
   max-width: 100%;
 }
 
-.post__meta {
-  flex: 1 1 20rem;
-  padding: 1rem;
+header.post__header, main.post__body, footer.post__footer {
+  max-width: 100%;
 }
 
 /* POST BODY */
 
-.post__body {
+main.post__body {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  text-align: justify;
+  ul {
+    padding-left: 2rem;
+    list-style: circle;
+  }
+  ol {
+    padding-left: 2rem;
+  }
+  li {
 
+  }
+  table {
+    th {
+
+    }
+    tr {
+
+    }
+    td {
+
+    }
+  }
+  blockquote {
+
+  }
+  code, pre {
+    font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+    color:#333;
+    font-size:12px;
+    overflow-x:auto;
+    width: inherit;
+  }
+
+  pre {
+    padding:20px;
+    background: #3A3C42;
+    color:#f8f8f2;
+    margin:0 -20px 20px;
+
+    code {
+      color:#f8f8f2;
+    }
+
+    li & {
+      margin-left:-60px;
+      padding-left:60px;
+    }
+  }
+
+  em {
+
+  }
+  strong {
+
+  }
+  hr {
+
+  }
+
+  img {
+    max-width: 100%;
+  }
 }
 
 /* POST FOOTER */

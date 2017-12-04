@@ -4,16 +4,22 @@ html{
   @media only screen and (min-width: 0) {
     font-size: 11px;
   }
-  @media only screen and (min-width: $xs-screen) {
+  @media only screen and (min-width: $screen-xs) {
     font-size: 12px;
   }
-  @media only screen and (min-width: $small-screen) {
+  @media only screen and (min-width: $screen-s) {
     font-size: 14px;
   }
-  @media only screen and (min-width: $medium-screen) {
+  @media only screen and (min-width: $screen-m) {
     font-size: 16px;
   }
-  @media only screen and (min-width: $large-screen) {
+  @media only screen and (min-width: $screen-l) {
+    font-size: 16px;
+  }
+  @media only screen and (min-width: $screen-xl) {
+    font-size: 16px;
+  }
+  @media only screen and (min-width: $screen-xxl) {
     font-size: 16px;
   }
   font-family: "Roboto", sans-serif;
@@ -48,7 +54,11 @@ h6 {
 
 p, li {
   font-weight: 300;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
+}
+
+p {
+  margin: 1rem 0;
 }
 
 a {
@@ -59,17 +69,6 @@ a {
   &:hover {
     color: $primary-color;
   }
-}
-
-pre.highlight {
-  code {
-    margin-left: 2rem;
-  }
-}
-code {
-  background-color: $code-color;
-  padding: 0.2rem;
-  font-size: 1rem;
 }
 
 blockquote {
@@ -115,5 +114,16 @@ a.button, button.button, button.subscribe_button {
     color: white;
     opacity: 1.0;
     transition: color 350ms, background-color 350ms;
+  }
+}
+
+dl {
+  dt {
+    margin-top: 0.5rem;
+    font-weight: 500;
+  }
+  dd {
+    font-weight: 300;
+    margin-left: 2rem;
   }
 }

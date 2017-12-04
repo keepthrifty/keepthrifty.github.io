@@ -11,7 +11,7 @@
     max-height: 150px;
     max-width: 80%;
   }
-  @media screen and ( max-width: $small-screen ) {
+  @media screen and ( max-width: $screen-s ) {
     padding-left: 1rem;
     text-align: left;
   }
