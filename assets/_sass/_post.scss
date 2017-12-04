@@ -162,26 +162,27 @@ main.post__body {
 
   }
   code, pre {
-    font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
-    color:#333;
-    font-size:12px;
-    overflow-x:auto;
+    font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+    color: $off-black;
+    font-size: 1rem;
+    overflow-x: auto;
     width: inherit;
   }
 
   pre {
-    padding:20px;
-    background: #3A3C42;
-    color:#f8f8f2;
-    margin:0 -20px 20px;
+    padding: 1.5rem;
+    background: $off-black;
+    color: $off-white;
+    margin: 0 -1.5rem 1.5rem;
+    border-radius: 0.2rem;
 
     code {
-      color:#f8f8f2;
+      color: $off-white;
     }
 
     li & {
-      margin-left:-60px;
-      padding-left:60px;
+      margin-left: -4.5rem;
+      padding-left: 4.5rem;
     }
   }
 
