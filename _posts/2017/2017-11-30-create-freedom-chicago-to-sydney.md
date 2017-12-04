@@ -15,7 +15,7 @@ pinterest-image: /assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/T
 
 tags: [create your freedom]
 
-category: [freedom-story]
+categories: [freedom-story]
 
 featured: true
 

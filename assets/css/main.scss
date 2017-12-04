@@ -7,9 +7,10 @@ $primary-color: #558B2F; //color("light-green", "darken-3") !default;
 $secondary-color: #4DBED2;
 $meta-color: #9E9E9E; //color("grey", "base") !default;
 $bg-color: #F5F5F5; //color("grey", "lighten-4") !default;
-$code-color: #DCEDC8; //color("light-green", "lighten-4") !default;
 $off-black: rgba(0, 0, 0, 0.87);
 $off-white: rgba(255, 255, 255, 0.87);
+
+$line-color: rgba(0,0,0,0.15);
 
 //$xs-screen: 375px;
 //$small-screen: 400px;
@@ -19,7 +20,7 @@ $off-white: rgba(255, 255, 255, 0.87);
 //$footer-break: 755px;
 
 $screen-xs: 320px;
-$screen-s: 375px;
+$screen-s: 425px;
 $screen-m: 768px;
 $screen-l: 1366px;
 $screen-xl: 1920px;

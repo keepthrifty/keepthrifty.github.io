@@ -114,8 +114,8 @@ ul.nav-bar__list {
   border-top: 1px solid white;
   border-bottom: 1px solid white;
   &:hover {
-    border-top: 1px solid rgba(0,0,0,0.15);
-    border-bottom: 1px solid rgba(0,0,0,0.15);
+    border-top: 1px solid $line-color;
+    border-bottom: 1px solid $line-color;
   }
 }
 
