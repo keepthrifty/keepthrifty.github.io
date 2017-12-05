@@ -1,0 +1,67 @@
+ul.share-buttons__list {
+  padding: 0 0 0 0 !important;
+  :first-child { margin-left: 0 !important; }
+  :last-child { margin-right: 0 !important; }
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.share-buttons__text {
+  display: inline;
+  color: $meta-color;
+  text-transform: uppercase;
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
+}
+
+.share-buttons__button {
+  display: inline;
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
+  a {
+    opacity: 0.7;
+  }
+  a:hover {
+    opacity: 1;
+  }
+  i {
+    font-size: 1.7rem;
+  }
+}
+
+$twitter-color: #55ACEE;
+$facebook-color: #3B5998;
+$pinterest-color: #BD081C;
+
+a.twitter-hover:hover {
+  background-color: $twitter-color;
+  color: white;
+  border: 1px solid $twitter-color;
+}
+a.facebook-hover:hover {
+  background-color: $facebook-color;
+  color: white;
+  border: 1px solid $facebook-color;
+}
+a.pinterest-hover:hover {
+  background-color: $pinterest-color;
+  color: white;
+  border: 1px solid $pinterest-color;
+}
+
+a.web-hover:hover {
+  background-color: $meta-color;
+  color: white;
+  border: 1px solid $meta-color;
+}
+
+.twitter { color: #55ACEE; }
+.facebook { color: #3B5998; }
+.google-plus { color: #DD4B39; }
+.linkedin { color: #0077B5; }
+.pinterest { color: #BD081C; }
+.reddit { color: #FF4500; }
+.tumblr { color: #35465C; }
+.email { color: #C4C9CC; }
+.print { color: $meta-color }

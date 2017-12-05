@@ -1,0 +1,14 @@
+{%- if page.related-posts -%}
+<h3 class="meta-header">
+  Related
+</h3>
+<ul class="archive-list">
+  {%- for post in site.posts -%}
+    {%- if page.related-posts contains post.id -%}
+      <li class="archive-list--entry archive-list__entry--centered">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {%- endif -%}
+  {%- endfor -%}
+</ul>
+{% endif %}

@@ -31,14 +31,23 @@ comments: true
 
   <main class="post__body{% if page.number-headings %} post__body--numbered-headings{% endif %}">
     {{ content }}
+    {% include post/post-share.html %}
   </main>
 
-  <fooder class="post__footer">
-    <!---{% include shared/share-buttons-only.html %}
-    {% include shared/content-upgrade.html %}
-    {%- if page.related-posts.size > 0 -%}
-    {% include post/post-list-related.html %}
-    {%- endif -%}
-    {% include shared/comments.html %}--->
+  <footer class="post__footer">
+    <div class="post__connect-box">
+      <div class="post__connect-box-container">
+        <div class="post__connect-box-element">
+        {% include post/post-subscribe.html %}
+        </div>
+        <div class="post__connect-box-element">
+        {% include post/post-related.html %}
+        </div>
+      </div>
+    </div>
+    <div class="post__comment-box">
+      {% include shared/comments.html %}
+    </div>
+
   </footer>
 </article>

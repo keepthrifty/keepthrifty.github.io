@@ -1,5 +1,5 @@
 .post {
-  max-width: 1600px;
+  max-width: 1024px;
   padding: 0 2rem;
   display: flex;
   flex-wrap: wrap;
@@ -12,7 +12,6 @@
 /* POST HEADER */
 
 .post__header {
-  width: 100%;
   display: flex;
   flex-wrap: wrap;
 }
@@ -28,7 +27,7 @@
 }
 
 h1.post__title--main {
-  font-size: 3rem;
+  font-size: 2.7rem;
   margin: 0 auto 0.5rem;
   line-height: 1;
   text-align: center;
@@ -112,14 +111,13 @@ h2.post__title--subtitle {
 }
 
 header.post__header, main.post__body, footer.post__footer {
-  max-width: 100%;
+  width: 100%;
 }
 
 /* POST BODY */
 
 main.post__body {
-  max-width: 800px;
-  margin: 0 auto;
+  margin: 0 auto 4rem;
   padding: 0 2rem;
   @media screen and (max-width: $screen-s) {
     padding: 0 1rem;
@@ -202,10 +200,11 @@ main.post__body {
     }
   }
 
-  img {
-    display: block;
-    max-width: 100%;
-    margin: 0 auto;
+  p + img {
+    float: left;
+    width: 100%;
+    max-width: 400px;
+    margin: 2rem 2rem 2rem 0;
     box-shadow: 0 0 0.2rem 0 $line-color;
     border-radius: 0.2rem;
   }
@@ -217,6 +216,8 @@ main.post__body {
     font-style: italic;
   }
 }
+
+
 
 .post__emphasis__box {
   border: 2px solid $primary-color;
@@ -263,6 +264,50 @@ main.post__body {
 
 /* POST FOOTER */
 
-.post__footer {
+footer.post__footer {
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
 
+.post__comment-box {
+  flex: 1 1 500px;
+  @media screen and (max-width: 991px) {
+    order: 2
+  }
+  margin: 0 2rem 2rem;
+  @media screen and (max-width: $screen-s) {
+    margin: 0 1rem 2rem;
+  }
+}
+
+.post__connect-box {
+  flex: 1 1 300px;
+  @media screen and (max-width: 991px) {
+    order: 1
+  }
+  margin: 0 2rem 2rem;
+  @media screen and (max-width: $screen-s) {
+    margin: 0 1rem 2rem;
+  }
+  h3.meta-header {
+    margin: 0.5rem;
+  }
+  ul {
+    margin: 0.5rem;
+    padding: 0 !important;
+  }
+}
+
+.post__connect-box-container {
+  border-radius: 0.2rem;
+  //box-shadow: 0 0 0.2rem 0 $line-color;
+  //padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.post__connect-box-element {
+  flex: 1 1 200px;
+  padding: 0 0 4rem;
 }

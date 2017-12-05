@@ -50,7 +50,7 @@ a.brand-bar__icon {
   transition: background-color 350ms, border 350ms;
   i.fa {
     font-size: 1rem;
-
+    transform: translateY(-.125rem);
   }
   &:hover {
     background-color: white;

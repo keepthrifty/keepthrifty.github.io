@@ -46,6 +46,7 @@ We started this Mini-Retirement with some ideas, but really, it looked like a bi
 ## An Unexpected Purchase
 
 ![Couple watching sunset together]({{site.url}}/assets/img/posts/2017-11-28-marriage-lesson-mini-retirement/sunset.jpg)
+{: class="image--left" }
 
 Shortly after moving into our apartment, land in our town went up for sale. It was a unique piece of property that almost perfectly fit our wish list. We wrestled with what to do.
 
@@ -64,6 +65,7 @@ When I was able to bring my vision to life, Chris could see it and support it. H
 ## Becoming Invisible
 
 ![Man working at computer]({{site.url}}/assets/img/posts/2017-11-28-marriage-lesson-mini-retirement/working-from-home.jpg)
+{: class="image--left" }
 
 Then the girls started school full time and Chris dove into Keep Thrifty full time. I was excited for him. I had been wanting this for my husband, to be able to focus on what he was passionate about.
 
@@ -86,6 +88,7 @@ And even more so, he keeps doing it. I can’t wipe the damn smile off my face e
 ## Getting an Unexpected Partner
 
 ![Couple standing face to face]({{site.url}}/assets/img/posts/2017-11-28-marriage-lesson-mini-retirement/face-to-face.jpg)
+{: class="image--left" }
 
 During our walks to the gym, we talked about Keep Thrifty - what he was working on and thoughts about what to do next. I found myself excited about what he was doing and started sharing my own thoughts.
 
@@ -108,6 +111,7 @@ What started as Chris’s project, slowly turned into a partnership, an unexpect
 ## Losing Our Intention
 
 ![Man working at computer]({{site.url}}/assets/img/posts/2017-11-28-marriage-lesson-mini-retirement/walk-together.jpg)
+{: class="image--left" }
 
 Becoming a partner with Chris on Keep Thrifty has been awesome, but we’ve become workaholics. We spend our days at the kitchen table (or in bed when I was injured) furiously typing away. And while we are excited about what we are working on, we’ve stopped focusing on each other.
 
@@ -118,6 +122,7 @@ When we entered this mini-retirement we had the world open to us. So many possib
 ## Dreaming With Intention
 
 ![Couple on rock looking at a lake]({{site.url}}/assets/img/posts/2017-11-28-marriage-lesson-mini-retirement/in-nature.jpg)
+{: class="image--left" }
 
 Dreaming together and supporting each other in our dreams is what led us here. It’s what saved our marriage years ago when we thought we were going to end up separated. It’s what drives us forward, bonds us, and builds us up.
 
@@ -132,6 +137,7 @@ We are becoming intentional with making our dreams a reality.
 ## The lesson
 
 ![Woman leading man on beach by the hand]({{site.url}}/assets/img/posts/2017-11-28-marriage-lesson-mini-retirement/lead-by-hand.jpg)
+{: class="image--left" }
 
 Marriage is hard and I notice that it’s more difficult when we let ourselves get distracted from what’s important. When we start going through the motions of our days, stop looking up from our computers, and stop making plans for the future, we lose each other a little. We end up disconnected.
 

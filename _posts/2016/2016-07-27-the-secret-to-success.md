@@ -7,7 +7,6 @@ author: chris_durheim
 
 image:
   path: /assets/img/posts/2016-07-27-the-secret-to-success/success-secret.jpg
-nodisqus: true
 related-posts: [
   "/2016/07/21/spending-on-free",
   "/2016/06/05/prepay-vs-invest",
