@@ -123,9 +123,11 @@ When I look back at the challenges we've faced in our lives - health, depression
 
 The more we lean into Him, the better our lives get. Through it all, I've grown a sense that _everything is going to be ok._
 
-> Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes? _26_ Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they? _27_ Can any one of you by worrying add a single hour to your life?
->
-> <cite>Matthew 6:25-27 ([NIV Version](https://www.biblegateway.com/passage/?search=Matthew+6%3A25-27){: target="_blank"})</cite>
+Here's a passage from the Bible that helps remind me of this:
+
+_Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes?_ ___26___ _Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?_ ___27___ _Can any one of you by worrying add a single hour to your life?_
+
+_Matthew 6:25-27 ([NIV Version](https://www.biblegateway.com/passage/?search=Matthew+6%3A25-27){: target="_blank"})_
 
 We still need to work, we still need to save, but God frees us from the need to worry. __God's got our backs.__ Knowing we have His support, we've come to look at risk differently.
 

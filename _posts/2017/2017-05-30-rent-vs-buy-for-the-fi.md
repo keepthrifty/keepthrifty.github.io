@@ -100,7 +100,7 @@ That's pretty powerful.
 
 _How do your numbers look? Does this make you look at the rent versus buy debate any differently?_
 
-> If you're looking for ways to minimize your rent, check out this cool article from The Hidden Green: "[The Definitive Guide to Cheaper Rent](https://www.thehiddengreen.com/blog/cheaper-rent){: target="_blank"}"
+_If you're looking for ways to minimize your rent, check out this cool article from The Hidden Green: "[The Definitive Guide to Cheaper Rent](https://www.thehiddengreen.com/blog/cheaper-rent){: target="_blank"}"_
 
 [spreadsheet]: https://docs.google.com/spreadsheets/d/10s94KPIjF-OFtAzT_5k_llfyR8mxewcwUzx3Adbeu3Q/copy
 {: target="_blank"}

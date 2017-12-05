@@ -34,9 +34,9 @@ Catching up on some podcasts recently, I was amped to see a [new episode of the 
 
 It's not often you get to hear a lineup like this all at the same time, so I dove right in. Partway through, someone asked how the panelists kept motivated while working toward financial independence (FI) and Mr. Money Mustache (MMM) responded with this (cut down for readability):
 
-> I was kind of like jumping down the stairs at the end of each work day zigzagging down to where I parked my bike. I remember thinking, “Okay, that’s another $400 or whatever..." — and I would calculate how many more weeks closer I’d pulled in my retirement because, by that time, $400 earned that day, I wasn’t going to be able to spend until 20 years in the future, so it would’ve compounded to thousands of dollars.
->
-> So, anyway, I was like, “Yeah, I just subtracted another 39 days from my work life.” Little mental games like that just made it feel like I had accomplished a lot in one boring day.
+_I was kind of like jumping down the stairs at the end of each work day zigzagging down to where I parked my bike. I remember thinking, “Okay, that’s another $400 or whatever..." — and I would calculate how many more weeks closer I’d pulled in my retirement because, by that time, $400 earned that day, I wasn’t going to be able to spend until 20 years in the future, so it would’ve compounded to thousands of dollars._
+
+_So, anyway, I was like, “Yeah, I just subtracted another 39 days from my work life.” Little mental games like that just made it feel like I had accomplished a lot in one boring day._
 
 ## Whoa #
 
@@ -52,9 +52,9 @@ I translated these back into a couple web-based tools below that you can use - f
 
 {% include /calculators/calcfidays.html %}
 
-> Note: because this is trying to look just at the impact of a set dollar amount now, this assumes that you don't plan _any_ other contributions to your retirement savings in the future
->
-> The cool part is that you can then use this in the MMM example of understanding how much retirement time you bank for every day you work by simply plugging in the amount you put into retirement savings for each work day
+_Note: because this is trying to look just at the impact of a set dollar amount now, this assumes that you don't plan_ ___any___ _other contributions to your retirement savings in the future_
+
+_The cool part is that you can then use this in the MMM example of understanding how much retirement time you bank for every day you work by simply plugging in the amount you put into retirement savings for each work day_
 
 ## Calculating the Price of a Day (or Year) #
 
@@ -115,8 +115,6 @@ For the spreadsheet fanatics out there, I've got a treat for you. Next weeks pos
 
 ## What's a Day Worth to You? #
 
-> You've got the tools now to figure it out - what's a extra day of FI cost you? Can you find a regular expense around that amount that you could eliminate?
->
-> Leave a comment - share your thoughts!
+_You've got the tools now to figure it out - what's a extra day of FI cost you? Can you find a regular expense around that amount that you could eliminate?_
 
 [mad-fientist-podcast]: http://www.madfientist.com/camp-mustache-q-and-a/

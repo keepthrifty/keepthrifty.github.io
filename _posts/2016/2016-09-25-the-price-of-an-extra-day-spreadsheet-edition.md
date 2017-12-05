@@ -34,7 +34,7 @@ It's got everything from last week's online calculators and then some; here's wh
 
 Beyond calculating the cost of a day of retirement and the impact on retirement time of a given contribution, we're going to plot out the retirement account balance against the target balance and put it all in a nice interactive dashboard.
 
-> If you are having trouble getting the sheet put together, he's a [completed version on Google Drive that you can use for reference](https://docs.google.com/spreadsheets/d/1RkmJHjrsnCHP9GeLPjnQLwDqCIiEv2FrUOuMGqivUrk/copy). If you go here, it'll prompt you whether you want to make a copy of this sheet. This way you can modify the sheet to your heart's content without changing the master copy for other readers.
+_If you are having trouble getting the sheet put together, he's a [completed version on Google Drive that you can use for reference](https://docs.google.com/spreadsheets/d/1RkmJHjrsnCHP9GeLPjnQLwDqCIiEv2FrUOuMGqivUrk/copy). If you go here, it'll prompt you whether you want to make a copy of this sheet. This way you can modify the sheet to your heart's content without changing the master copy for other readers._
 
 ## Set Up
 
@@ -150,9 +150,9 @@ To see this in action, put the cursor on `E4`, copy the cell (ctrl-C on Windows;
 
 If you look in the formula bar, you'll notice that the cell still refers to `C17` but the reference to `E3` was updated to `E4` when we pasted it.
 
-> Note: By default, references are "relative" meaning if you move a row down and paste, the reference will refer to a row lower than the original. The same goes for moving up, down, left, right, or any combination.
->
-> Knowing how to use relative and absolute references properly is one of the biggest skills productivity tricks in creating spreadsheets. If you can master this, you can use copy and paste with grace, saving a ton of time manually entering formulas :)
+_Note: By default, references are "relative" meaning if you move a row down and paste, the reference will refer to a row lower than the original. The same goes for moving up, down, left, right, or any combination._
+
+_Knowing how to use relative and absolute references properly is one of the biggest skills productivity tricks in creating spreadsheets. If you can master this, you can use copy and paste with grace, saving a ton of time manually entering formulas :)_
 
 From here, copy `E5` and then highlight `E6` to `E28` and then paste. All of the cells fill in and you'll see we've got from our starting age (point 1 in cell `E3`) to our retirement age (point 21 in cell `E23`) to 3 points after (points 22-24 in cells `E24:E27`)
 
@@ -390,4 +390,4 @@ From here, I leave the rest to you - play with the numbers to better understand 
 
 ___CHALLENGE:___ If you're up for it, try adding another column of data to the data table (and corresponding line to the chart) showing the account balance _without_ the extra contribution. To really get intense, you could show a zoomed in chart on the timeline where the two intersect with the expected expenses line to visualize the impact of that contribution even better.
 
-> If you come up with some cool options or any additions to the sheet, let me know in the comments below or [contact me]({{site.url}}/work-with-me/#contact) - I'd love to hear what you come up with. Happy spreadsheeting!
+_If you come up with some cool options or any additions to the sheet, let me know in the comments below or [contact me]({{site.url}}/work-with-me/#contact) - I'd love to hear what you come up with. Happy spreadsheeting!_

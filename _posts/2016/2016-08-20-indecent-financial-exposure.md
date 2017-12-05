@@ -11,7 +11,6 @@ subscribe-line: Can't get enough?
 related-posts: [
   "/2016/06/18/the-simple-path-to-wealth-review",
   "/2016/12/05/money-mistakes-financial-compass",
-  "/2016/02/22/keepthrifty-experiment",
   "/2016/11/13/four-keys-successful-budget"
 ]
 permalink: /:year/:month/:day/:title.html

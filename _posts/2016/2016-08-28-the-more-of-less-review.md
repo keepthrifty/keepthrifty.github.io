@@ -23,7 +23,7 @@ tags: [minimalism]
 categories: [article]
 ---
 
-> In America, we consume __twice__ as many material goods as we did fifty years ago. Over the same period, the size of the average American home has nearly __tripled__, and today that average home contains about __three hundred thousand items__. On average, our homes contain __more televisions than people__. And the US Department of Energy reports that, due to clutter, 25 percent of people with two-care garages don't have room to park cars inside and another 32% have room for only one vehicle.
+_In America, we consume_ __twice__ _as many material goods as we did fifty years ago. Over the same period, the size of the average American home has nearly_ __tripled__, _and today that average home contains about_ __three hundred thousand items__. _On average, our homes contain_ __more televisions than people__. _And the US Department of Energy reports that, due to clutter, 25 percent of people with two-care garages don't have room to park cars inside and another 32% have room for only one vehicle._
 
 Welcome to the state of the United States circa 2016 as eloquently captured in Joshua Becker's most recent book, [The More of Less][the-more-of-less-amazon].
 
@@ -104,7 +104,7 @@ I really recommend you pick up The More of Less whether minimalism is a new conc
 
 This book will give you the inspiration and practical tips you need to move with intentionality toward whatever is really important to you.
 
-___To get your own copy, here's a [link to the book on Amazon][the-more-of-less-amazon]___
+___To get your own copy, here's a [link][the-more-of-less-amazon]___
 
 [![The More of Less by Joshua Becker cover photo][the-more-of-less-cover]][the-more-of-less-amazon]
 

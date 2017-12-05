@@ -69,7 +69,7 @@ My goal is December of 2019 though, so we're going to keep working on getting ou
 
 One area we're finally doing better in - __groceries__.
 
-In the spring of this year, we were averaging $1050 a month. I knew we needed to do better but despite a couple [targeted challenges]({{site.url}}{% post_url 2016/2016-05-29-may-challenge-food-update-2 %}), we didn't have much luck improving our grocery spending until the end of this year.
+In the spring of this year, we were averaging $1050 a month. I knew we needed to do better but despite a couple targeted challenges, we didn't have much luck improving our grocery spending until the end of this year.
 
 Over the last three months, we've averaged $760 on groceries - an improvement of $290. If we can maintain that over a year, that's $3500 saved!
 

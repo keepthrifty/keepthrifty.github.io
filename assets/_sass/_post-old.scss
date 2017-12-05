@@ -209,49 +209,6 @@
   }
 }
 
-.post__emphasis__box {
-  border: 2px solid $primary-color;
-  margin: 2rem;
-  padding: 2rem;
-}
-.post__emphasis__box__group:nth-child(1) {
-  margin-top: 0;
-}
-.post__emphasis__box__group {
-  margin-top: 1rem;
-  clear: both;
-}
-.post__emphasis__box__group-title {
-  text-transform: uppercase;
-  text-decoration: underline;
-}
-.post__emphasis__box__header {
-  margin: 0 0 1rem;
-  text-align: center;
-  font-size: 1.2rem;
-}
-.post__emphasis__box__entry {
-  clear: both;
-  font-size: 1.1rem;
-}
-.post__emphasis__box__entry-title {
-  text-transform: uppercase;
-}
-.post__emphasis__box__entry-note {
-  color: $meta-color;
-  font-weight: 300;
-}
-.post__emphasis__box__entry-value {
-  float: right;
-}
-.post__emphasis__box__footer {
-  margin: 1rem 0 0;
-  color: $meta-color;
-  font-weight: 300;
-  clear: both;
-  font-size: 1.1rem;
-}
-
 .post__footer {
   display: block;
   clear: both;

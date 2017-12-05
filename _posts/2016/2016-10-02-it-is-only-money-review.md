@@ -80,7 +80,7 @@ Overall, [It is Only Money and It Grows on Trees][it-is-only-money-amazon] is a 
 
 With that new knowledge and the lessons you'll learn about the other views out there, you'll find yourself in a better position to make sound choices about how to handle your money and build a better future for yourself and those around you.
 
-___To get your own copy, here's a [link to the book on Amazon][it-is-only-money-amazon]___
+___To get your own copy, here's a [link][it-is-only-money-amazon]___
 
 [![It Is Only Money and It Grows On Trees cover]({{ site.url }}{{ page.image-folder}}/it-is-only-money-full.jpg)][it-is-only-money-amazon]
 

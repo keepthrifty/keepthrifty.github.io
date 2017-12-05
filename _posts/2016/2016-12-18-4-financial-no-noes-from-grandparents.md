@@ -71,7 +71,7 @@ It makes sense to buy new clothes every once in a while; I get it.  But collecti
 
 OK…I know I’m probably going to pull on some heart-strings here, but you are spending too much for entertainment… Netflix, Hulu, Pandora, Spotify, internet, TV, Amazon Prime, etc.  That’s not even mentioning how much money and time we waste on smartphones, social media, and other electronics.  
 
-If you were to calculate the [amount of money that you spend in one year on things that __purely entertain you__]({{site.url}}{% post_url 2016/2016-05-29-june-challenge-entertainment %}), I think you’d be shocked.  
+If you were to calculate the amount of money that you spend in one year on things that __purely entertain you__, I think you’d be shocked.  
 
 You want to know what my grandpa did for entertainment?  He went outside (I know…jaw dropping!). He read a book.  He played games with his family and friends.  Low and behold…they’re pretty much all free (or low cost).
 

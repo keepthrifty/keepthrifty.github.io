@@ -13,7 +13,6 @@ comments: true
     {%- endif -%}
     </div>
 
-    {%- unless page.nometa -%}
     <div class="post__meta">
       <div class="post__title">
         <h1 class="post__title--main">{{ page.title }}</h1>
@@ -28,7 +27,6 @@ comments: true
       </div>
       {% include post/post-audio.html %}
     </div>
-    {%- endunless -%}
   </header>
 
   <main class="post__body{% if page.number-headings %} post__body--numbered-headings{% endif %}">

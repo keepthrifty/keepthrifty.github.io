@@ -1,0 +1,20 @@
+.calculator {
+}
+
+.calculator-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.calculator-field, .calculator-submit {
+  width: 100%;
+  label, input {
+    display: inline-block;
+  }
+  label { width: 60%; }
+  input { width: 30%; }
+}
+
+.calculator-submit {
+  text-align: right;
+}

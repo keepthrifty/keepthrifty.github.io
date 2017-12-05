@@ -5,12 +5,16 @@ description: "TK"
 permalink: /videos/
 ---
 
-<ul class="archive-list">
-  {%- for post in site.posts -%}
-    {%- if post.categories contains 'our thrifty life' -%}
-    <li class="archive-list--entry">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {%- endif -%}
-  {%- endfor -%}
-</ul>
+<h2 id="popular" class="archive-heading">
+  Popular Videos
+</h2>
+
+{% include shared/post-list-featured.html type='video' %}
+
+<h2 id="by-date" class="archive-heading">
+  All (by date)
+</h2>
+
+{% include shared/category-post-list.html type='video' %}
+
+<script id="dsq-count-scr" src="//keepthrifty.disqus.com/count.js" async></script>

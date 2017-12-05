@@ -1,5 +1,5 @@
 <ul class="archive-list">
-  {%- for post in site.posts -%}
+  {%- for post in site.categories[include.type] -%}
     {%- if post.featured -%}
       <li class="archive-list--entry">
         <a href="{{ post.url }}">{{ post.title }}</a>

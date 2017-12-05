@@ -33,7 +33,7 @@ This is part 1 of a two-part series on figuring out how to bail out of our addic
 
 First a bit of a history lesson from _True Wealth by Juliet Schor_:
 
-> In the West, apparel has been expensive to produce and has therefore been a high-priced and valuable commodity for centuries. Once fashioned, garments had long and varied lives. A dress or jacket might be born as special occasion wear, then become a garment for indoor sociability, and eventually be worn (and worn out) while doing domestic chores... In some households, garments were turned into quilting squares... A piece of clothing might end its useful life as a rag, and literally turn to dust.
+_In the West, apparel has been expensive to produce and has therefore been a high-priced and valuable commodity for centuries. Once fashioned, garments had long and varied lives. A dress or jacket might be born as special occasion wear, then become a garment for indoor sociability, and eventually be worn (and worn out) while doing domestic chores... In some households, garments were turned into quilting squares... A piece of clothing might end its useful life as a rag, and literally turn to dust._
 
 I don't know about you, but for me this was a:
 

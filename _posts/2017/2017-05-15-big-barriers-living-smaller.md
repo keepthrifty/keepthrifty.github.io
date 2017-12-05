@@ -146,11 +146,6 @@ If we choose to leave the apartment but want to stay in our city, we'll need to 
 
 Otherwise, we'll be forced to consider what's more important to us - our desire to live small or our desire to live in the city we've called home for the last 10 years.
 
-
-
 _Do you think that the current systems are restricting the freedom to choose where you want to live? Many of these were added with the intention to_ ___protect___ _individuals and businesses but maybe there's a better way. What are your suggestions?_
 
-> Header image credit to: ["Big House, Tiny House"](https://www.flickr.com/photos/daryl_mitchell/2407030202/) by Daryl Mitchell
->
-> Copyright 2008; [Some Rights Reserved](https://creativecommons.org/licenses/by-sa/2.0/).
-> Modified slightly by cropping to different aspect-ratio.
+_Header image credit to: ["Big House, Tiny House"](https://www.flickr.com/photos/daryl_mitchell/2407030202/) by Daryl Mitchell; Copyright 2008; [Some Rights Reserved](https://creativecommons.org/licenses/by-sa/2.0/). Modified slightly by cropping to different aspect-ratio._
