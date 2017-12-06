@@ -87,7 +87,7 @@ On the other hand, if we're disciplined with the resources we have, applying it 
 
 ## Learn the Tools, Master the Craft
 
-Whatever your situation, take the time to come up with dreams for your life and use your money to make them happen. Start small and practice. Pick a $100 dream you'd love to pursue and follow-through on it. As you check that one off, find the next dream and start pursuing that. If you're looking for guidance, [I'd love to help]({{site.url}}/work-with-me/#life-flipping-coaching)
+Whatever your situation, take the time to come up with dreams for your life and use your money to make them happen. Start small and practice. Pick a $100 dream you'd love to pursue and follow-through on it. As you check that one off, find the next dream and start pursuing that. 
 
 The more you practice, the more adept you'll become at using the money you have and applying it effectively to achieving happiness.
 
