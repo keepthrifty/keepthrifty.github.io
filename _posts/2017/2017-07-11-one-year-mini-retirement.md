@@ -190,7 +190,7 @@ Minimalism, spreadsheets, frugality, and debt freedom all still have a home here
 
 I'm especially excited to have more time to refine my vision for [Thrifty](https://thrifty.keepthrifty.com) in the same way. Expect to see new features, a clearer focus, and for the tool to finally exit "beta". That means I may have a paid version of Thrifty coming in the future.
 
-I'll also be focusing more on [coaching]({{site.url}}/work-with-me/) and other paid resources as well so I can hopefully keep this gig going longer than a year. Don't worry though - I'm not changing my mentality toward ads or sponsored posts - I'm still passionate about providing a clutter-free reading experience :)
+I'll also be focusing more on coaching and other paid resources as well so I can hopefully keep this gig going longer than a year. Don't worry though - I'm not changing my mentality toward ads or sponsored posts - I'm still passionate about providing a clutter-free reading experience :)
 
 ### Investing in Faith
 
