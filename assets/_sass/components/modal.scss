@@ -1,6 +1,6 @@
 .modal-button {
   text-align: right;
-  .modal-button--centered {
+  &.modal-button--centered {
     text-align: center;
     display: block;
   }
