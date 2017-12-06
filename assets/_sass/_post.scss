@@ -117,7 +117,7 @@ header.post__header, main.post__body, footer.post__footer {
 /* POST BODY */
 
 main.post__body {
-  margin: 0 auto 4rem;
+  margin: 0 auto 2rem;
   padding: 0 2rem;
   @media screen and (max-width: $screen-s) {
     padding: 0 1rem;
@@ -200,13 +200,16 @@ main.post__body {
     }
   }
 
-  p + img {
-    float: left;
-    width: 100%;
-    max-width: 400px;
-    margin: 2rem 2rem 2rem 0;
-    box-shadow: 0 0 0.2rem 0 $line-color;
+  img {
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    &.active {
+      max-width: inherit;
+    }
     border-radius: 0.2rem;
+    box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
   }
   .caption {
     display: block;
@@ -266,48 +269,26 @@ main.post__body {
 
 footer.post__footer {
   margin: 0 auto;
+  padding: 0 2rem;
+  @media screen and (max-width: $screen-s) {
+    padding: 0 1rem;
+  }
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
 }
 
-.post__comment-box {
-  flex: 1 1 500px;
-  @media screen and (max-width: 991px) {
-    order: 2
+footer.post__footer {
+  .share-buttons {
+    flex: 1 1 100%;
+    text-align: center;
   }
-  margin: 0 2rem 2rem;
-  @media screen and (max-width: $screen-s) {
-    margin: 0 1rem 2rem;
+  .modal-button {
+    flex: 1 1 100%;
+    text-align: center;
   }
-}
-
-.post__connect-box {
-  flex: 1 1 300px;
-  @media screen and (max-width: 991px) {
-    order: 1
+  .comment-box {
+    flex: 0 0 100%;
   }
-  margin: 0 2rem 2rem;
-  @media screen and (max-width: $screen-s) {
-    margin: 0 1rem 2rem;
-  }
-  h3.meta-header {
-    margin: 0.5rem;
-  }
-  ul {
-    margin: 0.5rem;
-    padding: 0 !important;
-  }
-}
-
-.post__connect-box-container {
-  border-radius: 0.2rem;
-  //box-shadow: 0 0 0.2rem 0 $line-color;
-  //padding: 0;
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.post__connect-box-element {
-  flex: 1 1 200px;
-  padding: 0 0 4rem;
 }

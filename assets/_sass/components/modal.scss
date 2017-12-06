@@ -1,5 +1,12 @@
 .modal-button {
-  text-align: center;
+  text-align: right;
+  .modal-button--centered {
+    text-align: center;
+    display: block;
+  }
+  a {
+    white-space: nowrap;
+  }
 }
 .modal {
   background:rgba(255,255,255,0.9);
@@ -13,7 +20,7 @@
   opacity:0;
   z-index:-1;
 }
-.modal:target {
+.modal.modal--open {
   opacity:1;
   transition: opacity 350ms ease-in-out, z-index 1ms ease-in-out;
   z-index:+1;
@@ -42,7 +49,7 @@
   box-shadow: 0 0 0.2rem 0 $line-color;
   opacity:0;
 }
-.modal:target .modal-content {
+.modal.modal--open .modal-content {
   transform:translate(-50%, -50%);
   transition: transform 350ms ease-in-out;
   z-index:9999;
@@ -58,6 +65,7 @@
   z-index:+1;
   background:white;
   text-align:center;
+  cursor: pointer;
 }
 .modal-area {
   padding:2rem;

@@ -31,23 +31,11 @@ comments: true
 
   <main class="post__body{% if page.number-headings %} post__body--numbered-headings{% endif %}">
     {{ content }}
-    {% include post/post-share.html %}
   </main>
 
   <footer class="post__footer">
-    <div class="post__connect-box">
-      <div class="post__connect-box-container">
-        <div class="post__connect-box-element">
-        {% include post/post-subscribe.html %}
-        </div>
-        <div class="post__connect-box-element">
-        {% include post/post-related.html %}
-        </div>
-      </div>
-    </div>
-    <div class="post__comment-box">
-      {% include shared/comments.html %}
-    </div>
-
+    {% include post/post-share.html %}
+    {% include components/subscribe-modal.html modal-id=37007%}
+    {% include shared/comments.html %}
   </footer>
 </article>

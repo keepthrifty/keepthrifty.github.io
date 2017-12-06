@@ -1,9 +1,11 @@
-<div class="modal-button"><a href="#modal" class="modal-open button">Get our Newsletter</a></div>
+<div class="modal-button{% if include.center-button %} modal-button--centered{% endif %}">
+  <a onclick="document.getElementById('modal').classList.toggle('modal--open')" name="subscribe-button" class="modal-open button">Get our Newsletter</a>
+</div>
 
 <div class="modal" id="modal">
   <div class="modal-content">
     <div class="modal-area">
-      <a href="#" class="modal-close" title="Close Modal">X</a>
+      <a onclick="document.getElementById('modal').classList.toggle('modal--open')" class="modal-close" title="Close Modal">X</a>
       <h2 class="modal-title">
         We'd love to connect with you!
       </h2>
@@ -22,7 +24,7 @@
                   <p>Got it!</p>
                   <p>Please check your email to confirm your subscription.</p>
                 </div>
-                <form id="ck_subscribe_form" class="ck_subscribe_form" action="https://app.convertkit.com/landing_pages/303911/subscribe" data-remote="true">
+                <form id="ck_subscribe_form" class="ck_subscribe_form" action="https://app.convertkit.com/landing_pages/{{include.modal-id}}/subscribe" data-remote="true">
                   <input type="hidden" value="{&quot;form_style&quot;:&quot;naked&quot;,&quot;embed_style&quot;:&quot;inline&quot;,&quot;embed_trigger&quot;:&quot;scroll_percentage&quot;,&quot;scroll_percentage&quot;:&quot;70&quot;,&quot;delay_seconds&quot;:&quot;10&quot;,&quot;display_position&quot;:&quot;br&quot;,&quot;display_devices&quot;:&quot;all&quot;,&quot;days_no_show&quot;:&quot;15&quot;,&quot;converted_behavior&quot;:&quot;show&quot;}" id="ck_form_options">
                   <input type="hidden" name="id" value="303911" id="landing_page_id">
                   <input type="hidden" name="ck_form_recaptcha" value="" id="ck_form_recaptcha">
@@ -51,5 +53,5 @@
       </div>
     </div>
   </div>
-  <a href="#" class="modal-space"></a>
+  <a onclick="document.getElementById('modal').classList.toggle('modal--open')" class="modal-space"></a>
 </div>

@@ -1,10 +1,11 @@
+.share-buttons {
+
+}
+
 ul.share-buttons__list {
   padding: 0 0 0 0 !important;
   :first-child { margin-left: 0 !important; }
   :last-child { margin-right: 0 !important; }
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
 }
 
 .share-buttons__text {
