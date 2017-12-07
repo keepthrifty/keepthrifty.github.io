@@ -17,6 +17,8 @@ tags: [create your freedom]
 
 category: [freedom-story]
 
+featured: true
+
 ---
 
 _We are excited to introduce you to Cindy from [Dash2Retire](http://www.dash2retire.com/){: target="_blank"}. Buying a home for your family to live and create memories in is exciting, but having a mortgage sucks. Cindy and her husband decided they didn’t want to stay on the 30-year mortgage track when they moved to Canada. How did they escape the mortgage trap? Cindy shares her family’s backstory, strategy for becoming mortgage free in Canada, and what’s next in their home journey._

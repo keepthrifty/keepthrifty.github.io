@@ -1,6 +1,7 @@
 <div class="latest-content__box">
   <h2 class="latest-content__box-title">
     {{ include.label }}
+    {% if site.posts.first.categories.first == include.type %}*{% endif %}
   </h2>
   {% assign post = site.categories[include.type].first %}
   <h3 class="latest-content__content-title">

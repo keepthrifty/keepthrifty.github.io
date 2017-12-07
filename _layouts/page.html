@@ -1,12 +1,46 @@
 ---
 layout: default
 ---
+<article class="{{page.layout}}">
+  <header class="post__header">
+    {%- if page.video.path or page.image -%}
+    <div class="post__visual">
+    {%- if page.video.path -%}
+      {% include video-embed.html video-link=page.video.path %}
+    {%- elsif page.image -%}
+      <img class="post__header__image" alt="{{page.title}}" src="{{site.url}}{{page.image.path}}" />
+    {%- endif -%}
+    </div>
+    {%- endif -%}
 
-<main class="page__body">
-  {{ content }}
-</main>
-<fooder class="page__footer">
-  {%- if page.comments -%}
+    <div class="post__meta">
+      <div class="post__title">
+        {%- if page.title -%}<h1 class="post__title--main">{{ page.title }}</h1>{%- endif -%}
+        {%- if page.subtitle -%}<h2 class="post__title--subtitle">{{ page.subtitle }}</h2>{%- endif -%}
+      </div>
+      {%- if page.layout == 'post' -%}
+      <div class="post__meta__line">
+        {% include post/post-date.html %}
+        {% include post/post-author.html %}
+      </div>
+      <div class="post__comment-count">
+        {% include shared/comment-count.html %}
+      </div>
+      {% include post/post-audio.html %}
+      {%- endif -%}
+    </div>
+  </header>
+
+  <main class="post__body{% if page.number-headings %} post__body--numbered-headings{% endif %}">
+    {{ content }}
+  </main>
+
+  <footer class="post__footer">
+    {% include post/post-share.html %}
+    {%- if page.layout == 'post' -%}
+    {% include components/subscribe-modal.html modal-id=307007%}
+    {% include post/post-navigation.html %}
+    {%- endif -%}
     {% include shared/comments.html %}
-  {%- endif -%}
-</footer>
+  </footer>
+</article>

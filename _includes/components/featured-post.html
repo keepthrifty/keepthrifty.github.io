@@ -1,10 +1,6 @@
-<div class="featured-content__box">
-  <h3 class="featured-content__title">
-    <a href="{{ include.post.url }}">{{ include.post.title }}</a>
-  </h3>
-  <div class="featured-content__image">
-    <a href="{{ include.post.url }}">
-      <img src="{{ include.post.image.path }}">
-    </a>
-  </div>
-</div>
+<li class="featured-post">
+  {% if include.post.categories contains 'article' %}<i class="fa fa-file-text-o" aria-hidden="true"></i>{% endif %}
+  {% if include.post.categories contains 'video' %}<i class="fa fa-play" aria-hidden="true"></i>{% endif %}
+  {% if include.post.categories contains 'freedom-story' %}<i class="fa fa-user" aria-hidden="true"></i>{% endif %}
+  <a href="{{ include.post.url }}">{{ include.post.title }}</a>
+</li>

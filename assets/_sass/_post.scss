@@ -122,15 +122,19 @@ main.post__body {
   @media screen and (max-width: $screen-s) {
     padding: 0 1rem;
   }
+  h1, h2, h3, h4, h5, h6 {
+    margin: 3rem 0 0.75rem;
+  }
   p {
     text-align: justify;
+    margin: 0.75rem 0;
   }
   ul {
-    padding-left: 2rem;
+    padding-left: 1rem;
     list-style: circle;
   }
   ol {
-    padding-left: 2rem;
+    padding-left: 1rem;
   }
   li {
 
@@ -145,7 +149,7 @@ main.post__body {
       border: 1px solid $line-color;
       padding: 1rem;
       font-weight: 300;
-      font-size: 1rem;
+      font-size: 1.1rem;
     }
     th {
       text-align: center !important;
@@ -290,5 +294,26 @@ footer.post__footer {
   }
   .comment-box {
     flex: 0 0 100%;
+  }
+}
+
+.post-nav {
+  display: block;
+  width: 16rem;
+  margin: 1rem auto;
+  .post-nav-previous, .post-nav-next {
+    a {
+      color: $meta-color;
+      font-size: 1rem;
+      &:hover {
+        opacity: 0.7;
+      }
+    }
+  }
+  .post-nav-previous {
+    float: left;
+  }
+  .post-nav-next {
+    float: right;
   }
 }

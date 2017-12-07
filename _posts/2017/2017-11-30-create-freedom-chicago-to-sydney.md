@@ -17,8 +17,6 @@ tags: [create your freedom]
 
 categories: [freedom-story]
 
-featured: true
-
 ---
 
 _We are so excited to introduce you to Kyle from [Not Your Parents’ Financial Guy]({{site.data.authors[page.author].web}}). A few years ago he found himself laid off with only a few thousand dollars to his name. What’s a guy to do? He moved halfway around the world from Chicago, USA to Sydney, Australia with his girlfriend. How did he take the leap to following his dream? Kyle shares his backstory, strategy for moving, life in Australia, and what’s next on his amazing journey._

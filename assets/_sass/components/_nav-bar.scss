@@ -101,6 +101,12 @@ ul.nav-bar__list {
   font-weight: inherit;
 }
 
+.nav-bar__list__item ul li.nav-divider {
+  background-color: $line-color;
+  height: 1px;
+  display: block;
+}
+
 .nav-bar__list__item ul li.current a {
   border-left: 2px solid $primary-color;
   border-right: 2px solid $primary-color;

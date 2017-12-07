@@ -1,24 +1,10 @@
-main.page__body {
-  h2.page-title {
-    margin-top: 0rem;
-    font-size: 2rem;
-    font-weight: 300;
-    text-align: center;
+.page {
+  max-width: 1024px;
+  padding: 0 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  @media screen and (max-width: $screen-m) {
+    padding: 0;
   }
-  p {
-    font-size: 1.1rem;
-    font-weight: 300;
-    text-align: justify;
-  }
-  @media screen and (max-width: 700px) {
-    h2.page-title {
-      font-size: 1.5rem;
-    }
-    p {
-
-    }
-  }
-
-  margin: 2rem auto;
-  max-width: 960px;
 }

@@ -1,41 +1,6 @@
 ---
-layout: default
+layout: page
 comments: true
 ---
 
-<article class="post">
-  <header class="post__header">
-    <div class="post__visual">
-    {%- if page.video.path -%}
-      {% include video-embed.html video-link=page.video.path %}
-    {%- elsif page.image -%}
-      <img class="post__header__image" alt="{{page.title}}" src="{{site.url}}{{page.image.path}}" />
-    {%- endif -%}
-    </div>
-
-    <div class="post__meta">
-      <div class="post__title">
-        <h1 class="post__title--main">{{ page.title }}</h1>
-        {%- if page.subtitle -%}<h2 class="post__title--subtitle">{{ page.subtitle }}</h2>{%- endif -%}
-      </div>
-      <div class="post__meta__line">
-        {% include post/post-date.html %}
-        {% include post/post-author.html %}
-      </div>
-      <div class="post__comment-count">
-        {% include shared/comment-count.html %}
-      </div>
-      {% include post/post-audio.html %}
-    </div>
-  </header>
-
-  <main class="post__body{% if page.number-headings %} post__body--numbered-headings{% endif %}">
-    {{ content }}
-  </main>
-
-  <footer class="post__footer">
-    {% include post/post-share.html %}
-    {% include components/subscribe-modal.html modal-id=307007%}
-    {% include shared/comments.html %}
-  </footer>
-</article>
+{{ content }}
