@@ -1,8 +1,9 @@
 .share-buttons {
-
+  margin: 1rem 0;
 }
 
 ul.share-buttons__list {
+  margin: 0;
   padding: 0 0 0 0 !important;
   :first-child { margin-left: 0 !important; }
   :last-child { margin-right: 0 !important; }

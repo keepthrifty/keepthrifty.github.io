@@ -1,4 +1,4 @@
-<div class="modal-button{% if include.center-button %} modal-button--centered{% endif %}">
+<div class="modal-button{% if include.center-button %} modal-button--centered{% endif %}{% if include.buffer-button %} modal-button--buffered{% endif %}">
   <a onclick="document.getElementById('modal').classList.toggle('modal--open')" name="subscribe-button" class="modal-open button">Get our Newsletter</a>
 </div>
 

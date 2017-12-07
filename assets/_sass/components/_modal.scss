@@ -4,7 +4,11 @@
     text-align: center;
     display: block;
   }
-  a {
+  &.modal-button--buffered {
+    margin: 1.5rem 0;
+  }
+  a.modal-open {
+    margin: 1rem 0;
     white-space: nowrap;
   }
 }

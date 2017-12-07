@@ -36,7 +36,7 @@ But the __best__ way to connect with us is to join our email list.
 
 You'll get a personal update and link whenever we publish a new article, story, or video and we'll occasionally send you special subscriber-only content and invitations.
 
-{% include components/subscribe-modal.html modal-id=304007 center-button=true %}
+{% include components/subscribe-modal.html modal-id=304007 center-button=true buffer-button=true %}
 
 ## Diving In
 
