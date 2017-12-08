@@ -5,7 +5,6 @@ subtitle: Where Dreams and Money Meet
 image:
   path: /assets/img/start-here.jpg
 permalink: /start-here/
-comments: true
 ---
 
 If you're like most of our readers, you're looking to do something different.
@@ -14,7 +13,7 @@ You've got big dreams underneath the surface and want to make them a reality. Yo
 
 ___We know exactly how you feel. We've been there too.___
 
-After years of just getting by, we decided to take charge of our money and create our own freedom. You can [read our full story here]({{site.url}}/about-us/).
+After years of just getting by, we decided to take charge of our money and create our own freedom. You can [read our full story here]({{site.url}}/our-story/).
 
 > Don't let your finances keep you from chasing your dreams
 
@@ -24,7 +23,7 @@ Here at Keep Thrifty, we share our journey and bring you inspiration and tools t
 
 We've got [articles](/articles/), [videos](/videos/), and [success stories](/create-your-freedom/) to help inspire you to think differently about your dreams and your finances.
 
-We've also created a [money tracking app](https://thrifty.keepthrifty.com) to help you take control and make those dreams a reality.
+We've also created a [money tracking app](https://thrifty.keepthrifty.com) to help you take control of your finances and make those dreams a reality.
 
 ## How to Connect With Us
 

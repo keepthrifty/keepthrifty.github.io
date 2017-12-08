@@ -1,5 +1,6 @@
 <div class="latest-content__box">
   <h2 class="latest-content__box-title">
+    {% if site.posts.first.categories.first == include.type %}*{% endif %}
     {{ include.label }}
     {% if site.posts.first.categories.first == include.type %}*{% endif %}
   </h2>

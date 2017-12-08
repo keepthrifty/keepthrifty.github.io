@@ -1,7 +1,7 @@
 <div class="nav-bar">
   <ul class="nav-bar__list">
     <li class="nav-bar__list__item {% if page.url == "/start-here/" %}nav-bar__list__item--current{% endif %}"><a href="/start-here/">Start Here</a></li>
-    <li class="nav-bar__list__item {% if page.url == "/about-us/" %}nav-bar__list__item--current{% endif %}"><a href="/about-us/">About Us</a></li>
+    <li class="nav-bar__list__item {% if page.url == "/our-story/" %}nav-bar__list__item--current{% endif %}"><a href="/our-story/">Our Story</a></li>
     <li class="nav-bar__list__item"><a>Blog <i class="fa fa-chevron-down"></a></i>
       <ul>
         <li {% if page.url == site.posts.first.url %}class="current"{% endif %}><a href="{{site.posts.first.url}}">Latest</a></li>

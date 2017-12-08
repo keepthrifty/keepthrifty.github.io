@@ -37,8 +37,10 @@ layout: default
 
   <footer class="post__footer">
     {% include post/post-share.html %}
-    {%- if page.layout == 'post' -%}
+    {%- if page.layout == 'post' or page.include-subscribe -%}
     {% include components/subscribe-modal.html modal-id=307007%}
+    {%- endif -%}
+    {%- if page.next or page.previous -%}
     {% include post/post-navigation.html %}
     {%- endif -%}
     {% include shared/comments.html %}
