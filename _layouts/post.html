@@ -33,6 +33,7 @@ comments: true
     </header>
 
     <main class="post__body{% if page.number-headings %} post__body--numbered-headings{% endif %}">
+      {%- if page.affiliate-link -%}{% include affiliate.html %}{%- endif -%}
       {{ content }}
     </main>
 
