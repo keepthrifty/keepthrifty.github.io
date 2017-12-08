@@ -1,7 +1,7 @@
 <div class="comment-box">
   <div id="disqus_thread"></div>
   <script>
-  if (window.location.host == 'localhost:4000') {
+  if (window.location.host != 'localhost:4000') {
     var disqus_config = function () {
       this.page.url = "{{ page.url | prepend: site.url }}";
       this.page.identifier = "{{ page.title }}";
