@@ -35,6 +35,8 @@ Why are you calculating your rate?
 
 Amount Saved / Amount Possible
 
+if your employer does match, you should include the match in possible whether or not you're taking it.
+
 If you're trying to generally improve your financial situation, this could look something like this:
 
 (Anything that improves net worth) / Take-home pay
@@ -42,6 +44,8 @@ If you're trying to generally improve your financial situation, this could look 
 If you're trying to save for financial independence, this could be:
 
 (Contributions to passive income sources) / Gross pay
+
+
 
 Methods:
 
