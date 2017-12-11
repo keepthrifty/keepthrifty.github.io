@@ -4,13 +4,13 @@ layout: post
 author: chris_durheim
 
 title: "Should You Trust the Machines With Your Money?"
-description: ""
+description: "You'd think a software developer would be a huge advocate of automation, but I'm not as smitten as you might guess. I don't think you should hand over the reins to the software quite so quickly."
 
 date: 2017-12-12 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-12-12-automated-personal-finance/robot-big.jpg
-pinterest-image: /assets/img/posts/2017-12-12-automated-personal-finance/
+pinterest-image: /assets/img/posts/2017-12-12-automated-personal-finance/automation
 
 related-posts: [
   /from-push-to-pull/,
