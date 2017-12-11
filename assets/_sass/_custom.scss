@@ -637,6 +637,17 @@ form {
   }
 }
 
+.image--left {
+  img {
+    max-width: 300px;
+    border-radius: 4px;
+  }
+  @media (min-width: $minimum-break) {
+    float: left;
+    padding: 0 2rem 0 0;
+  }
+}
+
 div.call-to-action-container {
   margin: 2rem 0 0 0;
   text-align: center;
