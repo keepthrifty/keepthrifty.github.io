@@ -1,113 +1,116 @@
 ---
 layout: post
 
-author: not_your_parents_financial_guy
+author: the_financial_journeyman
 
-title: "How We Paid Off Our Mortgage In Four Years"
-subtitle: "Create Your Freedom Series - Meet Cindy"
-description: ""
+title: "How I Created The Life I Wanted Without Creating Debt"
+subtitle: "Create Your Freedom Series - Meet Dave"
+description: "Can someone really go from working into a factory to having a master's degree without any debt? Absolutely - Dave did; check out his amazing story!"
 
-date: 2017-12-07 6:58:00 -0500
+date: 2017-12-14 6:58:00 -0500
 
 image:
-  path: /assets/img/posts/2017-12-07-pay-off-mortgage-four-years-cyf/on-a-boat.jpg
-pinterest-image: /assets/img/posts/2017-12-07-pay-off-mortgage-four-years-cyf/four-years-mortgage-freedom
+  path: /assets/img/posts/2017-12-14-create-life-you-want-without-debt/meet-dave.jpg
+pinterest-image: /assets/img/posts/2017-12-14-create-life-you-want-without-debt/factory-to-freedom
 
 tags: [create your freedom]
 
-category: [freedom-story]
+categories: [freedom-story]
 
 ---
 
-_We are excited to introduce you to Cindy from [Dash2Retire](http://www.dash2retire.com/){: target="_blank"}. Buying a home for your family to live and create memories in is exciting, but having a mortgage sucks. Cindy and her husband decided they didn’t want to stay on the 30-year mortgage track when they moved to Canada. How did they escape the mortgage trap? Cindy shares her family’s backstory, strategy for becoming mortgage free in Canada, and what’s next in their home journey._
+_We are excited to introduce you to Dave from [The Financial Journeyman](http://thefinancialjourneyman.com/){: target="_blank"}. He left high school without direction or passion and found himself working a manual labor factory job. He later found a passion with investing his earnings and developed a dream to pursue a new career. His story is full of perseverance and hard work. Here’s his amazing journey!_
 
 ## Backstory
 
 ### What was your life like before you pursued your dream?
 
-Six years ago, we moved from Alabama to southern Ontario. My husband had an amazing work opportunity that we didn’t want to pass up. So we packed our bags and moved to another country.  While moving isn’t new to us, we’ve lived in four different states, we were excited to experience Canadian life with our three kids (now teens).
+In high school, I was immature.  I was well liked and semi-popular, but lacked ambition.  I was basically a lazy kid who wanted to cut class and hang out with my friends.  I was not bold.  Teachers liked me because I was respectful.  I was just a challenge to them and my parents because I did not want to work.  Looking back, the best excuse that I can give you is that I lacked goals.
 
-Canada has been amazing. It’s much more culturally diverse than anywhere else we've lived and we have a ski hill within 15 minutes of the house. We were very nervous about adjusting to Canadian healthcare and curious about Canadian schools, but have found both to be excellent.
+Following high school, most of my friends headed off to college or to work at their family’s business.  That is when I panicked because I did not know what to do with my life.  For about two years, I worked a few part time and temp jobs.  When I was 20, I got a full-time job working at a mattress factory.  It was hard.  Just imagine lugging mattresses around all day.   
 
-_From Cindy's blog: [Comparison of American and Canadian Healthcare](http://www.dash2retire.com/2017/10/23/single-payer-healthcare-painful-painless-firsthand-comparison-american-canadian-healthcare/){: target="_blank"}_
+### What was your freedom dream?
 
-## What was your freedom dream and what was the inspiration/catalyst behind it?
+I was  grateful for my job.  It is where I developed my work ethic.  It was a union shop and if you did not perform the union did not want you and you were let go. My factory job paid well and that motivated me, but I was bored with the manual labor.
 
-Moving to Canada, we knew that we would want to buy a home instead of rent long term. This would be house number five for us. Mortgage number five as well. In each of our previous homes we got a 30-year mortgage and made regular payments. The thought of paying off the mortgage never occurred to us. We really relied on real estate agents for advice. Every agent encouraged us to stretch our budget and get the biggest house we could afford with a 30-year mortgage. This was even the advice from our favorite real estate agent - my mother-in-law. It was just the way things were done.
+I wanted to escape the factory and sweating to earn a living.  I dreamed of being free.  I knew that education was my ticket out of the factory.  
 
-Going into house number five, we knew we wanted to handle things differently, we were sick of the ongoing payments. We wanted a house, but we wanted out from the mortgage as fast as we could make happen. We wanted mortgage freedom.
+### What was the catalyst to pursuing this dream?
 
-![Picture of nice looking suburban home covered in snow]({{site.url}}/assets/img/posts/2017-12-07-pay-off-mortgage-four-years-cyf/house.jpg)
+I was making good money and wanted to learn how to invest. My dad was an Accountant and had some suggestions. He and I went to the local book store and I bought a few books.  I bought an investing book by Charles Schwab, The Richest Man in Babylon, and a Mutual Funds magazine.  Reading those books gave me the confidence to invest.  I started to invest $500 or more every month in mutual funds.  I took to it like a duck to water.
+
+After working in the factory for two years I decided that I wanted more out of life.  I got depressed when I thought of doing manual labor for 30 years.  I discussed it with my parents and they suggested that I start taking classes at night.  
+
+With my interest in investing, I decided to pursue a business degree. I was, however, afraid of going into debt to go to school. I saw debt as a barrier to freedom.
+
+![Desk with laptop, lamp, papers, books]({{site.url}}/assets/img/posts/2017-12-14-create-life-you-want-without-debt/desk.jpg)
 
 ## Strategy
 
 ### It’s one thing to have a dream. It’s another to make it a reality. How did you plan to turn your dream into a reality?
 
-When we moved to Canada, we rented a home, rather than buying right away. This gave us time to adjust to the new surroundings and save enough money for a sizeable down payment on a house. After 2 years of renting, we found a home for $377,000. We purchased the home in July 2013. After the closing costs and deducting our 20% down payment, our mortgage was $301,600.
-
-Canadian mortgage rules are different than the US. The mortgage is amortized over a specified period, just like the US, however the mortgage is a term mortgage (typically 1 to 10 years.) At the end of the term, the loan is either paid in full or a new term (at today’s rate) is initiated. There are penalties if the mortgage is paid off prior to the end of the term.
-
-In Canada, mortgage interest is not deductible from personal income taxes. Just another reason to spend as little as possible in interest.
-
-On our loan, the lender offered several penalty-free prepayment privileges (that’s what the bank called them anyway.) The most popular option is a yearly prepayment of 15% of the original principal amount.
-
-After a lot of financial analysis (We both have our undergrad degrees in engineering and our masters degrees. His – mechanical engineering, mine – MBA.) and with a strong desire to pay off the mortgage as soon as possible, we settled on a 4-year term mortgage, amortized over 20 years, at an interest rate of 2.5%. Our bi-weekly payments were $734.80. We took advantage of the prepayment option and at the end of the 4 years, our loan balance was $60,483.77. We paid off that amount in full in July 2017.
-
-In total, we paid $16,262.97 in interest. Had the loan not been paid off early, the interest would have totaled $82,000, over the full 20 years of the loan.
+My strategy was to keep working while I pursued my Associates degree so that I could save for both the long term and to pay for my classes. At the time, credits at the local community college only cost $68.  I think they are almost $200 now (still cheap).  My  basic strategy was to keep investing $500 and save about $300 for my classes each month.  
 
 ### What challenges did you face along the way and how did you push through?
 
-One of the reasons we moved to Canada was the job opportunity for my husband. Although he had received company stock from previous employers, the potential equity and bonuses offered at the Canadian company were too good to pass up. Notice I said potential. For the first 2 years, things were great. But then a few months after we purchased the home, the company went into a downward spiral. Many of my husband’s coworkers were either laid off or left voluntarily.
+I worked at the factory for about 4 years and earned my Associates Degree from the local community college at night. The work was hard.  There was a point where I could have taken an easier job.  There was even a point where I could have taken a few years off from work and just attended college.
 
-For several years after we purchased the house, we didn’t know if my husband would have a job. Oddly enough, this precarious situation strengthened our resolve to pay off the house.
+When I was 25, I already had about $50K in mutual funds, so I could have easily said heck with it and live off that money and pay for my degree.  That was not my goal though.  I wanted the degree, no debt, and $100k by age 30.  It was like I was out to prove something to myself.  I set out to reach these goals on will power.
 
-### How did your dream evolve or change as you worked towards you goal?
+_From Dave's Blog: [Saving $100,000 by age 30](http://thefinancialjourneyman.com/saving-100000-by-age-30/){: target="_blank"}_
 
-As my husband continued the roller coaster ride at his employer, I really cut back on our day-to-day expenses. We were diligently working to obtain our permanent resident status. If my husband had been laid off before we obtained our permanent residency, he would have only 30 days to find a new job. Without a job, we would have to leave the country, regardless of home ownership or our children’s status at school. This was a very stressful time for us.
+### How did your dream evolve or change as you worked towards your goal?
 
-In addition to cutting back on our expenses, I reentered the workforce full time. When our youngest child started high school, I decided to look for a job. I preferred to work part-time, but couldn’t find a part-time position. I thought it would take several months to find a job, since I had been out of the workforce for 15 years. I was pleasantly surprised to quickly land a job as a technical writer at a software company. We banked my entire salary for one year.
+After earning an Associate’s Degree, I got a better job in the sales office of a national auto parts warehouse.  It was a great experience.  It was my introduction to the business world.
 
-I quit the job after a year, but with the contacts I made on the job, I was able to land some contract work and work on my own schedule. Rejoining the workforce reminded me how difficult it is to be a full-time parent and a full-time employee. And it made me grateful that my husband’s salary has been able to support our lifestyle on a single income.
+I also felt confident in my study habits from earning my first 60 credits and wanted the BS degree. I transferred to a local university and worked on earning my Bachelor’s in Business Management at night. All my credits transferred.  Another benefit of working and going to class at night was that I was able to apply what I was doing at work to classroom projects and presentations.
 
-_From Cindy's Blog: [Will Our Housing Bubble Burst? Twice?](http://www.dash2retire.com/2017/11/09/housingbubble/){: target="_blank"}_
+I eventually went on to pursue a Master’s Degree!
 
-![A couple of skiers on the top of a hill]({{site.url}}/assets/img/posts/2017-12-07-pay-off-mortgage-four-years-cyf/skiing.jpg)
+![Man in business suit adjusting tie]({{site.url}}/assets/img/posts/2017-12-14-create-life-you-want-without-debt/suit.jpg)
 
 ## Life Now
 
 ### What is your life like now? What have you learned since reaching this dream?
 
-Things have settled down at my husband’s employer in the past 12 months. We also have achieved a level of financial security in which we know things would be fine if my husband lost his job. A big part of this security was paying off the house.
+I now work for a large not-for-profit healthcare company that has 1,100 employees.  I was brought in to develop the Recruiting Department.  I oversee all the hiring for 4 health care centers in two different states.  I am responsible for hiring everyone from Housekeepers to C-Title positions.  I have one employee and work directly for the Chief HR Officer.  I like my job because I grew into a role where I have almost total control over how the department operates.  With that comes responsibility and accountability, but it is a heck of a lot better than loading a 53’ trailer with mattresses.
 
-I still work occasionally on some small contracts. But the financial security we now have allows me to pick and choose when and if I want to work. It has also allowed me time to start [my personal finance blog](http://www.dash2retire.com/start/){: target="_blank"}.
+Eleven years later, I’m also happily married. I met my wife when I had one year left of college.  She was working as a public-school teacher and going to graduate school. We live the good life. We’ve saved and paid cash for many home remodeling projects - bathroom, kitchen, put on an addition, built a nice deck, and a few other projects. We take a vacation or two every year.  We go to pro and college football games.  She likes Broadway plays, so we go to the city a few times per year.  
+
+_From Dave's Blog: [10 Years Later](http://thefinancialjourneyman.com/10-years-later/){: target="_blank"}_
+
+Both her parents and mine are getting older and my in-laws are in poor health.  We must keep an eye on them.  My parents are younger, but I still watch out for them.  It is funny how life changes.  What I am most proud of is that my parents do not have to worry about me.   
 
 ### Do you have any regrets or things you would do differently?
 
-Yes. We would have tried much earlier (maybe houses 2, 3 and 4) to pay off the mortgage. If we had really done the math, rather than listening to the advice of our realtors, we would have saved thousands of dollars in interest payments. It’s actually depressing to see how much of our money went to interest over the years!
+I don’t.  I did not take the easiest path.  When I was in my mid-twenties, my friends were heading off to Europe for two months of backpacking across many different countries.  At the time, I felt that if I joined them, I would not reach my goals.  Today, when I talk with these friends, they are hoping to retire at age 67.  I am going to retire at 52.  I have decided to have fun later in life when I will be able to afford it.
 
-What would you say to someone who wants to do what you did?
-Just do it! The hardest part is devising a plan and having the fortitude to stick with it, even when things don’t go according to the plan. Do the math. Seeing the amount of payment that goes each month to interest is a real wake-up call.
+### What would you say to someone who wants to do what you did?
 
-![Helicopter view of a lake surrounded by trees with a plot of land outlined with a box]({{site.url}}/assets/img/posts/2017-12-07-pay-off-mortgage-four-years-cyf/lake-lot.jpg)
+First, be true to yourself.  Don’t compare yourself to me or to anyone else.  Evaluate your situation and set your own goals.  Set the bar high.  You will be amazed at what you can achieve.  Don’t be afraid to take the road less traveled.  Work hard and live smart.  It is ok to struggle and be uncomfortable along the way.  
+
+We live in a world where everything is fast.  It is ok to postpone gratification.  Learn to save until it hurts when you are young.  Once you develop that habit, you won’t break it as your career develops.
+
+Success did not come easy for me.  I was not a natural student.  After I made the decision to become successful, I had to follow it up with action.  I would say that action is the key word.  It is nice to have dreams, but action is required to make them a reality.    
+
+![Dave and his wife kissing in front of the Eifel tower]({{site.url}}/assets/img/posts/2017-12-14-create-life-you-want-without-debt/dave-eifel.png)
 
 ## Another Dream Begins
 
 ### We never stop dreaming and growing. What’s your next freedom dream?
 
-We are planning for my husband to leave his day job and fully retire in 2020. That is the year our youngest kid graduates from high school. Since our kids have relocated so many times for my husband’s career, it was really important to us that all 3 kids finish high school before we moved again. We are hoping to relocate back to the US and warmer weather when our daughter finishes high school. Let’s face it, snow blows (literally and figuratively!)
+My blog, The Financial Journeyman,  is my new passion.  It was launched in April of 2017.  I am enjoying writing and interacting with the financial independence community.  I work on it part-time and see it as a long-term project.  Everybody has been great.  [J. Money](http://www.budgetsaresexy.com/){: target="_blank"} has been very kind to me and featured two of my posts on [RockStar Finance](http://rockstarfinance.com/){: target="_blank"}.  I feel like I am becoming an active member of the financial independence community and am really enjoying it!
 
-The picture above shows our land in Alabama, where we plan to retire and build a future home.
+_From Dave's Blog: [New York Personal Finance Meet-Up](http://thefinancialjourneyman.com/new-york-personal-finance-meet-up/){: target="_blank"}_
+
+Our next goal is to retire in 11 years (at age 52).  We reached a net worth of $1,000,000 last summer.  Our goal is $2.5M plus some other income sources (pension, SS, etc.).
 
 ### How are you planning on achieving this new dream?
 
-We’re currently in cash hoarding mode. Although we are still contributing the maximum amount to:
+We live on about $3K per month, but we plan on spending much more in retirement on travel. With that goal in mind, we currently save 50% of our gross income. Our savings goes into our 403B accounts, Roth IRAs, taxable investments, defined benefit pension, and emergency savings account.
 
-- My husband’s retirement account (like a 401(k))
-- A retirement savings plan for me (like an IRA)
-- A tax-free savings accounts (like a Roth IRA,)
+_From Dave's Blog: [Balanced Growth Portfolio](http://thefinancialjourneyman.com/balanced-growth-portfolio/){: target="_blank"}_
 
-We are banking 100% of our disposable income. We are also adding a small monthly amount to a US 529 plan for the youngest kid. Fortunately, a 529 plan covers college expenses anywhere in North America (FAFSA approved, of course.) Since we are planning to return to the US in a few years, we want to be ready to make a move if the loonie (Canadian dollar) gets back to par with the USD or if there is a major correction in the market.
-
-_Thank you to Cindy for sharing her story. We loved learning about how they paid off their Canadian mortgage! We wish Cindy and her family the best. We are looking forward to following their journey back to the States!_
+_Thank you to Dave for sharing his story. We love that he worked while pursuing his degrees in order to stay out of debt. We wish him and his wife the best while they work towards early retirement! We can’t wait to hear where they decide to journey in the future!_
 
 {% include cyf-submit.html %}
