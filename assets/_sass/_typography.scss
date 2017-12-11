@@ -91,6 +91,14 @@ em { font-style: italic; }
 strong { font-weight: 500; }
 small { font-size: 75%; }
 .light { font-weight: 300; }
+.thin { font-weight: 200; }
+
+p.affiliate-disclaimer {
+  margin: 1rem;
+  font-size: 1rem !important;
+  font-style: italic;
+  color: $meta-color;
+}
 
 h3.meta-header {
   font-size: 1.2rem;
