@@ -1,7 +1,7 @@
 ---
 layout: post
 
-author: not_your_parents_financial_guy
+author: dash2retire
 
 title: "How We Paid Off Our Mortgage In Four Years"
 subtitle: "Create Your Freedom Series - Meet Cindy"
