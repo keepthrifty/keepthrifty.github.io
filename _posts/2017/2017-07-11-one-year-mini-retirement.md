@@ -25,6 +25,7 @@ tags: [mini-retirement]
 
 
 featured: true
+popular: true
 rockstar: true
 
 categories: [article]

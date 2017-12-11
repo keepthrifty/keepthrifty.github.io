@@ -20,6 +20,7 @@ video:
   path: https://www.youtube.com/embed/wZ0oK4AM1u0?ecver=2
 
 featured: true
+popular: true
 
 categories: [video]
 ---

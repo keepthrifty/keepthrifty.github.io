@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Videos
-description: "TK"
+title: Video Archive
+description: "All the Keep Thrifty videos in one place"
 permalink: /videos/
 ---
+
+<p>YOUTUBE LINK??!!</p>
 
 <h2 id="popular" class="archive-heading">
   Popular Videos
 </h2>
 
-{% include shared/post-list-featured.html type='video' %}
+{% include archive/popular-item-list.html type='video' %}
 
-<h2 id="by-date" class="archive-heading">
-  All (by date)
+<h2 class="archive-heading">
+  All Videos
 </h2>
 
-{% include shared/category-post-list.html type='video' %}
-
-<script id="dsq-count-scr" src="//keepthrifty.disqus.com/count.js" async></script>
+{% include archive/full-list.html type='video' %}

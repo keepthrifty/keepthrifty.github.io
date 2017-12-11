@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Create Your Freedom
-description: "TK"
+title: Freedom Story Archive
+description: "All the Keep Thrifty freedom stories in one place"
 permalink: /create-your-freedom/
 ---
+
+<p>DESCRIPTION?!</p>
 
 <h2 id="popular" class="archive-heading">
   Popular Stories
 </h2>
 
-{% include shared/post-list-featured.html type='freedom-story' %}
+{% include archive/popular-item-list.html type='freedom-story' %}
 
-<h2 id="by-date" class="archive-heading">
-  All (by date)
+<h2 class="archive-heading">
+  All Stories
 </h2>
 
-{% include shared/category-post-list.html type='freedom-story' %}
-
-<script id="dsq-count-scr" src="//keepthrifty.disqus.com/count.js" async></script>
+{% include archive/full-list.html type='freedom-story' %}

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Articles
-description: "All Keep Thrifty articles in one place!"
+title: Article Archive
+description: "All the Keep Thrifty articles in one place"
 permalink: /articles/
 exclude_from_search: true
 redirect_from:
@@ -37,12 +37,10 @@ redirect_from:
   Popular Articles
 </h2>
 
-{% include shared/post-list-featured.html type='article' %}
+{% include archive/popular-item-list.html type='article' %}
 
-<h2 id="by-date" class="archive-heading">
-  All (by date)
+<h2 class="archive-heading">
+  All Articles
 </h2>
 
-{% include shared/category-post-list.html type='article' %}
-
-<script id="dsq-count-scr" src="//keepthrifty.disqus.com/count.js" async></script>
+{% include archive/full-list.html type='article' %}

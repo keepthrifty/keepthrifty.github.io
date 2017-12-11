@@ -21,6 +21,7 @@ related-posts: [
 permalink: /:year/:month/:day/:title.html
 tags: [dreams & values]
 featured: true
+popular: true
 rockstar: true
 
 categories: [article]

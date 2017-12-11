@@ -65,7 +65,7 @@ a {
   color: $secondary-color;
   text-decoration: none;
   opacity: 1.0;
-  transition: opacity 350ms;
+  transition: opacity 350ms, color 350ms;
   &:hover {
     color: $primary-color;
   }

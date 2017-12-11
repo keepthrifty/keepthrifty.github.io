@@ -17,6 +17,8 @@ tags: [create your freedom]
 
 categories: [freedom-story]
 
+popular: true
+
 ---
 
 _We are excited to introduce you to Dave from [The Financial Journeyman](http://thefinancialjourneyman.com/){: target="_blank"}. He left high school without direction or passion and found himself working a manual labor factory job. He later found a passion with investing his earnings and developed a dream to pursue a new career. His story is full of perseverance and hard work. Here’s his amazing journey!_

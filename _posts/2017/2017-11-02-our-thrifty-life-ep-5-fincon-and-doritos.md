@@ -21,6 +21,8 @@ video:
 
 
 categories: [video]
+
+popular: true
 ---
 
 This past week was a crazy one. Chris traveled to Dallas, TX to attend FINCON. I stayed home with our three girls while still recovering from my sciatic nerve pain.
