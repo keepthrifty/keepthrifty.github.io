@@ -113,4 +113,4 @@ We are banking 100% of our disposable income. We are also adding a small monthly
 
 _Thank you to Cindy for sharing her story. We loved learning about how they paid off their Canadian mortgage! We wish Cindy and her family the best. We are looking forward to following their journey back to the States!_
 
-{% include cyf-submit.html %}
+{% include contact-forms/cyf-submit.html %}

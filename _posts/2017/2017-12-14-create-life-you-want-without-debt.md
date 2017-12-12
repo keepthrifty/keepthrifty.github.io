@@ -115,4 +115,4 @@ _From Dave's Blog: [Balanced Growth Portfolio](http://thefinancialjourneyman.com
 
 _Thank you to Dave for sharing his story. We love that he worked while pursuing his degrees in order to stay out of debt. We wish him and his wife the best while they work towards early retirement! We can’t wait to hear where they decide to journey in the future!_
 
-{% include cyf-submit.html %}
+{% include contact-forms/cyf-submit.html %}

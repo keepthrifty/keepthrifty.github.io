@@ -10,7 +10,7 @@ comments: true
   </header>
 
   <main class="page__body{% if page.number-headings %} page__body--numbered-headings{% endif %}">
-    {%- if page.affiliate-link -%}{% include affiliate.html %}{%- endif -%}
+    {%- if page.affiliate-link -%}{% include post/affiliate.html %}{%- endif -%}
     {{ content }}
   </main>
 

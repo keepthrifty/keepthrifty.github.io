@@ -101,4 +101,4 @@ In May 2018, we'll sell our possessions, move out of our apartment and take a on
 
 _Thank you to [Kyle]({{site.data.authors[page.author].web}}) for sharing his story. We love the side hustle and the fact that he bought a plane ticket with the confidence that the rest will work out. We wish him and Lauren the best and an amazing next adventure! We can’t wait to hear all about the mini-retirement once they are back in the States!_
 
-{% include cyf-submit.html %}
+{% include contact-forms/cyf-submit.html %}

@@ -23,7 +23,7 @@ redirect-from:
 
 Our guest posts right now are exclusively for the "[Create Your Freedom]({{site.url}}/archive#create-your-freedom)" series. To submit your own story, fill out this form:
 
-{% include cyf-submit.html %}
+{% include contact-forms/cyf-submit.html %}
 
 ## Advertising
 
@@ -37,4 +37,4 @@ Instead, [I'm using Patreon](https://www.patreon.com/keepthrifty/) to get suppor
 
 <a name="contact" />
 
-{% include contact.html %}
+{% include contact-forms/contact.html %}
