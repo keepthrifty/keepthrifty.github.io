@@ -14,8 +14,6 @@ image:
 
 permalink: /favorite-resources/
 
-popular: true
-
 nometa: true
 
 categories: [article]

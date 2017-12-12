@@ -3,9 +3,11 @@
 <ul id="archive-list">
   {%- for post in posts -%}
     <li class="archive-list--entry">
-      {% if post.categories contains 'article' %}<i class="fa fa-file-text-o" aria-hidden="true"></i>{% endif %}
-      {% if post.categories contains 'video' %}<i class="fa fa-play" aria-hidden="true"></i>{% endif %}
-      {% if post.categories contains 'freedom-story' %}<i class="fa fa-user" aria-hidden="true"></i>{% endif %}
+      {%- if post.rockstar -%}<i class="fa fa-star featured-item" aria-hidden="true"></i>
+      {%- elsif post.categories contains 'article' -%}<i class="fa fa-file-text-o" aria-hidden="true"></i>
+      {%- elsif post.categories contains 'video' -%}<i class="fa fa-play" aria-hidden="true"></i>
+      {%- elsif post.categories contains 'freedom-story' -%}<i class="fa fa-user" aria-hidden="true"></i>
+      {%- endif -%}
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {%- endfor -%}

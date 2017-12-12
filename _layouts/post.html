@@ -1,6 +1,20 @@
 ---
-layout: page
+layout: default
 comments: true
 ---
 
-{{ content }}
+<article class="post">
+  <header class="page__header">
+    {% include page/page-visual.html %}
+    {% include post/post-meta.html %}
+  </header>
+
+  <main class="page__body{% if page.number-headings %} page__body--numbered-headings{% endif %}">
+    {%- if page.affiliate-link -%}{% include affiliate.html %}{%- endif -%}
+    {{ content }}
+  </main>
+
+  <footer class="page__footer">
+    {% include post/post-footer.html %}
+  </footer>
+</article>

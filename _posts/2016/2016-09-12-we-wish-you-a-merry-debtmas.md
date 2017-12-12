@@ -18,6 +18,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [money]
 
+rockstar: true
+
 categories: [article]
 ---
 

@@ -1,0 +1,9 @@
+{%- if page.video.path or page.image -%}
+<div class="page__visual">
+{%- if page.video.path -%}
+  {% include video-embed.html video-link=page.video.path %}
+{%- elsif page.image -%}
+  <img class="page__header__image" alt="{{page.title}}" src="{{site.url}}{{page.image.path}}" />
+{%- endif -%}
+</div>
+{%- endif -%}

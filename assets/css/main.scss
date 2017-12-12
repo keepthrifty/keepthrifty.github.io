@@ -2,6 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
+
 /*** Colors ***/
 $primary-color: #558B2F; //color("light-green", "darken-3") !default;
 $secondary-color: #4DBED2;
@@ -9,15 +10,7 @@ $meta-color: #9E9E9E; //color("grey", "base") !default;
 $bg-color: #F5F5F5; //color("grey", "lighten-4") !default;
 $off-black: rgba(0, 0, 0, 0.87);
 $off-white: rgba(255, 255, 255, 0.87);
-
 $line-color: rgba(0,0,0,0.15);
-
-//$xs-screen: 375px;
-//$small-screen: 400px;
-//$medium-screen: 992px;
-//$large-screen: 1200px;
-//$minimum-break: 700px;
-//$footer-break: 755px;
 
 $screen-xs: 320px;
 $screen-s: 425px;
@@ -26,14 +19,12 @@ $screen-l: 1366px;
 $screen-xl: 1920px;
 $screen-xxl: 3440px;
 
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "roboto",
         "typography",
         "page",
-        "post",
+        "archive",
         "components/brand-bar",
         "components/nav-bar",
         "components/search-form",

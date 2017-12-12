@@ -29,6 +29,8 @@ audio:
   block: 'no'
   length: 5376962
 
+rockstar: true
+
 tags: [mini-retirement]
 
 categories: [article]

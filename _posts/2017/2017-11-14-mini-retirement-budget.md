@@ -69,8 +69,8 @@ Expenses come in all different shapes and sizes. Some things are weekly, bi-week
 
 
 
-<div class="post__emphasis__box">
-  <div class="post__emphasis__box__header">
+<div class="page__emphasis__box">
+  <div class="page__emphasis__box__header">
     We first made a list of all our expense categories:
   </div>
   {% include post/post-emphasis-box-entry.html title="Rent" %}
@@ -113,26 +113,26 @@ Expenses come in all different shapes and sizes. Some things are weekly, bi-week
 
 _If you are wondering where our cell phone bill is, we don’t have one right now. Not because we don’t have cell phones, but because my parents are in the industry and have gifted us with being on their plan for free. I'm so grateful!_
 
-<div class="post__emphasis__box">
-  <div class="post__emphasis__box__header">
+<div class="page__emphasis__box">
+  <div class="page__emphasis__box__header">
     Next, we put all these categories into weekly, bi-weekly, quarterly, and annually sections and gave them each a budget. If you take our weekly budget times 52, bi-weekly budget times 26, quarterly budget times 4, and add the annual, you get a number just a bit over $60,000.
   </div>
-  <div class="post__emphasis__box__group">
-    <div class="post__emphasis__box__group-title">
+  <div class="page__emphasis__box__group">
+    <div class="page__emphasis__box__group-title">
       Weekly
     </div>
     {% include post/post-emphasis-box-entry.html title="Groceries" value="$200" %}
     {% include post/post-emphasis-box-entry.html title="Gas" value="$50" %}
     {% include post/post-emphasis-box-entry.html title="Pizza/Movie Night" value="$35" %}
   </div>
-  <div class="post__emphasis__box__group">
-    <div class="post__emphasis__box__group-title">
+  <div class="page__emphasis__box__group">
+    <div class="page__emphasis__box__group-title">
       Bi-weekly
     </div>
     {% include post/post-emphasis-box-entry.html title="Date Night" value="$70" %}
   </div>
-  <div class="post__emphasis__box__group">
-    <div class="post__emphasis__box__group-title">
+  <div class="page__emphasis__box__group">
+    <div class="page__emphasis__box__group-title">
       Monthly
     </div>
     {% include post/post-emphasis-box-entry.html title="Rent" value="$975" %}
@@ -143,14 +143,14 @@ _If you are wondering where our cell phone bill is, we don’t have one right no
     {% include post/post-emphasis-box-entry.html title="Internet" value="$47.46" %}
     {% include post/post-emphasis-box-entry.html title="Life Insurance (Chris)" value="$9.12" %}
   </div>
-  <div class="post__emphasis__box__group">
-    <div class="post__emphasis__box__group-title">
+  <div class="page__emphasis__box__group">
+    <div class="page__emphasis__box__group-title">
       Quarterly
     </div>
     {% include post/post-emphasis-box-entry.html title="Water & Sewer" value="$185" %}
   </div>
-  <div class="post__emphasis__box__group">
-    <div class="post__emphasis__box__group-title">
+  <div class="page__emphasis__box__group">
+    <div class="page__emphasis__box__group-title">
       Annual
     </div>
     {% include post/post-emphasis-box-entry.html title="Travel" value="$5520" %}
@@ -171,20 +171,20 @@ _If you are wondering where our cell phone bill is, we don’t have one right no
   </div>
 </div>
 
-<div class="post__emphasis__box">
-  <div class="post__emphasis__box__header">
+<div class="page__emphasis__box">
+  <div class="page__emphasis__box__header">
     Then we made a note of our monthly budget next to the weekly and biweekly items.
   </div>
-  <div class="post__emphasis__box__group">
-    <div class="post__emphasis__box__group-title">
+  <div class="page__emphasis__box__group">
+    <div class="page__emphasis__box__group-title">
       Weekly
     </div>
     {% include post/post-emphasis-box-entry.html title="Groceries" value="$200 ($800 for the month)" %}
     {% include post/post-emphasis-box-entry.html title="Gas" value="$50 ($200 for the month)" %}
     {% include post/post-emphasis-box-entry.html title="Pizza/Movie Night" value="$35 ($140 for the month)" %}
   </div>
-  <div class="post__emphasis__box__group">
-    <div class="post__emphasis__box__group-title">
+  <div class="page__emphasis__box__group">
+    <div class="page__emphasis__box__group-title">
       Bi-weekly
     </div>
     {% include post/post-emphasis-box-entry.html title="Date Night" value="$70 ($140 for the month)" %}

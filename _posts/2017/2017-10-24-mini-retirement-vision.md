@@ -22,6 +22,8 @@ related-posts: [
   /marriage-lesson-mini-retirement
 ]
 
+rockstar: true
+
 tags: [mini-retirement]
 
 audio_archive: true

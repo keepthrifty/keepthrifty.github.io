@@ -21,7 +21,7 @@ After years of just getting by, we decided to take charge of our money and creat
 
 Here at Keep Thrifty, we share our journey and bring you inspiration and tools to help you create your freedom.
 
-We've got [articles](/articles/), [videos](/videos/), and [success stories](/create-your-freedom/) to help inspire you to think differently about your dreams and your finances.
+We've got [articles](/articles/), [videos](/videos/), and [success stories](/freedom-stories/) to help inspire you to think differently about your dreams and your finances.
 
 We've also created a [money tracking app](https://thrifty.keepthrifty.com) to help you take control of your finances and make those dreams a reality.
 

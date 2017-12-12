@@ -1,9 +1,9 @@
 {%- assign author = site.data.authors[page.author] -%}
 {%- if author -%}
-<div class="post__author__social">
-  {% if author.web %} <span class="post__author__icon"><a class="web-hover" href="{{author.web}}"><i class="fa fa-home"></i></a></span>{% endif %}
-  {% if author.twitter %} <span class="post__author__icon"><a class="twitter-hover" href="https://www.twitter.com/{{author.twitter}}"><i class="fa fa-twitter"></i></a></span>{% endif %}
-  {% if author.pinterest %} <span class="post__author__icon"><a class="pinterest-hover" href="https://www.pinterest.com/{{author.pinterest}}"><i class="fa fa-pinterest-p"></i></a></span>{% endif %}
-  {% if author.facebook %} <span class="post__author__icon"><a class="facebook-hover" href="https://www.facebook.com/{{author.facebook}}"><i class="fa fa-facebook"></i></a></span>{% endif %}
+<div class="page__author__social">
+  {% if author.web %} <span class="page__author__icon"><a class="web-hover" href="{{author.web}}"><i class="fa fa-home"></i></a></span>{% endif %}
+  {% if author.twitter %} <span class="page__author__icon"><a class="twitter-hover" href="https://www.twitter.com/{{author.twitter}}"><i class="fa fa-twitter"></i></a></span>{% endif %}
+  {% if author.pinterest %} <span class="page__author__icon"><a class="pinterest-hover" href="https://www.pinterest.com/{{author.pinterest}}"><i class="fa fa-pinterest-p"></i></a></span>{% endif %}
+  {% if author.facebook %} <span class="page__author__icon"><a class="facebook-hover" href="https://www.facebook.com/{{author.facebook}}"><i class="fa fa-facebook"></i></a></span>{% endif %}
 </div>
 {%- endif -%}

@@ -22,7 +22,7 @@
     display: none !important;
   }
 
-  .post__audio, .tags, .post__comment-count {
+  .page__audio, .tags, .page__comment-count {
     display: none !important;
   }
 
@@ -44,7 +44,7 @@
 
   .post {
     max-width: 100%;
-    .post__footer, .print {
+    .page__footer, .print {
       display: none;
     }
   }

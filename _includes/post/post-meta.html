@@ -1,0 +1,14 @@
+<div class="page__meta">
+  <div class="page__title">
+    {%- if page.title -%}<h1 class="page__title--main">{{ page.title }}</h1>{%- endif -%}
+    {%- if page.subtitle -%}<h2 class="page__title--subtitle">{{ page.subtitle }}</h2>{%- endif -%}
+  </div>
+  <div class="page__meta__line">
+    {% include post/post-date.html %}
+    {% include post/post-author.html %}
+  </div>
+  <div class="page__comment-count">
+    {% include shared/comment-count.html %}
+  </div>
+  {% include post/post-audio.html %}
+</div>

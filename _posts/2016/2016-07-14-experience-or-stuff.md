@@ -16,7 +16,6 @@ related-posts: [
 permalink: /:year/:month/:day/:title.html
 tags: [think different]
 rockstar: true
-popular: true
 
 
 categories: [article]

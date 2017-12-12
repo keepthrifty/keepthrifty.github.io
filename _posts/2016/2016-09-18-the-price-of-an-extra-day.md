@@ -23,7 +23,6 @@ custom_js:
   - calcfidays
 
 featured: true
-popular: true
 rockstar: true
 
 categories: [article]
