@@ -33,6 +33,10 @@ tags: [money]
 
 ---
 
+___UPDATE (Decemeber 11, 2017): After trying out Patreon for 3 months, we weren't able to get the traction we had been hoping for. We're still going to keep this site free of ads and sponsored posts, but we will be bringing in a small number of affiliate links for things we use and love and think you will too. We've gotta keep the lights on!___
+
+___Thanks to our patrons who tried this experiment with us along the way!___
+
 Through the work of millions of writers and creators, the internet has become the biggest knowledge-sharing repository the world has ever known. But you know that saying - "There's no such thing as a free lunch?" Our free and open access to information isn't really free. We're paying for it every day and it's time to ask whether our money could be put to better use.
 
 ## When Free Isn't Free
