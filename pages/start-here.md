@@ -5,6 +5,8 @@ subtitle: Where Dreams and Money Meet
 image:
   path: /assets/img/start-here.jpg
 permalink: /start-here/
+redirect_from:
+  - /subscribe/
 ---
 
 If you're like most of our readers, you're looking to do something different.

@@ -4,7 +4,6 @@ layout: post
 author: the_financial_journeyman
 
 title: "How I Created The Life I Wanted Without Creating Debt"
-subtitle: "Create Your Freedom Series - Meet Dave"
 description: "Can someone really go from working into a factory to having a master's degree without any debt? Absolutely - Dave did; check out his amazing story!"
 
 date: 2017-12-14 6:58:00 -0500

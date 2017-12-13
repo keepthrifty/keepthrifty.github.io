@@ -115,7 +115,7 @@ We're certainly not at zero, but we also are kicking butt compared to last year.
 
 ## All the Fun Projects
 
-With all of our kids in school full-time this month, Jaime and I had lots of time to work on projects we're excited about. I've been hard at work writing and recording [audio]({{site.url}}/audio/) for this site and developing new features for [Thrifty](https://thrifty.keepthrifty.com). Jaime's been writing for her blog and is going to start helping me on the marketing side for all things Keep Thrifty.
+With all of our kids in school full-time this month, Jaime and I had lots of time to work on projects we're excited about. I've been hard at work writing and recording audio for this site and developing new features for [Thrifty](https://thrifty.keepthrifty.com). Jaime's been writing for her blog and is going to start helping me on the marketing side for all things Keep Thrifty.
 
 In addition, we recorded and edited the first episode for our upcoming YouTube channel, _Our Thrifty Life_.
 

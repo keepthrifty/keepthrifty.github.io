@@ -29,7 +29,7 @@ html{
 
 h1 {
   font-size: 1.7rem;
-  font-weight: 600;
+  font-weight: 500;
 }
 h2 {
   font-size: 1.65rem;
@@ -37,10 +37,10 @@ h2 {
 }
 h3 {
   font-size: 1.6rem;
-  font-weight: 400;
+  font-weight: normal;
 }
 h4 {
-  font-weight: 400;
+  font-weight: normal;
   font-size: 1.55rem;
 }
 h5 {
@@ -91,7 +91,6 @@ em { font-style: italic; }
 strong { font-weight: 500; }
 small { font-size: 75%; }
 .light { font-weight: 300; }
-.thin { font-weight: 200; }
 
 p.affiliate-disclaimer {
   margin: 1rem;

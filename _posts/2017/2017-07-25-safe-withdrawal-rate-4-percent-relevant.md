@@ -80,7 +80,7 @@ I replicated the methodology used for the Trinity study but with the following c
 - Retirement periods of 10, 20, 30, 40, 50, 60, and 70 years. This better covers the early retirees looking to live off their funds for longer periods of time.
 - Expense ratios of 0.00%, 0.04% (the ratio for Vanguard's VTSAX fund), and 1.00%
 - Monthly withdrawals vs annual withdrawals
-- Portfolio allocations of 100% stocks/0% bonds only. I wasn't able to find a data set that covered monthly bond returns going back to 1871. _If anyone has this, please [contact me]({{site.url}}/work-with-me/#contact)!_.
+- Portfolio allocations of 100% stocks/0% bonds only. I wasn't able to find a data set that covered monthly bond returns going back to 1871. _If anyone has this, please [contact me]({{site.url}}/contact/)!_.
 - Inflation adjusted withdrawals only. Especially when looking at longer retirement periods, it's unrealistic to think that one can spend the same nominal dollar amount for the full retirement period.
 
 ## Results and Observations

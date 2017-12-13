@@ -4,7 +4,6 @@ layout: post
 author: not_your_parents_financial_guy
 
 title: "Chicago to Sydney"
-subtitle: "Create Your Freedom Series - Meet Kyle"
 description: "TK"
 
 date: 2017-11-30 6:58:00 -0500

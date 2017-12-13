@@ -3,6 +3,8 @@
     display: none;
   }
 
+
+
   header.site-header {
     display: block !important;
     .brand-bar {
@@ -22,6 +24,12 @@
     display: none !important;
   }
 
+  .page__footer {
+    .share-buttons, .modal-button, .modal, .post-nav {
+      display: none !important;
+    }
+  }
+
   .page__audio, .tags, .page__comment-count {
     display: none !important;
   }
@@ -30,19 +38,11 @@
     padding-top: 0;
   }
 
-  .col {
-    min-width: 100%;
-  }
-
-  .col-three-quarters {
-    min-width: 100%;
-  }
-
   @page {
-    margin: 2cm;
+    margin: 1cm;
   }
 
-  .post {
+  .page {
     max-width: 100%;
     .page__footer, .print {
       display: none;

@@ -4,7 +4,6 @@ layout: post
 author: dash2retire
 
 title: "How We Paid Off Our Mortgage In Four Years"
-subtitle: "Create Your Freedom Series - Meet Cindy"
 description: "Buying a home for your family to live and create memories in is exciting, but having a mortgage sucks. Cindy and her husband decided they didn’t want to stay on the 30-year mortgage track when they moved to Canada"
 
 date: 2017-12-07 6:58:00 -0500

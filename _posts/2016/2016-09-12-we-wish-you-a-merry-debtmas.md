@@ -121,7 +121,7 @@ For some good recommendations, check out this post at Brooklyn Bread listing the
 
 Don't do it. Don't put yourself in a worse situation for all the wrong reasons. Say no to holiday loans.
 
-If you still feel like a holiday loan is the best option for you, [contact me]({{site.url}}/work-with-me/#contact). Give me your reasons and I'd be happy to talk you off the ledge.
+If you still feel like a holiday loan is the best option for you, [contact me]({{site.url}}/contact/). Give me your reasons and I'd be happy to talk you off the ledge.
 
 God bless and wishing you a happy, debt-free Christmas!
 

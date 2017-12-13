@@ -5,6 +5,8 @@ subtitle: We'd love to hear from you
 image:
   path: /assets/img/us.jpg
 permalink: /contact/
+redirect_from:
+  - /work-with-me/
 ---
 
 ## Guest Posts
