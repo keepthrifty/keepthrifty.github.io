@@ -30,6 +30,8 @@ tags: [money]
 
 affiliate-link: true
 
+rockstar: true
+
 redirect_from:
   - /automated-pf/
 
