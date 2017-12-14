@@ -1,0 +1,9 @@
+{%- if page.audio -%}
+  <div class="page__audio" id="page__audio">
+    <div class="page__audio__text">Care to listen to this article instead?</div>
+    <audio controls>
+      <source src="{{site.url}}/{{page.audio.file}}" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+  </div>
+{%- endif -%}

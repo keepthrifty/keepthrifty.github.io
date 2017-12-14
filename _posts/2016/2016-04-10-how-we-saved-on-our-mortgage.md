@@ -19,6 +19,8 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [money]
+
+categories: [article]
 ---
 
 We bought our house in 2007 at a purchase price of $219,900. While I was pleased with the price, we had huge sticker shock when we figured out the total between our down payment and thirty years of mortgage payments was going to be __$450,000__!
@@ -74,7 +76,7 @@ Overall, the decision was still worthwhile, but not exactly glamorous. Here's wh
 
 ![Chart showing principal paydown for original mortgage vs the first refinance; total amount paid dropped by $18,000 but my payoff date moved out 10 months][original-vs-refi-1]
 
-<div class="image-caption">Principal remaining over time</div>
+<div class="caption">Principal remaining over time</div>
 
 > Lesson: refinancing to a lower rate can be a good idea, but you have to be careful of the refinance costs and the additional time tacked on
 
@@ -150,7 +152,7 @@ In comes the pre-payment - after you make your normal monthly payment, you pay _
 
 ![BAM][bam]
 
-<div class="image-caption">Take that interest!</div>
+<div class="caption">Take that interest!</div>
 
 ## The reality
 

@@ -15,6 +15,8 @@ pinterest-image: /assets/img/saturday-stash/saturday-stash-vol-3
 
 tags: [saturday stash]
 
+categories: [article]
+
 ---
 
 It's the weekend and that means it's time for another Saturday Stash! Read on for some of the best articles around the web from the week to help you define your version of freedom and work toward it.

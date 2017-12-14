@@ -21,7 +21,9 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [minimalism]
 
-affiliate: true
+rockstar: true
+
+categories: [article]
 
 ---
 
@@ -83,7 +85,7 @@ As soon as we started painting a small bit of trim in our house white, we commit
 
 ![Lower level with wood paneling halfway up the wall]({{site.url}}/assets/img/posts/2017-04-10-living-in-half-of-our-house/lower-level-original.jpg)
 
-<div class="image-caption">Image from the house listing from the prior owners</div>
+<div class="caption">Image from the house listing from the prior owners</div>
 
 We weren't fans of the wood paneling style and couldn't ever really seem to find a good use for this space. Our plan was to paint the walls, the ceiling, and all of the wood paneling in this 630 square foot space and then figure out what to do with it.
 
@@ -105,7 +107,7 @@ We keep it empty. Occasionally our kids will run around down there using it like
 
 ![Lower level painted and empty]({{site.url}}/assets/img/posts/2017-04-10-living-in-half-of-our-house/lower-level-done.jpg)
 
-<div class="image-caption">The only piece of furniture down here is this rocking chair that scratches our hardwood floors</div>
+<div class="caption">The only piece of furniture down here is this rocking chair that scratches our hardwood floors</div>
 
 Giving up on the "extras" probably seems pretty easy. But what about giving up on the things that we said were a __must__ when we bought our house?
 
@@ -127,13 +129,13 @@ It took us about a month to finish this space. Out of our comfort zone once agai
 
 ![Queen bed in a 10x11 room]({{site.url}}/assets/img/posts/2017-04-10-living-in-half-of-our-house/queen-bedroom.jpg)
 
-<div class="image-caption">Cozy!</div>
+<div class="caption">Cozy!</div>
 
 After we finished with the master bedroom, we moved back in while we worked on painting the other bedrooms one at a time.
 
 ![Queen bed in a 10x11 room]({{site.url}}/assets/img/posts/2017-04-10-living-in-half-of-our-house/master-bedroom.jpg)
 
-<div class="image-caption">Master bedroom finished, with a new bed</div>
+<div class="caption">Master bedroom finished, with a new bed</div>
 
 Our kids have loved sharing a bedroom and still do to this day. Sure, there's the occasional _"I want my own room"_ threat but when we actually give them the option, they always turn it down.
 
@@ -155,7 +157,7 @@ My wife kicked things off and then I got my own personal version of #demoday.
 
 ![Separating wall with half of the drywall removed]({{site.url}}/assets/img/posts/2017-04-10-living-in-half-of-our-house/main-floor-demo.jpg)
 
-<div class="image-caption">We like that open, airy feel</div>
+<div class="caption">We like that open, airy feel</div>
 
 From here, we had months of ongoing projects to get everything on our list done. In the end, the result was awesome and we once again found something unexpected.
 

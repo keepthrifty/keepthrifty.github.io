@@ -1,66 +1,135 @@
-
-a {
-  text-decoration: none;
-}
-
 html{
   line-height: 1.5;
 
   @media only screen and (min-width: 0) {
-    font-size: 11px;
+    font-size: 10px;
   }
-
-  @media only screen and (min-width: $xs-screen) {
-    font-size: 12px;
+  @media only screen and (min-width: $screen-xs) {
+    font-size: 11.5px;
   }
-
-  @media only screen and (min-width: $small-screen) {
+  @media only screen and (min-width: $screen-s) {
     font-size: 14px;
   }
-
-  @media only screen and (min-width: $medium-screen) {
+  @media only screen and (min-width: $screen-m) {
     font-size: 16px;
   }
-
-  @media only screen and (min-width: $large-screen) {
+  @media only screen and (min-width: $screen-l) {
     font-size: 16px;
   }
-
+  @media only screen and (min-width: $screen-xl) {
+    font-size: 16px;
+  }
+  @media only screen and (min-width: $screen-xxl) {
+    font-size: 16px;
+  }
   font-family: "Roboto", sans-serif;
   font-weight: normal;
-  color: rgba(0, 0, 0, 0.87);
-}
-h1, h2, h3, h4, h5, h6 {
-	font-weight: 400;
-	line-height: 1.1;
+  color: $off-black;
 }
 
-$h1-fontsize: 4.2rem !default;
-$h2-fontsize: 3.56rem !default;
-$h3-fontsize: 2.92rem !default;
-$h4-fontsize: 2.28rem !default;
-$h5-fontsize: 1.64rem !default;
-$h6-fontsize: 1rem !default;
+h1 {
+  font-size: 1.7rem;
+  font-weight: 500;
+}
+h2 {
+  font-size: 1.65rem;
+  font-weight: 500;
+}
+h3 {
+  font-size: 1.6rem;
+  font-weight: normal;
+}
+h4 {
+  font-weight: normal;
+  font-size: 1.55rem;
+}
+h5 {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+h6 {
+  font-size: 1.45rem;
+  font-weight: 300;
+}
 
-// Header Styles
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
-h1 { font-size: $h1-fontsize; line-height: 110%; margin: ($h1-fontsize / 2) 0 ($h1-fontsize / 2.5) 0;}
-h2 { font-size: $h2-fontsize; line-height: 110%; margin: ($h2-fontsize / 2) 0 ($h2-fontsize / 2.5) 0;}
-h3 { font-size: $h3-fontsize; line-height: 110%; margin: ($h3-fontsize / 2) 0 ($h3-fontsize / 2.5) 0;}
-h4 { font-size: $h4-fontsize; line-height: 110%; margin: ($h4-fontsize / 2) 0 ($h4-fontsize / 2.5) 0;}
-h5 { font-size: $h5-fontsize; line-height: 110%; margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;}
-h6 { font-size: $h6-fontsize; line-height: 110%; margin: ($h6-fontsize / 2) 0 ($h6-fontsize / 2.5) 0;}
+p, li {
+  font-weight: 300;
+  font-size: 1.4rem;
+}
+
+p {
+  margin: 1rem 0;
+}
+
+a {
+  color: $secondary-color;
+  text-decoration: none;
+  opacity: 1.0;
+  transition: opacity 350ms, color 350ms;
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+blockquote {
+  display: block;
+  clear: both;
+  margin: 3rem 2rem;
+  border-top: 1px solid $line-color;
+  border-bottom: 1px solid $line-color;
+  font-style: italic;
+  p {
+    margin: 1rem;
+    font-size: 2.5rem;
+    letter-spacing: 0.1rem;
+    text-align: justify;
+  }
+}
 
 // Text Styles
 em { font-style: italic; }
 strong { font-weight: 500; }
 small { font-size: 75%; }
 .light { font-weight: 300; }
-.thin { font-weight: 200; }
 
 p.affiliate-disclaimer {
   margin: 1rem;
   font-size: 1rem !important;
   font-style: italic;
   color: $meta-color;
+}
+
+h3.meta-header {
+  font-size: 1.2rem;
+  color: $meta-color;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+a.button, button.button, button.subscribe_button {
+  border: 1px solid $primary-color;
+  border-radius: 0.2rem;
+  color: $primary-color;
+  background-color: white;
+  padding: 0.5rem 1rem;
+  letter-spacing: 0.4rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  &:hover {
+    background-color: $primary-color;
+    color: white;
+    opacity: 1.0;
+    transition: color 350ms, background-color 350ms;
+  }
+}
+
+dl {
+  dt {
+    margin-top: 0.5rem;
+    font-weight: 500;
+  }
+  dd {
+    font-weight: 300;
+    margin-left: 2rem;
+  }
 }

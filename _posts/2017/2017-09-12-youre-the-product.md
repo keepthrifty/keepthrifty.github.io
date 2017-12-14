@@ -31,6 +31,8 @@ audio:
 
 tags: [money]
 
+categories: [article]
+
 ---
 
 ___UPDATE (Decemeber 11, 2017): After trying out Patreon for 3 months, we weren't able to get the traction we had been hoping for. We're still going to keep this site free of ads and sponsored posts, but we will be bringing in a small number of affiliate links for things we use and love and think you will too. We've gotta keep the lights on!___

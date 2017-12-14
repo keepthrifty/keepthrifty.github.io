@@ -1,76 +1,60 @@
 ---
 layout: page
 title: Start Here
+subtitle: Where Dreams and Money Meet
+image:
+  path: /assets/img/start-here.jpg
 permalink: /start-here/
-comments: true
 redirect_from:
-  - /about/
+  - /subscribe/
 ---
-
-## Welcome to Keep Thrifty - We're Chris and Jaime
 
 If you're like most of our readers, you're looking to do something different.
 
 You've got big dreams underneath the surface and want to make them a reality. You've felt stuck by never-enough finances and overloaded schedules and are ready to take control and chase your dreams.
 
-This site is a resource to help you be diligent about how you spend your money and your time. If you're using them carefully to support your values and achieve your dreams, then you've got a Keep Thrifty mindset.
+___We know exactly how you feel. We've been there too.___
 
-If not, there's still time to make a change.
+After years of just getting by, we decided to take charge of our money and create our own freedom. You can [read our full story here]({{site.url}}/our-story/).
 
-## We've Been Stuck Too
+> Don't let your finances keep you from chasing your dreams
 
-![Chris, Jaime, and our three daughters on a green lawn]({{site.url}}/assets/img/our-family.jpg)
-{: class="image--right"}
+## What We Provide
 
-A few years back, it looked like we had everything going for us - a stable corporate job, three adorable daughters, a house in the suburbs, two new cars in the garage, and a house full of stuff.
+Here at Keep Thrifty, we share our journey and bring you inspiration and tools to help you create your freedom.
 
-But outward appearances can be deceiving. Despite all of the things we had, we were lacking something big - happiness.
+We've got [articles](/articles/), [videos](/videos/), and [success stories](/freedom-stories/) to help inspire you to think differently about your dreams and your finances.
 
-Over the course of the last several years, we've flipped our family's life - ending our frivolous spending and love for the artificial so we could focus on living out our dreams and values.
+We've also created a [money tracking app](https://thrifty.keepthrifty.com) to help you take control of your finances and make those dreams a reality.
 
-Going through this gave us the ability to do something big - for Chris to leave his full-time job to commit to a [one-year mini-retirement]({% post_url 2017/2017-07-11-one-year-mini-retirement %}).
+## How to Connect With Us
 
-It's crazy. It's unconventional. But it's also incredible - and it's possible for you too.
+We love connecting with our readers and we hope to build a supportive community of like-minded dreamers.
 
-## Everyone Should Have the Chance to Chase Their Dreams
+We'd love to connect with you! You can [send us a note](/contact/) or find us on [Twitter](https://www.twitter.com/keepthrifty/), [YouTube](https://www.youtube.com/channel/UCHpQLpwuiNRNwQ_eLJQInQA), [Facebook](https://www.facebook.com/keepthrifty/), and [Pinterest](https://www.pinterest.com/keepthrifty/).
 
-It isn't always easy, but it's way better than spending the rest of your life asking "What if?"
+But the __best__ way to connect with us is to join our email list.
 
-Keep Thrifty is our way of sharing what we've learned with others so they can dare to dream big, understand how to take control of their finances and time, and make their dreams a reality.
+You'll get a personal update and link whenever we publish a new article, story, or video and we'll occasionally send you special subscriber-only content and invitations.
 
-## The Keep Thrifty Community
+{% include components/subscribe-modal.html modal-id=304007 center-button=true buffer-button=true %}
 
-Over 50,000 people have ventured into this little corner of the web to read an article, download a spreadsheet, [track their spending](https://thrifty.keepthrifty.com), or get inspired to dream.
+## Diving In
 
-The best way to get connected is to subscribe for e-mail updates. We send two emails a week (one with each new post) and include updates about what we're working on and what's going on in our personal lives.
+Are you ready to dive in? _Great!_
 
-If you subscribe, you'll also get a __free__ (who doesn't love free?) copy of our _"5 Steps to a Mini-Retirement"_ cheat sheet. Fill out the form below to get the cheat sheet and our regular updates!
+We've hand-picked a few of our favorite pieces for you:
 
-<div class="boxed">
-{% include content-upgrade.html %}
-</div>
+<ul id="featured-posts">
+{%- for post in site.posts reversed -%}
+{%- if post.featured == true -%}
+  {% include components/featured-post.html post=post %}
+{%- endif -%}
+{%- endfor -%}
+</ul>
 
-## Ready to Dive In?
-
-Once you've subscribed, you'll get links to every post from here on out in your inbox. In the meantime, why don't you get started with some of the classics? Here are a few favorites:
-
-{% include post-list-featured-text-list.html %}
-
-If you're ready to go all-in, you can head on over to [the archives]({{site.url}}/archive/), where you can find every post (written and audio) starting from day one.
-
-If you prefer podcasts, we've started recording [audio versions of our posts]({{site.url}}/audio/) to help you access Keep Thrifty wherever you are. Plus, Chris has been told he has a voice for radio. Or was that face? Hmm...either way...
-
-Finally, we now have a video series called [_Our Thrifty Life_](https://www.youtube.com/playlist?list=PLfi4J9hdaYLxY2i6ic4ftJ4tWV58Sar7s) where we talk about living a thrifty life of intention, while working to create our own financial freedom.
-
-We'd love to hear your thoughts on what you find here and what your own financial experience has been. You can get a hold of us on [Twitter](https://www.twitter.com/keepthrifty/) or by [sending a note]({{site.url}}/work-with-me/#contact).
-
-If you've read this far, we know you've got the fortitude to lead an awesome life. We're really excited to share this journey together.
-
-As always, Keep Thrifty and Carry On.
+We're so excited that you came to check out Keep Thrifty. If there's any way we can help you define and reach your dreams, we'd love to [hear from you](/contact/)!
 
 God bless,
 
-\- Chris and Jaime @ Keep Thrifty
-
-![Chris and Jaime]({{site.url}}/assets/img/chris-and-jaime-keep-thrifty.jpg)
-{: class="profile__image" }
+\- Chris and Jaime

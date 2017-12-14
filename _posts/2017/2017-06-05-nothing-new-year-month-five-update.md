@@ -29,7 +29,9 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [nothing new year]
 
-affiliate: true
+
+
+categories: [article]
 
 ---
 
@@ -136,7 +138,7 @@ In the meantime, we've still got our mortgage payments to take care of, so here'
 
 ![Mortgage payoff progress: outstanding principal is down to $79,181.68 and we're due to pay off on July 5, 2017. By prepaying and refinancing, we are saving $164,903.73 and 20.2 years over original mortgage plan.]({{site.url}}/assets/img/mortgage-payoff/Mortgage-Payoff-Jun-2017.png)
 
-<div class="image-caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
+<div class="caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
 
 With our standard payment this month, we knocked another $753 off our outstanding principal and are now at just over $79,000 remaining. Considering we started at $175,900 just ten years ago, we're not doing too badly :)
 

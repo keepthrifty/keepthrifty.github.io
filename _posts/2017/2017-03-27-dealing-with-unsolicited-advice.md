@@ -20,6 +20,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [think different]
 
+categories: [article]
+
 ---
 
 _The last thing you need when you're trying to maintain a frugal lifestyle is some know-it-all telling you that your lifestyle is crazy. If you've ever run into this - or anyone who's given you unsolicited advice about anything - I've got a treat for you this week. Today's post is from the one and only [Mrs. Picky Pincher](http://www.pickypinchers.com/){: target="_blank"} and she's got some nuggets on how to manage unsolicited "help"._

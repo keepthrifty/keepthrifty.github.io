@@ -17,6 +17,8 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [think different]
+
+categories: [article]
 ---
 
 Jewelry, flowers, and bears, oh my! If you’re not careful, this holiday is a great way to burn a hole in your wallet.
@@ -70,19 +72,19 @@ We finished the show and had plenty of time before we needed to go pick up the k
 It’s cold in Madison this time of year — the low tonight will be -1 degrees Fahrenheit (-18 degrees Celsius) but we were up for the walk because we had our winter gear and you never know what you’re going to find in downtown Madison.
 
 ![Jaime on the square][jaime-on-the-square]
-<div class="image-caption">The cold doesn't bother my wife anyway...</div>
+<div class="caption">The cold doesn't bother my wife anyway...</div>
 
 Outside of the coffee shop, we were approached by a homeless woman that was looking for help so she could get another blanket and gloves. We didn’t have any cash on us, but my wife took off her gloves and gave them to the woman.
 
 We wished we could do more but, in the moment, that was as good as we had. We then split my gloves between the two of us and kept our other hands in our pockets.
 
 ![Chris on the square][chris-on-the-square]
-<div class="image-caption">Me with one glove, coffee, and a cross-country ski track in the road behind me</div>
+<div class="caption">Me with one glove, coffee, and a cross-country ski track in the road behind me</div>
 
 We walked around Madison’s capital square and were pleased to see a temporary cross-country skiing track in the road, along with snow sculptures in-progress, a hockey stand, and a temporary sledding hill (a metal slide with packed snow at the bottom).
 
 ![snow sculptures][snow-sculptures]
-<div class="image-caption">A snow-sculpture rose in progress</div>
+<div class="caption">A snow-sculpture rose in progress</div>
 
 As we finished going around the square, we saw the homeless woman again, still looking for another blanket, and we wished her well and told her we’d pray for her. On our way to the car, we decided to run to a local thrift store, get her a blanket and bring it back to her.
 

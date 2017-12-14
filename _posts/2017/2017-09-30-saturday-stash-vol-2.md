@@ -15,6 +15,8 @@ pinterest-image: /assets/img/saturday-stash/saturday-stash-vol-2
 
 tags: [saturday stash]
 
+categories: [article]
+
 ---
 
 This week's Saturday Stash includes some awesome articles and a big announcement. Are you ready for another blast of awesome articles from around the web? Let's get this show on the road!

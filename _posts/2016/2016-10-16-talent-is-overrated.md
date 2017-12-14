@@ -23,7 +23,9 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [think different]
 
-affiliate: true
+
+
+categories: [article]
 ---
 
 We're loyal fans of the HGTV show "Fixer Upper". It's incredible to see the transformation in these homes that have seemingly lost all their value. They deliver magazine-quality design, bringing new life to the house and the neighborhood. Some lucky people get all the talent, right? Maybe not...

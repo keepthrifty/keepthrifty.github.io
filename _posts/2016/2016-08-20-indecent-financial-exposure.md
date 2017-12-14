@@ -11,13 +11,14 @@ subscribe-line: Can't get enough?
 related-posts: [
   "/2016/06/18/the-simple-path-to-wealth-review",
   "/2016/12/05/money-mistakes-financial-compass",
-  "/2016/02/22/keepthrifty-experiment",
   "/2016/11/13/four-keys-successful-budget"
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [money]
 
-affiliate: true
+
+
+categories: [article]
 ---
 
 One year ago, I launched [Thrifty][thrifty-link], a web-based expense and income tracking tool and became the first user. Using Thrifty, our family has logged every penny we've earned, paid in taxes, and spent on expenses over the last 12 months.

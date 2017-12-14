@@ -22,6 +22,8 @@ related-posts: [
 
 tags: [think different]
 
+categories: [article]
+
 ---
 
 As we get closer to the transition from our _big house_ to our _small apartment_, an unsettling thought crossed my mind. With our current income, we'd be able to comfortably afford renting a bigger, more expensive place. Selling our house and [moving into a small, inexpensive apartment]({% post_url 2017/2017-05-15-big-barriers-living-smaller %}) is great for us - but what about the other families that can't afford a bigger place? Did we steal the opportunity from them to live here?
@@ -40,7 +42,7 @@ Knowing that we could have afforded to rent something bigger in our area, are we
 
 ![Keep Thrifty Family is happy, Other Family is sad, Landlords are neutral]({{site.url}}/assets/img/posts/2017-06-19-can-frugality-be-selfish/frugality-selfish-smileys-1.jpg){: class="no-shadow"}
 
-<div class="image-caption">Look at that smug jerk on the left...</div>
+<div class="caption">Look at that smug jerk on the left...</div>
 
 By choosing to live smaller, we may have taken the place of a lower-income family that now won't have the opportunity to live in our community and have access to our schools.
 
@@ -91,7 +93,7 @@ There's no reason we should feel stuck living bigger if it doesn't align with ou
 
 ![Keep Thrifty Family is happy, Other Family is happy, Landlords are happy]({{site.url}}/assets/img/posts/2017-06-19-can-frugality-be-selfish/frugality-selfish-smileys-3.jpg){: class="no-shadow"}
 
-<div class="image-caption">Doesn't that look better?</div>
+<div class="caption">Doesn't that look better?</div>
 
 By living smaller, we increase the demand for two-bedroom apartments in our community. Over time, landlords will work with developers to make more two-bedroom apartments available. As a result, we'll get to live in one and other families will too.
 

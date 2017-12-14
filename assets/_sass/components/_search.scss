@@ -1,0 +1,38 @@
+.tipue_search_content_title {
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.1;
+  margin: 1.6rem 0 0 0;
+  a {
+    color: rgba(0, 0, 0, 0.87);
+  }
+}
+
+#tipue_search_warning, #tipue_search_results_count, .tipue_search_content_url {
+  font-weight: 300;
+  color: $meta-color;
+  a {
+    color: $meta-color;
+  }
+}
+.tipue_search_content_text {
+  font-weight: 300;
+  font-size: 1.2rem;
+}
+.tipue_search_content_bold {
+  font-weight: 500;
+}
+
+#tipue_search_foot {
+  margin: 2rem auto;
+}
+
+#tipue_search_foot_boxes li {
+  list-style: none;
+  display: inline;
+  margin-left: 1rem;
+}
+
+a.tipue_search_foot_box {
+  color: $meta-color;
+}

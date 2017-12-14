@@ -17,7 +17,9 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [money]
-affiliate: true
+
+
+categories: [article]
 ---
 
 If you only read one book on personal finance, [_The Simple Path to Wealth_][the-simple-path-to-wealth-amazon] by JL Collins is a solid guide on the mentality and skills that anyone can use to take responsible ownership of their financial future.
@@ -68,7 +70,7 @@ Because of the clarity with which this book roadmaps how to achieve financial fr
 
 I really recommend you pick up a copy of [_The Simple Path to Wealth_][the-simple-path-to-wealth-amazon]. When you've achieved financial freedom based on using the concepts here, future you will be glad you started here!
 
-___To get your own copy, here's a [link to the book on Amazon*][the-simple-path-to-wealth-amazon]___
+___To get your own copy, here's a [link to JL Collins's Website][the-simple-path-to-wealth-amazon]___
 
 [![the-simple-path-to-wealth][the-simple-path-to-wealth-cover]][the-simple-path-to-wealth-amazon]
 

@@ -27,9 +27,8 @@ var tipuesearch_replace = {'words': [
 // Weighting
 
 var tipuesearch_weight = {'weight': [
-     {'url': '/work-with-me/', 'score': 1000},
      {'url': '/start-here/', 'score': 1000},
-     {'url': '/subscribe/', 'score:': 1000}
+     {'url': '/our-story/', 'score:': 1000}
 ]};
 
 

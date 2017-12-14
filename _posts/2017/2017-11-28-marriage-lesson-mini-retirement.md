@@ -29,6 +29,8 @@ audio:
 
 tags: [dreams & values]
 
+categories: [article]
+
 ---
 
 Ok, so my husband, Chris, has officially been on his [One Year Mini-Retirement]({% post_url /2017/2017-07-11-one-year-mini-retirement %}) since July first. And as of September second, he started working here on Keep Thrifty full time. We are still early in this whole mini-retirement thing, but it feels so much longer. Every week brings a new challenge in our marriage. It’s exciting and exhausting. There are tears and laughter. It’s a rollercoaster of emotions. Here’s how it’s been going.
@@ -75,7 +77,7 @@ We talked about the pressure Chris was feeling to make Keep Thrifty successful. 
 
 It turned into Chris walking me to the gym in the morning. He also surprised me by waiting outside our building on my way home.
 
-_Let me say that again -_ __he was waiting for me!!!___
+_Let me say that again -_ ___he was waiting for me!!!___
 
 I’ve been waiting 12 years for this man to do that! That was amazing!
 

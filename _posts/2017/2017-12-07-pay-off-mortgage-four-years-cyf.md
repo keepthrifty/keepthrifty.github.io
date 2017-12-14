@@ -4,7 +4,6 @@ layout: post
 author: dash2retire
 
 title: "How We Paid Off Our Mortgage In Four Years"
-subtitle: "Create Your Freedom Series - Meet Cindy"
 description: "Buying a home for your family to live and create memories in is exciting, but having a mortgage sucks. Cindy and her husband decided they didn’t want to stay on the 30-year mortgage track when they moved to Canada"
 
 date: 2017-12-07 6:58:00 -0500
@@ -15,7 +14,10 @@ pinterest-image: /assets/img/posts/2017-12-07-pay-off-mortgage-four-years-cyf/fo
 
 tags: [create your freedom]
 
-category: [freedom-story]
+categories: [freedom-story]
+
+featured: true
+popular: true
 
 ---
 
@@ -110,4 +112,4 @@ We are banking 100% of our disposable income. We are also adding a small monthly
 
 _Thank you to Cindy for sharing her story. We loved learning about how they paid off their Canadian mortgage! We wish Cindy and her family the best. We are looking forward to following their journey back to the States!_
 
-{% include cyf-submit.html %}
+{% include contact-forms/cyf-submit.html %}

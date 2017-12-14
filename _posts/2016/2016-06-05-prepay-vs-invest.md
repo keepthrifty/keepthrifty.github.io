@@ -17,13 +17,15 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [money]
+
+categories: [article]
 ---
 
 We had a toast-worthy moment last week - our outstanding mortgage balance finally came under the $100,000 mark; we're officially in a 5-digit mortgage!
 
 ![Outstanding mortgage balance: $98,298.23][mortgage-balance]
 
-<div class="image-caption">If only you could see my happy dance :)</div>
+<div class="caption">If only you could see my happy dance :)</div>
 
 Much of our momentum on paying the mortgage down can be attributed to the prepayments we've made along the way. They are also the primary way we plan to bring our mortgage to zero roughly _17 years_ ahead of our original mortgage term.
 
@@ -65,7 +67,7 @@ But look, I got to make this pretty graph:
 
 ![Prepayment vs investment chart; bell-curve for investment "benefit"; cumulative distribution function showing roughly 50% at $7,000][prepay-vs-invest-chart]
 
-<div class="image-caption">The bar chart shows the likely outcomes by "investment benefit" (Investment Balance minus Remaining Principal at 54 Months)</div>
+<div class="caption">The bar chart shows the likely outcomes by "investment benefit" (Investment Balance minus Remaining Principal at 54 Months)</div>
 
 ### Interpreting the results ##
 

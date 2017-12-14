@@ -21,7 +21,9 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [minimalism]
 
-affiliate: true
+
+
+categories: [article]
 
 ---
 
@@ -63,7 +65,7 @@ That's right - if we were going to only drive one car in the suburbs, it was goi
 
 ![CD cover for Rockin' the Suburbs by Ben Folds]({{site.url}}/assets/img/posts/2017-01-16-one-car-suburbs/rocking-the-suburbs.jpg)
 
-<div class="image-caption">We're rockin' the suburbs...just like Jon Bon Jovi did. (<a href="https://en.wikipedia.org/w/index.php?curid=197599" target="_blank">From Wikipedia, Fair use</a>)</div>
+<div class="caption">We're rockin' the suburbs...just like Jon Bon Jovi did. (<a href="https://en.wikipedia.org/w/index.php?curid=197599" target="_blank">From Wikipedia, Fair use</a>)</div>
 
 The real reason behind choosing the minivan was car seats. While it's possible to fit three car seats in the back row of a Toyota Prius, you have to buy _just_ the right kind. We didn't have that foresight when we'd bought our car seats years before.
 

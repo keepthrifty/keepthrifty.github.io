@@ -21,7 +21,10 @@ permalink: /:year/:month/:day/:title/
 tags: [money]
 
 featured: true
+popular: true
 rockstar: true
+
+categories: [article]
 
 ---
 

@@ -24,7 +24,9 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [dreams & values]
 
-affiliate: true
+
+
+categories: [article]
 
 ---
 

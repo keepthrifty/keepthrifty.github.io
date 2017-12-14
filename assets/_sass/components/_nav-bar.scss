@@ -1,0 +1,135 @@
+.nav-bar {
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  position: relative;
+  padding: 1rem 0;
+  margin: 1rem 0 0;
+}
+
+ul.nav-bar__list {
+  flex: 3 3 36rem;
+  list-style: none;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  justify-content: space-around;
+}
+
+.nav-bar__list__item, .nav-bar__list__button {
+  flex: 0 1 auto;
+  display: inline-block;
+  padding: 1rem 0px;
+  margin: 0 1rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  letter-spacing: 0.2rem;
+  position: relative;
+}
+
+.nav-bar__list__item {
+  a {
+    color: $off-black;
+    text-transform: uppercase;
+    position: relative;
+    padding: 1rem 0px;
+    &:hover {
+      opacity: 0.7;
+    }
+  }
+}
+
+.nav-bar__list__item:before,
+.nav-bar__list__item:after {
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  height: 2px;
+  width: 0%;
+  background-color: $primary-color;
+  position: absolute;
+  content: '';
+  opacity: 0;
+  left: 50%;
+}
+.nav-bar__list__item:before {
+  top: 0;
+}
+.nav-bar__list__item:after {
+  bottom: 0;
+}
+.nav-bar__list__item:hover:before,
+.nav-bar__list__item--current:before,
+.nav-bar__list__item:hover:after,
+.nav-bar__list__item--current:after {
+  opacity: 1;
+}
+.nav-bar__list__item:hover:before,
+.nav-bar__list__item:hover:after {
+  width: 80%;
+}
+.nav-bar__list__item:hover:before,
+.nav-bar__list__item:hover:after {
+  left: 10%;
+}
+.nav-bar__list__item--current:before,
+.nav-bar__list__item--current:after {
+  left: 20%;
+  right: auto;
+  width: 60%;
+}
+
+.nav-bar__list__item ul {
+  border-radius: 0.2rem;
+  display: none;
+	position: absolute;
+	top: 100%;
+	background: #fff;
+	padding: 0;
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+  z-index: 200;
+}
+
+.nav-bar__list__item ul li {
+	float: none;
+	width: 12rem;
+  text-align: left;
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+.nav-bar__list__item ul li.nav-divider {
+  background-color: $line-color;
+  height: 1px;
+  display: block;
+}
+
+.nav-bar__list__item ul li.current a {
+  border-left: 2px solid $primary-color;
+  border-right: 2px solid $primary-color;
+}
+
+.nav-bar__list__item ul a
+{
+  padding-left: 1rem;
+  padding-right: 1rem;
+  display: block;
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+  &:hover {
+    border-top: 1px solid $line-color;
+    border-bottom: 1px solid $line-color;
+  }
+}
+
+.nav-bar__list__item ul ul {
+  top: 0;
+  left: 100%;
+}
+
+.nav-bar__list__item:hover > ul {
+  display: block;
+}

@@ -4,18 +4,19 @@ layout: post
 author: not_your_parents_financial_guy
 
 title: "Chicago to Sydney"
-subtitle: "Create Your Freedom Series - Meet Kyle"
-description: "Ever dreamed of packing up and moving halfway across the world? It's just as exciting as you might think but easier than you'd imagine. Read how Kyle did just that, moving from Chicago to Australia."
+description: "TK"
 
 date: 2017-11-30 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/feeding-kangaroos.jpg
-pinterest-image: /assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/chicago-to-sydney
+pinterest-image: /assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/TK.jpg
 
 tags: [create your freedom]
 
-category: [freedom-story]
+categories: [freedom-story]
+
+popular: true
 
 ---
 
@@ -99,4 +100,4 @@ In May 2018, we'll sell our possessions, move out of our apartment and take a on
 
 _Thank you to [Kyle]({{site.data.authors[page.author].web}}) for sharing his story. We love the side hustle and the fact that he bought a plane ticket with the confidence that the rest will work out. We wish him and Lauren the best and an amazing next adventure! We can’t wait to hear all about the mini-retirement once they are back in the States!_
 
-{% include cyf-submit.html %}
+{% include contact-forms/cyf-submit.html %}

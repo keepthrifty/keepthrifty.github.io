@@ -21,6 +21,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [think different]
 
+categories: [article]
+
 ---
 
 Our 6-year-old daughter has been planning the details of her very first lemonade stand for the last week. Today we finally let her loose. I was excited about her entrepreneurial spirit and to see what lessons she'd learn through the experience. Little did I know that I'd be learning plenty of lessons of my own along the way.

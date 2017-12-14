@@ -19,6 +19,8 @@ tags: [our thrifty life]
 video:
   path: https://www.youtube.com/embed/B0RvfF8_akc?ecver=2
 
+categories: [video]
+
 ---
 
 Our oldest daughter has been invited to three birthday parties so far this school year. While it’s fun to celebrate turning a year older with friends, it can get expensive.

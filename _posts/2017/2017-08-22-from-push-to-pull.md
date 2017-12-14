@@ -19,7 +19,11 @@ related-posts: [
   "/2016/10/16/talent-is-overrated"
 ]
 
+rockstar: true
+
 tags: [think different]
+
+categories: [article]
 
 ---
 

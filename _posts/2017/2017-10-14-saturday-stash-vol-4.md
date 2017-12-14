@@ -15,6 +15,8 @@ pinterest-image: /assets/img/saturday-stash/saturday-stash-vol-4
 
 tags: [saturday stash]
 
+categories: [article]
+
 ---
 
 It's Saturday and you know what that means - morning cartoons and donuts! Wait, no - it's time for the Saturday Stash!

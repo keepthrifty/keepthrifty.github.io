@@ -28,6 +28,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [nothing new year]
 
+categories: [article]
+
 ---
 
 In 2016, we set a [resolution to have a "thrifty" year]({{site.url}}{% post_url 2016/2016-01-01-one-word-resolution %}). This meant being mindful and intentional about where we spent our money and our time. As we kick off 2017, we're going to stretch ourselves even further and attempt something big: __a year of buying nothing new__.

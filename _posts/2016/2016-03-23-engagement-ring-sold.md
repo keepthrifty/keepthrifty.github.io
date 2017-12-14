@@ -21,7 +21,10 @@ related-posts: [
 permalink: /:year/:month/:day/:title.html
 tags: [dreams & values]
 featured: true
+popular: true
 rockstar: true
+
+categories: [article]
 ---
 
 In 2006, I made the (at the time) largest purchase of my life - I put down $6,000 for a new, custom 1-carat diamond engagement ring at a fancy jewelry store.

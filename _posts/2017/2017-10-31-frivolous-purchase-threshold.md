@@ -29,8 +29,12 @@ audio:
 
 tags: [money]
 
+rockstar: true
+
 redirect_from:
   - /fpt
+
+categories: [article]
 
 ---
 

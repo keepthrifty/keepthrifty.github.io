@@ -15,6 +15,8 @@ pinterest-image: /assets/img/saturday-stash/saturday-stash-vol-1
 
 tags: [saturday stash]
 
+categories: [article]
+
 ---
 
 What's this? A post on _Saturday_? That's right thrifty people, Keep Thrifty is expanding! Today marks the start of a new series that I'll be putting out every Saturday, containing links to my favorite finds from around the web.

@@ -21,6 +21,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [money]
 
+categories: [article]
+
 ---
 
 You can hardly open your eyes these days without being bombarded by advertisements. By some estimates, we are exposed to around [3500 advertisements every day](https://www.theguardian.com/media/2005/nov/19/advertising.marketingandpr){: target="_blank"}. In a world that's constantly telling you that you need to spend more, the best defense is to understand the tactics marketers use and immunize yourself against them.
@@ -88,7 +90,7 @@ Here's an example, I ran into. I don't get lunch out often, but the last time I 
 
 ![Taco Bell sign - "Working at Taco Bell has its bonuses"; includes image of teenage boy standing in front of school buses showing a teenage girl his red convertible]({{site.url}}/assets/img/posts/2017-01-09-four-devious-marketing-tactics/taco-bell.jpg)
 
-<div class="image-caption">Do you want to become a Taco-Billionaire?</div>
+<div class="caption">Do you want to become a Taco-Billionaire?</div>
 
 That's right high-school students; you too can own a convertible by working part-time at Taco Bell!
 

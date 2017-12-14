@@ -22,7 +22,9 @@ related-posts: [
 
 tags: [minimalism]
 
-affiliate: true
+
+
+categories: [article]
 
 ---
 

@@ -17,7 +17,9 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism]
-affiliate: true
+
+
+categories: [article]
 ---
 
 [Last time][part-1], we talked about the history behind the fashion money trap. With part 2, I'll give you the six tactics I use to escape the fashion money trap and help me live a richer life.
@@ -64,7 +66,7 @@ Ask yourself what you'll think when you look back on pictures of yourself 10 yea
 
 ![Men in suits at a wedding wearing zubaz][zubaz-wedding]
 
-<div class="image-caption">What were these guys thinking? (<a href="https://awfulsports.files.wordpress.com/2010/12/zubaz5.png?w=500&h=346" target="_blank">source</a>)</div>
+<div class="caption">What were these guys thinking? (<a href="https://awfulsports.files.wordpress.com/2010/12/zubaz5.png?w=500&h=346" target="_blank">source</a>)</div>
 
 In addition, if it's not comfortable, don't buy it. There's no good reason to buy something that makes you uncomfortable; you're much more likely to get rid of it early.
 
@@ -100,7 +102,7 @@ At best, get a sewing kit and figure out how to do some basic repair on your clo
 
 ![Macguyver: "What do you mean duct tape won't fix it?"][macguyver-fix]
 
-<div class="image-caption">Is this a dated reference? People still know who Macguyver is, right?</div>
+<div class="caption">Is this a dated reference? People still know who Macguyver is, right?</div>
 
 At worst, try to stretch things out by following the older "lifecycle" that our ancestors did. For me, a ripped pair of jeans becomes my new set of painting pants or pants for doing yard work.
 

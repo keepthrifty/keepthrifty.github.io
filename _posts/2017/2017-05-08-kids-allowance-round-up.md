@@ -22,7 +22,9 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [money]
 
-affiliate: true
+
+
+categories: [article]
 
 ---
 

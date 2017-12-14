@@ -18,7 +18,9 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism]
-affiliate: true
+
+
+categories: [article]
 ---
 
 Millennial males spend _twice as much_ each year on apparel when compared to men of prior generations. Millennial females are in a similar situation, spending a third more than women of prior generations. How can we avoid losing the shirts off our backs?
@@ -31,13 +33,13 @@ This is part 1 of a two-part series on figuring out how to bail out of our addic
 
 First a bit of a history lesson from _True Wealth by Juliet Schor_:
 
-> In the West, apparel has been expensive to produce and has therefore been a high-priced and valuable commodity for centuries. Once fashioned, garments had long and varied lives. A dress or jacket might be born as special occasion wear, then become a garment for indoor sociability, and eventually be worn (and worn out) while doing domestic chores... In some households, garments were turned into quilting squares... A piece of clothing might end its useful life as a rag, and literally turn to dust.
+_In the West, apparel has been expensive to produce and has therefore been a high-priced and valuable commodity for centuries. Once fashioned, garments had long and varied lives. A dress or jacket might be born as special occasion wear, then become a garment for indoor sociability, and eventually be worn (and worn out) while doing domestic chores... In some households, garments were turned into quilting squares... A piece of clothing might end its useful life as a rag, and literally turn to dust._
 
 I don't know about you, but for me this was a:
 
 ![lightbulb moment][lightbulb]
 
-<div class="image-caption">Source: http://giphy.com/gifs/despicable-me-idea-gru-L7DUwZJZc4agU</div>
+<div class="caption">Source: http://giphy.com/gifs/despicable-me-idea-gru-L7DUwZJZc4agU</div>
 
 Let's re-hash this:
 
@@ -84,7 +86,7 @@ Now pretend that today, you saw a "food fashion" update on your favorite TV show
 
 ![A happy green apple and a sad red apple][apple-faces]
 
-<div class="image-caption">Red is sooooo last week.</div>
+<div class="caption">Red is sooooo last week.</div>
 
 Being a good consumer food fashionista, you promptly throw away the remaining 4 pounds of red apples you have and go out and buy some green apples.
 
@@ -98,7 +100,7 @@ Or even better, what about the awesome, impractical, clothing styles that get ad
 
 ![MC Hammer wearing parachute pants][hammer-pants]
 
-<div class="image-caption">Sadly, I never owned a pair of these. Zubas, yes. Hammer Pants, no.</div>
+<div class="caption">Sadly, I never owned a pair of these. Zubas, yes. Hammer Pants, no.</div>
 
 ## Financial Aspects of Modern Clothing #
 

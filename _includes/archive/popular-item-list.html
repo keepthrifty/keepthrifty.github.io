@@ -1,0 +1,13 @@
+{%- if include.type -%}
+  {% assign posts = site.categories[include.type] %}
+{%- else -%}
+  {% assign posts = site.posts %}
+{%- endif -%}
+
+<ul id="popular-item-list">
+  {%- for post in posts reversed -%}
+    {%- if post.popular -%}
+      {% include archive/popular-item.html post=post %}
+    {%- endif -%}
+  {%- endfor -%}
+</ul>

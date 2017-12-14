@@ -33,6 +33,8 @@ affiliate-link: true
 redirect_from:
   - /automated-pf/
 
+categories: [article]
+
 ---
 
 The personal finance world has been abuzz with talk of __automation__. It started with automated bill-pay and has grown into automated savings, robo-advisers, and algorithm-based investing. We dream of letting the machines take care of our finances so we can free up our time.

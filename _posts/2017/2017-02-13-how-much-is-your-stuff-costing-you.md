@@ -20,7 +20,9 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [minimalism]
 
-affiliate: true
+
+
+categories: [article]
 
 ---
 
@@ -28,11 +30,11 @@ How much stuff is in your house? Your garage? Or, heaven forbid, in a storage un
 
 To figure this out, let's take a look at a business concept called __carrying cost__.
 
-> ...the total cost of holding inventory. This includes warehousing costs such as rent, utilities and salaries, financial costs such as opportunity cost, and inventory costs related to perishability, shrinkage (theft) and insurance.
->
-> Holding cost also includes the opportunity cost of reduced responsiveness to customers' changing requirements, slowed introduction of improved items, and the inventory's value and direct expenses, since that money could be used for other purposes.
->
-><cite>[Wikipedia](https://en.wikipedia.org/wiki/Carrying_cost){: target="_blank"}</cite>
+_...the total cost of holding inventory. This includes warehousing costs such as rent, utilities and salaries, financial costs such as opportunity cost, and inventory costs related to perishability, shrinkage (theft) and insurance._
+
+_Holding cost also includes the opportunity cost of reduced responsiveness to customers' changing requirements, slowed introduction of improved items, and the inventory's value and direct expenses, since that money could be used for other purposes._>
+
+_Source: [Wikipedia](https://en.wikipedia.org/wiki/Carrying_cost){: target="_blank"}_
 
 Successful businesses work hard to cut their inventory because it reduces two major types of costs:
 
@@ -49,7 +51,7 @@ If you’re adventurous, do the same for all the other rooms in your house. Cove
 
 ![Legos on the floor]({{site.url}}/assets/img/posts/2017-02-13-how-much-is-your-stuff-costing-you/legos.jpg)
 
-<div class="image-caption">As a kid, about 200,000 of my things were these...</div>
+<div class="caption">As a kid, about 200,000 of my things were these...</div>
 
 Even if you can count it all up, how would you even begin to assess how much it's all worth?
 

@@ -25,6 +25,8 @@ redirect_from:
 
 tags: [money]
 
+categories: [article]
+
 ---
 
 Let's play a game. I'm going to give you a word and I want you to think about how that word makes you feel. No planning out what you'll say - just note the first feeling you can identify.

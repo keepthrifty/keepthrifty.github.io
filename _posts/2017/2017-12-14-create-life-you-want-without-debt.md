@@ -4,7 +4,6 @@ layout: post
 author: the_financial_journeyman
 
 title: "How I Created The Life I Wanted Without Creating Debt"
-subtitle: "Create Your Freedom Series - Meet Dave"
 description: "Can someone really go from working into a factory to having a master's degree without any debt? Absolutely - Dave did; check out his amazing story!"
 
 date: 2017-12-14 6:58:00 -0500
@@ -16,6 +15,8 @@ pinterest-image: /assets/img/posts/2017-12-14-create-life-you-want-without-debt/
 tags: [create your freedom]
 
 categories: [freedom-story]
+
+popular: true
 
 ---
 
@@ -113,4 +114,4 @@ _From Dave's Blog: [Balanced Growth Portfolio](http://thefinancialjourneyman.com
 
 _Thank you to Dave for sharing his story. We love that he worked while pursuing his degrees in order to stay out of debt. We wish him and his wife the best while they work towards early retirement! We can’t wait to hear where they decide to journey in the future!_
 
-{% include cyf-submit.html %}
+{% include contact-forms/cyf-submit.html %}

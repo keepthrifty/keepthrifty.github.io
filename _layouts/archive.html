@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<article class="archive">
+  <header class="page__header">
+    {% include page/page-visual.html %}
+    {% include archive/archive-meta.html %}
+  </header>
+
+  <main class="page__body{% if page.number-headings %} page__body--numbered-headings{% endif %}">
+    {{ content }}
+  </main>
+
+  <footer class="page__footer">
+    {% include page/page-share.html %}
+  </footer>
+</article>

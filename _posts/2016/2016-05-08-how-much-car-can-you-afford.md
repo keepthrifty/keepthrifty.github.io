@@ -17,7 +17,9 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [money]
-affiliate: true
+
+
+categories: [article]
 ---
 
 My twitter feed keeps coming up with links to financial calculators framed around the question "How much car can you afford?". This question makes me cringe because it's totally the wrong question to ask.
@@ -52,7 +54,7 @@ Is this really what you're doing day-to-day?
 
 ![Truck hauling WAY too much garbage][garbage-haul]
 
-<div class="image-caption">Gosh I hope not</div>
+<div class="caption">Gosh I hope not</div>
 
 You might be shuttling 5 kids around town on a daily basis or you might be hauling furniture and lumber back and forth as you remodel and flip your new rental property.
 

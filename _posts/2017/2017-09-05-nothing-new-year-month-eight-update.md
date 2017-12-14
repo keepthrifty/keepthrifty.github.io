@@ -29,6 +29,8 @@ related-posts: [
 
 tags: [nothing new year]
 
+categories: [article]
+
 ---
 
 Happy September! Last month, we went on our family road trip - twelve days in the northeast - and it was awesome. Despite the fact that we spent $3800, we still think that road tripping is the [best family vacation on a budget]({% post_url 2017/2017-08-29-best-family-vacation-on-budget-road-trip %}). After we got back from our trip, we worked on getting our kids ready for the school year to start and pondered an unexpected opportunity: an inexpensive piece of land with no deed restrictions came available in a great location in our city. Did we make an offer? Did we buy anything new this month? Read on to find out.

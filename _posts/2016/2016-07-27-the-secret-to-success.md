@@ -7,7 +7,6 @@ author: chris_durheim
 
 image:
   path: /assets/img/posts/2016-07-27-the-secret-to-success/success-secret.jpg
-nodisqus: true
 related-posts: [
   "/2016/07/21/spending-on-free",
   "/2016/06/05/prepay-vs-invest",
@@ -18,6 +17,8 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [think different]
+
+categories: [article]
 ---
 
 _This week I wrote a guest post for Elsie over at [GundoMoney.com][gundo-money]. I hosted Elsie last week with her great post about [the cost of joy and happiness][spend-on-free]. The teaser for my post is below and you can find a link to the full story on Elsie's site at the end. Enjoy!_
@@ -26,7 +27,7 @@ I want you to try something for me. I'm going to tell you the secret to success 
 
 ![Wristwatch on someone's wrist][wristwatch]
 
-<div class="image-caption">Cue Jeopardy music...buh bah buh bo buh bah buh...</div>
+<div class="caption">Cue Jeopardy music...buh bah buh bo buh bah buh...</div>
 
 How'd you do? Did you make it all the way to 100 before scrolling down here? Actually counting every number along the way?
 

@@ -18,6 +18,8 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title/
 tags: [money]
+
+categories: [article]
 ---
 
 There are lots of online mortgage refinancing calculators for "normal" people. Thrifty rockstars like you and I might feel a bit left out though because most calculators don't include our particular situations. If you find that's the case, my "Ultimate Refinancing Calculator" might just be what you're looking for.

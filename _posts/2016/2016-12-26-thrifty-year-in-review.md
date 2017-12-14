@@ -19,7 +19,9 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [dreams & values]
 
-affiliate: true
+
+
+categories: [article]
 ---
 
 We started the year with [a one-word resolution - Thrifty]({{site.url}}{% post_url 2016/2016-01-01-one-word-resolution %}). Did we stick to our resolution? How did we do on our goals and values for this year?
@@ -35,7 +37,7 @@ It's hard to believe how much has happened in the last year. While some of this 
 
 ![Our main living space - almost completely remodeled (a few tweaks to go)]({{site.url}}/assets/img/posts/2016-12-26-thrifty-year-in-review/main-floor.jpg)
 
-<div class="image-caption">We're close but not quite there yet; backsplash, moulding, and a bit of painting yet to do</div>
+<div class="caption">We're close but not quite there yet; backsplash, moulding, and a bit of painting yet to do</div>
 
 In order to fund these crazy adventures, we needed a strong focus on our finances - tracking, improving, and, of course, [some serious spreadsheeting]({{site.url}}{% post_url 2016/2016-09-25-the-price-of-an-extra-day-spreadsheet-edition %}).
 
@@ -67,7 +69,7 @@ My goal is December of 2019 though, so we're going to keep working on getting ou
 
 One area we're finally doing better in - __groceries__.
 
-In the spring of this year, we were averaging $1050 a month. I knew we needed to do better but despite a couple [targeted challenges]({{site.url}}{% post_url 2016/2016-05-29-may-challenge-food-update-2 %}), we didn't have much luck improving our grocery spending until the end of this year.
+In the spring of this year, we were averaging $1050 a month. I knew we needed to do better but despite a couple targeted challenges, we didn't have much luck improving our grocery spending until the end of this year.
 
 Over the last three months, we've averaged $760 on groceries - an improvement of $290. If we can maintain that over a year, that's $3500 saved!
 
@@ -81,7 +83,7 @@ At the start of the year, Thrifty was only for tracking expenses, but over the m
 
 ![Screenshot of Thrifty's analysis view for Utilities]({{site.url}}/assets/img/posts/2016-12-26-thrifty-year-in-review/thrifty-analysis.jpg)
 
-<div class="image-caption">If you look closely, you'll see that we're slowly trending down :)</div>
+<div class="caption">If you look closely, you'll see that we're slowly trending down :)</div>
 
 If you're not tracking your spending, you should really give it a try. Right now, [Thrifty is free]({{site.url}}/thrifty) and has no ads. I pay for the hosting out of my own pocket because of the value I get from using the tool and am happy to share it for free with others as long as the costs don't get too high :)
 

@@ -32,6 +32,8 @@ tags: [nothing new year]
 redirect_from:
   - /nny11
 
+categories: [article]
+
 ---
 
 I have a confession to make. We spent over $6,000 on Black Friday. We're on the home stretch of our nothing new year challenge. Did we completely lose our senses? Was I shoving other shoppers out of the way at Walmart to get my hands on a "sweet deal"? Read on to see what the heck happened this month.
@@ -78,6 +80,8 @@ So that's our big spending news this month. Let's dive into to the details of ea
 |-------+----------+----|
 | __Total__ | __$10,121.19__ | Total without Travel: $3,776.78 |
 |-------+----------+----|
+{: class="total-table"}
+
 
 ## Did We Buy Anything New?
 

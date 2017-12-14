@@ -27,6 +27,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [nothing new year]
 
+categories: [article]
+
 ---
 
 We kicked off this year with a goal to [buy nothing new]({% post_url 2017/2017-01-02-happy-nothing-new-year %}). Time flies when you're having fun - January is _already_ over so it's time to give our first monthly update on how we're doing in our Nothing New Year Challenge for 2017.
@@ -94,7 +96,7 @@ Along with our nothing new year challenge, we're still working hard on paying do
 
 ![Mortgage payoff progress: outstanding principal is down to $83,345.61 and we're due to pay off by Aug 1, 2020. By prepaying and refinancing, we are saving $161,693.48 and 17.1 years over original mortgage plan.]({{site.url}}/assets/img/mortgage-payoff/Mortgage-Payoff-Feb-2017.png)
 
-<div class="image-caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
+<div class="caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
 
 Between our standard payment and our additional prepayment this month, __we knocked another $1904 off our outstanding principal__!
 

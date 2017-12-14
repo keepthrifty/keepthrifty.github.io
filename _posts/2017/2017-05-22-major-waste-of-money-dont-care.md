@@ -26,6 +26,8 @@ tags: [think different]
 
 rockstar: true
 
+categories: [article]
+
 ---
 
 Let's start with a joke. Four college grads are together at a fast food restaurant, marveling at a new gadget. The science grad asks _"Why does it work?"_ The engineering grad asks _"How does it work?"_ The business grad asks _"How is it marketed?"_ The liberal arts grad asks ___"Do you want fries with that?"___
@@ -66,14 +68,12 @@ By choosing a major that I actually enjoy, I am learning how to work hard, ask t
 
 So when I read an article criticizing college students for picking majors that are a “waste of money,” I realize that these critics are out of touch with what college is really about — and that I simply do not care if you think my major is useless.  I know what I am learning, and that the skills I am learning will help launch my career — whatever it may happen to be.  
 
-> [Lauren Davidson](http://laurdavidson.com/){: target="_blank"} is a soon-to-be graduate or graduate from the University of Pennsylvania depending when you are reading this article. As she transitions into a full-time job, she is looking to do freelance writing work to help pay down her student debt.
+_[Lauren Davidson](http://laurdavidson.com/){: target="_blank"} is a soon-to-be graduate or graduate from the University of Pennsylvania depending when you are reading this article. As she transitions into a full-time job, she is looking to do freelance writing work to help pay down her student debt._
 
-<hr />
+## Chris's Take
 
-_Awesome points Lauren!_
+Awesome points Lauren!
 
-_As someone with a Bachelor's degree in Engineering and a Master's degree in Business, you'd think I'd be on the opposite side as Lauren here, but I think she really nailed the key determinants for success. How well you do in your career is more dependent on your [interest in the work](https://signalvnoise.com/posts/2922-whatever-interests-you-naturally-is-the-most-important-thing-to-work-on-){: target="_blank"} and passion for the mission than the major you happened to study in college. If you don't have these, it doesn't matter what your major is. If you do, you can make just about any major a financially successful one._
-
-
+As someone with a Bachelor's degree in Engineering and a Master's degree in Business, you'd think I'd be on the opposite side as Lauren here, but I think she really nailed the key determinants for success. How well you do in your career is more dependent on your [interest in the work](https://signalvnoise.com/posts/2922-whatever-interests-you-naturally-is-the-most-important-thing-to-work-on-){: target="_blank"} and passion for the mission than the major you happened to study in college. If you don't have these, it doesn't matter what your major is. If you do, you can make just about any major a financially successful one.
 
 _What did you major in? Or maybe you don't have a college degree at all. Does it matter? What do you think is most important - the major, the prestige of the school, or your excitement and work ethic?_

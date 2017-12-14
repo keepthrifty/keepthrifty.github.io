@@ -29,7 +29,9 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [nothing new year]
 
-affiliate: true
+
+
+categories: [article]
 
 ---
 
@@ -113,7 +115,7 @@ Neither the power cord nor the costumer were on the exception list. As a result,
 <iframe src="//giphy.com/embed/12ZxlKxt70vP1e?html5=true" width="480" height="263.56363636363636" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
-<div class="image-caption">
+<div class="caption">
   <a href="https://giphy.com/gifs/i-hate-you-blew-it-ruined-12ZxlKxt70vP1e">via GIPHY</a>
 </div>
 
@@ -133,7 +135,7 @@ In the meantime, we've still got our mortgage payments to take care of, so here'
 
 ![Mortgage payoff progress: outstanding principal is down to $79,935.05 and we're due to pay off by Aug 1, 2017. By prepaying and refinancing, we are saving $164,734.72 and 20.1 years over original mortgage plan.]({{site.url}}/assets/img/mortgage-payoff/Mortgage-Payoff-May-2017.png)
 
-<div class="image-caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
+<div class="caption">Each line represents a different mortgage path we've been on over our mortgage payment journey</div>
 
 With our standard payment this month, we knocked another $751 off our outstanding principal and are now ___under $80,000___ remaining!
 

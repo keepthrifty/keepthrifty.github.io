@@ -23,6 +23,8 @@ related-posts: [
 
 tags: [money]
 
+categories: [article]
+
 ---
 
 One of the cornerstones of financial independence math is the _safe withdrawal rate_ (SWR). The SWR is the amount you can withdraw from your retirement accounts every year without fearing that you'll run out of money before you kick the bucket. If you've got financial freedom on your goals list, the safe withdrawal rate is something you'll probably want to understand! One of the most well-known papers on this was _The Trinity Study_, which gave guidance on how to establish a portfolio with a sustainable 4% SWR. You'll see this number used all over the place (including on this site), but looking at the study raised some questions for me about whether the 4% SWR is applicable for financial freedomists today.
@@ -78,7 +80,7 @@ I replicated the methodology used for the Trinity study but with the following c
 - Retirement periods of 10, 20, 30, 40, 50, 60, and 70 years. This better covers the early retirees looking to live off their funds for longer periods of time.
 - Expense ratios of 0.00%, 0.04% (the ratio for Vanguard's VTSAX fund), and 1.00%
 - Monthly withdrawals vs annual withdrawals
-- Portfolio allocations of 100% stocks/0% bonds only. I wasn't able to find a data set that covered monthly bond returns going back to 1871. _If anyone has this, please [contact me]({{site.url}}/work-with-me/#contact)!_.
+- Portfolio allocations of 100% stocks/0% bonds only. I wasn't able to find a data set that covered monthly bond returns going back to 1871. _If anyone has this, please [contact me]({{site.url}}/contact/)!_.
 - Inflation adjusted withdrawals only. Especially when looking at longer retirement periods, it's unrealistic to think that one can spend the same nominal dollar amount for the full retirement period.
 
 ## Results and Observations

@@ -18,9 +18,11 @@ related-posts: [
   "/2017/04/17/three-phases-money-feelings"
 ]
 
-affiliate: true
+
 permalink: /:year/:month/:day/:title/
 tags: [money]
+
+categories: [article]
 ---
 
 I'm a proud member of the [Oregon Trail Generation](https://socialmediaweek.org/blog/2015/04/oregon-trail-generation/){: target="_blank"}, a subset of the Millennials defined by, among other things, a fond memory of the game _The Oregon Trail_ from my time in the computer lab at school. This game wasn't just great for teaching kids how to use computers though. If you were paying attention, you picked up some awesome lessons about money and real life.

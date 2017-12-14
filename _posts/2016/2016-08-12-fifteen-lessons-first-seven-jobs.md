@@ -19,6 +19,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title.html
 tags: [think different]
 rockstar: true
+
+categories: [article]
 ---
 
 One of the cooler things going across the interwebs in the last few days has been the [#firstsevenjobs][twitter-first-seven-jobs] hashtag - prompting people to list, in order, their first seven jobs. It's a great study of seeing where people started from and it's fun to look back on where you've been and what you've learned.
@@ -220,7 +222,7 @@ This was my first real corporate job and ended up being the place I stuck for th
 
 ![Picture of cubicles in an office][cubicles]
 
-<div class="image-caption">Not an actual picture of our office, but "cubicle farms" all have a similar feel</div>
+<div class="caption">Not an actual picture of our office, but "cubicle farms" all have a similar feel</div>
 
 In this time, there have been ups and downs, but I can say that I've consistently had a __challenging__ job that grows my __skills__ every year, working on something with a true __purpose__ with some of the brightest and coolest __people__ I've had a chance to know.
 

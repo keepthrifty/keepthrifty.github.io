@@ -19,6 +19,8 @@ related-posts: [
 
 permalink: /:year/:month/:day/:title/
 tags: [money]
+
+categories: [article]
 ---
 
 _Hey Thrifters - I've got a treat for you this week: a guest post from Mystery Money Man. Mystery Money Man and I have been chatting for a while and he recently hosted a post of mine on [how debt is like a nest of hornets](http://www.mysterymoneyman.com/your-debt-is-an-infestation/){: target="_blank"}. Now he's got a great post for me to share with you on how frugality and procrastination may actually be able to live together in harmony in your financial life._

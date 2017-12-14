@@ -23,6 +23,8 @@ related-posts: [
 
 tags: [think different]
 
+categories: [article]
+
 ---
 
 __Twenty-nine thousand dollars__. That's how much we spent on updates and maintenance in the last two years we lived in our house. It was higher than either of us had considered and yet, we realized that we would have spent tens of thousands more if we had stayed in our house. It's worth taking a look at _why_ this is, and what we can do to save ourselves if we get back into home ownership.
@@ -64,7 +66,7 @@ It's actually been quite the opposite.
 
 ![Kitchen in our new apartment - galley style with oak cabinets, older appliances, linoleum flooring]({{site.url}}/assets/img/posts/2017-08-15-breaking-addiction-home-updates/apartment-kitchen.jpg)
 
-<div class="image-caption">Making lasagna in the apartment. It tastes just as good as it did from the old kitchen.</div>
+<div class="caption">Making lasagna in the apartment. It tastes just as good as it did from the old kitchen.</div>
 
 Surprisingly, we've found a sense of peace and freedom from the fact that we don't have to consider remodeling as an option.
 

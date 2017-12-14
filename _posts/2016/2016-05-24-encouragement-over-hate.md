@@ -16,6 +16,8 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title.html
 tags: [think different]
+
+categories: [article]
 ---
 
 Whether your dream is financial independence or something totally different, pursuing your passion often takes getting on a different path from the people around you. As a result, you're bound to encounter a few people who are going to question your lifestyle.

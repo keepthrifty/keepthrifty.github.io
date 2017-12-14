@@ -3,48 +3,18 @@ layout: default
 comments: true
 ---
 
-<div class="col">
-  <article class="post">
-    <header class="post__header">
-      {% unless page.nometa %}
-      <div class="post__meta">
-        {% include page-date.html %}
-      </div>
-      {% endunless %}
-      <div class="post__title">
-        <h1 class="post__title--main">{{ page.title }}</h1>
-        {% if page.subtitle %}<h2 class="post__title--subtitle">{{ page.subtitle }}</h2>{% endif %}
-      </div>
-      {% unless page.nometa %}
-      <div class="post__meta">
-        {% include page-tags.html %}
-        <div class="post__comment-count">
-          {% include comment-count.html %}
-        </div>
-      </div>
-      {% endunless %}
-      {% if page.video.path %}
-        {% include video-embed.html video-link=page.video.path %}
-      {% elsif page.image %}
-        <img class="post__header__image" alt="{{page.title}}" src="{{site.url}}{{page.image.path}}" />
-      {% endif %}
-      {% include page-author.html %}
-      {% include page-audio.html %}
-    </header>
+<article class="post">
+  <header class="page__header">
+    {% include page/page-visual.html %}
+    {% include post/post-meta.html %}
+  </header>
 
-    <main class="post__body{% if page.number-headings %} post__body--numbered-headings{% endif %}">
-      {%- if page.affiliate-link -%}{% include affiliate.html %}{%- endif -%}
-      {{ content }}
-    </main>
+  <main class="page__body{% if page.number-headings %} page__body--numbered-headings{% endif %}">
+    {%- if page.affiliate-link -%}{% include post/affiliate.html %}{%- endif -%}
+    {{ content }}
+  </main>
 
-    <fooder class="post__footer">
-      {% include patreon.html %}
-      {% include share-buttons-only.html %}
-      {% include content-upgrade.html %}
-      {% if page.related-posts.size > 0 %}
-      {% include post-list-related.html %}
-      {% endif %}
-      {% include comments.html %}
-    </footer>
-  </article>
-</div>
+  <footer class="page__footer">
+    {% include post/post-footer.html %}
+  </footer>
+</article>
