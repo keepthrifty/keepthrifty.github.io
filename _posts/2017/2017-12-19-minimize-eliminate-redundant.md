@@ -4,17 +4,13 @@ layout: post
 author: chris_durheim
 
 title: "What a Pizza Cutter Taught Me About Frugality and Minimalism"
-description: "TK"
+description: "Can a kitchen utensil teach you life lessons? A pizza cutter once taught me some cool stuff about minimalism and frugality :)"
 
 date: 2017-12-19 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-12-19-minimize-eliminate-redundant/pizza-cutter.jpg
 pinterest-image: /assets/img/posts/2017-12-19-minimize-eliminate-redundant/
-
-related-posts: [
-
-]
 
 audio_archive: true
 audio:
