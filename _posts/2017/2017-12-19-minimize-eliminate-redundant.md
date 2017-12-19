@@ -10,7 +10,7 @@ date: 2017-12-19 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-12-19-minimize-eliminate-redundant/pizza-cutter.jpg
-pinterest-image: /assets/img/posts/2017-12-19-minimize-eliminate-redundant/
+pinterest-image: /assets/img/posts/2017-12-19-minimize-eliminate-redundant/pizza-cutter-pinterest
 
 audio_archive: true
 audio:
