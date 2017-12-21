@@ -18,6 +18,7 @@ ul.nav-bar__list {
   flex-wrap: wrap;
   margin: 0;
   justify-content: space-around;
+  padding: 0 1rem;
 }
 
 .nav-bar__list__item, .nav-bar__list__button {
@@ -91,6 +92,9 @@ ul.nav-bar__list {
 	padding: 0;
   box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
   z-index: 200;
+  @media screen and (max-width: 469px) {
+    right: 0;
+  }
 }
 
 .nav-bar__list__item ul li {
