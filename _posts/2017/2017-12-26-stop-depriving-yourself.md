@@ -4,7 +4,7 @@ layout: post
 author: chris_durheim
 
 title: "Stop Depriving Yourself and Get What You Really Want"
-description: "TK"
+description: "I think you deserve to have what you want. Here's how to stop depriving yourself and get it."
 
 date: 2017-12-26 6:58:00 -0500
 
