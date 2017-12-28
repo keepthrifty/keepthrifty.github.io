@@ -18,7 +18,7 @@ categories: [freedom-story]
 
 ---
 
-_We are so excited to introduce you to Justin from [ATypical Life](https://atypicallife.org/about/){: target="_blank" }. A few years ago he found himself living in the Appalachian Mountains, but dreaming of living abroad. How did he make this dream a reality? Kyle shares his backstory, strategy for moving, life in China, and what he’s ultimately working towards._
+_We are so excited to introduce you to Justin from [ATypical Life](https://atypicallife.org/about/){: target="_blank" }. A few years ago he found himself living in the Appalachian Mountains, but dreaming of living abroad. How did he make this dream a reality? Justin shares his backstory, strategy for moving, life in China, and what he’s ultimately working towards._
 
 ## Backstory
 
