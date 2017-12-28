@@ -24,7 +24,8 @@ related-posts: [
   "/nothing-new-year-month-eight-update",
   "/nothing-new-year-month-nine-update",
   "/nothing-new-year-month-ten-update",
-  "/nothing-new-year-month-eleven-update"
+  "/nothing-new-year-month-eleven-update",
+  "/nothing-new-year-wrap-up"
 ]
 
 tags: [nothing new year]
