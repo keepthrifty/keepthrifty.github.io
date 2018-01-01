@@ -107,6 +107,10 @@ We're still on track to pay off our mortgage on August 1, 2020 - 8 months behind
 
 That's one in the books, friends. I think we're off to a good start so far this year but goals are usually easy to maintain when you're first getting started. As we get further in this year, we'll probably find some bigger challenges in sticking to our nothing new year. Hopefully these monthly updates will help keep us accountable and on-track!
 
+## Check Out All the Updates
 
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+
+_Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month Two Update]({% post_url 2017/2017-03-06-nothing-new-year-month-two-update %})._
 
 _How are you doing on your new year's resolutions so far? Sticking to the plan or have you shifted gears already?_

@@ -148,6 +148,12 @@ The red line shows our outstanding mortgage principal if we had stuck with our o
 
 Based on our aggressive prepayments and taking advantage of refinancing, we're due to save $161,000 and finish 17 years earlier than our original plan! Right now, we're coming in a bit after our 2020 goal with an expected payoff date of August 1, 2020. I haven't built in additional prepayments I think we should be able to make, so hopefully that means we're going to get there before 2020 still :)
 
+## Check Out All the Updates
+
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+
+_Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month One Update]({% post_url 2017/2017-02-06-nothing-new-year-month-one-update %})._
+
 ## Your Thoughts?
 
 _What are your plans for 2017? Do you have any ambitious goals or crazy experiments in mind?_

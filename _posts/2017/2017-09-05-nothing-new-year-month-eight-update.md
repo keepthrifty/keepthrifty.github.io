@@ -148,4 +148,10 @@ As I write this post, our three daughters are all attending their first day of s
 
 I'm excited for what the rest of this year holds - the possibilities for our family, and for this site, are endless. I'm looking forward to continuing to share our adventure with you and hopefully helping you out in your own as well.
 
+## Check Out All the Updates
+
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+
+_Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month Nine Update]({% post_url 2017/2017-10-03-nothing-new-year-month-nine-update %})._
+
 _When has financial discipline given you options you wouldn't have had otherwise? What incredible opportunities have dropped into your lap when you least expected them? Did you take advantage of them?_

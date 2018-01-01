@@ -146,6 +146,10 @@ Presuming we are able to list and sell our house this summer, we're anticipating
 
 It was another exciting month - lots of spending and a big change to our strategy. We're feeling good about the direction we're pointed. Looking forward to giving another update next month!
 
+## Check Out All the Updates
 
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+
+_Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month Four Update]({% post_url 2017/2017-05-01-nothing-new-year-month-four-update %})._
 
 _What do you think about our strategy change? Have you ever had a month with spending that blew all the others out of the water?_
