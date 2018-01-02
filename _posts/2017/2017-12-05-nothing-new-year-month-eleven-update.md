@@ -24,7 +24,8 @@ related-posts: [
   "/nothing-new-year-month-seven-update",
   "/nothing-new-year-month-eight-update",
   "/nothing-new-year-month-nine-update",
-  "/nothing-new-year-month-ten-update"
+  "/nothing-new-year-month-ten-update",
+  "/nothing-new-year-wrap-up"
 ]
 
 tags: [nothing new year]
@@ -119,3 +120,7 @@ These posts have been about our nothing new year challenge, but even more, they'
 With all this in mind, I've got a question for you:
 
 ___Should I continue to publish spending reports once the Nothing New Year challenge is over? Have you found our spending breakdowns interesting and/or useful?___
+
+## Check Out All the Updates
+
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._

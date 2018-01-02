@@ -22,7 +22,8 @@ related-posts: [
   "/nothing-new-year-month-eight-update",
   "/nothing-new-year-month-nine-update",
   "/nothing-new-year-month-ten-update",
-  "/nothing-new-year-month-eleven-update"
+  "/nothing-new-year-month-eleven-update",
+  "/nothing-new-year-wrap-up"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [nothing new year]
@@ -124,6 +125,10 @@ We're on track to pay off our mortgage on August 1, 2020 - 8 months behind our b
 
 It was an exciting month - a road trip, my birthday, and lots of fun projects. We're two months in on our challenge and going strong. Thanks for following along as we try to pull this thing off. March will be a big month for us - we've got tile getting installed in four different areas in our house! Looking forward to sharing next month's update with pictures of our remodeling progress.
 
+## Check Out All the Updates
 
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+
+_Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month Three Update]({% post_url 2017/2017-04-03-nothing-new-year-month-three-update %})._
 
 _Was February a good month for you? Between Valentine's day and the weather, it can be an easy month to slip on your goals. If you made it through, what helped you get there?_

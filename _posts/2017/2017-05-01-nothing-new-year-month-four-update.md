@@ -24,7 +24,8 @@ related-posts: [
   "/nothing-new-year-month-eight-update",
   "/nothing-new-year-month-nine-update",
   "/nothing-new-year-month-ten-update",
-  "/nothing-new-year-month-eleven-update"
+  "/nothing-new-year-month-eleven-update",
+  "/nothing-new-year-wrap-up"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [nothing new year]
@@ -149,6 +150,10 @@ Well, we stumbled a bit this month with our $23 power cord and a $50 birthday pr
 
 What I'm really excited for is to see how our finances change once we're finally out of our house and in a rental. Without all the maintenance and updates, I anticipate things will be a whole lot more steady :)
 
+## Check Out All the Updates
 
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+
+_Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month Five Update]({% post_url 2017/2017-06-05-nothing-new-year-month-five-update %})._
 
 _Are you still on-track with the resolutions you made for this year? How have you gotten back on track when you fail a goal?_

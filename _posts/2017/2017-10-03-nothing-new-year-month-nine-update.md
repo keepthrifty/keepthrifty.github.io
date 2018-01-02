@@ -24,7 +24,8 @@ related-posts: [
   "/nothing-new-year-month-seven-update",
   "/nothing-new-year-month-eight-update",
   "/nothing-new-year-month-ten-update",
-  "/nothing-new-year-month-eleven-update"
+  "/nothing-new-year-month-eleven-update",
+  "/nothing-new-year-wrap-up"
 ]
 
 tags: [nothing new year]
@@ -124,5 +125,11 @@ In a few short weeks, you'll start to see videos showing up here and you'll be a
 ![Kids looking at computer screen cheering]({{site.url}}/assets/img/posts/2017-10-03-nothing-new-year-month-nine-update/children-excited.png)
 
 Stay tuned for more details!
+
+## Check Out All the Updates
+
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+
+_Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month Ten Update]({% post_url 2017/2017-11-07-nothing-new-year-month-ten-update %})._
 
 _We're going to try to be an open book in Our Thrifty Life. What questions about our life would you like us to answer? Want to hear more about floor sleeping? Minimalism with kids? How Jaime stands me being home 24/7? Let us know what you'd like to hear more about in the comments below!_

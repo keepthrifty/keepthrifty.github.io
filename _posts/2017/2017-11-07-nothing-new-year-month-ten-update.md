@@ -24,7 +24,8 @@ related-posts: [
   "/nothing-new-year-month-seven-update",
   "/nothing-new-year-month-eight-update",
   "/nothing-new-year-month-nine-update",
-  "/nothing-new-year-month-eleven-update"
+  "/nothing-new-year-month-eleven-update",
+  "/nothing-new-year-wrap-up"
 ]
 
 tags: [nothing new year]
@@ -149,5 +150,11 @@ Here are the details (_note: some of this spending was from earlier in the year 
 For the networking, mentoring (I had an amazing one-on-one session with [Jessica Moorhouse](https://www.jessicamoorhouse.com), socializing, and fun from the trip, I'd say __it was worth way more than $1180__!
 
 I came away from the conference with a much more solid sense of what I hope to accomplish with Keep Thrifty and you'll see some exciting things coming up over the next few months. Stay tuned!
+
+## Check Out All the Updates
+
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+
+_Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month Eleven Update]({% post_url 2017/2017-12-05-nothing-new-year-month-eleven-update %})._
 
 _How did your spending this month go? Have you ever attended a professional conference? How did you manage the costs? If you were at FinCon, how did you keep the expense down?_
