@@ -37,7 +37,7 @@ This mini-retirement has been an opportunity for me to practice _real retirement
 
 No matter where you are in your retirement journey (and whether that's going to be traditional retirement, early retirement, or a mini-retirement), keep these in mind to help you make the most of your time:
 
-## 1. Don't retire from something - retire to something
+## 1. {% include tweet-link.html tweet-text="Don't retire from something - retire to something" %}
 
 ![]({{site.url}}/assets/img/posts/2018-01-09-before-you-retire-lessons-from-mini-retirement/freedom.jpg)
 {: class="image--left" }
@@ -73,7 +73,7 @@ So, make sure to develop a vision for what you want in retirement _before_ you g
 
 If someone asked you when you'd be ready to retire, you might pull up a spreadsheet with projections on the growth of your investment accounts.
 
-Understanding when you'll be financially ready for retirement is great, but do you know when you'll be _mentally ready_?
+{% include tweet-link.html tweet-text="Understanding when you'll be financially ready for retirement is great, but do you know when you'll be _mentally ready?_" %}
 
 You might say "right now" - after all, wouldn't it be great to stop working today?
 
@@ -120,7 +120,7 @@ As you look toward retirement, consider what your schedule might look like to ma
 
 ## What to do before you retire
 
-Our mini-retirement has been a great "practice session" for the real thing down the road. We've learned some important lessons that will help us when we're ready to finally retire for good.
+{% include tweet-link.html tweet-text="Taking a mini-retirement is a great \"practice session\" for real retirement" %}. We've learned some important lessons that will help us when we're ready to finally retire for good.
 
 As you work toward your own retirement, take these lessons to heart.
 
