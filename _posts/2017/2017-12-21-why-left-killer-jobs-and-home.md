@@ -16,6 +16,8 @@ tags: [create your freedom]
 
 categories: [freedom-story]
 
+popular: true
+
 ---
 
 _We are so excited to introduce you to [Sarah](https://www.slpenner.com/about){: target="_blank"}. Sarah grew up, married, and loved life in Kansas. At the same time, she craved a more adventurous life and wanted to take a risk. What did her and husband Marc decide to do? Sarah shares her backstory, how they came to the decision to move, their new life in Florida, and what’s next in living out their adventurous life._

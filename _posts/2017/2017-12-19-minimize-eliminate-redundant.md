@@ -27,6 +27,8 @@ redirect_from:
 
 categories: [article]
 
+rockstar: true
+
 ---
 
 Earlier this year, we experienced a culinary tragedy - __our pizza cutter broke__. Our initial reaction was to go out and buy a replacement, but we were in the middle of our [Nothing New Year challenge]({% post_url 2017/2017-01-02-happy-nothing-new-year %}) so we held off. A few days passed, then a week, then a month. We hadn't replaced the pizza cutter and somehow, _amazingly_, we were still surviving.
