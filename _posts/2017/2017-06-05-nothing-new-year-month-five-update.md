@@ -24,7 +24,8 @@ related-posts: [
   "/nothing-new-year-month-eight-update",
   "/nothing-new-year-month-nine-update",
   "/nothing-new-year-month-ten-update",
-  "/nothing-new-year-month-eleven-update"
+  "/nothing-new-year-month-eleven-update",
+  "/nothing-new-year-wrap-up"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [nothing new year]
@@ -154,6 +155,10 @@ Next month's update will be a fun one as it'll include our last "regular" mortga
 
 Hope your own personal challenges are going well this year!
 
+## Check Out All the Updates
 
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+
+_Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month Six Update]({% post_url 2017/2017-07-03-nothing-new-year-month-six-update %})._
 
 _Even a goal we miss can have a positive impact. Have you had goals you didn't achieve but still saw great benefits from? What were they and how did they impact you?_

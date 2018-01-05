@@ -27,7 +27,7 @@ audio:
   block: 'no'
   length: 9157821
 
-tags: [dreams & values]
+tags: [mini-retirement]
 
 categories: [article]
 

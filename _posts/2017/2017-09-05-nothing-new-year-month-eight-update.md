@@ -24,7 +24,8 @@ related-posts: [
   "/nothing-new-year-month-seven-update",
   "/nothing-new-year-month-nine-update",
   "/nothing-new-year-month-ten-update",
-  "/nothing-new-year-month-eleven-update"
+  "/nothing-new-year-month-eleven-update",
+  "/nothing-new-year-wrap-up"
 ]
 
 tags: [nothing new year]
@@ -146,5 +147,11 @@ One of the big things financial discipline can help with is opening up your opti
 As I write this post, our three daughters are all attending their first day of school for the year. This has been a true season of change for us - starting with our ambitious and crazy plans for a mini-retirement, downsizing, and now with all three of our kids entering full-time school for the first time.
 
 I'm excited for what the rest of this year holds - the possibilities for our family, and for this site, are endless. I'm looking forward to continuing to share our adventure with you and hopefully helping you out in your own as well.
+
+## Check Out All the Updates
+
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+
+_Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month Nine Update]({% post_url 2017/2017-10-03-nothing-new-year-month-nine-update %})._
 
 _When has financial discipline given you options you wouldn't have had otherwise? What incredible opportunities have dropped into your lap when you least expected them? Did you take advantage of them?_

@@ -24,7 +24,8 @@ related-posts: [
   "/nothing-new-year-month-eight-update",
   "/nothing-new-year-month-nine-update",
   "/nothing-new-year-month-ten-update",
-  "/nothing-new-year-month-eleven-update"
+  "/nothing-new-year-month-eleven-update",
+  "/nothing-new-year-wrap-up"
 ]
 
 tags: [nothing new year]
@@ -135,6 +136,10 @@ In our debt freedom journey, we've got just two days left - it's going to be sur
 
 We'll keep doing our best at the nothing new year and try to apply what we learned this month toward next month's goal. Keep Thrifty and Carry On!
 
+## Check Out All the Updates
 
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+
+_Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month Seven Update]({% post_url 2017/2017-08-01-nothing-new-year-month-seven-update %})._
 
 _If you are debt-free, how did getting there change your life? If you're not debt-free, how do you picture life could be different if you got there?_

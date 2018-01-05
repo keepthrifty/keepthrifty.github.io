@@ -23,7 +23,8 @@ related-posts: [
   "/nothing-new-year-month-eight-update",
   "/nothing-new-year-month-nine-update",
   "/nothing-new-year-month-ten-update",
-  "/nothing-new-year-month-eleven-update"
+  "/nothing-new-year-month-eleven-update",
+  "/nothing-new-year-wrap-up"
 ]
 permalink: /:year/:month/:day/:title/
 tags: [nothing new year]
@@ -146,6 +147,12 @@ Since we're at the start, let's set the baseline on where we're at with our mort
 The red line shows our outstanding mortgage principal if we had stuck with our original mortgage back in 2007. The blue line shows our actual mortgage principal to-date (as well as projections based on our current prepayments). The faint lines show all the different mortgage paths we've been on based on different refinancing and prepayment strategies.
 
 Based on our aggressive prepayments and taking advantage of refinancing, we're due to save $161,000 and finish 17 years earlier than our original plan! Right now, we're coming in a bit after our 2020 goal with an expected payoff date of August 1, 2020. I haven't built in additional prepayments I think we should be able to make, so hopefully that means we're going to get there before 2020 still :)
+
+## Check Out All the Updates
+
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+
+_Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month One Update]({% post_url 2017/2017-02-06-nothing-new-year-month-one-update %})._
 
 ## Your Thoughts?
 
