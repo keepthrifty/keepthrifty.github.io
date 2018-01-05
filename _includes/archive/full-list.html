@@ -1,7 +1,12 @@
 {%- assign posts = site.categories[include.type] -%}
 
 <ul id="archive-list">
-  {%- for post in posts -%}
+  {%- for i in (0..posts.size) -%}
+    {%- assign post = posts[i] -%}
+    {%- assign curr_yr = post.date | date: "%Y" -%}
+    {%- assign last_post_i = i | minus: 1 -%}
+    {%- assign next_yr = posts[last_post_i].date | date: "%Y" -%}
+    {% unless curr_yr == next_yr %}<h3>{{ curr_yr }}</h3>{% endunless %}
     <li class="archive-list--entry">
       {%- if post.rockstar -%}<i class="fa fa-star featured-item" aria-hidden="true"></i>
       {%- elsif post.categories contains 'article' -%}<i class="fa fa-file-text-o" aria-hidden="true"></i>

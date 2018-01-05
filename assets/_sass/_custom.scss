@@ -46,3 +46,10 @@ main.page {
   overflow-x: auto;
   margin-bottom: 2rem;
 }
+
+.no-border {
+  img {
+    box-shadow: none !important;
+    border: none !important;
+  }
+}
