@@ -69,8 +69,18 @@ winning_personal_finance:
   twitter: WinningPFin
   pinterest: winningpersonalfinance
   facebook: WinningPersonalFinance
+adventure_rich:
+  name: "Mrs. AR (Adventure Rich)"
+  web: https://www.adventurerich.com/
+  twitter: adventurerichly
+  pinterest: adventurerichblog
+  facebook: adventurerichly
 our_financial_path:
-  name: "Mr. and Mrs. XYZ"
+  name: "Mr. and Mrs. XYZ (Our Financial Path)"
   web: http://ourfinancialpath.com/
   twitter: myFinancialPath
   pinterest: FrugalBudgets
+live_daily_mo:
+  name: "Mohammed (Live Daily Mo)"
+  web: https://livedailymo.wordpress.com/
+  facebook: livedailymo
