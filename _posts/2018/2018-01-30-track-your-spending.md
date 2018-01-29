@@ -4,16 +4,12 @@ layout: post
 author: chris_durheim
 
 title: "5 reasons you need to track your spending"
-description: "TK"
+description: "What do you mean you aren't tracking your spending? Seriously? Here's 5 reasons you're making a huge mistake."
 
 date: 2018-01-30 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-01-30-track-your-spending/ruler-calculator.jpg
-pinterest-image: /assets/img/posts/2018-01-30-track-your-spending/TK
-
-redirect_from:
-  - /track/
 
 categories: [article]
 
