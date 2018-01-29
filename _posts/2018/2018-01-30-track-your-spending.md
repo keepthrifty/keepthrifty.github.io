@@ -56,7 +56,7 @@ Customizing how we tracked our spending to separate out "good" spending from "ba
 
 Beyond this, tracking can even _passively_ help reduce your spending by acting as a deterrent. Let me explain:
 
-In dieting, using food journal can discourage you from scarfing down a free donut in your Monday morning meeting. Having to write down that you consumed 350 empty calories doesn't feel that great.
+In dieting, using a food journal can discourage you from scarfing down a free donut in your Monday morning meeting. Having to write down that you consumed 350 empty calories doesn't feel that great.
 
 In finances, tracking your spending can have a similar effect - discouraging you from making those [frivolous purchases]({% post_url 2017/2017-10-31-frivolous-purchase-threshold %}). Do you really want to have to enter the $20 you blew on lottery tickets this week?
 
@@ -83,9 +83,11 @@ Beyond building a budget for this month or this year, tracking your spending can
 
 After all, to retire you'll need to know that your investments are going to reliably cover your annual spending.
 
-Investment firms often guide you on this applying some multiple of your pre-retirement _income,_ but that doesn't make any sense, does it?
+Investment firms often advise you to figure this out by applying some multiple of your pre-retirement _income,_ but that doesn't make any sense, does it?
 
 If you make $100,000 a year before retirement but put 50% of that every year into savings, you're going to need a lot less in your retirement accounts than someone who only puts 5% a year into savings.
+
+_(Snide aside: of course they advise you to do this - it encourages you to invest more than you need, which means they get to charge you more.)_
 
 By tracking your spending, you can use those numbers to build a realistic post-retirement budget so you can retire with confidence.
 
