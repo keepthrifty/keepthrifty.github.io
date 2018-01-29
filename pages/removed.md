@@ -4,9 +4,6 @@ title: Sorry...
 subtitle: ...we decluttered that item
 permalink: /file-decluttered/
 redirect_from:
-  - /assets/marketing/keep-thrifty-business-card-front.pdf
-  - /assets/marketing/keep-thrifty-business-card-front-3.5x2-rounded.pdf
-  - /assets/marketing/keep-thrifty-business-card-back-3.5x2-rounded.pdf
   - /2016/02/22/keepthrifty-experiment.html
   - /2016/03/20/march-challenge-update-3.html
   - /2016/03/20/march-challenge-household-care-update-3.html
@@ -16,6 +13,7 @@ redirect_from:
   - /2016/04/17/april-challenge-grocery-update-1.html
   - /2016/05/01/may-challenge-food.html
   - /2016/05/01/april-challenge-grocery-update-2.html
+  - /2016/05/16/may-challenge-food-update-1.html
   - /2016/05/29/june-challenge-entertainment.html
   - /2016/05/29/may-challenge-food-update-2.html
   - /challenge/2016/03/28/april-challenge.html
@@ -23,10 +21,6 @@ redirect_from:
   - /challenges/2016-04-grocery/index.html
   - /challenges/2016-06-entertainment/
   - /download-fin-101/
-  - /img/keep-thrifty-business-card-front.pdf
-  - /img/keep-thrifty-business-card-back.pdf
-  - /img/keep-thrifty-business-card-front-3.5x2-rounded.pdf
-  - /img/keep-thrifty-business-card-back-3.5x2-rounded.pdf
 image:
   path: /assets/img/clean-up.jpg
 exclude_from_search: true
