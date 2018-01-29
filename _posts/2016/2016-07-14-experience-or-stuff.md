@@ -85,9 +85,7 @@ If you gave me $2000 and said I had to spend it on one of the two above, getting
 
 This brings us back to the point of being thrifty, frugal, or whatever term you want to use. Money is a tool for _you_ to use on what's important..._to you_.
 
-> Use your money for whatever brings you sustained joy and helps you be your best self
->
-> <cite>[Tweet this][tweet-quote-1]</cite>
+> {% include tweet-link.html tweet-text="Use your money for whatever brings you sustained joy and helps you be your best self" %}
 
 ## Spend on Your Priorities #
 
@@ -111,10 +109,7 @@ My advice?
 
 It pays to hear different viewpoints and understand how different people live, but what you spend on is very personal - only you can decide what's right for yourself.
 
-> Don't let someone else tell you what to spend on - put your money where your heart is
->
-> <cite>[Tweet this][tweet-quote-2]</cite>
-
+> {% include tweet-link.html tweet-text="Don't let someone else tell you what to spend on - put your money where your heart is" %}
 
 [thrifty-link]: https://thrifty.keepthrifty.com
 {: target="_blank"}
@@ -125,12 +120,6 @@ It pays to hear different viewpoints and understand how different people live, b
 {: target="_blank"}
 
 [signalvnoise]: https://m.signalvnoise.com
-{: target="_blank"}
-
-[tweet-quote-1]: https://twitter.com/intent/tweet?text=Use%20your%20money%20for%20whatever%20brings%20you%20sustained%20joy%20and%20helps%20you%20be%20your%20best%20self%20https%3A%2F%2Fwww.keepthrifty.com%2F2016%2F07%2F14%2Fexperience-or-stuff.html%20via%20%40keepthrifty
-{: target="_blank"}
-
-[tweet-quote-2]: https://twitter.com/intent/tweet?text=Don%27t%20let%20someone%20else%20tell%20you%20what%20to%20spend%20on%20-%20put%20your%20money%20where%20your%20heart%20is%20https%3A%2F%2Fwww.keepthrifty.com%2F2016%2F07%2F14%2Fexperience-or-stuff.html%20via%20%40keepthrifty
 {: target="_blank"}
 
 [research-paper-pdf]: http://psych.colorado.edu/~vanboven/research/publications/vb_gilo_2003.pdf

@@ -68,7 +68,7 @@ This option is better for everyone except us. But should we have to sacrifice ou
 
 > Accept what you cannot change, change what you cannot accept.
 >
-> <cite>- Anonymous</cite>
+> <cite>Anonymous</cite>
 
 So, should we have just rented a bigger, more expensive apartment?
 
