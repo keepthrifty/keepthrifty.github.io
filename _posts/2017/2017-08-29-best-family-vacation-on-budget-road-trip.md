@@ -168,7 +168,7 @@ Finally, here's a quote to keep in mind as you plan your route:
 
 > Thanks to the Interstate Highway System, it is now possible to travel across the country from coast to coast without seeing anything.
 >
-> <cite>- Charles Kuralt</cite>
+> <cite>Charles Kuralt</cite>
 
 There's a lot of truth to this. Interstate driving in the panhandle of Florida doesn't feel all that different from Wisconsin. Some of our most memorable stretches of driving have been when we got off the interstate system and took county or state highways instead. In many cases, the route is nearly as fast and _much_ more scenic.
 

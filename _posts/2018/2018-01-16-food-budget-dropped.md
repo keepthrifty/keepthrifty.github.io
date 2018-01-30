@@ -171,7 +171,7 @@ We improved our food spending by $3,300 a year through a combination of:
 _Is food spending a challenge for you as well? Have you found any favorite recipes or techniques to keep your costs down?_
 
 {% capture rightnow %}{{'now' | date: '%s'}}{% endcapture %}
-{% capture signupends %}{{ "February 1, 2018" | date: '%s'}}{% endcapture %}
+{% capture signupends %}{{ "February 15, 2018" | date: '%s'}}{% endcapture %}
 
 {% if rightnow < signupends %}
 
@@ -183,7 +183,7 @@ We've created a web app (called Thrifty) to helps you track your income, taxes, 
 
 We've been using Thrifty for two-and-a-half years now to track every penny and we find new insights about how we manage our money every month.
 
-If you _sign up for a free 75-day trial of Thrifty by January 31, 2018_, you'll get __50% off__ the cost of a regular subscription.
+If you _sign up for a free 75-day trial of Thrifty by February 14, 2018_, you'll get __50% off__ the cost of a regular subscription.
 
 Thrifty is normally $4 a month, but you can get it for just $2!
 

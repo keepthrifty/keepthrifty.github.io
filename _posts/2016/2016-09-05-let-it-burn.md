@@ -37,8 +37,8 @@ Our IT staff does a great job porting over your files, but every new PC is a "cl
 >
 > ...
 >
-> Overall, fire is a catalyst for promoting biological diversity and healthy ecosystems. It fosters new plant growth and wildlife populations often expand as a result.
-> <cite>([Pacific Biodiversity Institute](http://www.pacificbio.org/initiatives/fire/fire_ecology.html){: target="_blank"})</cite>
+> Overall, fire is a catalyst for promoting biological diversity and healthy ecosystems. It fosters new plant growth and wildlife populations often expand as a result.  
+> <cite>[Pacific Biodiversity Institute](http://www.pacificbio.org/initiatives/fire/fire_ecology.html){: target="_blank"}</cite>
 
 Over the last three years I had built up a list of about 25-30 RSS feeds I subscribed to covering all sorts of topics from entrepreneurship and management studies to coding practices, personal finance and [Dilbert](http://www.dilbert.com){: target="_blank"} strips.
 
