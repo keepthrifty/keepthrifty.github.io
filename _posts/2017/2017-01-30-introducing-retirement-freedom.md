@@ -5,7 +5,7 @@ author: chris_durheim
 
 
 title: "Introducing Retirement Freedom"
-description: "The road to financial freedom can take a long time; an intermediate step to celebrate is Retirement Freedom - never heard of it? That's because I made it up"
+description: "The road to financial independence can be long; an intermediate step to celebrate is Retirement Freedom - never heard of it? That's because we made it up"
 
 image:
   path: /assets/img/posts/2017-01-30-introducing-retirement-freedom/space-capsule.jpg
@@ -28,77 +28,106 @@ categories: [article]
 
 ---
 
-One of the biggest challenges for people working toward financial freedom is _patience_. You've got all the right systems set up to get you there but there aren't many victories to celebrate along the way. With that in mind, I'm going to give you one to add to the list.
+One of the biggest challenges when working toward financial independence is _patience._ Once you're [tracking your spending](https://thrifty.keepthrifty.com), minimizing waste, and investing responsibly, there's a lot of waiting. Compounding growth is amazing, but it takes time!
 
-As a refresher, _financial freedom_ is the point when you no longer have to bring in active income to maintain your lifestyle. A rough rule of thumb is that you'll need to save 25 times your anticipated annual expenses. This is the granddaddy of all financial goals - once you achieve financial freedom, money shouldn't have a hold on you anymore.
+As a refresher, _financial independence_ is when you no longer have to bring in active income to maintain your lifestyle. A rough rule of thumb is that you'll need to save 25 times your anticipated annual expenses.
 
-But I didn't want to wait until I'm all the way there to celebrate - so I created ___Retirement Freedom___ as an intermediate milestone. Here's my definition:
+Financial independence is _the granddaddy of all financial goals._ Once you're there, money shouldn't have a hold on you anymore.
 
-{% include tweet-link.html tweet-text="_Your retirement accounts are big enough for you to retire at 65 even if you stop contributing today_" %}
+But the road to financial independence usually lasts for many years. And there aren't many opportunities to celebrate along the way.
 
-In other words - if you never put another penny in your retirement accounts but they'll still grow big enough for you to retire at age 65, congratulations - _you're retirement free_!
+With that in mind, we came up with our own intermediate milestone. We call it ___Retirement Freedom.___
 
-So, how can you figure out if you're there?
+Here's our definition:
 
-## Retirement Freedom Calculation
+> {% include tweet-link.html tweet-text="_Your retirement accounts are big enough for you to retire at 65 even if you stopped contributing today_" %}
 
-The calculation here is fairly simple.
-
-Let's call `Rt` your retirement funds today and `g` the rate you expect your retirement funds to grow with no contributions. If your projected retirement funds at age 65 is called `R65`, then:
-
-    R65 = Rt * (1+g)^(65-age)
-
-Let's call `Et` your expected retirement annual expenses (in today's dollars). We'll call `t` your expected tax rate on your retirement funds and `i` your expected rate of inflation. If your necessary retirement fund stash at age 65 is called `E65`, then:
-
-    E65 = Et * (1+i)^(65-age) / (1-t) * 25
-
-If `R65` is greater than `E65` _and your assumptions hold true_, you already have enough set aside to cover your retirement expenses. Congrats - you've achieved retirement freedom for age 65 (RF65).
-
-Pretty awesome, right?
-
-## What Retirement Freedom Buys You
-
-Think of the mental freedom in knowing that you _will_ retire at 65 regardless of your contributions from here on out. No worries about failing pension plans or social security; you've already got everything covered.
-
-Once you've achieved Retirement Freedom, you gain incredible peace of mind. No longer are you questioning when, or if, you'll be retiring. When you know you can comfortably retire _at worst_ at age 65, your attention now can shift to making the most out of the time between now and then.
+If you never put another penny in your retirement accounts but they'd still grow to allow you to retire at age 65, congratulations - _you're retirement free!_
 
 ## The Retirement Rocket
 
-Whenever I think about Retirement Freedom and financial freedom, I have a vision of a rocket taking a capsule into outer space. There's a ton of force needed to get off the ground, not to mention escaping earth's atmosphere. Once the payload is in space, however, the rocket has served its purpose. It separates from the capsule and burns up in the earth's atmosphere.
+I love analogies, so here's one that captures Retirement Freedom well.
 
-Retirement Freedom is getting you off of earth's surface and into outer space. At that point, you've taken care of the toughest part. Armed with the security of your imminent retirement, you can direct your attention to the fun of navigating the financial cosmos.
+Imagine a rocket taking a capsule into outer space. There's a ton of force needed to get off the ground, not to mention escaping earth's atmosphere. Once the payload is in space, the rocket has served its purpose. It separates from the capsule and burns up in the earth's atmosphere.
 
-Do you want to speed up your retirement - _maybe instead of RF65, you want to target RF45_? Or do you want to spend your time working only on things you find fun that can cover the bills?
+_If financial independence is getting to the moon, Retirement Freedom is the point where the rocket separates from the payload._
 
-If your income no longer has to cover retirement, all you're responsible for covering in the interim is your annual expenses and a bit of a safety fund. With that, you can have the flexibility to try a whole lot of new things with your career, living situation, etc.
+You've done your hard work saving and have taken care of the toughest part. Armed with the security of a future retirement, you can direct your attention to the fun of navigating the financial cosmos._
 
-## Are You Retirement Free Yet?
+## What Retirement Freedom Buys You
 
-If you've read much on this site before, you're probably expecting a spreadsheet at this point.
+> {% include tweet-link.html tweet-text="When you know that you've secured age 65 retirement, you can focus on making the most of the time between now and then" %}
 
-The formula above is great and all, but it's much more fun to analyze how you stand on Retirement Freedom using a spreadsheet instead of a calculator.
+If your income no longer has to cover saving for retirement, all you're responsible for is your annual expenses and building a bit of a safety fund.
 
-With that in mind, here's your present for today: [The Keep Thrifty Retirement Freedom Spreadsheet][spreadsheet]
+With that, you can have the flexibility to live better __now__. You could:
+
+- Reduce your hours at work or take a lower-stress job
+- Take more time to travel while you're young
+- hustle hard and bring that retirement date in from age 65 to age 40.
+
+For me, reaching Retirement Freedom provided the financial confidence to leave my 9 to 5 job and take a [one-year mini-retirement]({% post_url 2017/2017-07-11-one-year-mini-retirement %}).
+
+Reaching _Retirement Freedom_ takes some of the pressure off the path to financial independence. With your newfound flexibility, you might be able to live pieces of your dream life even earlier.
+
+Have I sold you on the concept yet? _Good._
+
+So how can you know whether you're there or not?
+
+## Retirement Freedom Calculation
+
+If you're not interested in the math, feel free to [jump ahead](#its-spreadsheet-time). Otherwise, let's dive in.
+
+Let's call `Rt` your retirement funds today and `g` the rate you expect your retirement funds to grow with no contributions. If we call `R65` your projected retirement funds at age 65, then:
+
+    R65 = Rt * (1+g)^(65-age)
+
+Let's call `Et` your expected retirement annual expenses (in today's dollars). We'll call `t` your expected tax rate on your retirement funds and `i` your expected rate of inflation. Finally, let's call `r` your chosen [safe withdrawal rate]({% post_url 2017/2017-07-25-safe-withdrawal-rate-4-percent-relevant %}).
+
+If we call `E65` your target retirement funds at age 65, then:
+
+    E65 = Et * (1+i)^(65-age) / (1-t) / r
+
+If your assumptions hold true, and you find that `R65` is greater than `E65`, then I'd like to say __congrats - you're Retirement Free for age 65!__
+
+Pretty awesome, right?
+
+## It's Spreadsheet Time
+
+_You didn't think I was going to make you do these calculations by hand, did you?_
+
+I'm pleased to present you with the Keep Thrifty Retirement Freedom Calculator in spreadsheet format:
+
+- Google Sheets: [Keep Thrifty Retirement Freedom Calculator][spreadsheet]
+- Downloadable MS Excel File: [Keep Thrifty Retirement Freedom Calculator]({{site.url}}/assets/spreadsheets/keep-thrifty-retirement-freedom.xlsx)
 
 [![The Keep Thrifty Retirement Freedom Spreadsheet]({{site.url}}/assets/img/posts/2017-01-30-introducing-retirement-freedom/retirement-freedom-spreadsheet.jpg)][spreadsheet]
 
-If you click on the link, you can get your own copy of the sheet using Google Sheets. Enter in your information and you'll see:
+Get the sheet in whatever format you prefer and enter your information. You can see where you stand for Retirement Freedom by looking in cell `F13`.
 
-- Whether you've already achieved Retirement Freedom
-- When you'll achieve Retirement Freedom based on your current monthly retirement contributions
-- If cell E10 is blank, then your current contributions aren't enough for you to hit retirement by the age you set.
+You'll see one of the following:
 
-Go ahead and play around. It can take a bit for Google's servers to compute everything, so be patient.
+1. __Already There!__ - Congrats rockstar - you've done a great job so far and you should go celebrate!
+2. __A date__ - This is when you're projected to hit Retirement Freedom based on your current contributions. You’ve got two options to improve your date: increasing contributions and/or reducing your expected expenses.
+3. __Never :(__ - Based on what you've entered, you're not on track to be able to retire at the age you put in. Adjust your "Target Retirement Age" to see when you actually _can_ retire. Then look at your contributions and your expected retirement expenses to see how you can improve.
 
-Here are some of the fun scenarios I found using the spreadsheet:
+Go ahead and play around. Using the fields can lead you to some pretty interesting scenarios.
 
-- I'm on-track to hit Retirement Freedom in April of 2020 (shortly after our goal of when we'll achieve debt freedom)
-- I've already got enough put away to retire at age 70
-- A baby born today could be Retirement Free by their 18th birthday if their parents made a monthly contribution of just $169 (assuming $20,000 annual expenses). Wouldn't that be a nice graduation present? This smells a bit like [Mr. Groovy's Junior IRA](http://freedomisgroovy.com/junior-ira-nutshell/){: target="_blank"}
+## Retirement Freedom Scenarios
 
-If you haven't gotten to financial freedom yet, consider making Retirement Freedom an intermediate target. With [29% of households age 55 and older having __zero__ retirement savings](http://www.gao.gov/products/GAO-15-419){: target="_blank"}, you're doing pretty well if you can achieve it!
+Here are some of our favorite scenarios using the spreadsheet:
 
-_Play around with the spreadsheet a bit. Have you already hit Retirement Freedom? If not, when will you get there? What opportunities will open up for you once you hit Retirement Freedom?_
+- Without my projected pension payout, we could stop contributing to our retirement accounts and still retire at age 70.
+- If we include my projected pension payout, _we've already hit Retirement Freedom!_ Time for the happy dance :)
+- A baby born today could be Retirement Free by their 18th birthday. At $20,000 annual retirement expenses, their parents would only need to make a monthly contribution of $169 from birth to age 18. Wouldn't that be a nice graduation present? This feels a bit like [Mr. Groovy's Junior IRA](http://freedomisgroovy.com/junior-ira-nutshell/){: target="_blank"} concept.
+
+If you haven’t reached financial independence, consider Retirement Freedom as a stepping stone. It’s a great way to celebrate progress on your path and gives you new options between now and retirement.
+
+> {% include tweet-link.html tweet-text="When saving stops being a necessity, your world fills with options" %}
+
+What could achieving Retirement Freedom do for you?
+
+_How do your numbers shake out? When will you reach Retirement Freedom? How would you live once you got there?_
 
 [spreadsheet]: https://docs.google.com/spreadsheets/d/17jDUnWwUz9rJyMUIv3W2QdP2J9MWMSsdL2AjuaZv3D0/copy?usp=sharing
 {: target="_blank"}
