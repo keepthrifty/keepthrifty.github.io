@@ -160,9 +160,6 @@ main.page__body {
       background-color: $bg-color;
     }
   }
-  blockquote {
-
-  }
   code, pre {
     font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
     color: $off-black;
@@ -200,6 +197,12 @@ main.page__body {
   blockquote {
     p {
       font-size: 2rem;
+    }
+    cite {
+      &:before{
+        content: '- ';
+      }
+      font-size: 1.4rem;
     }
   }
 

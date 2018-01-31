@@ -42,7 +42,7 @@ Patience is a virtue, but it's more than that. It's an incredible source of pass
 Every generation needs an anthem but I'm afraid if our shopping behavior is any indication, our anthem isn't a flattering one.
 
 > I want it all, I want it all, I want it all, and I want it now  
-> <cite>- Queen</cite>
+> <cite>Queen</cite>
 
 We're so focused on getting what we want right away that we misunderstand how much our impatience is costing us and what we could earn by exercising our patience instead.
 
@@ -109,7 +109,7 @@ You're stronger than that. When you exercise patience, you're not depriving your
 After all, a really smart old guy once said:
 
 > A penny saved is a penny earned  
-> <cite>- Benjamin Franklin</cite>
+> <cite>Benjamin Franklin</cite>
 
 {% include tweet-link.html tweet-text="The concept of getting paid for doing absolutely nothing sounds like a dream to me" %}.
 
