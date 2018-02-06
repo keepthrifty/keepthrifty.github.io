@@ -1,0 +1,85 @@
+<div class="calculator">
+  <h3 class="calculator-title">Retirement Freedom Calculator</h3>
+  <p class="calculator-description">Enter your numbers to see if you've reached Retirement Freedom</p>
+  <form action="" id="retirement-freedom">
+    <div class="calculator-row">
+      <div class="calculator-field">
+        <label for="age">Current Age</label>
+        <span class="suffixed-input">
+          <input type="number" name="age" min="0" value="30" step="1" suffix="years">
+          <span class="input-suffix">
+            years
+          </span>
+        </span>
+      </div>
+      <div class="calculator-field">
+        <label for="age">Target Retirement Age</label>
+        <span class="suffixed-input">
+          <input type="number" name="retirement-age" min="0" value="65" suffix="years">
+          <span class="input-suffix">
+            years
+          </span>
+        </span>
+      </div>
+      <div class="calculator-field">
+        <label for="funds-today">Current Retirement Acct Balance</label>
+        <span class="prefixed-input">
+          <span class="input-prefix">
+            $
+          </span>
+          <input type="number" name="funds-today" min="0" value="150000" prefix="$">
+        </span>
+      </div>
+      <div class="calculator-field">
+        <label for="funds-today">Retirement Annual Expenses</label>
+        <span class="prefixed-input">
+          <span class="input-prefix">
+            $
+          </span>
+          <input type="number" name="retirement-expenses" min="0" value="30000" prefix="$">
+        </span>
+      </div>
+      <div class="calculator-field">
+        <label for="growth">Investment Growth Rate</label>
+        <span class="suffixed-input">
+          <input type="number" name="growth" min="0" value="8.0" step="0.1" suffix="%">
+          <span class="input-suffix">
+            %
+          </span>
+        </span>
+      </div>
+      <div class="calculator-field">
+        <label for="growth">Inflation Rate</label>
+        <span class="suffixed-input">
+          <input type="number" name="inflation" min="0" value="2.5" step="0.1" suffix="%">
+          <span class="input-suffix">
+            %
+          </span>
+        </span>
+      </div>
+      <div class="calculator-field">
+        <label for="growth">Retirement Tax Rate</label>
+        <span class="suffixed-input">
+          <input type="number" name="tax-rate" min="0" value="15.0" max="99.9" step="0.1" suffix="%">
+          <span class="input-suffix">
+            %
+          </span>
+        </span>
+      </div>
+      <div class="calculator-field">
+        <label for="growth">Safe Withdrawal Rate</label>
+        <span class="suffixed-input">
+          <input type="number" name="safe-withdrawal-rate" min="0.1" max="100.0" value="4.0" step="0.1" suffix="%">
+          <span class="input-suffix">
+            %
+          </span>
+        </span>
+      </div>
+      <div class="calculator-submit">
+       <button class="button" type="submit" name="action">Calculate</button>
+      </div>
+
+      <div class="calculator-result"></div>
+    </div>
+  </form>
+</div>
