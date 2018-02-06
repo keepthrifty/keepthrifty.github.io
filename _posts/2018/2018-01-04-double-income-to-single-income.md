@@ -16,8 +16,6 @@ tags: [create your freedom]
 
 categories: [freedom-story]
 
-popular: true
-
 ---
 
 _We are excited to introduce you to Jason from [Winning Personal Finance](https://www.winningpersonalfinance.com/){: target="_blank"}. Living it up in New York City sounds amazing, until it doesn’t. What if the city life you loved left you feeling empty and missing out on what you felt was truly important? Jason and his wife found themselves in this situation and decided to take a chance on a different life path._
