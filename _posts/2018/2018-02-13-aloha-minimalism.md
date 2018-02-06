@@ -4,7 +4,7 @@ layout: post
 author: jaime_durheim
 
 title: "What I Discovered in Hawaii: Aloha Minimalism"
-description: "TK"
+description: "Our trip to Hawaii ended up being more than just a couple weeks on the beach. We discovered a way of living that spoke to our souls."
 
 date: 2018-02-13 6:58:00 -0500
 
@@ -22,22 +22,22 @@ Traveling to Hawaii is a dream come true. I had always hoped I would get the cha
 
 I dreamed of traveling somewhere exotic. In my mind that would be New Zealand. Then I was talking with a friend and she said something that struck me - __Why not go to Hawaii since you’re trying to visit all 50 states?__ Why had I not thought of that? It was the perfect idea! I rushed home to Chris and decidedly declared we should go to Hawaii in January!
 
-Chris was on board. Within days I found an [airbnb that I loved](https://www.airbnb.com/rooms/841416){: target="_blank"}. Within two weeks we had booked our stay and our round trip tickets. Within a month we had our kids on their very first plane ride and we were heading to paradise. I had no idea what was in store for our family, but it seemed God had a plan. I was about to discover the very thing I had been searching for.
+Chris was on board. Within days I found an [Airbnb that I loved](https://www.airbnb.com/rooms/841416){: target="_blank"}. Within two weeks we had booked our stay and our round trip tickets. Within a month we had our kids on their very first plane ride and we were heading to paradise. I had no idea what was in store for our family, but it seemed God had a plan. I was about to discover the very thing I had been searching for.
 
 ## Aloha Oahu
 
 When we landed in Honolulu, adrenaline was racing through my veins. I was exhausted, but invigorated to have made it to Hawaii. While Chris went to get our rental car, I found myself shedding my airplane clothes. I was too warm. After Chris got the car keys, he found me in a tank top and messy ponytail. I was so __happy!__
 
-Our stay in Hawaii was magical. Our [airbnb](https://www.airbnb.com/c/chrisd5956){: target="_blank"} was in the town of Laie, in the North Shore of Oahu. It was peaceful and slow paced. People walked around in minimal clothing, sometimes just a swimsuit and t-shirt (even girls). Sandals seemed optional as I watched a 20 year old girl walk into Subway barefoot. Chickens also roamed the streets, yards, and picnic areas like squirrels do in Wisconsin.
+Our stay in Hawaii was magical. Our [Airbnb](https://www.airbnb.com/c/chrisd5956){: target="_blank"} was in the town of Laie, in the North Shore of Oahu. It was peaceful and slow paced. People walked around in minimal clothing, sometimes just a swimsuit and t-shirt (even girls). Sandals seemed optional as I watched a 20 year old girl walk into Subway barefoot. Chickens also roamed the streets, yards, and picnic areas like squirrels do in Wisconsin.
 
 ![]({{site.url}}/assets/img/posts/2018-02-13-aloha-minimalism/trampoline.jpg)
 {: class="image--left"}
 
-Our airbnb had a trampoline in the backyard that the girls enjoyed daily. I would sit in the shade of the patio and watch them bounce and giggle. I felt __joy__ in those moments. Watching my girls play in summer dresses in the middle of January was pure bliss. I found myself playing catch and volleyball with the girls as well. I was having __fun__ playing with my girlies!
+Our Airbnb had a trampoline in the backyard that the girls enjoyed daily. I would sit in the shade of the patio and watch them bounce and giggle. I felt __joy__ in those moments. Watching my girls play in summer dresses in the middle of January was pure bliss. I found myself playing catch and volleyball with the girls as well. I was having __fun__ playing with my girlies!
 
 Three houses down, there was access to the beach (pictured above). It was a pebble beach ,not sand, but it was beautiful and relaxing. We would float in the ocean with boogie boards and build sand castles. We loved walking to the beach, carrying the few items we wanted to use. If we got hungry or one of the girls needed to use a potty, we would just pop back over to our place. I loved our time at the beach. I felt __peace__ sitting in the sun, watching my kids play, and taking in the beautiful scenery.
 
-One of my favorite moments: I was walking back to our airbnb from with beach with our daughter __A__ so she could go potty. I noticed she was walking funny. I was holding her hand and each time she stepped she tugged at my arm. I looked down at her feet to see what she was doing. She was trying to match her footsteps to mine. My heart melted. That is a mommy moment I will cherish forever!
+One of my favorite moments: I was walking back to our Airbnb from with beach with our daughter __A__ so she could go potty. I noticed she was walking funny. I was holding her hand and each time she stepped she tugged at my arm. I looked down at her feet to see what she was doing. She was trying to match her footsteps to mine. My heart melted. That is a mommy moment I will cherish forever!
 
 ![]({{site.url}}/assets/img/posts/2018-02-13-aloha-minimalism/waimea-falls.jpg)
 {: class="image--left"}
@@ -72,7 +72,9 @@ While the cost of living in Hawaii isn’t ideal, it does play into the Aloha Sp
 ![]({{site.url}}/assets/img/posts/2018-02-13-aloha-minimalism/boogie-boarding.jpg)
 {: class="image--left"}
 
-Aloha minimalism is all about focusing on your experience of living and letting go of the pull of materialism. It’s finding contentment in living simply so you can experience a life of peace, love, and harmony. It creates positive energy and leaves you mindful and grateful for what’s important. For me, that’s having the __energy__ to play with my kids, __passion__ for the work I love, and a __peace__ in my heart that fills me with __joy__.
+{% include tweet-link.html tweet-text="Aloha minimalism is all about focusing on your experience of living and letting go of the pull of materialism." %}
+
+It’s finding contentment in living simply so you can experience a life of peace, love, and harmony. It creates positive energy and leaves you mindful and grateful for what’s important. For me, that’s having the __energy__ to play with my kids, __passion__ for the work I love, and a __peace__ in my heart that fills me with __joy__.
 
 Before Hawaii, I felt broken. I was living a minimalist lifestyle, but I wasn’t enjoying life. In Oahu, I experienced a new found __joy__ and a __peacefulness__ I never knew existed. I will forever cherish our time in Hawaii. And I am secretly (or not so secretly) dreaming of getting back there for a longer stretch of time.
 
