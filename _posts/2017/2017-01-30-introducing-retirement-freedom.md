@@ -3,7 +3,6 @@ layout: post
 
 author: chris_durheim
 
-
 title: "Introducing Retirement Freedom"
 description: "The road to financial independence can be long; an intermediate step to celebrate is Retirement Freedom - never heard of it? That's because we made it up"
 
@@ -19,6 +18,9 @@ related-posts: [
 ]
 permalink: /:year/:month/:day/:title/
 tags: [money]
+
+custom_js:
+  - calc-retirement-freedom
 
 featured: true
 popular: true
@@ -74,7 +76,7 @@ Have I sold you on the concept yet? _Good._
 
 So how can you know whether you're there or not?
 
-## Retirement Freedom Calculation
+## Retirement Freedom Math
 
 If you're not interested in the math, feel free to [jump ahead](#its-spreadsheet-time). Otherwise, let's dive in.
 
@@ -92,9 +94,16 @@ If your assumptions hold true, and you find that `R65` is greater than `E65`, th
 
 Pretty awesome, right?
 
-## It's Spreadsheet Time
+## Retirement Freedom Calculator
 
 _You didn't think I was going to make you do these calculations by hand, did you?_
+
+{% include calculators/retirement-freedom.html %}
+
+
+## It's Spreadsheet Time
+
+In addition, if you're like me and love a good spreadsheet, I've got a Retirement Freedom spreadsheet that covers everything above __and__ can tell you when you'll reach Retirement Freedom if you're not already there.
 
 I'm pleased to present you with the Keep Thrifty Retirement Freedom Calculator in spreadsheet format:
 

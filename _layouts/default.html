@@ -10,5 +10,10 @@ tipue_search_active: false
       {{ content }}
     </main>
     {% include footer/footer.html %}
+    {%- if page.custom_js -%}
+      {%- for js_file in page.custom_js -%}
+      <script src='/assets/js/custom/{{ js_file }}.js' type="text/javascript"></script>
+      {%- endfor -%}
+    {%- endif -%}
   </body>
 </html>
