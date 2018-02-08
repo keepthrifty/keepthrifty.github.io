@@ -2,8 +2,8 @@
   <ul class="nav-bar__list">
     <li class="nav-bar__list__item {% if page.url == "/start-here/" %}nav-bar__list__item--current{% endif %}"><a href="/start-here/">Start Here</a></li>
     <li class="nav-bar__list__item {% if page.url == "/our-story/" %}nav-bar__list__item--current{% endif %}"><a href="/our-story/">Our Story</a></li>
-    <li class="nav-bar__list__item"><a onclick="">Blog <i class="fa fa-chevron-down"></a></i>
-      <ul>
+    <li class="nav-bar__list__item"><a href="#" onclick="" aria-haspopup="true">Blog <i class="fa fa-chevron-down"></a></i>
+      <ul aria-hidden="true" aria-label="submenu">
         <li {% if page.url == site.posts.first.url %}class="current"{% endif %}><a href="{{site.posts.first.url}}">Latest</a></li>
         <li class="nav-divider"></li>
         <li {% if page.url == "/articles/" %}class="current"{% endif %}><a href="/articles/">Articles</a></li>

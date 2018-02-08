@@ -134,6 +134,6 @@ ul.nav-bar__list {
   left: 100%;
 }
 
-.nav-bar__list__item:hover > ul {
+.nav-bar__list__item:hover > ul, .nav-bar__list__item:active > ul, .nav-bar__list__item:focus > ul {
   display: block;
 }
