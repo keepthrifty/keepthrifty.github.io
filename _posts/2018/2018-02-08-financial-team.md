@@ -138,7 +138,7 @@ However, we don’t take this lightly. We plan to spend a considerable amount of
 
 This is where our future dream comes into play. We want to support those who are in the adoption process. For those who don’t know, the average cost to adopt is over $35,000.  Starting in 2018 we are planning to give financially to support those who are in the adoption process. As our income and ability to save increases, we hope to increase our giving in this area.
 
-I’ve written all about this in our “Adoption Mission”, but the short answer is that we want our tiny niche in the huge world of personal finance blogging to be all about helping married couples create a path for their financial future. If we ever make money doing that, then we hope to support orphans and adoptive parents.
+We're working on creating an “Adoption Mission”, but the short answer is that we want our tiny niche in the huge world of personal finance blogging to be all about helping married couples create a path for their financial future. If we ever make money doing that, then we hope to support orphans and adoptive parents.
 
 ___Thank you to Rich for sharing his story.  We love that Rich and his wife were able to come together as a team on their finances. And we definitely agree that money is a tool to help you created the life you want - not the end goal. We wish them the best as they prayerfully consider adoption! We can’t wait to see what the future brings!___
 
