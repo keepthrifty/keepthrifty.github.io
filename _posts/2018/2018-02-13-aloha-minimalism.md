@@ -37,7 +37,7 @@ Our Airbnb had a trampoline in the backyard that the girls enjoyed daily. I woul
 
 Three houses down, there was access to the beach (pictured above). It was a pebble beach,, not sand, but it was beautiful and relaxing. We would float in the ocean with boogie boards and build sand castles. We loved walking to the beach, carrying the few items we wanted to use. If we got hungry or one of the girls needed to use a potty, we would just pop back over to our place. I loved our time at the beach. I felt __peace__ sitting in the sun, watching my kids play, and taking in the beautiful scenery.
 
-One of my favorite moments: I was walking back to our Airbnb from with beach with our daughter __A__ so she could go potty. I noticed she was walking funny. I was holding her hand and each time she stepped she tugged at my arm. I looked down at her feet to see what she was doing. She was trying to match her footsteps to mine. My heart melted. That is a mommy moment I will cherish forever!
+One of my favorite moments: I was walking back to our Airbnb from the beach with our daughter __A__ so she could go potty. I noticed she was walking funny. I was holding her hand and each time she stepped she tugged at my arm. I looked down at her feet to see what she was doing. She was trying to match her footsteps to mine. My heart melted. That is a mommy moment I will cherish forever!
 
 ![]({{site.url}}/assets/img/posts/2018-02-13-aloha-minimalism/waimea-falls.jpg)
 {: class="image--left"}
