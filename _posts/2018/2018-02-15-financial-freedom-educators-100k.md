@@ -28,7 +28,7 @@ Before we knew it, we were drowning in debt. We had over $70,000 in student loan
 
 In 2009, I was working a job I loved as a high school librarian and working on paying off my student loans. My husband was a long-term substitute at the time and paying his student loan minimums. Then 2010 came and we both lost our jobs, mine due to budget cuts and his due to a contract ending. It was terrifying, but I was able to find another job as a school librarian and my husband continued daily substitute teaching (paying $75 per day).
 
-Then we hit [rock bottom](http://katenesi.com/hitting-rock-bottom-and-getting-back-up){: target="_blank"} again in 2011. I was seven months pregnant and my husband lost his job. He eventually found a full time job as a teacher a few weeks after our first baby was born. To say that was a stressful time is an understatement.
+Then we hit [rock bottom](http://katenesi.com/hitting-rock-bottom-and-getting-back-up){: target="_blank"} again in 2011. I was seven months pregnant and my husband lost his job. He eventually found a full-time job as a teacher a few weeks after our first baby was born. To say that was a stressful time is an understatement.
 
 We were living paycheck to paycheck spending money on unimportant things like eating out and regular Target trips. Luckily, we never had consumer credit card debt, as I despised it from my years working at a local bank and seeing how others were harmed by it.
 
@@ -37,7 +37,7 @@ We were living paycheck to paycheck spending money on unimportant things like ea
 ![]({{site.url}}/assets/img/posts/2018-02-15-financial-freedom-educators/idea.jpg)
 {: class="image--left" }
 
-In 2010, I stumbled upon the blog [Get Rich Slowly](http://www.getrichslowly.org/){: target="_blank"}, by JD Roth. I was inspired by his words and his experience.. I started sharing his ideas with Chris and started to learn about a new term I had never heard of, __frugal__. I further researched the Dave Ramsey method and started to put in place plans to snowball our student loans and car loans to at least get us out of those monthly payments.
+In 2010, I stumbled upon the blog [Get Rich Slowly](http://www.getrichslowly.org/){: target="_blank"}, by JD Roth. I was inspired by his words and his experience. I started sharing his ideas with Chris and started to learn about a new term I had never heard of, __frugal__. I further researched the Dave Ramsey method and started to put in place plans to snowball our student loans and car loans to at least get us out of those monthly payments.
 
 Chris was skeptical of cutting back expenses, but he eventually agreed to try in order to pay off our debt. Here are some ways we became more frugal:
 
@@ -50,15 +50,15 @@ Chris was skeptical of cutting back expenses, but he eventually agreed to try in
 - Canceling [cable](http://katenesi.com/how-to-ditch-your-cable){: target="_blank"} and our cell phone plans
 - Foregoing buying new clothes
 - Using Craigslist and Freecycle & Buying Used Cars
-- Buying high quality items ([Vitamix](http://katenesi.com/year-vitamix-5200-standard-programs){: target="_blank"}) instead of cheap items we will need to replace
+- Buying high-quality items ([Vitamix](http://katenesi.com/year-vitamix-5200-standard-programs){: target="_blank"}) instead of cheap items we will need to replace
 - Cooking 95% of our meals at home, with about 1-2 nights/month eating out
 - Picking our own produce on a large farm in central New Jersey
 - Starting a [suburban farm](http://katenesi.com/the-great-suburban-farm-experiment-planting-over-100-plants-around-my-backyard){: target="_blank"} on our property
 - Riding our bikes all spring and summer and using our bike trailers for groceries
 - Using YouTube to learn how to do our own [home improvement projects](http://katenesi.com/diy-tiling-kitchen-backsplash){: target="_blank"}
-- Not spending on vacations, besides a few roadtrips to visit family in Florida
+- Not spending on vacations, besides a few road trips to visit family in Florida
 
-We started tracking our expenses using Money Dance software. We also use Google Sheets to create a [zero based budget](http://chrisnesi.com/nclb-no-cash-left-behind-hoet052){: target="_blank"}.
+We started tracking our expenses using Money Dance software. We also use Google Sheets to create a [zero-based budget](http://chrisnesi.com/nclb-no-cash-left-behind-hoet052){: target="_blank"}.
 
 ## Just the Mortgage Left
 
@@ -67,7 +67,7 @@ We started tracking our expenses using Money Dance software. We also use Google 
 
 Soon, all we had left was our mortgage. This is when I learned about the FIRE community - that financial freedom could be a goal outside of just debt freedom and working well into our 60’s.
 
-I became more aggressive with how we saved and how we decided to invest. I mapped out a 10 year plan to rid ourselves of our mortgage.
+I became more aggressive with how we saved and how we decided to invest. I mapped out a 10-year plan to rid ourselves of our mortgage.
 
 We are now planning on paying off our [mortgage](http://katenesi.com/mortgage){: target="_blank"} in the next 5 years with secondary income streams, working as adjunct professors at local community and state colleges, while focusing on investing from our main incomes. Within about 10 years with this approach, we should be pretty close to financial freedom outside of our retirement accounts!
 
