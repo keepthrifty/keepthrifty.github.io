@@ -11,7 +11,7 @@ date: 2017-08-01 5:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-08-01-nothing-new-year-month-seven-update/cheers.jpg
-pinterest-image: /assets/img/posts/2017-08-01-nothing-new-year-month-seven-update/nny-month-7-update
+pinterest-image: /assets/img/posts/2017-08-01-nothing-new-year-month-seven-update/nny-month-7-update.png
 
 related-posts: [
   "/2017/01/02/happy-nothing-new-year",

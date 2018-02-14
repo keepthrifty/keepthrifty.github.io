@@ -9,7 +9,7 @@ description: "Our oldest daughter just set up her first lemonade stand this week
 
 image:
   path: /assets/img/posts/2017-04-24-grown-up-lessons-from-lemonade-stand/lemonade-stand.jpg
-pinterest-image: /assets/img/posts/2017-04-24-grown-up-lessons-from-lemonade-stand/lemonade-stand-pinterest
+pinterest-image: /assets/img/posts/2017-04-24-grown-up-lessons-from-lemonade-stand/lemonade-stand-pinterest.png
 
 related-posts: [
   "/2016/08/12/fifteen-lessons-first-seven-jobs",

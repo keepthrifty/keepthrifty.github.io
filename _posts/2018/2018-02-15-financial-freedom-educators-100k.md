@@ -4,13 +4,13 @@ layout: post
 author: kate_nesi
 
 title: "How We Are Creating Financial Freedom as Educators, Making Less Than $100,000 Each Year"
-description: "TK"
+description: "Kate and Chris started as two educators deep in debt but flipped their habits to pay off debt and get cruising on a path to financial freedom."
 
 date: 2018-02-15 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-02-15-financial-freedom-educators/books-on-desk.jpg
-pinterest-image: /assets/img/posts/2018-02-15-financial-freedom-educators/financial-freedom-educators
+pinterest-image: /assets/img/posts/2018-02-15-financial-freedom-educators/financial-freedom-educators.png
 
 tags: [create your freedom]
 

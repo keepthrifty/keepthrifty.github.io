@@ -11,7 +11,7 @@ date: 2017-05-08 23:59:59 -0500
 
 image:
   path: /assets/img/posts/2017-05-08-kids-allowance-round-up/piggy-banks.jpg
-pinterest-image: /assets/img/posts/2017-05-08-kids-allowance-round-up/kids-allowances
+pinterest-image: /assets/img/posts/2017-05-08-kids-allowance-round-up/kids-allowances.png
 
 related-posts: [
   "/2016/11/13/how-we-budget-four-branch-system",

@@ -11,7 +11,7 @@ date: 2017-09-05 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-09-05-nothing-new-year-month-eight-update/little-house-grass.jpg
-pinterest-image: /assets/img/posts/2017-09-05-nothing-new-year-month-eight-update/nny-month-8-update
+pinterest-image: /assets/img/posts/2017-09-05-nothing-new-year-month-eight-update/nny-month-8-update.png
 
 related-posts: [
   "/2017/01/02/happy-nothing-new-year",

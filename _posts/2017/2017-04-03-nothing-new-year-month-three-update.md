@@ -9,7 +9,7 @@ description: "We spent a ton this month and are making a pretty big change in ou
 
 image:
   path: /assets/img/posts/2017-04-03-nothing-new-year-month-three-update/empty-pockets.jpg
-pinterest-image: /assets/img/posts/2017-04-03-nothing-new-year-month-three-update/nny-month-3-update
+pinterest-image: /assets/img/posts/2017-04-03-nothing-new-year-month-three-update/nny-month-3-update.png
 
 related-posts: [
   "/2017/01/02/happy-nothing-new-year",

@@ -9,7 +9,7 @@ description: "Two months down in our nothing new year challenge. How did we do a
 
 image:
   path: /assets/img/posts/2017-03-06-nothing-new-year-month-two-update/shopping-cart-in-river.jpg
-pinterest-image: /assets/img/posts/2017-03-06-nothing-new-year-month-two-update/nny-month-2-update
+pinterest-image: /assets/img/posts/2017-03-06-nothing-new-year-month-two-update/nny-month-2-update.png
 
 related-posts: [
   "/2017/01/02/happy-nothing-new-year",

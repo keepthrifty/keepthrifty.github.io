@@ -11,7 +11,7 @@ date: 2017-05-15 21:59:59 -0500
 
 image:
   path: /assets/img/posts/2017-05-15-big-barriers-living-smaller/small-house-big-house.jpg
-pinterest-image: /assets/img/posts/2017-05-15-big-barriers-living-smaller/big-barriers-living-smaller
+pinterest-image: /assets/img/posts/2017-05-15-big-barriers-living-smaller/big-barriers-living-smaller.png
 
 related-posts: [
   "/2017/02/13/how-much-is-your-stuff-costing-you",

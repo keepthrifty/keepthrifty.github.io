@@ -10,7 +10,7 @@ date: 2018-01-18 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-01-18-work-from-home-dream/work-hard-anywhere.jpg
-pinterest-image: /assets/img/posts/2018-01-18-work-from-home-dream/work-remotely
+pinterest-image: /assets/img/posts/2018-01-18-work-from-home-dream/work-remotely.png
 
 tags: [create your freedom]
 

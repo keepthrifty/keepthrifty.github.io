@@ -12,7 +12,7 @@ date: 2017-08-15 5:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-08-15-breaking-addiction-home-updates/remodeled-house.jpg
-pinterest-image: /assets/img/posts/2017-08-15-breaking-addiction-home-updates/breaking-home-update-addiction
+pinterest-image: /assets/img/posts/2017-08-15-breaking-addiction-home-updates/breaking-home-update-addiction.png
 
 related-posts: [
   "/2016/03/14/soda-for-retirement",

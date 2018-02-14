@@ -11,7 +11,7 @@ date: 2017-10-10 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-10-10-used-to-suck-money-management/money-management.jpg
-pinterest-image: /assets/img/posts/2017-10-10-used-to-suck-money-management/used-to-suck-money-management
+pinterest-image: /assets/img/posts/2017-10-10-used-to-suck-money-management/used-to-suck-money-management.png
 
 related-posts: [
   /2017/05/22/major-waste-of-money-dont-care,

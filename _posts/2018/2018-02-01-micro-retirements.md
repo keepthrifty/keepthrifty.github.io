@@ -10,7 +10,7 @@ date: 2018-02-01 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-02-01-micro-retirements/stand-on-dock.jpg
-pinterest-image: /assets/img/posts/2018-02-01-micro-retirements/micro-retirements
+pinterest-image: /assets/img/posts/2018-02-01-micro-retirements/micro-retirements.png
 
 tags: [create your freedom]
 

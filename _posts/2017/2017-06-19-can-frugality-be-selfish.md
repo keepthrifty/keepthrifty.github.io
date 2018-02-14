@@ -11,7 +11,7 @@ date: 2017-06-19 13:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-06-19-can-frugality-be-selfish/frugality-selfish.jpg
-pinterest-image: /assets/img/posts/2017-06-19-can-frugality-be-selfish/can-frugality-be-selfish
+pinterest-image: /assets/img/posts/2017-06-19-can-frugality-be-selfish/can-frugality-be-selfish.png
 
 related-posts: [
   "/2017/05/22/major-waste-of-money-dont-care",

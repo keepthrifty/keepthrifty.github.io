@@ -10,7 +10,7 @@ date: 2018-02-13 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-02-13-aloha-minimalism/beach.jpg
-pinterest-image: /assets/img/posts/2018-02-13-aloha-minimalism/aloha-minimalism
+pinterest-image: /assets/img/posts/2018-02-13-aloha-minimalism/aloha-minimalism.png
 
 categories: [article]
 
