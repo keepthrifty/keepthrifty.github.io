@@ -10,7 +10,7 @@ date: 2018-01-02 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-01-02-nothing-new-year-wrap-up/wrap-up.jpg
-pinterest-image: /assets/img/posts/2018-01-02-nothing-new-year-wrap-up/nny-month-twelve-update
+pinterest-image: /assets/img/posts/2018-01-02-nothing-new-year-wrap-up/nny-month-twelve-update.png
 
 related-posts: [
   "/2017/01/02/happy-nothing-new-year",

@@ -10,7 +10,7 @@ date: 2017-12-14 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-12-14-create-life-you-want-without-debt/meet-dave.jpg
-pinterest-image: /assets/img/posts/2017-12-14-create-life-you-want-without-debt/factory-to-freedom
+pinterest-image: /assets/img/posts/2017-12-14-create-life-you-want-without-debt/factory-to-freedom.png
 
 tags: [create your freedom]
 

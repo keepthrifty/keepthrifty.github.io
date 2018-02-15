@@ -12,7 +12,7 @@ date: 2017-05-30 00:30:00 -0500
 
 image:
   path: /assets/img/posts/2017-05-30-rent-vs-buy-for-the-fi/lady-justice.jpg
-pinterest-image: /assets/img/posts/2017-05-30-rent-vs-buy-for-the-fi/rent-vs-buy-for-the-fi
+pinterest-image: /assets/img/posts/2017-05-30-rent-vs-buy-for-the-fi/rent-vs-buy-for-the-fi.png
 
 related-posts: [
   "/2016/06/05/prepay-vs-invest",

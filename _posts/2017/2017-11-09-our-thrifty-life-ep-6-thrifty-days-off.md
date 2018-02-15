@@ -12,7 +12,7 @@ date: 2017-11-09 6:58:00 -0500
 
 image:
   path: /assets/img/our-thrifty-life/thrifty-days-off.jpg
-pinterest-image: /assets/img/our-thrifty-life/thrifty-days-off
+pinterest-image: /assets/img/our-thrifty-life/thrifty-days-off.png
 
 tags: [our thrifty life]
 

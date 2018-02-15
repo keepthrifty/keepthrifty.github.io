@@ -10,7 +10,7 @@ date: 2017-12-26 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-12-26-stop-depriving-yourself/just-say-no.jpg
-pinterest-image: /assets/img/posts/2017-12-26-stop-depriving-yourself/dont-deprive-yourself
+pinterest-image: /assets/img/posts/2017-12-26-stop-depriving-yourself/dont-deprive-yourself.png
 
 audio_archive: true
 audio:

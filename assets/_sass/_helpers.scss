@@ -8,7 +8,7 @@
   text-align: right;
 }
 
-.image--right {
+.image--right, .image--right--stacked {
   img {
     width: 100% !important;
     max-width: 300px !important;
@@ -16,7 +16,18 @@
   }
   @media (min-width: $screen-m) {
     float: right;
+    clear: right;
     padding: 0 0 0 2rem;
+  }
+}
+
+.image--right--stacked {
+  display: inline-block;
+  img {
+    max-width: 200px !important;
+  }
+  @media (min-width: $screen-m) {
+    clear: right;
   }
 }
 
@@ -28,7 +39,18 @@
   }
   @media (min-width: $screen-m) {
     float: left;
+    clear: left;
     padding: 0 2rem 0 0;
+  }
+}
+
+.image--left--stacked {
+  display: inline-block;
+  img {
+    max-width: 200px !important;
+  }
+  @media (min-width: $screen-m) {
+    clear: left;
   }
 }
 

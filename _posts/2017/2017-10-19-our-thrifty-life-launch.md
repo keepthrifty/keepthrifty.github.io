@@ -11,7 +11,7 @@ date: 2017-10-19 6:58:00 -0500
 
 image:
   path: /assets/img/our-thrifty-life/otl-series-launch.jpg
-pinterest-image: /assets/img/our-thrifty-life/otl-series-launch-pin
+pinterest-image: /assets/img/our-thrifty-life/otl-series-launch-pin.png
 
 tags: [our thrifty life]
 

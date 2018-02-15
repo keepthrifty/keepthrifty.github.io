@@ -6,7 +6,7 @@
       </a>
     </li>
     <li class="share-buttons__button">
-      <a class="pinterest" href="https://pinterest.com/pin/create/button/?url={{site.url}}{{page.url}}&amp;media={{site.url}}{% if page.pinterest-image %}{{page.pinterest-image}}.png{% else %}{{page.image.path}}{% endif %}&amp;description={% if page.description %}{{page.description | strip_html | url_encode}}{% else %}{{page.excerpt | strip_html | url_encode}}{% endif %}" title="Share on Pinterest" target="_blank">
+      <a class="pinterest" href="https://pinterest.com/pin/create/button/?url={{site.url}}{{page.url}}&amp;media={{site.url}}{% if page.pinterest-image %}{{page.pinterest-image}}{% else %}{{page.image.path}}{% endif %}&amp;description={% if page.description %}{{page.description | strip_html | url_encode}}{% else %}{{page.excerpt | strip_html | url_encode}}{% endif %}" title="Share on Pinterest" target="_blank">
         <i class="fa fa-pinterest-square"></i>
       </a>
     </li>

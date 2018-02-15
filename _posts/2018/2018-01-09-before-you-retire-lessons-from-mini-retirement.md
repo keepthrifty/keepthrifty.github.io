@@ -10,7 +10,7 @@ date: 2018-01-09 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-01-09-before-you-retire-lessons-from-mini-retirement/planning.jpg
-pinterest-image: /assets/img/posts/2018-01-09-before-you-retire-lessons-from-mini-retirement/before-you-retire
+pinterest-image: /assets/img/posts/2018-01-09-before-you-retire-lessons-from-mini-retirement/before-you-retire.png
 
 audio_archive: true
 audio:

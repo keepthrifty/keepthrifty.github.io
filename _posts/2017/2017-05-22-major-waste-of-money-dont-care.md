@@ -11,7 +11,7 @@ date: 2017-05-22 20:58:02 -0500
 
 image:
   path: /assets/img/posts/2017-05-22-major-waste-of-money-dont-care/textbooks.jpg
-pinterest-image: /assets/img/posts/2017-05-22-major-waste-of-money-dont-care/major-waste
+pinterest-image: /assets/img/posts/2017-05-22-major-waste-of-money-dont-care/major-waste.png
 
 related-posts: [
   "/2016/10/16/talent-is-overrated",

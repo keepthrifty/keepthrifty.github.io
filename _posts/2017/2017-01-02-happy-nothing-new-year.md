@@ -10,7 +10,7 @@ description: "Our family's goal for 2017? To buy nothing new. How are we going t
 
 image:
   path: /assets/img/posts/2017-01-02-happy-nothing-new-year/empty-shopping-list.jpg
-pinterest-image: /assets/img/posts/2017-01-02-happy-nothing-new-year/nothing-new-year-pinterest
+pinterest-image: /assets/img/posts/2017-01-02-happy-nothing-new-year/nothing-new-year-pinterest.png
 
 related-posts: [
   "/2017/02/06/nothing-new-year-month-one-update",

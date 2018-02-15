@@ -12,7 +12,7 @@ date: 2017-07-11 5:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-07-11-one-year-mini-retirement/palm-island.jpg
-pinterest-image: /assets/img/posts/2017-07-11-one-year-mini-retirement/one-year-mini-retirement
+pinterest-image: /assets/img/posts/2017-07-11-one-year-mini-retirement/one-year-mini-retirement.png
 
 related-posts: [
   /trade-financial-freedom-mini-retirement,

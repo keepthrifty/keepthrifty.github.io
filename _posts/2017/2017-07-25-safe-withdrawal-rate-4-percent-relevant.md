@@ -12,7 +12,7 @@ date: 2017-07-25 5:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-07-25-safe-withdrawal-rate-4-percent-relevant/safe-withdrawal.jpg
-pinterest-image: /assets/img/posts/2017-07-25-safe-withdrawal-rate-4-percent-relevant/safe-withdrawal-rate
+pinterest-image: /assets/img/posts/2017-07-25-safe-withdrawal-rate-4-percent-relevant/safe-withdrawal-rate.png
 
 related-posts: [
   "/2017/05/30/rent-vs-buy-for-the-fi",

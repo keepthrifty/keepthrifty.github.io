@@ -10,7 +10,7 @@ date: 2018-01-25 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-01-25-mini-retirement-philippines/jump.jpg
-pinterest-image: /assets/img/posts/2018-01-25-mini-retirement-philippines/mini-retirement-philippines
+pinterest-image: /assets/img/posts/2018-01-25-mini-retirement-philippines/mini-retirement-philippines.png
 
 tags: [create your freedom]
 

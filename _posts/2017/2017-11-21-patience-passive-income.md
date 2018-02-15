@@ -11,7 +11,7 @@ date: 2017-11-21 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-11-21-patience-passive-income/patience-passive-income.jpg
-pinterest-image: /assets/img/posts/2017-11-21-patience-passive-income/patience-passive-income
+pinterest-image: /assets/img/posts/2017-11-21-patience-passive-income/patience-passive-income.png
 
 related-posts: [
   '/frivolous-purchase-threshold',

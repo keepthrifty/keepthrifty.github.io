@@ -11,7 +11,7 @@ date: 2017-12-05 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-12-05-nothing-new-year-month-eleven-update/luggage-packed.jpg
-pinterest-image: /assets/img/posts/2017-12-05-nothing-new-year-month-eleven-update/nny-month-eleven-update
+pinterest-image: /assets/img/posts/2017-12-05-nothing-new-year-month-eleven-update/nny-month-eleven-update.png
 
 related-posts: [
   "/2017/01/02/happy-nothing-new-year",

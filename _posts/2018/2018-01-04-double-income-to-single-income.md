@@ -10,7 +10,7 @@ date: 2018-01-04 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-01-04-double-income-to-single-income/sandbox.jpg
-pinterest-image: /assets/img/posts/2018-01-04-double-income-to-single-income/single-family-income
+pinterest-image: /assets/img/posts/2018-01-04-double-income-to-single-income/single-family-income.png
 
 tags: [create your freedom]
 

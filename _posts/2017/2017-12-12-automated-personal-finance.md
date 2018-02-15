@@ -10,7 +10,7 @@ date: 2017-12-12 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-12-12-automated-personal-finance/robot-big.jpg
-pinterest-image: /assets/img/posts/2017-12-12-automated-personal-finance/automation
+pinterest-image: /assets/img/posts/2017-12-12-automated-personal-finance/automation.png
 
 related-posts: [
   /from-push-to-pull/,

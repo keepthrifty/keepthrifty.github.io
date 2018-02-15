@@ -11,7 +11,7 @@ date: 2017-11-28 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-11-28-marriage-lesson-mini-retirement/marriage-lesson-mini-retirement.jpg
-pinterest-image: /assets/img/posts/2017-11-28-marriage-lesson-mini-retirement/marriage-lesson-mini-retirement
+pinterest-image: /assets/img/posts/2017-11-28-marriage-lesson-mini-retirement/marriage-lesson-mini-retirement.png
 
 related-posts: [
   '/power-of-a-partner',

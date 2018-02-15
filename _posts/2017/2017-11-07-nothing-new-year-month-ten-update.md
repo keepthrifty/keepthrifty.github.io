@@ -11,7 +11,7 @@ date: 2017-11-07 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-11-07-nothing-new-year-month-ten-update/running-shoes.jpg
-pinterest-image: /assets/img/posts/2017-11-07-nothing-new-year-month-ten-update/nny-month-10-update
+pinterest-image: /assets/img/posts/2017-11-07-nothing-new-year-month-ten-update/nny-month-10-update.png
 
 related-posts: [
   "/2017/01/02/happy-nothing-new-year",

@@ -10,7 +10,7 @@ date: 2017-12-07 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-12-07-pay-off-mortgage-four-years-cyf/on-a-boat.jpg
-pinterest-image: /assets/img/posts/2017-12-07-pay-off-mortgage-four-years-cyf/four-years-mortgage-freedom
+pinterest-image: /assets/img/posts/2017-12-07-pay-off-mortgage-four-years-cyf/four-years-mortgage-freedom.png
 
 tags: [create your freedom]
 

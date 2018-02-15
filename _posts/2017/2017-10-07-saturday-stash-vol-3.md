@@ -11,7 +11,7 @@ date: 2017-10-07 6:58:00 -0500
 
 image:
   path: /assets/img/saturday-stash/saturday-stash.jpg
-pinterest-image: /assets/img/saturday-stash/saturday-stash-vol-3
+pinterest-image: /assets/img/saturday-stash/saturday-stash-vol-3.png
 
 tags: [saturday stash]
 

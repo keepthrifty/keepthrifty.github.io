@@ -9,7 +9,7 @@ description: "We're one month in to our nothing new year. How did we do and wher
 
 image:
   path: /assets/img/posts/2017-02-06-nothing-new-year-month-one-update/shopping-cart.jpg
-pinterest-image: /assets/img/posts/2017-02-06-nothing-new-year-month-one-update/nny-month-1-update
+pinterest-image: /assets/img/posts/2017-02-06-nothing-new-year-month-one-update/nny-month-1-update.png
 
 related-posts: [
   "/2017/01/02/happy-nothing-new-year",

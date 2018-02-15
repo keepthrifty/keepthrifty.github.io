@@ -12,7 +12,7 @@ date: 2017-11-16 6:58:00 -0500
 
 image:
   path: /assets/img/our-thrifty-life/thrifty-gift-giving.jpg
-pinterest-image: /assets/img/our-thrifty-life/thrifty-gift-giving
+pinterest-image: /assets/img/our-thrifty-life/thrifty-gift-giving.png
 
 tags: [our thrifty life]
 
