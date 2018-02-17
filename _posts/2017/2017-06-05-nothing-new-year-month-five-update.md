@@ -11,7 +11,7 @@ date: 2017-06-05 13:10:00 -0500
 
 image:
   path: /assets/img/posts/2017-06-05-nothing-new-year-month-five-update/sleeping-red-panda.jpg
-pinterest-image: /assets/img/posts/2017-06-05-nothing-new-year-month-five-update/nny-month-5-update
+pinterest-image: /assets/img/posts/2017-06-05-nothing-new-year-month-five-update/nny-month-5-update.png
 
 related-posts: [
   "/2017/01/02/happy-nothing-new-year",

@@ -11,7 +11,7 @@ date: 2017-10-03 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-10-03-nothing-new-year-month-nine-update/video-camera.jpg
-pinterest-image: /assets/img/posts/2017-10-03-nothing-new-year-month-nine-update/nny-month-9-update
+pinterest-image: /assets/img/posts/2017-10-03-nothing-new-year-month-nine-update/nny-month-9-update.png
 
 related-posts: [
   "/2017/01/02/happy-nothing-new-year",

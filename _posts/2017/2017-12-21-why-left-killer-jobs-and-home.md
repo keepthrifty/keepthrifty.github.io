@@ -10,7 +10,7 @@ date: 2017-12-21 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-12-21-why-left-killer-jobs-and-home/sarah-and-marc.jpg
-pinterest-image: /assets/img/posts/2017-12-21-why-left-killer-jobs-and-home/kansas-to-florida
+pinterest-image: /assets/img/posts/2017-12-21-why-left-killer-jobs-and-home/kansas-to-florida.png
 
 tags: [create your freedom]
 

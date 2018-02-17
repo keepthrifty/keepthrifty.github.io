@@ -12,7 +12,7 @@ date: 2017-10-24 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-10-24-mini-retirement-formula/statue-lever-sky.jpg
-pinterest-image: /assets/img/posts/2017-10-24-mini-retirement-formula/mini-retirement-make-a-reality
+pinterest-image: /assets/img/posts/2017-10-24-mini-retirement-formula/mini-retirement-make-a-reality.png
 
 related-posts: [
   /one-year-mini-retirement,

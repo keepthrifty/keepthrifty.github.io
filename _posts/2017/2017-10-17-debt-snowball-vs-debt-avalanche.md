@@ -12,7 +12,7 @@ date: 2017-10-17 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-10-17-debt-snowball-vs-debt-avalanche/snowball-vs-avalanche.jpg
-pinterest-image: /assets/img/posts/2017-10-17-debt-snowball-vs-debt-avalanche/snowball-avalanche
+pinterest-image: /assets/img/posts/2017-10-17-debt-snowball-vs-debt-avalanche/snowball-avalanche.png
 
 related-posts: [
   /2016/06/05/prepay-vs-invest,

@@ -9,7 +9,7 @@ description: "Thanksgiving is about thanks but the stress of the holiday season 
 
 image:
   path: /assets/img/posts/2016-11-27-staying-thankful-spend-happy-world/thanks.jpg
-pinterest-image: /assets/img/posts/2016-11-27-staying-thankful-spend-happy-world/thankful-thanksgiving
+pinterest-image: /assets/img/posts/2016-11-27-staying-thankful-spend-happy-world/thankful-thanksgiving.png
 
 related-posts: [
   "/2016/02/13/thrifty-valentines-day",

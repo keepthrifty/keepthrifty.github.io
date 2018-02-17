@@ -9,7 +9,7 @@ description: "How does money make you feel? Stressed? Excited? Or do you general
 
 image:
   path: /assets/img/posts/2017-04-17-three-phases-money-feelings/money-feelings.jpg
-pinterest-image: /assets/img/posts/2017-04-17-three-phases-money-feelings/money-feelings-pinterest
+pinterest-image: /assets/img/posts/2017-04-17-three-phases-money-feelings/money-feelings-pinterest.png
 
 related-posts: [
   "/2017/01/09/defeat-four-devious-marketing-tactics",

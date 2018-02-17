@@ -11,7 +11,7 @@ date: 2017-05-01 06:15:01 -0500
 
 image:
   path: /assets/img/posts/2017-05-01-nothing-new-year-month-four-update/facepalm.jpg
-pinterest-image: /assets/img/posts/2017-05-01-nothing-new-year-month-four-update/nny-month-4-update
+pinterest-image: /assets/img/posts/2017-05-01-nothing-new-year-month-four-update/nny-month-4-update.png
 
 related-posts: [
   "/2017/01/02/happy-nothing-new-year",

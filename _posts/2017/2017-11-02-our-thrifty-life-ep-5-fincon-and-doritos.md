@@ -12,7 +12,7 @@ date: 2017-11-02 6:58:00 -0500
 
 image:
   path: /assets/img/our-thrifty-life/fincon-and-doritos.jpg
-pinterest-image: /assets/img/our-thrifty-life/fincon-and-doritos
+pinterest-image: /assets/img/our-thrifty-life/fincon-and-doritos.png
 
 tags: [our thrifty life]
 

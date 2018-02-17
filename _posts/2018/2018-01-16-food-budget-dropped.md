@@ -10,7 +10,7 @@ date: 2018-01-16 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-01-16-food-budget-dropped/happy-food.jpg
-pinterest-image: /assets/img/posts/2018-01-16-food-budget-dropped/save-3300-on-food
+pinterest-image: /assets/img/posts/2018-01-16-food-budget-dropped/save-3300-on-food.png
 
 audio_archive: true
 audio:

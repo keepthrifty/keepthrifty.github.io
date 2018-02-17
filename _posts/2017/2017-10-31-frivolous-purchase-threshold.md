@@ -11,7 +11,7 @@ date: 2017-10-31 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-10-31-frivolous-purchase-threshold/frivolous-purchase-threshold.jpg
-pinterest-image: /assets/img/posts/2017-10-31-frivolous-purchase-threshold/frivolous-purchase-threshold
+pinterest-image: /assets/img/posts/2017-10-31-frivolous-purchase-threshold/frivolous-purchase-threshold.png
 
 related-posts: [
   /used-to-suck-money-management,

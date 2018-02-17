@@ -7,7 +7,7 @@ author: chris_durheim
 
 image:
   path: /assets/img/posts/2016-03-23-engagement-ring-sold/wedding-carriage.jpg
-pinterest-image: /assets/img/posts/2016-03-23-engagement-ring-sold/engagement-ring-sold
+pinterest-image: /assets/img/posts/2016-03-23-engagement-ring-sold/engagement-ring-sold.png
 
 excerpt_separator: <!--end-excerpt-->
 

@@ -11,7 +11,7 @@ date: 2017-07-03 5:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-07-03-nothing-new-year-month-six-update/firework.jpg
-pinterest-image: /assets/img/posts/2017-07-03-nothing-new-year-month-six-update/nny-month-6-update
+pinterest-image: /assets/img/posts/2017-07-03-nothing-new-year-month-six-update/nny-month-6-update.png
 
 related-posts: [
   "/2017/01/02/happy-nothing-new-year",

@@ -10,7 +10,7 @@ date: 2017-08-22 5:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-08-22-from-push-to-pull/devices-down.jpg
-pinterest-image: /assets/img/posts/2017-08-22-from-push-to-pull/push-pull-eisenhower
+pinterest-image: /assets/img/posts/2017-08-22-from-push-to-pull/push-pull-eisenhower.png
 
 related-posts: [
   "/parable-of-the-craftsmen",

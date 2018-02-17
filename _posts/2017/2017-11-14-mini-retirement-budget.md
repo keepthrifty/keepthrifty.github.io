@@ -10,7 +10,7 @@ date: 2017-11-14 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-11-14-mini-retirement-budget/mini-retirement-budget.jpg
-pinterest-image: /assets/img/posts/2017-11-14-mini-retirement-budget/mini-retirement-budget
+pinterest-image: /assets/img/posts/2017-11-14-mini-retirement-budget/mini-retirement-budget.png
 
 related-posts: [
   "/one-year-mini-retirement",

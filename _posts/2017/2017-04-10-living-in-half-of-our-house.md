@@ -9,7 +9,7 @@ description: "Half of our house sits empty, unused. Why are we living like this?
 
 image:
   path: /assets/img/posts/2017-04-10-living-in-half-of-our-house/living-room.jpg
-pinterest-image: /assets/img/posts/2017-04-10-living-in-half-of-our-house/half-our-house-pinterest
+pinterest-image: /assets/img/posts/2017-04-10-living-in-half-of-our-house/half-our-house-pinterest.png
 
 related-posts: [
   "/2016/10/10/become-twice-as-happy-with-half-as-much",

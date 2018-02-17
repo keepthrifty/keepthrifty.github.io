@@ -10,7 +10,7 @@ date: 2017-11-30 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/feeding-kangaroos.jpg
-pinterest-image: /assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/TK.jpg
+pinterest-image: /assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/TK.jpg.png
 
 tags: [create your freedom]
 

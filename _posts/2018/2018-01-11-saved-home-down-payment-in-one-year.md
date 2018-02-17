@@ -10,7 +10,7 @@ date: 2018-01-11 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-01-11-saved-home-down-payment-in-one-year/money-home.jpg
-pinterest-image: /assets/img/posts/2018-01-11-saved-home-down-payment-in-one-year/buy-your-dream-home-in-one-year
+pinterest-image: /assets/img/posts/2018-01-11-saved-home-down-payment-in-one-year/buy-your-dream-home-in-one-year.png
 
 tags: [create your freedom]
 

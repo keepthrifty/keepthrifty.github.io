@@ -10,7 +10,7 @@ date: 2017-12-28 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-12-28-create-expat-life/justin-cara.jpg
-pinterest-image: /assets/img/posts/2017-12-28-create-expat-life/appalachians
+pinterest-image: /assets/img/posts/2017-12-28-create-expat-life/appalachians.png
 
 tags: [create your freedom]
 

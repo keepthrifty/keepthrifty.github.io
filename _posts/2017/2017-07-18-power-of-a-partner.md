@@ -11,7 +11,7 @@ date: 2017-07-18 5:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-07-18-power-of-a-partner/rope-heart.jpg
-pinterest-image: /assets/img/posts/2017-07-18-power-of-a-partner/power-of-partner-pinterest
+pinterest-image: /assets/img/posts/2017-07-18-power-of-a-partner/power-of-partner-pinterest.png
 
 related-posts: [
   "/2016/03/23/engagement-ring-sold",

@@ -12,7 +12,7 @@ date: 2017-10-26 6:58:00 -0500
 
 image:
   path: /assets/img/our-thrifty-life/look-what-i-made-him-do.jpg
-pinterest-image: /assets/img/our-thrifty-life/look-what-i-made-him-do-pinterest
+pinterest-image: /assets/img/our-thrifty-life/look-what-i-made-him-do-pinterest.png
 
 tags: [our thrifty life]
 

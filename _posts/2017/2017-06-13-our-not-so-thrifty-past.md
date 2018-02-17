@@ -11,7 +11,7 @@ date: 2017-06-13 01:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-06-13-our-not-so-thrifty-past/smoke-money.jpg
-pinterest-image: /assets/img/posts/2017-06-13-our-not-so-thrifty-past/our-not-so-thrifty-past
+pinterest-image: /assets/img/posts/2017-06-13-our-not-so-thrifty-past/our-not-so-thrifty-past.png
 
 related-posts: [
   "/2016/12/05/money-mistakes-financial-compass",

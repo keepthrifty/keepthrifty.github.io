@@ -11,7 +11,7 @@ date: 2017-06-27 5:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-06-27-minimalist-moving/minimalist-moving.jpg
-pinterest-image: /assets/img/posts/2017-06-27-minimalist-moving/minimalist-moving-pin
+pinterest-image: /assets/img/posts/2017-06-27-minimalist-moving/minimalist-moving-pin.png
 
 related-posts: [
   "/2017/02/13/how-much-is-your-stuff-costing-you",

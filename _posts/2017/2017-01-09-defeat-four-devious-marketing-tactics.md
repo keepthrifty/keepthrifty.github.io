@@ -9,7 +9,7 @@ description: "Don't get fooled by these devious marketing tactics from people lo
 
 image:
   path: /assets/img/posts/2017-01-09-four-devious-marketing-tactics/mannequins.jpg
-pinterest-image: /assets/img/posts/2017-01-09-four-devious-marketing-tactics/devious-marketing-pinterest
+pinterest-image: /assets/img/posts/2017-01-09-four-devious-marketing-tactics/devious-marketing-pinterest.png
 
 related-posts: [
   "/2016/07/14/experience-or-stuff",
