@@ -10,7 +10,7 @@ date: 2018-02-20 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-02-20-january-2018-spending/watching-sunset.jpg
-pinterest-image: /assets/img/posts/2018-02-20-january-2018-spending/
+pinterest-image: /assets/img/posts/2018-02-20-january-2018-spending/cost-of-travel-to-hawaii.png
 
 categories: [article]
 
