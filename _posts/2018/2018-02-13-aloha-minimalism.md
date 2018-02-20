@@ -28,7 +28,7 @@ Chris was on board. Within days I found an [Airbnb that I loved](https://www.air
 
 When we landed in Honolulu, adrenaline was racing through my veins. I was exhausted, but invigorated to have made it to Hawaii. While Chris went to get our rental car, I found myself shedding my airplane clothes. I was too warm. After Chris got the car keys, he found me in a tank top and messy ponytail. I was so __happy!__
 
-Our stay in Hawaii was magical. Our [Airbnb](https://www.airbnb.com/c/chrisd5956){: target="_blank"} was in the town of Laie, in the North Shore of Oahu. It was peaceful and slow paced. People walked around in minimal clothing, sometimes just a swimsuit and t-shirt (even girls). Sandals seemed optional as I watched a 20-year-old girl walk into Subway barefoot. Chickens also roamed the streets, yards, and picnic areas like squirrels do in Wisconsin.
+Our stay in Hawaii was magical. Our [Airbnb](https://www.airbnb.com/c/chrisd5956){: target="_blank" rel="nofollow"} was in the town of Laie, in the North Shore of Oahu. It was peaceful and slow paced. People walked around in minimal clothing, sometimes just a swimsuit and t-shirt (even girls). Sandals seemed optional as I watched a 20-year-old girl walk into Subway barefoot. Chickens also roamed the streets, yards, and picnic areas like squirrels do in Wisconsin.
 
 ![]({{site.url}}/assets/img/posts/2018-02-13-aloha-minimalism/trampoline.jpg)
 {: class="image--left"}
