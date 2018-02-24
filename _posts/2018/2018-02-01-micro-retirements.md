@@ -125,4 +125,4 @@ Financially, we're all set. I think I'll be psychologically ready by then, too. 
 
 ___Thank you to Physician on Fire for sharing his story. Life is full of trade-offs - working crazy hours one week in order to take multiples week off at a time is a great example! We love the micro retirement concept (Chris may even consider this in the future!) and that they were able to work with their boys’ school in order to make their dream a reality.  We wish PoF and his family the best while vacationing and taking steps towards full retirement!___
 
-{% include contact-forms/cyf-submit.html %}
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___

@@ -142,4 +142,4 @@ We're working on creating an “Adoption Mission”, but the short answer is tha
 
 ___Thank you to Rich for sharing his story.  We love that Rich and his wife were able to come together as a team on their finances. And we definitely agree that money is a tool to help you created the life you want - not the end goal. We wish them the best as they prayerfully consider adoption! We can’t wait to see what the future brings!___
 
-{% include contact-forms/cyf-submit.html %}
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___

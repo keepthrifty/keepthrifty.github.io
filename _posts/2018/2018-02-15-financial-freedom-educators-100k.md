@@ -105,4 +105,4 @@ Track your expenses. Track your income. See what the difference is and put that 
 
 ___Thank you to Kate for sharing her awesome story. We love that embracing a frugal lifestyle is helping them achieve their dreams while doing the work they love. In addition to being a librarian, Kate hosts a [podcast](http://lifelonglearningpodcast.libsyn.com/){: target="_blank"} helping others find their own frugal lifelong learning path! Chris and I will be talking with Kate on her podcast soon!___
 
-{% include contact-forms/cyf-submit.html %}
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___

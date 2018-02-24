@@ -162,4 +162,4 @@ As you can see, we are not planning on banking on any one income stream supporti
 
 ___Thank you to Justin for sharing his story. We love the Hal Elrod quote, Justin’s honesty in the struggles of expat life, and that he and his wife are working towards FIRE not to just retire but to live out a bigger dream. We wish him and wife the best and a wonderful rest of their expat time in China! We can’t wait to hear all about where they plan to go once they reach FIRE!___
 
-{% include contact-forms/cyf-submit.html %}
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___

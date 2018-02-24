@@ -11,7 +11,11 @@ redirect_from:
 
 ## Guest Posts
 
-We are currently accepting guest posts as a part of our [Freedom Story]({{site.url}}/freedom-stories) series. To submit your own story, find the form at the end of any freedom story post.
+We are currently accepting guest posts as a part of our [Freedom Story]({{site.url}}/freedom-stories) series.
+
+We would love to share _your personal story_ of creating freedom in your own life. Fill out the form and Jaime will get in touch with you.
+
+{% include contact-forms/cyf-submit.html %}
 
 ## Advertising
 

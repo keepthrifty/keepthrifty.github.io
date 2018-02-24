@@ -109,4 +109,4 @@ I would love for my partner to join me someday as I'd like to create a freedom d
 
 ___Thank you to Mohammed for sharing his story. We love that he learned to live simply early in life and followed his heart to the Philippines. We wish him the best during his mini retirement and can’t wait to hear more about his future caravan plans!___
 
-{% include contact-forms/cyf-submit.html %}
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___
