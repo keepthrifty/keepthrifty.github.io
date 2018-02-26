@@ -208,7 +208,7 @@ In our case, we have three things we look for in lodging beyond the basics.
 
 First, we only look at hotels with a hot breakfast. At home, our kids have cold cereal six days a week, so a hot breakfast is a  special treat. Getting kids up and excited for the day on the road can be tough, but if they love pancakes and breakfast sausage, you have a couple powerful motivators in your pocket. _Well - hopefully not in your actual pocket; I'm guessing those grease stains would be tough to get out._
 
-Second, we seek out hotels that have cable (preferably Disney channel). This is ironic because _we don't even have an antenna_ in our home - let alone cable. Giving our kids the chance to indulge with Disney Junior (and my wife the chance to indulge in HGTV) is a great way to celebrate the end of a day of travel.
+Second, we seek out hotels that have cable (preferably Disney channel). This is ironic because [we don't even have an antenna]({% post_url 2018/2018-02-27-cut-the-other-cord %}) in our home - let alone cable. Giving our kids the chance to indulge with Disney Junior (and my wife the chance to indulge in HGTV) is a great way to celebrate the end of a day of travel.
 
 Finally, we target find hotels with a pool whenever possible. While we may not use the pool every night, it's a great option to have at the end of the day if the kids are restless after a day in the car.
 

@@ -71,7 +71,7 @@ Finally, we bit the bullet and sold two of our TVs in a single month, keeping th
 
 Fast forward a year and we had already significantly cut back on our viewing time, but we still would get into patches where we would zone out in the living room on our lone TV every night for a week.
 
-So we finally did it - we cut the cord. I'm not talking cable (never had it). We cut our antenna.
+So we finally did it - we cut the cord. I'm not talking cable (never had it). [We cut our antenna]({% post_url 2018/2018-02-27-cut-the-other-cord %}).
 
 That's right. So here's where we're at - we own one TV. We have no cable. We have no antenna. We don't have Netflix or Hulu or Amazon Prime.
 

@@ -122,7 +122,7 @@ Based on that, our gifts to others this year will be similar to what we have on 
 
 ### Challenging Category 3: Entertainment
 
-We're already pretty frugal when it comes to entertainment. We don't have cable or paid streaming services and don't even have antennas hooked up to our TV. We get DVDs for free from the library and stream network shows for free on our laptop when we actually want to watch something.
+We're already pretty frugal when it comes to entertainment. We don't have cable or paid streaming services and [don't even have antennas]({% post_url 2018/2018-02-27-cut-the-other-cord %}) hooked up to our TV. We get DVDs for free from the library and stream network shows for free on our laptop when we actually want to watch something.
 
 There's one item this year I know we'll be _itching_ to buy: Season 4 of Tiny House Nation.
 
