@@ -10,7 +10,7 @@ date: 2018-02-27 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-02-27-cut-the-other-cord/kid-tv.jpg
-pinterest-image: /assets/img/posts/2018-02-27-cut-the-other-cord/TK.png
+pinterest-image: /assets/img/posts/2018-02-27-cut-the-other-cord/cut-other-cord.png
 
 categories: [article]
 
