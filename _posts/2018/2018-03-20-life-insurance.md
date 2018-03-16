@@ -1,7 +1,7 @@
 ---
 layout: post
 
-author: chris
+author: chris_durheim
 
 title: "Growing Up: Life Insurance Done Right"
 description: "When the life insurance from my old job expired, I needed to grow up and figure out how to pick the right policy and the right term. Here's how."
