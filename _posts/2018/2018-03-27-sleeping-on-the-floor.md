@@ -4,8 +4,8 @@ layout: post
 author: chris_durheim
 
 title: "A Year of Sleeping on the Floor"
-subtitle: "Alternate Lifestyle Experiment"
-description: "TK"
+subtitle: "Lifestyle Experiment"
+description: "\"We should try sleeping on the floor\". That's how my wife proposed this crazy idea to me. I was skeptical and with good reason - does anyone actually do this?"
 
 date: 2018-03-27 6:58:00 -0500
 
@@ -56,7 +56,7 @@ So, when Jaime suggested floor-sleeping, it stirred my curiosity. Why do we slee
 
 Think about your own answer: If you sleep in a bed, why?
 
-If you're like most people, this question probably hasn't ever crossed your mind. In western cultures, beds are a fixture in our homes from childhood. Sleeping or the floor sounds more like a punishment than a viable alternative.
+If you're like most people, this question probably hasn't ever crossed your mind. In western cultures, beds are a fixture in our homes from childhood. Sleeping on the floor sounds more like a punishment than a viable alternative.
 
 What are the first words that come to mind at the thought of sleeping on the floor? Discomfort? Pain? Restlessness?
 
@@ -68,7 +68,7 @@ So, I did a bit of research on [alternate sleeping methods](https://www.thesleep
 
 In many parts of the world, ([Japan](https://www.quora.com/Is-sleeping-on-the-floor-beneficial){: target="_blank"} for example), floor sleeping is quite common. Sleeping directly on the floor or on a thin fold-up or roll-out mat is just as acceptable as sleeping on a raised mattress.
 
-These cultures haven't switched wholesale to bed-sleeping (and the reasons behind that aren't financial from what I can find), then maybe bed sleeping isn't a superior option after all.
+These cultures haven't switched wholesale to bed-sleeping (and the reasons behind that aren't financial from what I can find), so maybe bed sleeping isn't a superior option after all.
 
 I also found that some doctors in western cultures prescribe floor-sleeping as a [treatment for back pain](https://www.youtube.com/watch?v=BMNgSDEwp24){: target="_blank"}.
 
@@ -224,7 +224,11 @@ It wasn't floor-sleeping, mat-sleeping, or bed-sleeping that was causing her pai
 
 Since she's started using the bed as her desk chair, her back pain is steadily improving.
 
-So, ironically we're keeping the bed but we're not sleeping in it. Jaime's using it as her desk chair and we'll be holding on to it as a future guest-bed. But sleep-wise, __we're back to floor sleeping.__
+So, for the moment, the jury's out on whether or not we're keeping the bed. We certainly should be able to find Jaime a better long-term desk chair than a $1000 bed.
+
+We'll likely want a guest bed in our future home, but we're still a ways away from building. In addition, we've got some fun (to-be-announced) plans for the upcoming year that make every additional piece of furniture we own a bigger burden. _(stay tuned on this...)_
+
+Sleep-wise though, __we're back to floor sleeping.__
 
 My back is happier on our [Japanese roll-out mat](http://amzn.to/2HVFtXC){: target="_blank" rel="nofollow"} than it ever was in a bed. Now that we've figured out the source of Jaime's back pain, she's said that she's good with floor sleeping as well.
 
