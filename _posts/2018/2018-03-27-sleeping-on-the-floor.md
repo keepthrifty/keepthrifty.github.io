@@ -11,7 +11,7 @@ date: 2018-03-27 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-03-27-sleeping-on-the-floor/floor-sleeping.jpg
-# pinterest-image: /assets/img/posts/2018-03-27-sleeping-on-the-floor/TK.png
+pinterest-image: /assets/img/posts/2018-03-27-sleeping-on-the-floor/floor-sleeping.png
 
 categories: [article]
 
