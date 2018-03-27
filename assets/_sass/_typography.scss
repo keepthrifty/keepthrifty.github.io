@@ -109,17 +109,26 @@ h3.meta-header {
 a.button, button.button, button.subscribe_button {
   border: 1px solid $primary-color;
   border-radius: 0.2rem;
-  color: $primary-color;
   background-color: white;
+  color: $primary-color;
   padding: 0.5rem 1rem;
   letter-spacing: 0.4rem;
   text-transform: uppercase;
+  white-space: nowrap;
   cursor: pointer;
   &:hover {
-    background-color: $primary-color;
     color: white;
+    background-color: $primary-color;
     opacity: 1.0;
     transition: color 350ms, background-color 350ms;
+  }
+  &--inverted {
+    color: white;
+    background-color: $primary-color;
+    &:hover {
+      background-color: white;
+      color: $primary-color;
+    }
   }
 }
 
