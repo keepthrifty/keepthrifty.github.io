@@ -3,7 +3,7 @@ layout: post
 
 author: mobile_home_gurl
 
-title: "Finding My Entrepreneurial Itch: Mobile Home Investing"
+title: "Finding My Entrepreneurial Niche: Mobile Home Investing"
 description: "Rachel's life of entrepreneurship hit its stride in an uncommon place - mobile home investing."
 
 date: 2018-03-29 6:58:00 -0500
