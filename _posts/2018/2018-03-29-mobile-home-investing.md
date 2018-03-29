@@ -20,7 +20,7 @@ affiliate: true
 
 ---
 
-_We are excited to introduce you to Rachel from [Adventures in Mobile Homes](http://adventuresinmobilehomes.com/){: target="_blank"}. She’s always had a spunky entrepreneurial spirit, eventually focusing her energy on mobile home investing. Here’s how she made her dream of working for herself a reality!_
+_We are excited to introduce you to Rachel from [Adventures in Mobile Homes](http://adventuresinmobilehomes.com/){: target="_blank"}. She’s always had a spunky entrepreneurial spirit, eventually focusing her energy on mobile home investing. Here’s how she made her dream of working for herself a reality!_ 
 
 ## My Entrepreneurial Spirit
 
