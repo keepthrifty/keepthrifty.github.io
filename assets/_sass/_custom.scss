@@ -47,7 +47,7 @@ main.page {
   margin-bottom: 2rem;
 }
 
-.no-border {
+.no-border, .image--no-border {
   img {
     box-shadow: none !important;
     border: none !important;
