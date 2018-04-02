@@ -17,9 +17,11 @@ We would love to share _your personal story_ of creating freedom in your own lif
 
 {% include contact-forms/cyf-submit.html %}
 
-## Advertising
+## Sponsorship
 
-We've made a commitment to maintain Keep Thrifty with <strong>zero</strong> ads and <strong>zero</strong> sponsored posts. <em>Please refrain from reaching out about ads or sponsored posts</em>
+We are currently accepting applications for a sponsor for our [Freedom Story]({{site.url}}/freedom-stories) series. Sponsorship includes a link to your brand in each of our freedom story posts and on the freedom story archive page. In addition, we would link to your brand in our weekly freedom story e-mail to our subscribers. If you are interested in becoming a freedom story sponsor, contact us using the following form:
+
+{% include contact-forms/sponsorship.html %}
 
 ## Contact
 
