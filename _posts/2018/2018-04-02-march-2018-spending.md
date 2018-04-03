@@ -6,7 +6,7 @@ author: chris_durheim
 title: "Passports and More - March 2018 Spending"
 description: "We did an awesome job managing our spending in March, even while spending over $600 investing in passports for the whole family."
 
-date: 2018-04-02 6:58:00 -0500
+date: 2018-04-03 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-04-02-march-2018-spending/botanical-gardens.jpg
