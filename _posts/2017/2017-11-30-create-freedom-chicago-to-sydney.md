@@ -4,13 +4,13 @@ layout: post
 author: not_your_parents_financial_guy
 
 title: "Chicago to Sydney"
-description: "TK"
+description: "Kyle found himself laid off with only a few thousand dollars to his name. What did he do? Moved halfway around the world to Australia. Here's why and how."
 
 date: 2017-11-30 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/feeding-kangaroos.jpg
-pinterest-image: /assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/TK.jpg.png
+pinterest-image: /assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/chicago-to-sydney.png
 
 tags: [create your freedom]
 
