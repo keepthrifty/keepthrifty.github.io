@@ -100,4 +100,4 @@ The biggest thing for us will be to [continue tracking our spending and budgetin
 
 _Thank you to Nick for sharing his story! We love how Nick and Hanna supported each other and that they shared how difficult the journey has been at times. Chris and I have been there too, thinking that maybe we should give up. Hearing that they experienced the same struggles has helped us realize that it’s going to be OK, great even! We just need to be patient, think long term, and give ourselves grace when things get challenging! We wish Nick and Hanna the best as they work together in their RV and save towards their future!_
 
-_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/freedom-stories/#share-your-story)___
