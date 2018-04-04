@@ -94,4 +94,4 @@ No dream just happens - it takes a lot of preparation, determination, and a good
 
 ___Thank you to Yaz for sharing her story. I love that she took a gap year and traveled Asia while growing her own business! We look forward to following her journey in self employment and wish her the best as she continues to grow and dream.___
 
-_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/freedom-stories/#share-your-story)___

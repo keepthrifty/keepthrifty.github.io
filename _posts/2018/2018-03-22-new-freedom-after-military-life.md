@@ -107,4 +107,4 @@ The most important pieces of advice I could give to someone looking to make a ca
 
 _Thank you to Rocky for sharing his story! We love that he persevered in following his dream and always stood up for what he believed he was worth! We can’t wait to see what he will be launching at the end of the year! You can find Rocky on his blog, [30and0](http://30and0.com/){: target="_blank"}_
 
-_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/freedom-stories/#share-your-story)___

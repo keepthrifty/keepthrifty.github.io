@@ -96,4 +96,4 @@ We follow a fairly simple 3 fund portfolio as our base holdings to keep our cost
 ___Thank you to Mr. and Mrs. XYZ for sharing their story. We love that they started tracking their finances and made trade-offs in their spending to accomplish their dream. We wish them the best and great success in reaching FI by age 35! We can’t wait to see what life has in store for them in early retirement!___
 
 
-_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/freedom-stories/#share-your-story)___

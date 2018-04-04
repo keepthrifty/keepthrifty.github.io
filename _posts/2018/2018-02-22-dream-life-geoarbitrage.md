@@ -103,4 +103,4 @@ You can also find the Groovys on YouTube: Talking Trash with Mr. Groovy!
 
 Here is his episode about [GEOARBITRAGE](https://www.youtube.com/watch?v=FAUKfbOR3ss&feature=youtu.be){: target="_blank"}
 
-_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/freedom-stories/#share-your-story)___
