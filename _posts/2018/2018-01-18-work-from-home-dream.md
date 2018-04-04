@@ -99,4 +99,4 @@ Right now, being in a sound financial scenario is the best way for my husband an
 
 ___Thank you to Mrs. AR for sharing her story. We love that she is able create a work life balance by “going to work” and “going home” while working from home. We also love  the advice to experiment with working from home! It can be a great way to get an employer on board and allow to you try it out! We wish Mrs. AR and her family the best and look forward to seeing what the future brings in their journey.___
 
-_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/freedom-stories/#share-your-story)___

@@ -130,4 +130,4 @@ Since having a full-time job and a blog don't keep me busy enough, I’m plannin
 
 ___Thank you to Jason for sharing his story about wishing they had more time for their kids. Becoming a single income family is a big deal and a big change and we are so glad they found a way to make it work! We wish him and his family the best and look forward to seeing Jason’s financial coaching take off!___
 
-_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/freedom-stories/#share-your-story)___

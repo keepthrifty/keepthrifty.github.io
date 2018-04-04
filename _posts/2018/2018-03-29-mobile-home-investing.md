@@ -74,4 +74,4 @@ I love what that my entrepreneurial spirit never died. And I love the niche that
 
 _Thank you to Rachel for sharing her story! We love her creative childhood entrepreneurial ventures - even ending up in the principal’s office, haha! And we can’t wait to see her develop her own mobile home park!_
 
-_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/freedom-stories/#share-your-story)___

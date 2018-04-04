@@ -31,7 +31,7 @@ We've also created a [money tracking app](https://thrifty.keepthrifty.com) to he
 
 We love connecting with our readers and we hope to build a supportive community of like-minded dreamers.
 
-We'd love to connect with you! You can [send us a note](/contact/) or find us on [Twitter](https://www.twitter.com/keepthrifty/), [YouTube](https://www.youtube.com/channel/UCHpQLpwuiNRNwQ_eLJQInQA), [Facebook](https://www.facebook.com/keepthrifty/), and [Pinterest](https://www.pinterest.com/keepthrifty/).
+We'd love to connect with you! You can [send us a note](/work-with-us/) or find us on [Twitter](https://www.twitter.com/keepthrifty/), [YouTube](https://www.youtube.com/channel/UCHpQLpwuiNRNwQ_eLJQInQA), [Facebook](https://www.facebook.com/keepthrifty/), and [Pinterest](https://www.pinterest.com/keepthrifty/).
 
 But the __best__ way to connect with us is to join our email list.
 
@@ -53,7 +53,7 @@ We've hand-picked a few of our favorite pieces for you:
 {%- endfor -%}
 </ul>
 
-We're so excited that you came to check out Keep Thrifty. If there's any way we can help you define and reach your dreams, we'd love to [hear from you](/contact/)!
+We're so excited that you came to check out Keep Thrifty. If there's any way we can help you define and reach your dreams, we'd love to [hear from you](/work-with-us/)!
 
 God bless,
 

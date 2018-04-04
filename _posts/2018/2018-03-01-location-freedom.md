@@ -106,4 +106,4 @@ We absolutely recognize how fortunate we are to be in a situation where we get t
 
 ___Thank you to Laurie for sharing her story. We love that their family has experimented with tiny living in Chile and don’t know what the future holds, but are excited to be on this new journey. We’ll be following their next two years and can’t wait to see where life takes them next!___
 
-_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/freedom-stories/#share-your-story)___

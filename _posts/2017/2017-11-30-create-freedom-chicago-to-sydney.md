@@ -98,4 +98,4 @@ In May 2018, we'll sell our possessions, move out of our apartment and take a on
 
 _Thank you to [Kyle]({{site.data.authors[page.author].web}}) for sharing his story. We love the side hustle and the fact that he bought a plane ticket with the confidence that the rest will work out. We wish him and Lauren the best and an amazing next adventure! We can’t wait to hear all about the mini-retirement once they are back in the States!_
 
-_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/freedom-stories/#share-your-story)___

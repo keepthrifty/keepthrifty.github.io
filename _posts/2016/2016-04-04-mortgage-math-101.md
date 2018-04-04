@@ -252,7 +252,7 @@ More specifically, you should understand how to figure out your monthly payment 
 
 Now that we've laid the foundation, you should be all set up for my next post where I'll show how we are on-track to [save $160,000 on our mortgage][save-on-mortgage] through applying some cool tactics.
 
-If you've got any questions, feel free to [tweet][tweet-me], comment below, or [e-mail me]({{site.url}}/contact/).
+If you've got any questions, feel free to [tweet][tweet-me], comment below, or [e-mail me]({{site.url}}/work-with-us/).
 
 Stay tuned!
 

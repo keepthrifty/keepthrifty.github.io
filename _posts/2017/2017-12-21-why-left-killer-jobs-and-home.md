@@ -116,4 +116,4 @@ In short, there's a balance between making solid decisions that serve long-term 
 
 ___Thank you to Sarah for sharing her story. We understand the struggle between loving where you are and wanting to experience more! We love the baby step recommendations and that the leap you took strengthened your marriage. We wish Sarah and Marc the best and an amazing trip to London! We are looking forward to continuing to follow your story as you work towards your new freedom dream.___
 
-_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/freedom-stories/#share-your-story)___

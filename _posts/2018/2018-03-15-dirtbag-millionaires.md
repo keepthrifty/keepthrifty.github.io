@@ -16,6 +16,8 @@ tags: [create your freedom]
 
 categories: [freedom-story]
 
+popular: true
+
 ---
 
 _First, what is a dirtbag millionaire? Chris, who writes at [Can I Retire Yet?](https://www.caniretireyet.com/){: target="_blank"} (and formerly wrote at Eat the Financial Elephant), explains it this way: A dirtbag (or ski bum) is someone who loves outdoor activities, pursuing them full time to the point of sometimes living out of their car. On the other hand, there are millionaires working and spending all their hard earned money to fund their lifestyle. Neither was a good fit for Chris and his wife so they melded the best of each concept together to create "Dirtbag Millionaire" - someone who works like a millionaire (temporarily) and enjoys the outdoors like a dirtbag! Here’s their story!_
@@ -95,4 +97,4 @@ It is far more sacrifice to live your entire life trapped unintentionally than i
 
 _Thank you to Chris for sharing his story! We love that they are still pursuing a life in Utah, have a 50 state goal, and bought a home with a mother-in-law suite! We can’t wait to hear what life brings this Summer when they officially move out west!_
 
-_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/contact/#guest-posts)___
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/freedom-stories/#share-your-story)___

@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /thank-you/
-title: Thank You!
+title: Thanks for reaching out!
+image:
+  path: /assets/img/thank-you.jpg
 exclude_from_search: true
 sitemap: false
 ---
 
-Thank you for reaching out - we'll do our best to get back to you as soon as we can.
-
-In the meantime, you can [head back to the main page]({{site.url}}).
+Your message is on the way. We'll take a look and will get back to you soon.
