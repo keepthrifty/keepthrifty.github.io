@@ -4,13 +4,12 @@ layout: post
 author: chris_durheim
 
 title: "It's Time To Get Uncomfortable"
-description: "TK"
+description: "Nine months into my mini-retirement, I've been amazed at how much personal growth I've experienced. But that growth has come with a *lot* of discomfort. Here's why it's all still worth it."
 
 date: 2018-04-10 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-04-10-get-uncomfortable/rope-bridge.jpg
-  pinterest-image: /assets/img/posts/2018-04-10-get-uncomfortable/TK.jpg
 
 categories: [article]
 
