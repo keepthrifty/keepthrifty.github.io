@@ -17,7 +17,7 @@ tags: [create your freedom]
 
 categories: [freedom-story]
 
-affiliate: true
+affiliate-link: true
 
 ---
 
