@@ -26,6 +26,7 @@ Chris is a math nerd, spreadsheet fanatic, and software developer. He'd love to 
 Here are some examples of his work:
 
 - [Life Energy Calculator](https://yourmoneyoryourlife.com/life-energy-calculator/){: target="_blank"} at Your Money or Your Life
+- [True Retirement Cost of Anything](https://www.campfirefinance.com/what-is-fire-and-how-does-it-work/#true-retirement-cost-calculator){: target="_blank"} at Camp FIRE Finance
 - [Cost of a Day of Retirement]({% post_url 2016/2016-09-18-the-price-of-an-extra-day %}#calculating-the-price-of-a-day-or-year){: target="_blank"} at Keep Thrifty
 - [Retirement Freedom Calculator]({% post_url 2017/2017-01-30-introducing-retirement-freedom %}#retirement-freedom-calculator){: target="_blank"} at Keep Thrifty
 
