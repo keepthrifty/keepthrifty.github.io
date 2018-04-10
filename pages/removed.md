@@ -5,6 +5,9 @@ subtitle: ...we decluttered that item
 permalink: /file-decluttered/
 redirect_from:
   - /2016/02/22/keepthrifty-experiment.html
+  - /2016/03/06/march-challenge-update-1.html
+  - /2016/03/06/march-challenge-household-care-update-1.html
+  - /2016/03/13/march-challenge-household-care-update-2.html
   - /2016/03/20/march-challenge-update-3.html
   - /2016/03/20/march-challenge-household-care-update-3.html
   - /2016/03/27/march-challenge-household-care-update-4.html
@@ -16,9 +19,13 @@ redirect_from:
   - /2016/05/16/may-challenge-food-update-1.html
   - /2016/05/29/june-challenge-entertainment.html
   - /2016/05/29/may-challenge-food-update-2.html
+  - /assets/logos/logo-design/
+  - /challenge/2016/02/28/march-challenge.html
   - /challenge/2016/03/28/april-challenge.html
   - /challenge/2016/04/17/april-challenge-grocery-update-1.html
+  - /challenges/2016-03-household-care/
   - /challenges/2016-04-grocery/index.html
+  - /challenges/2016-05-food/update-1.html
   - /challenges/2016-06-entertainment/
   - /download-fin-101/
 image:
