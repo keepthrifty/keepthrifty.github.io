@@ -10,7 +10,8 @@ date: 2018-04-03 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-04-02-march-2018-spending/botanical-gardens.jpg
-  pinterest-image: /assets/img/posts/2018-04-02-march-2018-spending/march-spending-report-pin.png
+
+pinterest-image: /assets/img/posts/2018-04-02-march-2018-spending/march-spending-report-pin.png
 
 categories: [article]
 

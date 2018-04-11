@@ -7,6 +7,7 @@ image:
   path: /assets/img/our-story/family-photo.jpg
 redirect_from:
   - /about/
+  - /about.html
 
 include-subscribe: true
 ---
