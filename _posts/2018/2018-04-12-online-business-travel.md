@@ -97,3 +97,5 @@ As we continue following our dream, we know that we want financial freedom in ou
 We created a plan to make this happen and broke it down into three steps: learn, plan, implement. We are currently working on the first step, learning as much as we can from successful dividend investors. We’ve already got our hands on a few really good dividend investing books. From here we can then create our plan of attack and implement it with confidence. Just like Tony Robbins once said, “If you want to be successful, find someone who has achieved the results you want and copy what they do and you’ll achieve the same results.”
 
 _Thank you to Gladice for sharing her journey. We love her mindset routine and feel inspired to create one as well! We love that they travel every three months, can’t wait to hear about their trip to Australia, and wish them the best was they move towards financial freedom!_
+
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/freedom-stories/#share-your-story)___
