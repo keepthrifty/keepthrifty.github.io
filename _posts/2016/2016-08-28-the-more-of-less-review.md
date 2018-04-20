@@ -19,6 +19,7 @@ related-posts: [
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism]
 
+rockstar: true
 
 categories: [article]
 ---

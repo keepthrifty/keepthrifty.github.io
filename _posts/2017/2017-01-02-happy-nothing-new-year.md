@@ -29,6 +29,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [nothing new year]
 
+rockstar: true
+
 categories: [article]
 
 ---

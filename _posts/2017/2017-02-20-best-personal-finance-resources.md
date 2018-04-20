@@ -15,6 +15,7 @@ image:
 permalink: /favorite-resources/
 
 nometa: true
+rockstar: true
 
 categories: [article]
 ---
