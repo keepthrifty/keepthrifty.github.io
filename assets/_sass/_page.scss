@@ -165,15 +165,16 @@ main.page__body {
     font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
     color: $off-black;
     font-size: 1rem;
-    overflow-x: auto;
     width: inherit;
   }
 
   pre {
+    overflow-x: auto;
+    width: 90vw;
+    margin: 0 auto;
     padding: 1.5rem;
     background: $off-black;
     color: $off-white;
-    margin: 0 -1.5rem 1.5rem;
     border-radius: 0.2rem;
 
     code {
