@@ -21,13 +21,13 @@
   top:0px;
   left:0px;
   bottom:0px;
-  transition: opacity 350ms ease-in-out, z-index 1ms ease-in-out 350ms;
+  transition: opacity 250ms ease-in-out, z-index 1ms ease-in-out 250ms;
   opacity:0;
   z-index:-1;
 }
 .modal.modal--open {
   opacity:1;
-  transition: opacity 350ms ease-in-out, z-index 1ms ease-in-out;
+  transition: opacity 250ms ease-in-out, z-index 1ms ease-in-out;
   z-index:+1;
 }
 .modal-space {
@@ -49,14 +49,14 @@
   background:white;
   border-radius:0.2rem;
   transform:translate(-50%, -200%);
-  transition: transform 350ms ease-in-out;
+  transition: transform 250ms ease-in-out;
   perspective: 1000;
-  box-shadow: 0 0 0.2rem 0 $line-color;
+  box-shadow: $shadow;
   opacity:0;
 }
 .modal.modal--open .modal-content {
   transform:translate(-50%, -50%);
-  transition: transform 350ms ease-in-out;
+  transition: transform 250ms ease-in-out;
   z-index:9999;
   opacity:1;
 }

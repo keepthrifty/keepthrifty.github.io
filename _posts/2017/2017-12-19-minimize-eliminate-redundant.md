@@ -28,6 +28,7 @@ redirect_from:
 categories: [article]
 
 rockstar: true
+popular: true
 
 ---
 

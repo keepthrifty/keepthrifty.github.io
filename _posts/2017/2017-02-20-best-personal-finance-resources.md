@@ -16,6 +16,7 @@ permalink: /favorite-resources/
 
 nometa: true
 rockstar: true
+popular: true
 
 categories: [article]
 ---

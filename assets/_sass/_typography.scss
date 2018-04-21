@@ -65,7 +65,7 @@ a {
   color: $secondary-color;
   text-decoration: none;
   opacity: 1.0;
-  transition: opacity 350ms, color 350ms;
+  transition: opacity 250ms, color 250ms;
   &:hover {
     color: $primary-color;
   }
@@ -120,7 +120,7 @@ a.button, button.button, button.subscribe_button {
     color: white;
     background-color: $primary-color;
     opacity: 1.0;
-    transition: color 350ms, background-color 350ms;
+    transition: color 250ms, background-color 250ms;
   }
   &--inverted {
     color: white;

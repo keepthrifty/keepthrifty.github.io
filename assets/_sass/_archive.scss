@@ -1,6 +1,22 @@
 h2.archive-heading {
   font-size: 2rem;
   font-weight: 300;
+  display: flex;
+  align-items: center;
+  i {
+    padding: 0 0.5rem;
+    font-size: 1rem;
+    color: $meta-color;
+  }
+  a {
+    padding: 0 0.5rem;
+    &.active {
+      color: black;
+      &:hover {
+        cursor: default;
+      }
+    }
+  }
 }
 
 i.featured-item {

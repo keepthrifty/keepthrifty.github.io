@@ -11,6 +11,7 @@ $bg-color: #F5F5F5; //color("grey", "lighten-4") !default;
 $off-black: rgba(0, 0, 0, 0.87);
 $off-white: rgba(255, 255, 255, 0.87);
 $line-color: rgba(0,0,0,0.15);
+$shadow: 0 0 0.2rem 0 $line-color;
 
 $screen-xs: 320px;
 $screen-s: 425px;
