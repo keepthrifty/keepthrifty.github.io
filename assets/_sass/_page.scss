@@ -161,6 +161,9 @@ main.page__body {
       background-color: $bg-color;
     }
   }
+  .highlight {
+    margin: 0;
+  }
   code, pre {
     font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
     color: $off-black;
@@ -171,6 +174,7 @@ main.page__body {
   pre {
     overflow-x: auto;
     width: 90vw;
+    max-width: 100%;
     margin: 0 auto;
     padding: 1.5rem;
     background: $off-black;
