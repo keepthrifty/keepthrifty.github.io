@@ -4,14 +4,14 @@ layout: post
 author: chris_durheim
 
 title: "We're Doing One More Year... of Mini-Retirement"
-description: "One More Year syndrome is the bane of people who want to retire but are scared. The fact is, I'm scared to get *out* of my mini-retirement so we're going to stay *in* it for one more year!"
+description: "\"One More Year\" syndrome is the bane of people who want to retire but are scared. The fact is, I'm scared to get *out* of my mini-retirement so we're going to stay *in* it for one more year!"
 
 date: 2018-04-24 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-04-24-one-more-year-mini-retirement/hammock-laptop.jpg
 
-#pinterest-image: /assets/img/posts/2018-04-24-one-more-year-mini-retirement/TK.png
+pinterest-image: /assets/img/posts/2018-04-24-one-more-year-mini-retirement/mini-retirement-extended.png
 
 categories: [article]
 ---
