@@ -22,6 +22,7 @@ tags: [money]
 custom_js:
   - calcfidays
 
+popular: true
 featured: true
 rockstar: true
 

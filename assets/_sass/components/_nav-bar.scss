@@ -1,5 +1,5 @@
 .nav-bar {
-  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+  box-shadow: $shadow;
   display: flex;
   align-items: center;
   align-content: center;
@@ -90,7 +90,7 @@ ul.nav-bar__list {
 	top: 100%;
 	background: #fff;
 	padding: 0;
-  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+  box-shadow: $shadow;
   z-index: 200;
   @media screen and (max-width: 469px) {
     right: 0;

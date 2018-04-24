@@ -1,8 +1,6 @@
 <li class="popular-item">
-  <div class="popular-item-image">
-    <a class="popular-item-link" href="{{ include.post.url }}">
-      <img class="popular-item-image" src="{{ include.post.image.path }}" alt="{{include.post.title}}">
-    </a>
-  </div>
-  <h3 class="popular-item-title"><a class="popular-item-link" href="{{ include.post.url }}">{{ include.post.title }}</a></h3>
+  <a class="popular-item-link" href="{{ include.post.url }}">
+    <img class="popular-item-image" src="{{ include.post.image.path }}" alt="{{include.post.title}}">
+    <h3 class="popular-item-title">{{ include.post.title }}</h3>
+  </a>
 </li>

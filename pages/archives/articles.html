@@ -44,7 +44,41 @@ redirect_from:
 {% include archive/popular-item-list.html type='article' %}
 
 <h2 class="archive-heading">
-  All Articles
+  <i class="fa fa-file-text-o" aria-hidden="true"></i> <a href="#" class="active" id="show-all-articles">All Articles</a>
+  |
+  <i class="fa fa-star featured-item" aria-hidden="true"></i> <a href="#" id="show-featured-only">Featured Articles</a>
 </h2>
 
 {% include archive/full-list.html type='article' %}
+
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', () => {
+    const showAllLink = document.querySelector('#show-all-articles');
+    const showFeaturedLink = document.querySelector('#show-featured-only');
+    const archiveList = document.querySelector('#archive-list');
+    const unfeatured = archiveList.querySelectorAll('.archive-list--entry:not(.featured)');
+    const yearHeadings = archiveList.querySelectorAll('h3');
+    showAllLink.addEventListener('click', (event) => {
+      event.preventDefault();
+      for (let i = 0; i < unfeatured.length; i += 1) {
+        unfeatured[i].style.display = 'list-item';
+      }
+      for (let i = 0; i < yearHeadings.length; i += 1) {
+        yearHeadings[i].style.display = 'block';
+      }
+      showAllLink.classList.add('active');
+      showFeaturedLink.classList.remove('active');
+    });
+    showFeaturedLink.addEventListener('click', (event) => {
+      event.preventDefault();
+      for (let i = 0; i < unfeatured.length; i += 1) {
+        unfeatured[i].style.display = 'none';
+      }
+      for (let i = 0; i < yearHeadings.length; i += 1) {
+        yearHeadings[i].style.display = 'none';
+      }
+      showAllLink.classList.remove('active');
+      showFeaturedLink.classList.add('active');
+    });
+  });
+</script>

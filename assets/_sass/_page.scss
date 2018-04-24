@@ -221,7 +221,7 @@ main.page__body {
       max-width: inherit;
     }
     border-radius: 0.2rem;
-    box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+    box-shadow: $shadow;
   }
   .caption {
     display: block;
