@@ -76,7 +76,7 @@ In the end, the reason we were excited about debt freedom wasn't because it was 
 
 You can calculate your hypothetical payment freedom using the calculator below. Plug in your numbers and it'll tell you how much of your expenses you *could* fund using your investments.
 
-TK INCLUDE CALCULATOR
+{% include calculators/payment-freedom.html %}
 
 The awesome part here is that you can easily see the factors you can change to improve your percentage:
 

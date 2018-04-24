@@ -3,83 +3,41 @@
   <p class="calculator-description">Enter your numbers to see if you've reached Retirement Freedom</p>
   <form action="" id="retirement-freedom">
     <div class="calculator-row">
-      <div class="calculator-field">
-        <label for="age">Current Age</label>
-        <span class="suffixed-input">
-          <input type="number" name="age" min="0" value="30" step="1" suffix="years">
-          <span class="input-suffix">
-            years
-          </span>
-        </span>
+      <div class="calculator-input">
+        <label id="age-label" for="age">Current age: 30 years</label><br />
+        <input value="30" class="calculator-slider" min="0" max="100" step="1" type="range" name="age[]" id="age" />
       </div>
-      <div class="calculator-field">
-        <label for="age">Target Retirement Age</label>
-        <span class="suffixed-input">
-          <input type="number" name="retirement-age" min="0" value="65" suffix="years">
-          <span class="input-suffix">
-            years
-          </span>
-        </span>
+      <div class="calculator-input">
+        <label id="retirement-age-label" for="retirement-age">Target retirement age: 65 years</label><br />
+        <input value="65" class="calculator-slider" min="0" max="100" step="1" type="range" name="retirement-age[]" id="retirement-age" />
       </div>
-      <div class="calculator-field">
-        <label for="funds-today">Current Retirement Acct Balance</label>
-        <span class="prefixed-input">
-          <span class="input-prefix">
-            $
-          </span>
-          <input type="number" name="funds-today" min="0" value="150000" prefix="$">
-        </span>
+      <div class="calculator-input">
+        <label for="funds-today">Current Retirement Acct Balance</label><br />
+        <span class="input-prefix">$</span>
+        <input type="number" name="funds-today" min="0" value="150000" prefix="$">
       </div>
-      <div class="calculator-field">
-        <label for="funds-today">Retirement Annual Expenses</label>
-        <span class="prefixed-input">
-          <span class="input-prefix">
-            $
-          </span>
-          <input type="number" name="retirement-expenses" min="0" value="30000" prefix="$">
-        </span>
+      <div class="calculator-input">
+        <label for="funds-today">Retirement Annual Expenses</label><br />
+        <span class="input-prefix">$</span>
+        <input type="number" name="retirement-expenses" min="0" value="30000" prefix="$">
       </div>
-      <div class="calculator-field">
-        <label for="growth">Investment Growth Rate</label>
-        <span class="suffixed-input">
-          <input type="number" name="growth" min="0" value="8.0" step="0.1" suffix="%">
-          <span class="input-suffix">
-            %
-          </span>
-        </span>
+      <div class="calculator-input">
+        <label id="growth-label" for="growth">8.00% Annual Investment Growth Rate</label><br />
+        <input value="8" class="calculator-slider" min="0.25" max="20" step="0.25" type="range" name="growth[]" id="growth" />
       </div>
-      <div class="calculator-field">
-        <label for="growth">Inflation Rate</label>
-        <span class="suffixed-input">
-          <input type="number" name="inflation" min="0" value="2.5" step="0.1" suffix="%">
-          <span class="input-suffix">
-            %
-          </span>
-        </span>
+      <div class="calculator-input">
+        <label id="inflation-label" for="inflation">2.50% Annual Inflation Rate</label><br />
+        <input value="2.5" class="calculator-slider" min="0.25" max="20" step="0.25" type="range" name="inflation[]" id="inflation" />
       </div>
-      <div class="calculator-field">
-        <label for="growth">Retirement Tax Rate</label>
-        <span class="suffixed-input">
-          <input type="number" name="tax-rate" min="0" value="15.0" max="99.9" step="0.1" suffix="%">
-          <span class="input-suffix">
-            %
-          </span>
-        </span>
+      <div class="calculator-input">
+        <label id="tax-label" for="tax">15% Retirement Tax Rate</label><br />
+        <input value="15" class="calculator-slider" min="0" max="99" step="1" type="range" name="tax[]" id="tax" />
       </div>
-      <div class="calculator-field">
-        <label for="growth">Safe Withdrawal Rate</label>
-        <span class="suffixed-input">
-          <input type="number" name="safe-withdrawal-rate" min="0.1" max="100.0" value="4.0" step="0.1" suffix="%">
-          <span class="input-suffix">
-            %
-          </span>
-        </span>
+      <div class="calculator-input">
+        <label id="safe-withdrawal-label" for="safe-withdrawal">4% Safe Withdrawal Rate</label><br />
+        <input value="4" class="calculator-slider" min="0.25" max="20" step="0.25" type="range" name="safe-withdrawal[]" id="safe-withdrawal" />
       </div>
-      <div class="calculator-submit">
-       <button class="button" type="submit" name="action">Calculate</button>
-      </div>
-
-      <div class="calculator-result"></div>
+      <div class="calculator-result" id="retirement-freedom-result"></div>
     </div>
   </form>
 </div>
