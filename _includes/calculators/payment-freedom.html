@@ -4,14 +4,14 @@
     <p class="calculator-description">Enter your numbers to see how much of your retirement expenses you've got covered today.</p>
     <div class="calculator-row">
       <div class="calculator-input">
-        <label for="funds-today">Current Retirement Account Balance</label><br />
-        <span class="input-prefix">$</span>
-        <input type="number" name="funds-today" min="0" value="150000" prefix="$" id="funds-today">
-      </div>
-      <div class="calculator-input">
         <label for="annual-expenses">Retirement Annual Expenses</label><br />
         <span class="input-prefix">$</span>
         <input type="number" name="annual-expenses" min="0" value="30000" prefix="$" id="annual-expenses">
+      </div>
+      <div class="calculator-input">
+        <label for="funds-today">Current Retirement Account Balance</label><br />
+        <span class="input-prefix">$</span>
+        <input type="number" name="funds-today" min="0" value="150000" prefix="$" id="funds-today">
       </div>
       <div class="calculator-input">
         <label for="other-income">Other Passive Annual Income</label><br />
@@ -30,6 +30,14 @@
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', () => {
+      function toCurrency(value) {
+        if (value == 0) {
+          return '-';
+        } else {
+          return '$' + value.toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        }
+      }
+
       const calculator = document.querySelector('.calculator#payment-freedom');
       let chartLoaded = false;
       if (calculator) {
@@ -78,10 +86,13 @@
             const needed = expense
             const have = balance * safeWithdrawalRate + other;
             const coverage = ((have / needed) * 100);
-            let out = '<h5>You\'re at ';
+            let out = '<h5>Your investments and passive income cover ';
+            out += toCurrency(have);
+            out += ' of expenses every year<br>';
+            out += 'You are at '
 
-            if (have >= needed) {
-              out += ' 100% or more - you\'re fully payment free!'
+            if (have > needed) {
+              out += 'more than 100% payment freedom!'
             } else {
               out += coverage.toFixed(1);
               out += '% payment freedom';
