@@ -3,15 +3,15 @@ layout: post
 
 author: chris_durheim
 
-title: "For FIRE, Debt Freedom is Great, but Payment Freedom is Better"
-description: ""
+title: "Debt Freedom is Great, but Payment Freedom is Better"
+description: "We thought we'd feel great once we were debt-free. But our pathway there didn't provide the satisfaction we had hoped. Here's what we missed."
 
 date: 2018-05-01 6:58:00 -0500
 
 image:
-  path: /assets/img/posts/2018-05-01-debt-freedom-awesome/TK.jpg
+  path: /assets/img/posts/2018-05-01-payment-freedom/freedom.jpg
 
-#pinterest-image: /assets/img/posts/2018-05-01-debt-freedom-awesome/TK.jpg
+#pinterest-image: /assets/img/posts/2018-05-01-payment-freedom/TK.jpg
 
 categories: [article]
 ---
@@ -87,7 +87,7 @@ The awesome part here is that you can easily see the factors you can change to i
 
 ## Our Progress
 
-Currently, our hypothetical payment freedom coverage is TK%.
+Currently, our hypothetical payment freedom coverage is 16.1%.
 
 We plan to get back into home ownership (and pay off our mortgage quickly), so we should see some a big jump in our progress once we get there. In addition, we'll keep contributing to our retirement accounts, chipping away at our percentage over time.
 

@@ -110,7 +110,7 @@ input.calculator-slider {
   cursor: pointer; /* Cursor on hover */
 }
 .input-error {
-  color: $secondary-color;
+  color: $primary-color;
   flex: 1 1 10rem;
   display: none;
 }
@@ -126,12 +126,18 @@ input.calculator-slider {
   font-size: 1.2rem;
   padding: 0.5rem;
 }
+.calculator-result.calculator-result-chart {
+  table {
+    margin: 0 auto !important;
+  }
+}
 .calculator-result .result-value {
   font-weight: bold;
 }
 .calculator-result .result-error {
   font-size: 1.5rem;
-  color: $secondary-color;
+  text-align: center;
+  color: $primary-color;
 }
 .calculator-result-table {
   max-width: 100%;
