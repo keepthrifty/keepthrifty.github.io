@@ -1,42 +1,24 @@
-<div class="calculator">
-  <h3>What's the Price for FI Time?</h3>
-  <form action="" id="dollarsform" onsubmit="return false;">
+<div class="calculator" id="dollars-calculator">
+  <h3 class="calculator-title">What's the Price for FI Time?</h3>
+  <form action="#" id="dollarsform" onsubmit="return false;">
     <div class="calculator-row">
-      <div class="calculator-field">
-        <label for="balance">Current Retirement Acct Balance</label>
-        <span class="prefixed-input">
-          <span class="input-prefix">
-            $
-          </span>
-          <input type="number" name="balance" min="0" value="50000">
-        </span>
+      <div class="calculator-input">
+        <label for="dollars-balance">Current Retirement Account Balance</label><br />
+        <span class="input-prefix">$</span>
+        <input type="number" name="dollars-balance" min="0" value="50000" prefix="$" id="dollars-balance">
       </div>
-      <div class="calculator-field">
-        <label for="invrate">Investment Annual Growth Rate</label>
-        <span class="suffixed-input">
-          <input type="number" name="invrate" min="0" value="8.0" step="0.1">
-          <span class="input-suffix">
-            %
-          </span>
-        </span>
+    </div>
+    <div class="calculator-row">
+      <div class="calculator-input">
+        <label id="dollars-invrate-label" for="invrate">8% annual investment growth rate</label><br />
+        <input value="8" class="calculator-slider" min="0" max="20" step="0.25" type="range" name="dollars-invrate[]" id="dollars-invrate" />
       </div>
-      <div class="calculator-field">
-        <label for="exprate">Expense Annual Growth Rate</label>
-        <span class="suffixed-input">
-          <input type="number" name="exprate" min="0" value="2.5" step="0.1">
-          <span class="input-suffix">
-            %
-          </span>
-        </span>
-      </div>
-      <div class="calculator-submit">
-       <button class="button" type="submit" name="action" onClick="calcprice()">Calculate</button>
+      <div class="calculator-input">
+        <label id="dollars-exprate-label" for="exprate">2.5% annual expense inflation rate</label><br />
+        <input value="2.5" class="calculator-slider" min="0" max="20" step="0.25" type="range" name="dollars-exprate[]" id="dollars-exprate" />
       </div>
     </div>
   </form>
-
-  <div class="center">
-    <h4 id="calcdayprice">Cost for an extra day: ?</h4>
-    <h4 id="calcyearprice">Cost for an extra year: ?</h4>
-  </div>
+  <div class="calculator-result" id="calcdollars-result"></div>
+  {% include calculators/calculator-footer.html %}
 </div>

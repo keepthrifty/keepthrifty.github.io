@@ -22,13 +22,8 @@
         <label id="safe-withdrawal-rate-label" for="safe-withrdrawal-rate">4.00% safe withdrawal rate</label><br />
         <input value="4" class="calculator-slider" min="0.25" max="20" step="0.25" type="range" name="safe-withdrawal-rate[]" id="safe-withdrawal-rate" />
       </div>
-      <div id="payment-freedom-result" class="calculator-result">
-
-      </div>
-      <div class="calculator-footer">
-        <p>Are you a blogger? Chris would love to design a calculator like this one for your site.</p>
-        <p class="calculator-footer-action"><a href="{{site.url}}/work-with-us/#calculators-for-your-website">Learn more here</a></p>
-      </div>
+      <div id="payment-freedom-result" class="calculator-result"></div>
+      {% include calculators/calculator-footer.html %}
     </div>
   </form>
 </div>

@@ -37,10 +37,10 @@ p.calculator-description {
   display: flex;
   flex-wrap: wrap;
   margin: 1rem 1rem 0;
-  max-width: 15rem;
+  max-width: 18rem;
 }
 .calculator-input label {
-  font-size: 0.9rem;
+  font-size: .95rem;
   flex: 0 0 100%;
   color: $meta-color;
 }
@@ -77,11 +77,11 @@ input.calculator-slider {
 .calculator-slider {
   -webkit-appearance: none;  /* Override default CSS styles */
   appearance: none;
-  height: 0.5rem; /* Specified height */
+  height: 0.75rem; /* Specified height */
   border-radius: 0.5rem;
   border-color: $line-color;
-  color: $bg-color;
-  background: $bg-color; /* Grey background */
+  color: white;
+  background: white; /* Grey background */
   outline: none; /* Remove outline */
   opacity: 1; /* Set transparency (for mouse-over effects on hover) */
   transition: opacity .2s;
@@ -90,7 +90,7 @@ input.calculator-slider {
   padding: 0 !important;
 }
 .calculator-slider:hover {
-  background: $meta-color; /* Fully shown on mouse-over */
+  background: $bg-color; /* Fully shown on mouse-over */
 }
 .calculator-slider::-webkit-slider-thumb {
   -webkit-appearance: none; /* Override default look */
@@ -98,7 +98,7 @@ input.calculator-slider {
   width: 1.5rem; /* Set a specific slider handle width */
   height: 1.5rem; /* Specified height */
   border-radius: 50%;
-  background: $primary-color; /* ESI Blue background */
+  background: $primary-color;
   cursor: pointer; /* Cursor on hover */
 }
 
@@ -106,7 +106,7 @@ input.calculator-slider {
   width: 1.5rem; /* Set a specific slider handle width */
   height: 1.5rem; /* Specified height */
   border-radius: 50%;
-  background: $primary-color; /* ESI Blue background */
+  background: $primary-color;
   cursor: pointer; /* Cursor on hover */
 }
 .input-error {
@@ -119,6 +119,12 @@ input.calculator-slider {
   font-size: 0.9rem;
   margin-top: 2rem;
   overflow-x: auto;
+}
+.calculator-result h5 {
+  background-color: $primary-color;
+  color: white;
+  font-size: 1.2rem;
+  padding: 0.5rem;
 }
 .calculator-result .result-value {
   font-weight: bold;

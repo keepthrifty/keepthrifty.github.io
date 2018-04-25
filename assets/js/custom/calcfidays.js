@@ -1,38 +1,135 @@
-function logbase(val, base) {
-  var x=Math.log(val) / Math.log(base);
-  return x
-}
+document.addEventListener('DOMContentLoaded', () => {
+  function toCurrency(value) {
+    if (value == 0) {
+      return '-';
+    } else {
+      return '$' + value.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    }
+  }
 
-function calcdays() {
+  function logbase(val, base) {
+    return Math.log(val) / Math.log(base);
+  }
 
-var balance=document.forms.namedItem("daysform").balance.value*1;
-var invrate=document.forms.namedItem("daysform").invrate.value*1/100;
-var exprate=document.forms.namedItem("daysform").exprate.value*1/100;
-var extra=document.forms.namedItem("daysform").extra.value*1;
+  const daysCalculator = document.querySelector('.calculator#days-calculator');
+  if (daysCalculator) {
+    const daysInputs = daysCalculator.querySelectorAll('input');
 
-var result;
+    const balanceInput = daysCalculator.querySelector('input#balance');
+    const extraInput = daysCalculator.querySelector('input#extra');
+    const investmentGainRateInput = daysCalculator.querySelector('input#invrate');
+    const investmentGainRateLabel = daysCalculator.querySelector('#invrate-label');
+    const inflationRateInput = daysCalculator.querySelector('input#exprate');
+    const inflationRateLabel = daysCalculator.querySelector('#exprate-label');
 
-result=logbase(1+extra/balance, (1+invrate)/(1+exprate))*365.25;
+    /* Output */
+    const daysOutputDiv = daysCalculator.querySelector('#calcdays-result');
 
-document.getElementById('calcdays').innerHTML =
-                                      "Total Days Saved: "+result.toFixed(2);
-}
+    /* Calculate and update labels and results, flag errors */
+    function updateDaysResults() {
+      const balance = parseFloat(balanceInput.value) || 0;
+      const extra = parseFloat(extraInput.value) || 0;
+      const inflation = parseFloat(inflationRateInput.value) / 100.0 || 0;
+      const growth = parseFloat(investmentGainRateInput.value) / 100.0 || 0;
 
-function calcprice() {
+      let investmentGainRateText = (growth * 100).toFixed(2);
+      investmentGainRateText +=  '% annual investment growth rate';
+      investmentGainRateLabel.innerHTML = investmentGainRateText;
 
-var balance=document.forms.namedItem("dollarsform").balance.value*1;
-var invrate=document.forms.namedItem("dollarsform").invrate.value*1/100;
-var exprate=document.forms.namedItem("dollarsform").exprate.value*1/100;
+      let inflationRateText = (inflation * 100).toFixed(2);
+      inflationRateText +=  '% annual expense inflation rate';
+      inflationRateLabel.innerHTML = inflationRateText;
 
-var result;
+      if (daysOutputDiv) {
+        /* Validate Inputs */
+        if (balance <= 0.0) {
+          daysOutputDiv.innerHTML = '<span class="result-error">Please enter an investment balance greater than zero</span>';
+          return;
+        }
+        if (extra <= 0.0) {
+          daysOutputDiv.innerHTML = '<span class="result-error">Please enter a proposed contribution greater than zero</span>';
+          return;
+        }
+        if (inflation >= growth) {
+          daysOutputDiv.innerHTML = '<span class="result-error">Please set the inflation rate to a value less than the investment growth rate</span>';
+          return;
+        }
 
-result=(Math.pow((1+invrate)/(1+exprate),(1/365.25))-1)*balance;
+        /* Update output */
+        const result = logbase(1 + extra / balance, (1 + growth) / (1 + inflation))*365.2425;
+        let out = '<h5>' + toCurrency(extra) + ' can buy you ' + result.toFixed(1) + ' days of freedom';
+        daysOutputDiv.innerHTML = out;
+      }
+    }
 
-document.getElementById('calcdayprice').innerHTML =
-                                      "Price for an extra day: $"+result.toFixed(2);
+    /* Set calculator to auto-update on input changes */
+    for (let i = 0; i < daysInputs.length; i += 1) {
+      daysInputs[i].addEventListener('input', () => {
+        updateDaysResults();
+      });
+    }
 
-result=(((1+invrate)/(1+exprate))-1)*balance;
+    /* Update on load */
+    updateDaysResults();
+  }
 
-document.getElementById('calcyearprice').innerHTML =
-                                      "Price for an extra year: $"+result.toFixed(2);
-}
+  const dollarsCalculator = document.querySelector('.calculator#dollars-calculator');
+  if (dollarsCalculator) {
+    const dollarsInputs = dollarsCalculator.querySelectorAll('input');
+
+    const balanceInput = dollarsCalculator.querySelector('input#dollars-balance');
+    const investmentGainRateInput = dollarsCalculator.querySelector('input#dollars-invrate');
+    const investmentGainRateLabel = dollarsCalculator.querySelector('#dollars-invrate-label');
+    const inflationRateInput = dollarsCalculator.querySelector('input#dollars-exprate');
+    const inflationRateLabel = dollarsCalculator.querySelector('#dollars-exprate-label');
+
+    /* Output */
+    const dollarsOutputDiv = dollarsCalculator.querySelector('#calcdollars-result');
+
+    /* Calculate and update labels and results, flag errors */
+    function updateDollarsResults() {
+      const balance = parseFloat(balanceInput.value) || 0;
+      const inflation = parseFloat(inflationRateInput.value) / 100.0 || 0;
+      const growth = parseFloat(investmentGainRateInput.value) / 100.0 || 0;
+
+      let investmentGainRateText = (growth * 100).toFixed(2);
+      investmentGainRateText +=  '% annual investment growth rate';
+      investmentGainRateLabel.innerHTML = investmentGainRateText;
+
+      let inflationRateText = (inflation * 100).toFixed(2);
+      inflationRateText +=  '% annual expense inflation rate';
+      inflationRateLabel.innerHTML = inflationRateText;
+
+      if (dollarsOutputDiv) {
+        /* Validate Inputs */
+        if (balance <= 0.0) {
+          dollarsOutputDiv.innerHTML = '<span class="result-error">Please enter an investment balance greater than zero</span>';
+          return;
+        }
+        if (inflation >= growth) {
+          dollarsOutputDiv.innerHTML = '<span class="result-error">Please set the inflation rate to a value less than the investment growth rate</span>';
+          return;
+        }
+
+        /* Update output */
+        const dayPrice = (Math.pow( (1 + growth) / (1 + inflation) , (1 / 365.2425 )) - 1) * balance;
+        const yearPrice = (((1 + growth) / (1 + inflation)) - 1) * balance;
+
+        const dayOut = '<h5>Price for an extra day: ' + toCurrency(dayPrice) + '</h5>';
+        const yearOut = '<h5>Price for an extra year: ' + toCurrency(yearPrice) + '</h5>';
+        dollarsOutputDiv.innerHTML = dayOut + yearOut;
+      }
+    }
+
+    /* Set calculator to auto-update on input changes */
+    for (let i = 0; i < dollarsInputs.length; i += 1) {
+      dollarsInputs[i].addEventListener('input', () => {
+        updateDollarsResults();
+      });
+    }
+
+    /* Update on load */
+    updateDollarsResults();
+  }
+
+});
