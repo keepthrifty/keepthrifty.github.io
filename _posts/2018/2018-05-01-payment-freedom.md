@@ -11,7 +11,7 @@ date: 2018-05-01 6:58:00 -0500
 image:
   path: /assets/img/posts/2018-05-01-payment-freedom/freedom.jpg
 
-#pinterest-image: /assets/img/posts/2018-05-01-payment-freedom/TK.jpg
+pinterest-image: /assets/img/posts/2018-05-01-payment-freedom/payment-freedom.png
 
 categories: [article]
 ---
