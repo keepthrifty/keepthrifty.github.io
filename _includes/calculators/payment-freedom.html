@@ -1,0 +1,144 @@
+<div class="calculator" id="payment-freedom">
+  <form action="#" id="payment-freedom">
+    <h3 class="calculator-title">Payment Freedom Calculator</h3>
+    <p class="calculator-description">Enter your numbers to see how much of your retirement expenses you've got covered today.</p>
+    <div class="calculator-row">
+      <div class="calculator-input">
+        <label for="annual-expenses">Retirement Annual Expenses</label><br />
+        <span class="input-prefix">$</span>
+        <input type="number" name="annual-expenses" min="0" value="30000" prefix="$" id="annual-expenses">
+      </div>
+      <div class="calculator-input">
+        <label for="funds-today">Current Retirement Account Balance</label><br />
+        <span class="input-prefix">$</span>
+        <input type="number" name="funds-today" min="0" value="150000" prefix="$" id="funds-today">
+      </div>
+      <div class="calculator-input">
+        <label for="other-income">Other Passive Annual Income</label><br />
+        <span class="input-prefix">$</span>
+        <input type="number" name="other-income" min="0" value="5000" prefix="$" id="other-income">
+      </div>
+      <div class="calculator-input">
+        <label id="safe-withdrawal-rate-label" for="safe-withrdrawal-rate">4.00% safe withdrawal rate</label><br />
+        <input value="4" class="calculator-slider" min="0.25" max="20" step="0.25" type="range" name="safe-withdrawal-rate[]" id="safe-withdrawal-rate" />
+      </div>
+      <div id="payment-freedom-result" class="calculator-result"></div>
+      <div class="calculator-result calculator-result-chart" id="payment-freedom-gauge"></div>
+      {% include calculators/calculator-footer.html %}
+    </div>
+  </form>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', () => {
+      function toCurrency(value) {
+        if (value == 0) {
+          return '-';
+        } else {
+          return '$' + value.toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        }
+      }
+
+      const calculator = document.querySelector('.calculator#payment-freedom');
+      let chartLoaded = false;
+      if (calculator) {
+        const inputs = calculator.querySelectorAll('input');
+
+        const balanceInput = calculator.querySelector('input#funds-today');
+        const expenseInput = calculator.querySelector('input#annual-expenses');
+        const otherInput = calculator.querySelector('input#other-income');
+        const safeWithdrawalRateInput = calculator.querySelector('input#safe-withdrawal-rate');
+        const safeWithdrawalRateLabel = calculator.querySelector('#safe-withdrawal-rate-label');
+
+        /* Output */
+        const outputDiv = calculator.querySelector('#payment-freedom-result');
+        const outputChart = calculator.querySelector('#payment-freedom-gauge');
+
+        /* Calculate and update labels and results, flag errors */
+        function updateResults() {
+          const balance = parseFloat(balanceInput.value) || 0;
+          const expense = parseFloat(expenseInput.value) || 0;
+          const other = parseFloat(otherInput.value) || 0;
+          const safeWithdrawalRate = parseFloat(safeWithdrawalRateInput.value) / 100.0 || 0;
+
+          let safeWithdrawalRateText = (safeWithdrawalRate * 100).toFixed(2);
+          safeWithdrawalRateText +=  '% safe withdrawal rate';
+          safeWithdrawalRateLabel.innerHTML = safeWithdrawalRateText;
+
+          if (outputDiv) {
+            /* Validate Inputs */
+            if (balance < 0.0) {
+              outputDiv.innerHTML = '<span class="result-error">Please enter an current retirement acount balance of at least zero</span>';
+              outputChart.innerHTML = '';
+              return;
+            }
+            if (expense <= 0.0) {
+              outputDiv.innerHTML = '<span class="result-error">Please enter a retirement annual expense amount greater than zero</span>';
+              outputChart.innerHTML = '';
+              return;
+            }
+            if (other < 0.0) {
+              outputDiv.innerHTML = '<span class="result-error">Please enter other passive annual income of zero or greater</span>';
+              outputChart.innerHTML = '';
+              return;
+            }
+
+            /* Update output */
+            const needed = expense
+            const have = balance * safeWithdrawalRate + other;
+            const coverage = ((have / needed) * 100);
+            let out = '<h5>Your investments and passive income cover ';
+            out += toCurrency(have);
+            out += ' of expenses every year<br>';
+            out += 'You are at '
+
+            if (have > needed) {
+              out += 'more than 100% payment freedom!'
+            } else {
+              out += coverage.toFixed(1);
+              out += '% payment freedom';
+            }
+
+            outputDiv.innerHTML = out;
+            if (chartLoaded) {
+              drawChart(coverage);
+            }
+          }
+        }
+        /* Set calculator to auto-update on input changes */
+        for (let i = 0; i < inputs.length; i += 1) {
+          inputs[i].addEventListener('input', () => {
+            updateResults();
+          });
+        }
+        /* Update on load */
+        updateResults();
+      }
+
+      function chartReady() {
+        chartLoaded = true;
+        updateResults();
+      }
+
+      google.charts.load('current', {'packages':['gauge']});
+      google.charts.setOnLoadCallback(chartReady);
+
+      function drawChart(value) {
+        var data = google.visualization.arrayToDataTable([
+          ['Label', 'Value'],
+          ['%', value]
+        ]);
+
+        var options = {
+          height: 120,
+          greenFrom: 100, greenTo: Math.max(100,Math.round(value)),
+          minorTicks: 5,
+          max: Math.max(100,Math.round(value))
+        };
+
+        var chart = new google.visualization.Gauge(document.getElementById('payment-freedom-gauge'));
+
+        chart.draw(data, options);
+      }
+    });
+  </script>
+</div>
