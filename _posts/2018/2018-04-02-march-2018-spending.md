@@ -66,7 +66,7 @@ _I couldn't talk Jaime into loving spreadsheets, so I created a web app for us i
 
 _In the spending summary below, you'll see screenshots straight out of our Thrifty account._
 
-_If you'd like to learn more, [check out Thrifty](https://thrifty.keepthrifty.com) and sign up for a_ ___free 75-day trial.___
+_If you'd like to learn more, [check out Thrifty](https://thrifty.keepthrifty.com) and sign up for a_ ___free 7-day trial.___
 
 ## Spending Summary
 

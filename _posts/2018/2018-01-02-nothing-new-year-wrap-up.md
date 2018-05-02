@@ -47,11 +47,6 @@ Since we're wrapping things up, I'll have an abbreviated spending overview for D
 
 ## December Spending Overview
 
-{% capture rightnow %}{{'now' | date: '%s'}}{% endcapture %}
-{% capture discountends %}{{ "February 1, 2018" | date: '%s'}}{% endcapture %}
-
-_We track our spending using a little tool I made called [Thrifty](https://thrifty.keepthrifty.com). We've been using it for over 2 years and it's really helped us get a handle on our finances.{% if rightnow < discountends %} If you start your free trial by the end of January, you'll get_ ___50% off___ _a subscription_.{% endif %}
-
 Here's our spending summary from Thrifty for December 2017:
 
 ![Overall spending $5,588.28]({{site.url}}/assets/img/posts/2018-01-02-nothing-new-year-wrap-up/nny-month-twelve-spending.png)

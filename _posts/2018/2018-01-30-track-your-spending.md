@@ -114,17 +114,6 @@ Every time you spend something, you'll see the immediate impact to your monthly 
 
 That view is powerful. We know - we've been using Thrifty for over two years and it's helped us immensely in improving our spending and our overall life.
 
-{% capture rightnow %}{{'now' | date: '%s'}}{% endcapture %}
-{% capture signupends %}{{ "February 15, 2018" | date: '%s'}}{% endcapture %}
-
-{% if rightnow < signupends %}
-
-If you _sign up for a free 75-day trial of Thrifty by February 14, 2018_, you'll get __50% off__ the cost of a regular subscription.
-
-Thrifty is normally $4 a month, but you can get it for just $2 a month instead!
-
-{% endif %}
-
 Want to learn more? [Click here](https://thrifty.keepthrifty.com) to learn more and see if Thrifty is right for you.
 
 ## Do you track?

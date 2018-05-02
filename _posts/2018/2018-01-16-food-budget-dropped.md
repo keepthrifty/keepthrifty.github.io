@@ -169,24 +169,3 @@ We improved our food spending by $3,300 a year through a combination of:
 {% include tweet-link.html tweet-text="It took us about two years of serious effort to get here, but our persistence paid off" %}!
 
 _Is food spending a challenge for you as well? Have you found any favorite recipes or techniques to keep your costs down?_
-
-{% capture rightnow %}{{'now' | date: '%s'}}{% endcapture %}
-{% capture signupends %}{{ "February 15, 2018" | date: '%s'}}{% endcapture %}
-
-{% if rightnow < signupends %}
-
-## SPECIAL OFFER: Discount on Thrifty
-
-One of the most important tools in improving your finances is a tracking method that works for you.
-
-We've created a web app (called Thrifty) to helps you track your income, taxes, spending, and savings.
-
-We've been using Thrifty for two-and-a-half years now to track every penny and we find new insights about how we manage our money every month.
-
-If you _sign up for a free 75-day trial of Thrifty by February 14, 2018_, you'll get __50% off__ the cost of a regular subscription.
-
-Thrifty is normally $4 a month, but you can get it for just $2!
-
-Want to learn more? [Click here](https://thrifty.keepthrifty.com) to learn more and see if Thrifty is right for you.
-
-{% endif %}
