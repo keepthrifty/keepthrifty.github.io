@@ -261,7 +261,7 @@ Stay tuned!
 [one-third-mortgage-free]: http://fivethirtyeight.com/datalab/how-many-homeowners-have-paid-off-their-mortgages/
 {: target="_blank"}
 
-[amortization-calculator]: https://docs.google.com/spreadsheets/d/1Odx9YVPxD-dE2Q90hBeQYqGnvYkYuKLWRm_skWrZOOk/edit?usp=sharing
+[amortization-calculator]: https://docs.google.com/spreadsheets/d/1Odx9YVPxD-dE2Q90hBeQYqGnvYkYuKLWRm_skWrZOOk/copy?usp=sharing
 {: target="_blank"}
 
 [google-mortgage-calculator]: https://www.google.com/#safe=active&q=mortgage+payment+calculator
