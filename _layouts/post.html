@@ -4,6 +4,10 @@ comments: true
 ---
 
 <article class="post">
+  {%- if page.categories contains 'freedom-story' -%}
+    {% include shared/sponsor-banner.html %}
+  {%- endif -%}
+
   <header class="page__header">
     {% include page/page-visual.html %}
     {% include post/post-meta.html %}

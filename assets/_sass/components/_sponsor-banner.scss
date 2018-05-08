@@ -1,0 +1,17 @@
+.sponsor-banner {
+  width: 100%;
+  text-align: center;
+  a.sponsor-link {
+    margin: 0 2rem;
+    img {
+      width: 100%;
+      max-width: 24rem;
+      @media screen and (min-width: $screen-m) {
+        max-width: 560px;
+      }
+      @media screen and (min-width: $screen-l) {
+        max-width: 720px;
+      }
+    }
+  }
+}
