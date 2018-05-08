@@ -2,6 +2,9 @@
 layout: default
 ---
 <article class="archive">
+  {%- if page.type contains 'freedom-story' -%}
+    {% include shared/sponsor-banner.html %}
+  {%- endif -%}
   <header class="page__header">
     {% include page/page-visual.html %}
     {% include archive/archive-meta.html %}
