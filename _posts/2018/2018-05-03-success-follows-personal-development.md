@@ -81,5 +81,6 @@ If you feel like you don’t have enough time, I’m sure there are ways to adju
 
 I know I can be successful. You can too! Set your mind on investing in bettering yourself. Things don’t always come as fast as you’d like, but over time, success will come. As you grow, turn that knowledge into action and you can find the success you’re looking for.
 
-
 _Thank you to Erik for sharing his story. We love that he house hacked and continues to invest not only in his financial success, but holistically in his personal and professional life. We wish him the best and can’t wait to see where he’s at in 5 years when he turns 30!_
+
+_Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/freedom-stories/#share-your-story)___
