@@ -47,7 +47,7 @@ If you've got multiple offers, don't just make your decision based on the salary
 
 ### Negotiate Your Starting Salary
 
-In the process of picking your job, I'll also encourage this: ___negotiate your starting salary.___ I know that can be intimidating, but raising your starting salary can have a [big impact on your long-term earnings](https://esimoney.com/earn-overview-how-to-grow-your-income/){: target="_blank"}.
+In the process of picking your job, I'll also encourage this: ___negotiate your starting salary.___ I know that can be intimidating, but raising your starting salary can have a [big impact on your long-term earnings](https://esimoney.com/impact-of-career-growth-calculator/){: target="_blank"}.
 
 If you have other job offers with higher numbers, use those as leverage. [The conversation](https://money.usnews.com/money/blogs/outside-voices-careers/articles/2017-07-10/the-exact-words-to-use-when-negotiating-salary){: target="_blank"} could go like this:
 
