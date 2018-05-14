@@ -11,7 +11,7 @@ date: 2018-05-22 6:58:00 -0500
 image:
   path: /assets/img/posts/2018-05-22-high-income-spend-less-tobacco/cigarette-chart.jpg
 
-pinterest-image: /assets/img/posts/2018-05-22-high-income-spend-less-tobacco/tk.png
+pinterest-image: /assets/img/posts/2018-05-22-high-income-spend-less-tobacco/quit-smoking.png
 
 categories: [article]
 
