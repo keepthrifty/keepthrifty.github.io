@@ -4,20 +4,20 @@ layout: post
 author: chris_durheim
 
 title: "The One Category That High-Income People Spend Less On"
-description: "TK"
+description: "There's only one category I can find where spending goes down as income goes up - Tobacco."
 
 date: 2018-05-22 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-05-22-high-income-spend-less-tobacco/cigarette-chart.jpg
 
-pinterest-image: /assets/img/posts/2018-05-22-tk/tk.png
+pinterest-image: /assets/img/posts/2018-05-22-high-income-spend-less-tobacco/tk.png
 
 categories: [article]
 
 ---
 
-Just for fun, I spent an hour the other day digging through the Bureau of Labor Statistics' [Consumer Expenditure Survey](https://www.bls.gov/cex/tables.htm){: target="_blank"}. I wanted to see if there were any fun things I could learn about how Americans from different backgrounds spend their money.
+Just for fun, I spent an hour the other day digging through the Bureau of Labor Statistics' [Consumer Expenditure Survey](https://www.bls.gov/cex/tables.htm){: target="_blank"}. I wanted to see if there were any interesting things I could learn about how Americans from different backgrounds spend their money.
 
 _Yes, I'm a blast at dinner parties._
 
@@ -28,7 +28,7 @@ There was *one* category in the entire set of BLS data that high-income people s
 For reference, here's the data I pulled/computed:
 
 |---------------------+------+------|
-| Annual Income | Annual Tobacco/Smoking Spend Per Household  | Annual Tobacco/Smoking Spend Per Person |
+| Annual Income | Annual Tobacco Spend Per Household  | Annual Tobacco Spend Per Person |
 |:-------------------:+-----:+-----:|
 | Less than $15,000   | $297 | $186 |
 | $15,000 - $29,999   | $313 | $165 |
@@ -40,6 +40,7 @@ For reference, here's the data I pulled/computed:
 | $150,000 - $199,999 | $254 |  $82 |
 | $200,000 and More   | $204 |  $64 |
 |---------------------+------+------|
+{: class="table-medium"}
 
 These numbers can be a bit deceiving though. I don't have any evidence that higher-income smokers consume less tobacco product than lower-income smokers.
 
@@ -69,7 +70,7 @@ That's right - a 40-year smoking habit would be worth nearly half of a million d
 
 A good percentage of you that have made it this far don't have tobacco as a part of your life and are wondering what __you__ can do with any of this information.
 
-I'd challenge you to think about _what habits you do have_ that are costing you on a daily, weekly, monthly basis.
+{% include tweet-link.html tweet-text="I challenge you to think about what habits you have that are costing you on a daily, weekly, monthly basis" %}.
 
 Some of those habits - like a gym membership - might be good for you. But if you dig, maybe you can find an unhealthy habit that's costing you health and money. Here are some ideas:
 

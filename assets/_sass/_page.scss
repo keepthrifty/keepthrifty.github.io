@@ -156,6 +156,9 @@ main.page__body {
       font-weight: 500;
       background-color: $bg-color;
     }
+    &.table-medium {
+      max-width: 600px;
+    }
     &.total-table tbody:last-child {
       font-weight: 500;
       background-color: $bg-color;
