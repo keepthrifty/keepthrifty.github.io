@@ -1,16 +1,19 @@
 <div class="post-nav">
-  {% if page.previous %}
-  <span class="post-nav-previous">
-    <a href="{{page.previous.url}}">
-      <i class="fa fa-long-arrow-left" aria-hidden="true"></i> Previous
-    </a>
-  </span>
-  {% endif %}
-  {% if page.next.url %}
-  <span class="post-nav-next">
-    <a href="{{page.next.url}}">
-      Next <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-    </a>
-  </span>
+  {% if page.previous or page.next %}
+    <p>Keep Reading</p>
+    {% if page.previous %}
+    <span class="post-nav-previous">
+      <a href="{{page.previous.url}}">
+        <i class="fa fa-long-arrow-left" aria-hidden="true"></i> Prev
+      </a>
+    </span>
+    {% endif %}
+    {% if page.next %}
+    <span class="post-nav-next">
+      <a href="{{page.next.url}}">
+        Next <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+      </a>
+    </span>
+    {% endif %}
   {% endif %}
 </div>

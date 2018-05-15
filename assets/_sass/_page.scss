@@ -308,8 +308,11 @@ footer.page__footer {
 .post-nav {
   display: block;
   width: 16rem;
-  margin: 1rem auto;
-  .post-nav-previous, .post-nav-next {
+  margin: 3rem auto 1rem;
+  p {
+    text-align: center;
+  }
+  .post-nav-previous, .post-nav-next, .post-nav-archive {
     a {
       color: $meta-color;
       font-size: 1rem;
@@ -323,5 +326,9 @@ footer.page__footer {
   }
   .post-nav-next {
     float: right;
+  }
+  .post-nav-archive {
+    clear: both;
+    text-align: center;
   }
 }

@@ -1,9 +1,9 @@
 .share-buttons {
-  margin: 1rem 0;
+  margin: 1rem 0 3rem;
 }
 
 ul.share-buttons__list {
-  margin: 0;
+  margin: 0 auto;
   padding: 0 0 0 0 !important;
   :first-child { margin-left: 0 !important; }
   :last-child { margin-right: 0 !important; }
@@ -20,7 +20,7 @@ ul.share-buttons__list {
     opacity: 1;
   }
   i {
-    font-size: 1.7rem;
+    font-size: 3rem;
   }
 }
 
