@@ -103,6 +103,8 @@ Learn to live below your means by a wide margin. I [sold our couch](http://katen
 
 Track your expenses. Track your income. See what the difference is and put that money to work. If you’re in a deficit, cut back hard. Get rid of cable, cell phones, and non-essentials. Skip the yearly vacations and put that money toward your debt. The sooner you get out of paycheck to paycheck living, and cut all those monthly debt payments, the sooner you’ll be in control of your future decisions and how you spend your time.
 
-___Thank you to Kate for sharing her awesome story. We love that embracing a frugal lifestyle is helping them achieve their dreams while doing the work they love. In addition to being a librarian, Kate hosts a [podcast](http://lifelonglearningpodcast.libsyn.com/){: target="_blank"} helping others find their own frugal lifelong learning path! Chris and I will be talking with Kate on her podcast soon!___
+_Thank you to Kate for sharing her awesome story. We love that embracing a frugal lifestyle is helping them achieve their dreams while doing the work they love._
+
+___In addition to being a librarian, Kate hosts a helping others find their own frugal lifelong learning path! Kate recently hosted Chris and I on the podcast and we had a blast chatting about [our story and how we keep on learning](http://katenesi.com/keep-thrifty-with-jaime-and-chris-durheim-llp020){: target="_blank"}___
 
 _Do you have a freedom story you would like to share? We would love to hear from you!_ ___[Submit your story here!]({{site.url}}/freedom-stories/#share-your-story)___
