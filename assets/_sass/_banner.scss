@@ -1,0 +1,13 @@
+.desktop-only {
+  display: none;
+  @media screen and (min-width: $screen-m) {
+    display: initial;
+  }
+}
+
+.mobile-only {
+  display: initial;
+  @media screen and (min-width: $screen-m) {
+    display: none;
+  }
+}
