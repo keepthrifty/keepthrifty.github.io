@@ -25,7 +25,7 @@ _Have you been financially strapped to the point of maxing out your credit card,
 
 ## Our Broken Story
 
-![Pickup truck and camping trailer on the side of the road]({{site.url}}/assets/img/posts/2018-05-31-broken-down-truck-path-financial-freedom/truck-dash.jpg)
+![Pickup truck and camping trailer on the side of the road]({{site.url}}/assets/img/posts/2018-05-31-broken-down-truck-path-financial-freedom/truck-trailer.jpg)
 {: class="image--right" }
 
 Two years ago my wife and I had no freedom dream. We didn’t even have an emergency savings. What we did have was a broken down truck with a camper attached, and no way to get home.
