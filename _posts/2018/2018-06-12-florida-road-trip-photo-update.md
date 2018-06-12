@@ -31,9 +31,9 @@ Enjoy the photos!
 
 <div class="caption">Exploring the <a href="https://www.escape-to-sarasota.com/myakka-canopy-walkway.html" target="_blank">canopy walkway</a> at Myakka River State Park</div>
 
-![Chris playing in the sand at Siesta Beach]({{site.url}}/assets/img/posts/2018-06-12-florida-road-trip-photo-update/chris-sand.jpg)
+![Chris and one of our daughters in the pool]({{site.url}}/assets/img/posts/2018-06-12-florida-road-trip-photo-update/pool-time.jpg)
 
-<div class="caption">Chris playing in the sand at Siesta Beach</div>
+<div class="caption">Chris and one of our daughters playing in the pool</div>
 
 ![Our daughters climbing the rocks on Venice island]({{site.url}}/assets/img/posts/2018-06-12-florida-road-trip-photo-update/venice-beach-rocks.jpg)
 
