@@ -9,9 +9,9 @@ description: "Michelle found her path falling apart - divorce, stress, and job l
 date: 2018-06-14 6:58:00 -0500
 
 image:
-  path: /assets/img/posts/2018-06-14-new-path-healthier-life/tk.jpg
+  path: /assets/img/posts/2018-06-14-new-path-healthier-life/field.jpg
 
-pinterest-image: /assets/img/posts/2018-06-14-new-path-healthier-life/tk.png
+pinterest-image: /assets/img/posts/2018-06-14-new-path-healthier-life/healthier-life.png
 
 tags: [create your freedom]
 
@@ -22,6 +22,9 @@ categories: [freedom-story]
 _Michelle from [The Classy Simple Life](https://www.theclassysimplelife.com/){: target="_blank"} had been walking the same path for years until she was forced to change course. She found herself facing new challenges that broke her down so she could grow into a healthier life. Here’s her story:_
 
 ## The Humdrum Path
+
+![]({{site.url}}/assets/img/posts/2018-06-14-new-path-healthier-life/street.jpg)
+{: class="image--right"}
 
 I spent over a decade following an ordinary path. I thought it was the road I was supposed to be on. I was married, had a good job in corporate sales/marketing, and a full home life. But after sixteen years, I realized that this humdrum path was crumbling.
 
@@ -36,6 +39,9 @@ In order to make this happen, I sold my home and rented a room with family in ex
 Finding myself without a job was a kick in the pants, but I needed it. The Universe was telling me - Hey lady, it’s time to live a simpler, stress-free lifestyle. Even if I wasn’t prepared, I was [starting down the path of a classy simple life](https://www.theclassysimplelife.com/making-choice-live-simple-life/){: target="_blank"}. At least I had my termination pay and small emergency savings to help me get started.
 
 ## Becoming An Entrepreneur
+
+![]({{site.url}}/assets/img/posts/2018-06-14-new-path-healthier-life/hands-on-face.jpg)
+{: class="image--left"}
 
 I had always wanted to work for myself and this seemed to be the best time to give it a try! I took a turn down the path of entrepreneurship and started my blog. For the first time I was my own boss and made time for my health and wellbeing. It was great, or so I thought.
 
@@ -54,6 +60,9 @@ I also re-evaluated how to move forward in my business. I created a regular rout
 While my part-time job is awesome for my finances and having a social working environment, I knew I needed more support in my entrepreneurial journey. I tend to find myself stuck in the planning stage and not taking action. I joined a local mastermind group for female entrepreneurs and it has been just what I needed. They are kicking my butt!
 
 ## Looking Back, Looking Forward
+
+![]({{site.url}}/assets/img/posts/2018-06-14-new-path-healthier-life/hands-in-hair.jpg)
+{: class="image--left"}
 
 These past few years have been challenging. I expected to go straight into entrepreneurship, not supplementing with a part-time job. I thought I would be filled with energy, not crushed by depression. Sometimes I look back on 2017 and feel like I wasted a year of my life, but I needed to go through that hard time and allow myself to heal.
 
