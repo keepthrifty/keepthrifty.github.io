@@ -77,3 +77,9 @@ Over the last three years, we've worked hard to eliminate the waste so we can re
 If you have a dream you want to accomplish but feel like you can't get there, it's worth looking first at your situation and seeing what you can control. You may not be able to negotiate a 50% pay raise tomorrow, but maybe you can find one bad habit to eliminate that frees up a bit of your budget.
 
 So, [start tracking](https://thrifty.keepthrifty.com), keep dreaming, and don't be afraid to eliminate some waste.
+
+## Join Me for #TomorrowTalk
+
+Related to this topic, I'll be the guest for #TomorrowTalk this week - a twitter chat where we talk about tips and tricks for saving for your family vacation. Get on Twitter at 8PM EST on Thursday, June 22nd to join the conversation!
+
+![#TomorrowTalk Thursday, June 22nd at 8PM EST]({{site.url}}/assets/img/posts/2018-06-19-happily-wasting-money/tomorrow-talk.png)
