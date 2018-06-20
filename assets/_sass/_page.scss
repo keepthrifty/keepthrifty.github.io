@@ -110,13 +110,13 @@ h2.page__title--subtitle {
   max-width: 100%;
 }
 
-header.page__header, main.page__body, footer.page__footer {
+.page__header, .page__body, .page__footer {
   width: 100%;
 }
 
 /* POST BODY */
 
-main.page__body {
+.page__body {
   margin: 0 auto 2rem;
   padding: 0 2rem;
   @media screen and (max-width: $screen-s) {
