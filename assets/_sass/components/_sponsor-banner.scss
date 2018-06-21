@@ -2,7 +2,6 @@
   width: 100%;
   text-align: center;
   a.sponsor-link {
-    margin: 0 2rem;
     img {
       width: 100%;
       max-width: 24rem;
@@ -14,4 +13,20 @@
       }
     }
   }
+  .desktop-only {
+    display: none;
+    @media screen and (min-width: $screen-m) {
+      background-color: #006FBD;
+      display: initial;
+    }
+  }
+
+  .mobile-only {
+    background-color: #006FBD;
+    display: initial;
+    @media screen and (min-width: $screen-m) {
+      display: none;
+    }
+  }
+
 }
