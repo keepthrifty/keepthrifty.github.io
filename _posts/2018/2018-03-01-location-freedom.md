@@ -70,6 +70,8 @@ While we're saving and investing, we're making sure to "practice" being location
 
 I really related to Jaime's post about [being in Hawaii]({% post_url 2018/2018-02-13-aloha-minimalism %}). While we were in Santiago, and traveling to the Atacama Desert in the North, I felt so light and free. All of my worries and cares left me, and I was present in each moment. That's the thing I love best about travel. I'm fully there, experiencing each place, making memories with my family.
 
+{% include shared/sponsor-banner.html %}
+
 ## Looking Ahead
 
 ![]({{site.url}}/assets/img/posts/2018-03-01-location-freedom/atacama-desert.jpg)

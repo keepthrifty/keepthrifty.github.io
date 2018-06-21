@@ -61,6 +61,8 @@ My biggest adjustment and challenge was learning how to balance and separate hom
 
 In a way, the dream didn’t evolve too much.  I had a fuzzy idea of what I would like about working remotely, but that became more clear after I began discussing the option with my management.  It went from a vague image to a sharp, clear picture of [what I would need to do](https://www.adventurerich.com/working-remotely-key-components-success/){: target="_blank"} to make a remote arrangement work well.  
 
+{% include shared/sponsor-banner.html %}
+
 ## Life Now
 
 ### What is your life like now? What have you learned since reaching this dream?

@@ -64,6 +64,8 @@ However, Lauren simply asked her current employer at the time for a transfer and
 
 ![Bronte Ocean Pool]({{site.url}}/assets/img/posts/2017-11-30-create-freedom-chicago-to-sydney/bronte-ocean-pool.jpg)
 
+{% include shared/sponsor-banner.html %}
+
 ## Life Now
 
 ### What is your life like now? What have you learned since reaching this dream?

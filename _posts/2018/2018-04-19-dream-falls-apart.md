@@ -53,6 +53,8 @@ While I was thankful for our jobs and health insurance, I was still unhappy at m
 
 September 1, 2017 was my last day of work and life has been great. [I’ve been able to take the last six months to really experiment with what I want to be doing](https://shiftupwards.com/six-months-into-mini-retirement/){: target="_blank"}. I’ve met all sorts of interesting people and been able to do lots of really cool things. I’ve traveled and taken solo retreats to reflect on where I’ve been and where I’m going. I’ve reconnected with old friends. I’ve attended events and meetups to meet like-minded people, and that’s already sprung new friendships. I’ve also had time to dedicate to running and exercise. Sometimes, I have to pinch myself that this is real life!
 
+{% include shared/sponsor-banner.html %}
+
 ## Moving Forward
 
 ![Man reading a book titled Faith Forward Future]({{site.url}}/assets/img/posts/2018-04-19-dream-falls-apart/book.jpg)

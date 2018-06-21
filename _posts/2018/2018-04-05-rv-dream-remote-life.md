@@ -55,6 +55,8 @@ One of the most significant challenges was not spending money the same way some 
 
 When it came to pushing through, I don't think we could've done it without each other. I was able to be there for Hanna when she was staying up crazy late studying for exams because I usually had blogging to do anyway. She was also there to encourage me when things on the blog grew slowly. The fact that we've been able to lean on each other for support has been the key to successfully pursuing our plan.
 
+{% include shared/sponsor-banner.html %}
+
 ## Our Airstream Life
 
 ![Nick, Hanna, and two dogs]({{site.url}}/assets/img/posts/2018-04-05-rv-dream-remote-life/happy-fam.jpg)

@@ -96,6 +96,8 @@ As we started to travel in China, I realized that I much prefer longer vacations
 
 Our dream to travel the world while on the expat package became constrained because of the limitations of work. _Who would have thought?_ The company wants me to work instead of travel when they gave me the expat package for China? We paid off [$32,000 in student loans in 6 months](https://atypicallife.org/student-loan-debt-extreme-payoff/){: target="_blank"} when we moved to China, then promptly started really ramping up the savings rate to achieve financial freedom by the end of the 4-year contract. The constant feeling of being held back by my job has really driven the desire for location independence. _I am not pursuing FIRE now to retire forever, but to allow us to travel the world and be able to make money while traveling._
 
+{% include shared/sponsor-banner.html %}
+
 ## Life Now
 
 ### What is your life like now? What have you learned since reaching this dream?

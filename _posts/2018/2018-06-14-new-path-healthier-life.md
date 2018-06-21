@@ -49,6 +49,8 @@ Entrepreneurship is challenging and progress can be slow (really slow). As the m
 
 I ended up finding some relief by getting a part-time job. I know, this seems like a backwards move, but sometimes what seems backwards is just a side step. I was lonely working at home all day. I needed more community in my life and I found that in a part-time job at a coffee shop. This became a sanity saver and has brought me a lot of other positives - extra income, great connections, and health benefits.
 
+{% include shared/sponsor-banner.html %}
+
 I wish I could say that from that point on, things became easy, but life never moves in a smooth line. After a few months of feeling good, my grandmother passed away. This hit me hard. I found myself more depressed than before and started leaning on old bad habits to get through the sadness.
 
 I found myself questioning whether the path I had taken was the right one. What if I had made a huge mistake? Was I good enough? Could I get this business off the ground? I stopped looking at my successes and only looked at my failures. It was awful. I began to feel like I was never going to be successful.

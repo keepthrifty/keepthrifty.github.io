@@ -42,6 +42,8 @@ This should have been a simple transaction, but of course it wasn’t. We had fu
 
 Needless to say, we drove back home on fumes...financially, physically, and mentally. I was absolutely horrified at what I had allowed to happen to my family. I felt singularly responsible for our financial situation in every regard. I never wanted to be in this situation again. We needed to repair our finances!
 
+{% include shared/sponsor-banner.html %}
+
 ## Repairing Our Financial Life
 
 ![Two people plotting through finances]({{site.url}}/assets/img/posts/2018-05-31-broken-down-truck-path-financial-freedom/finance.jpg)

@@ -66,6 +66,8 @@ Deciding where to travel was an easy choice – my family was already planning a
 
 I traveled to 10 countries in 10 months, so it was quite a whirlwind introduction into the digital nomad lifestyle! Finding the balance between working and exploring new places was a challenge, but the experience was amazing. I hiked in South Korea, feasted on amazing ramen in Japan, learned to scuba dive in Indonesia, and so much more. Being able to have those experiences while also making an income was quite literally a dream come true.
 
+{% include shared/sponsor-banner.html %}
+
 ## Continuing The Dream
 
 ![]({{site.url}}/assets/img/posts/2018-03-08-digital-nomad-wallet-moth/computer.jpg)

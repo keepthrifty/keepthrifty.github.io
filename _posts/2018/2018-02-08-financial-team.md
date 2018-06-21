@@ -106,6 +106,8 @@ We’re giving 10% to our church, and maxing out both of our 403B’s. Along the
 
 We’ve learned the importance of working together as a team and our love for each other has grown. I’d say we’ve also learned that money is just a tool to help us create the life we want. Money isn’t the end-goal for us. Our biggest desires are to be able to give generously to ministries we care about and provide for our family along the way. Learning how to manage our money together was the first step in creating the life we want.
 
+{% include shared/sponsor-banner.html %}
+
 ### Do you have any regrets or things you would do differently?
 
 Honestly, I don’t have any regrets about this entire process. I’m a strong believer in letting people make mistakes and fail because that’s often what it takes to bring about lasting change. That being said, here are two mistakes I wish we hadn’t made!

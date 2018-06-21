@@ -54,6 +54,8 @@ Even though we were choosing to stay in PA, we knew we didn’t want to stay in 
 
 I took my negative emotions and channeled them into something positive, [redefining retirement](https://www.caniretireyet.com/redefining-retirement/){: target="_blank"}. Our plan contained a combination of FIRE principals with intentional lifestyle design focused on what we most valued (time with family, time in the outdoors, and having the ability to travel). This included [balancing](https://www.caniretireyet.com/cant-retire-yet/){: target="_blank"} meaningful and rewarding work, planning work around our lives rather than trying to squeeze in life around work. As we got closer to our goal of early retirement, we stressed about switching from a high savings rate to living on a strict budget. To help transitions, I [created strategies](https://www.caniretireyet.com/fundamental-problem-retirement-planning/){: target="_blank"} to meet our needs.
 
+{% include shared/sponsor-banner.html %}
+
 ## Achieving Our Dream
 
 ![]({{site.url}}/assets/img/posts/2018-03-15-dirtbag-millionaires/mississippi.jpg)

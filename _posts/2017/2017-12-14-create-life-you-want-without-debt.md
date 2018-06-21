@@ -68,6 +68,8 @@ I eventually went on to pursue a Master’s Degree!
 
 ![Man in business suit adjusting tie]({{site.url}}/assets/img/posts/2017-12-14-create-life-you-want-without-debt/suit.jpg)
 
+{% include shared/sponsor-banner.html %}
+
 ## Life Now
 
 ### What is your life like now? What have you learned since reaching this dream?

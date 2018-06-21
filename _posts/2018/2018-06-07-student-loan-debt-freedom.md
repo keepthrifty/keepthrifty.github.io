@@ -57,6 +57,8 @@ Then I found out about high yield savings accounts (earning 1% interest instead 
 
 This was EYE OPENING. I knew interest was annoying if it was taken from you and good if it was given to you, but I never actually thought about what it was and how it worked (This is why we need personal finance courses in school!). I left my conversation with my dad and created a new plan. I was going to pay off every last dime of my student loans as quickly as possible!
 
+{% include shared/sponsor-banner.html %}
+
 ## Paying Off My Debt
 
 ![Kelsey with thumbs up after a race]({{site.url}}/assets/img/posts/2018-06-07-student-loan-debt-freedom/race.jpg)

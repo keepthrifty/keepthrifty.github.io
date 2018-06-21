@@ -20,7 +20,7 @@ affiliate: true
 
 ---
 
-_We are excited to introduce you to Rachel from [Adventures in Mobile Homes](http://adventuresinmobilehomes.com/){: target="_blank"}. She’s always had a spunky entrepreneurial spirit, eventually focusing her energy on mobile home investing. Here’s how she made her dream of working for herself a reality!_ 
+_We are excited to introduce you to Rachel from [Adventures in Mobile Homes](http://adventuresinmobilehomes.com/){: target="_blank"}. She’s always had a spunky entrepreneurial spirit, eventually focusing her energy on mobile home investing. Here’s how she made her dream of working for herself a reality!_
 
 ## My Entrepreneurial Spirit
 
@@ -59,6 +59,8 @@ With each deal it did, my knowledge grew. I learned certain neighborhoods attrac
 I now hire people to work in my business instead of doing it all on my own. My focus is on managing and hiring good people. I’ve learned that taking the time to hire reliable people is priceless. Having a good team can make or break your success as a real estate investor. I’ve also learned that my team is constantly evolving. I’ve had to force myself to keep looking for good and reliable people just in case the ones I work with can’t do the job. It happens when you least expect it.
 
 I love what I do and sharing my experience with others so they can learn from my mistakes. I share my journey on my blog and have written a few [books on mobile home investing](https://amzn.to/2DXxgQy){: target="_blank" rel="nofollow"}! My next venture is to buy land and create my own mobile home park!
+
+{% include shared/sponsor-banner.html %}
 
 ## Find Your Entrepreneurial Niche
 

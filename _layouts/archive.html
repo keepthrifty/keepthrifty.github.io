@@ -14,7 +14,12 @@ layout: default
     {{ content }}
   </main>
 
+  {%- if page.type contains 'freedom-story' -%}
+    {% include shared/sponsor-banner.html %}
+  {%- endif -%}
+
   <footer class="page__footer">
     {% include page/page-share.html %}
   </footer>
+
 </article>

@@ -68,6 +68,8 @@ Florida also has a higher cost of living than Kansas, but we knew that when movi
 
 We've only been here 9 months, so we're still settling in! Our dream hasn't changed drastically since we arrived in Florida - we're still just learning the area and loving it! We even attended my first NFL game - go Tampa Bay Buccaneers!
 
+{% include shared/sponsor-banner.html %}
+
 ## Life Now
 
 ### What is your life like now? What have you learned since reaching this dream?

@@ -75,6 +75,8 @@ _From Cindy's Blog: [Will Our Housing Bubble Burst? Twice?](http://www.dash2reti
 
 ![A couple of skiers on the top of a hill]({{site.url}}/assets/img/posts/2017-12-07-pay-off-mortgage-four-years-cyf/skiing.jpg)
 
+{% include shared/sponsor-banner.html %}
+
 ## Life Now
 
 ### What is your life like now? What have you learned since reaching this dream?

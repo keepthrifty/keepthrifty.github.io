@@ -83,6 +83,8 @@ Becoming frugal was hard at times. We were made fun of by family for dumping cab
 
 I’m surprised by the feeling of confidence I now have with our lifestyle and choices. Chris has evolved from a spender to one who encourages DIY and saving. I no longer lose sleep at night worrying about the debt hanging over my head. And each passing year now opens up new opportunities that I’m so grateful for.
 
+{% include shared/sponsor-banner.html %}
+
 ## Looking Into the Future
 
 ![]({{site.url}}/assets/img/posts/2018-02-15-financial-freedom-educators/money-map.jpg)

@@ -55,6 +55,8 @@ We had been saving up for a possible rental property purchase down the road but 
 
 In order to figure out my mini-retirement budget, I looked back at my custom finance spreadsheet where I track my expenses. Life is crazy right now with two boys in college (one has a scholarship, the other we pay for) and our daughter in all-day private kindergarten. The past three years have been expensive, with our household spending last year being $100,000, [which I wrote about here](https://www.idreamoffire.com/completely-ridiculous-2017-spending-recap/){: target="_blank"}.
 
+{% include shared/sponsor-banner.html %}
+
 ## Settling Into Mini-Retirement
 
 ![Man walking on edge of pool - appearing as though he's walking on the water]({{site.url}}/assets/img/posts/2018-05-10-mini-retirement-life-i-want/walk-on-water.jpg)
