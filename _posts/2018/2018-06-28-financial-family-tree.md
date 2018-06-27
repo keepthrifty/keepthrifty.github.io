@@ -11,7 +11,7 @@ date: 2018-06-28 6:58:00 -0500
 image:
   path: /assets/img/posts/2018-06-28-financial-family-tree/tree.jpg
 
-# pinterest-image: /assets/img/posts/2018-06-28-financial-family-tree/tk.png
+pinterest-image: /assets/img/posts/2018-06-28-financial-family-tree/financial-family-tree.png
 
 tags: [create your freedom]
 
