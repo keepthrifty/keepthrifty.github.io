@@ -140,6 +140,7 @@ h2.page__title--subtitle {
 
   }
   table {
+    font-size: 0.9rem;
     margin: 0 auto;
     max-width: 100%;
     border-spacing: 0;
@@ -147,9 +148,9 @@ h2.page__title--subtitle {
     overflow-x: scroll;
     th, td {
       border: 1px solid $line-color;
-      padding: 1rem;
+      padding: 0.5rem;
       font-weight: 300;
-      font-size: 1.1rem;
+      //font-size: 1.1rem;
     }
     th {
       text-align: center !important;
