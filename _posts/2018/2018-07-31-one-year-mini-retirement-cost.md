@@ -121,7 +121,7 @@ Now, I've landed a remote software developer job that I'm super excited about. T
 
 As one of my good friends coached me (during one of my more stressful moments in the job search), _"If you spent the last year and figured out what you really want in life, you've gained something that most people will never achieve. That's worth every penny."_
 
-We plan to stay in our community in Wisconsin, build our [tiny white shack]({{site.url}}/our-story/our-third-freedom-dream---the-little-white-shack) and focus on building a life focused on faith, positive family routines, and lots of adventure.
+We plan to stay in our community in Wisconsin, build our [tiny white shack]({{site.url}}/our-story/#our-third-freedom-dream---the-little-white-shack) and focus on building a life focused on faith, positive family routines, and lots of adventure.
 
 So yes, this year was _absolutely_ worth it. We've got an exciting vision for the future and are so excited for the next chapter in our life!
 
