@@ -1,6 +1,8 @@
+{%- unless page.categories contains 'freedom-story' -%}
 {%- assign author = site.data.authors[page.author] -%}
 {%- if author -%}
 <span class="page__author">
     | <span class="page__author__name">written by {{ author.name }}</span>
 </span>
 {%- endif -%}
+{%- endunless -%}
