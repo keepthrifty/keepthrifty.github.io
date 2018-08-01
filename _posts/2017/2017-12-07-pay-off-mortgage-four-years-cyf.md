@@ -16,7 +16,6 @@ tags: [create your freedom]
 
 categories: [freedom-story]
 
-featured: true
 popular: true
 
 ---

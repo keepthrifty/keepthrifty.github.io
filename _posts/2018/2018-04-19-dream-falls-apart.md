@@ -17,6 +17,8 @@ tags: [create your freedom]
 
 categories: [freedom-story]
 
+featured: true
+
 ---
 
 _Andrew, from [Shift Upwards](https://shiftupwards.com){: target="_blank"}, and his wife Annelise inspire me to continue moving forward when unexpected challenges pop up in the middle of working towards your dreams, even if it means a change in taking a different path. Here is their amazing story:_

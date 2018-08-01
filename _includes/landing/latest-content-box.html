@@ -1,10 +1,5 @@
 <div class="latest-content__box">
-  <h2 class="latest-content__box-title">
-    {% if site.posts.first.categories.first == include.type %}*{% endif %}
-    {{ include.label }}
-    {% if site.posts.first.categories.first == include.type %}*{% endif %}
-  </h2>
-  {% assign post = site.categories[include.type].first %}
+  {% assign post = include.post %}
   <h3 class="latest-content__content-title">
     <a href="{{ post.url }}">{{ post.title }}</a>
   </h3>
@@ -12,8 +7,5 @@
     <a href="{{ post.url }}">
       <img src="{{ post.image.path }}" alt="{{ post.title }}">
     </a>
-  </div>
-  <div class="latest-content__box-link">
-    <a href="{{site.url}}{{ include.link }}">Full List of {{ include.link-label }} </a>
   </div>
 </div>

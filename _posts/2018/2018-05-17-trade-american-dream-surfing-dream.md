@@ -17,6 +17,8 @@ tags: [create your freedom]
 
 categories: [freedom-story]
 
+featured: true
+
 ---
 
 _Shawn from [Freedom 33](https://freedomthirtythree.com/2017/10/05/who-am-i/){: target="_blank"} has an awesome freedom story about remembering his dream, pursuing a new life, and to riding the bumps waves along the way!_

@@ -30,6 +30,9 @@ ul.nav-bar__list {
   font-weight: 400;
   letter-spacing: 0.2rem;
   position: relative;
+  a.button {
+    display: initial;
+  }
 }
 
 .nav-bar__list__item {
@@ -99,10 +102,14 @@ ul.nav-bar__list {
 
 .nav-bar__list__item ul li {
 	float: none;
-	width: 12rem;
+	width: 12.5rem;
   text-align: left;
   font-size: inherit;
   font-weight: inherit;
+  a {
+    border-left: 2px solid transparent;
+    border-right: 2px solid transparent;
+  }
 }
 
 .nav-bar__list__item ul li.nav-divider {

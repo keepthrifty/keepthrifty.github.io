@@ -17,9 +17,7 @@ tags: [our thrifty life]
 
 video: true
 
-categories: [video]
-
-popular: true
+categories: [article, video]
 
 ---
 

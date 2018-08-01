@@ -19,10 +19,7 @@ tags: [our thrifty life]
 video:
   path: https://www.youtube.com/embed/UYvVS86ku2Q?ecver=2
 
-
-categories: [video]
-
-popular: true
+categories: [article, video]
 ---
 
 This past week was a crazy one. Chris traveled to Dallas, TX to attend FINCON. I stayed home with our three girls while still recovering from my sciatic nerve pain.

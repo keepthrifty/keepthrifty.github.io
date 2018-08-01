@@ -6,7 +6,11 @@
 
 <ul id="popular-item-list">
   {%- for post in posts reversed -%}
-    {%- if post.popular -%}
+    {%- if include.featured -%}
+      {% if post.featured %}
+        {% include archive/popular-item.html post=post %}
+      {% endif %}
+    {%- elsif post.popular -%}
       {% include archive/popular-item.html post=post %}
     {%- endif -%}
   {%- endfor -%}

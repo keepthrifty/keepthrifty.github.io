@@ -14,10 +14,37 @@ redirect_from:
 
 We offer a variety of services to help you with your business or brand. See below for a few examples of what we bring to the table.
 
+## Freelance Writing
+
+![]({{site.url}}/assets/img/work-with-us/writing.jpg)
+{: class="image--right"}
+
+Jaime and Chris are both available for freelance writing opportunities.
+
+Jaime specializes in storytelling, finding the heart and emotion in any situation. Whether you're looking to share how your product helped your customers or partner with a ghost-writer for your memoirs, Jaime would love to learn your story and help you share it with others.
+
+Here are some examples of her work:
+
+- [I Used to Suck at Money Management]({% post_url 2017/2017-10-10-used-to-suck-money-management %}){: target="_blank"}
+- [How Our Broken Down Truck Led Us To The Path Of Financial Freedom]({% post_url 2018/2018-05-31-broken-down-truck-path-financial-freedom %}){: target="_blank"}
+- [A Marriage Lesson From Mini-Retirement]({% post_url 2017/2017-11-28-marriage-lesson-mini-retirement %}){: target="_blank"}
+
+Chris specializes in providing unique perspectives on how to view money and life. Whether this is a new way to calculate your financial progress or a lesson on why money isn't the real goal, Chris would love to inspire your readers to live a better life.
+
+Here are some examples of his work:
+
+- [Would You Trade $25 for an Extra Day of Freedom?]({% post_url 2016/2016-09-18-the-price-of-an-extra-day %}){: target="_blank"}
+- [What a Pizza Cutter Taught Me About Minimalism and Frugality]({% post_url 2017/2017-12-19-minimize-eliminate-redundant %}){: target="_blank"}
+- [Introducing Retirement Freedom]({% post_url 2017/2017-01-30-introducing-retirement-freedom %}){: target="_blank"}
+
+Reach out to us with your project:
+
+{% include contact-forms/freelance-writing.html %}
+
 ## Calculators for Your Website
 
 ![]({{site.url}}/assets/img/work-with-us/computer-calculator.jpg)
-{: class="image--left"}
+{: class="image--right"}
 
 Do you have a concept for your website that's best explained with an accompanying calculator? Using plugins and other tools to create your own can be a challenge and what happens when something goes wrong?
 
@@ -35,36 +62,20 @@ Reach out to Chris with your project idea here:
 
 {% include contact-forms/calculator-request.html %}
 
-## Freelance & Ghost Writing
-
-![]({{site.url}}/assets/img/work-with-us/writing.jpg)
-{: class="image--left"}
-
-Jaime curates our [Freedom Story series]({{site.url}}/freedom-stories/){: target="_blank"}, working with individuals to share their journey as a compelling story. Jaime's inquisitive process finds the heart and spirit behind any story and brings it to life on paper or online.
-
-Whether you're looking to polish your "About Me" page or a partner with a ghost-writer for your memoirs, Jaime would love to learn your story and help you share it with others.
-
-Here are some examples of her work:
-
-- [Achieving Our Dream as Dirtbag Millionaires]({% post_url 2018/2018-03-15-dirtbag-millionaires %}){: target="_blank"}
-- [How We Are Creating Financial Freedom as Educators, Making Less Than $100,000 Each Year
-]({% post_url 2018/2018-02-15-financial-freedom-educators-100k %}){: target="_blank"}
-- [Finding our Dream Life with Geoarbitrage]({% post_url 2018/2018-02-22-dream-life-geoarbitrage %}){: target="_blank"}
-
-Reach out to Jaime with your project idea here:
-
-{% include contact-forms/freelance-writing.html %}
-
-## Advertising & Sponsorship
+## Sponsored Articles
 
 ![]({{site.url}}/assets/img/work-with-us/sponsor.jpg)
-{: class="image--left"}
+{: class="image--right"}
 
-We are currently accepting applications for a sponsor for our [Freedom Story]({{site.url}}/freedom-stories) series.
+We provide sponsored articles as a part of our [Freedom Story series]({{site.url}}/freedom-stories), with a particular format. Sponsored articles must highlight a success story of one of your users in how your product or service helped them achieve a dream.
 
-Sponsorship includes a _nofollow_ link to your brand in each of our freedom story posts and on the freedom story archive page. In addition, we give your brand a shout-out in our weekly freedom story e-mail to our subscribers.
+Our first step is to determine if your product or service is a good fit for our readers. If we believe it could help them achieve their goals, then we'll move forward.
 
-If you are interested in becoming a freedom story sponsor, contact us using the following form:
+Submissions can either be written by someone from your team or Jaime can work with your user directly to form the freedom story herself.
+
+These articles include a _nofollow_ link to your product or service. The article will be promoted in our email list and social media channels along with our other content.
+
+For pricing and further info, reach out here:
 
 {% include contact-forms/sponsorship.html %}
 

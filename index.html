@@ -19,9 +19,21 @@ exclude_from_search: true
 </div>
 
 <div id="latest-content">
-  {% include landing/latest-content-box.html label="Latest Story" type="freedom-story" link="/freedom-stories/" link-label="Stories" %}
-  {% include landing/latest-content-box.html label="Latest Video" type="video" link="/videos/" link-label="Videos" %}
-  {% include landing/latest-content-box.html label="Latest Article" type="article" link="/articles/" link-label="Articles" %}
+  <h2 class="latest-content__title">
+    Our Latest
+  </h2>
+  <div class="latest-content__posts">
+    {% assign post= site.posts[2] %}
+    {% include landing/latest-content-box.html post=post %}
+    {% assign post= site.posts[1] %}
+    {% include landing/latest-content-box.html post=post %}
+    {% assign post= site.posts[0] %}
+    {% include landing/latest-content-box.html post=post %}
+  </div>
+  <div class="latest-content__links">
+    <a class="latest-content__link" href="{{site.url}}/articles/">More Articles</a>
+    <a class="latest-content__link" href="{{site.url}}/articles/">More Freedom Stories</a>
+  </div>
 </div>
 
 <div class="landing-box">
@@ -36,5 +48,4 @@ exclude_from_search: true
   <div class="landing-box__image">
     <img src="{{site.url}}/assets/img/laptop.jpg" alt="Person working on laptop">
   </div>
-
 </div>

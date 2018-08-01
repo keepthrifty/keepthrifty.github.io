@@ -1,5 +1,8 @@
 <div class="page__meta">
-  <h1 class="page__title--main">{{page.title}}</h1>
+  <div class="page__title">
+    {%- if page.title -%}<h1 class="page__title--main">{{ page.title }}</h1>{%- endif -%}
+    {%- if page.subtitle -%}<h2 class="page__title--subtitle">{{ page.subtitle }}</h2>{%- endif -%}
+  </div>
   {% if page.type == 'video' %}
   <h2 class="page__title--subtitle">Also find us on <a href="https://www.youtube.com/channel/UCHpQLpwuiNRNwQ_eLJQInQA">YouTube</a></p>
   {% endif %}

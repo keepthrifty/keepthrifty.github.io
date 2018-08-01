@@ -23,7 +23,7 @@ After years of just getting by, we decided to take charge of our money and creat
 
 Here at Keep Thrifty, we share our journey and bring you inspiration and tools to help you create your freedom.
 
-We've got [articles](/articles/), [videos](/videos/), and [success stories](/freedom-stories/) to help inspire you to think differently about your dreams and your finances.
+We've got [articles](/articles/) and [success stories](/freedom-stories/) to help inspire you to think differently about your dreams and your finances.
 
 We've also created a [money tracking app](https://thrifty.keepthrifty.com) to help you take control of your finances and make those dreams a reality.
 
@@ -31,7 +31,7 @@ We've also created a [money tracking app](https://thrifty.keepthrifty.com) to he
 
 We love connecting with our readers and we hope to build a supportive community of like-minded dreamers.
 
-We'd love to connect with you! You can [send us a note](/work-with-us/) or find us on [Twitter](https://www.twitter.com/keepthrifty/), [YouTube](https://www.youtube.com/channel/UCHpQLpwuiNRNwQ_eLJQInQA), [Facebook](https://www.facebook.com/keepthrifty/), and [Pinterest](https://www.pinterest.com/keepthrifty/).
+We'd love to connect with you! You can [send us a note](/work-with-us/) or find us on [Twitter](https://www.twitter.com/keepthrifty/).
 
 But the __best__ way to connect with us is to join our email list.
 
@@ -45,13 +45,7 @@ Are you ready to dive in? _Great!_
 
 We've hand-picked a few of our favorite pieces for you:
 
-<ul id="featured-posts">
-{%- for post in site.posts reversed -%}
-{%- if post.featured == true -%}
-  {% include components/featured-post.html post=post %}
-{%- endif -%}
-{%- endfor -%}
-</ul>
+{% include archive/popular-item-list.html featured=true %}
 
 We're so excited that you came to check out Keep Thrifty. If there's any way we can help you define and reach your dreams, we'd love to [hear from you](/work-with-us/)!
 

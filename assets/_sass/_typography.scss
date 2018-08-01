@@ -115,7 +115,7 @@ a.button, button.button, button.subscribe_button {
   padding: 0.5rem 1rem;
   letter-spacing: 0.4rem;
   text-transform: uppercase;
-  white-space: nowrap;
+  display: inline-block;
   cursor: pointer;
   &:hover {
     color: white;
