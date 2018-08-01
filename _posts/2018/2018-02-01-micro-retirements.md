@@ -16,8 +16,6 @@ tags: [create your freedom]
 
 categories: [freedom-story]
 
-popular: true
-
 ---
 
 _We are excited to share a freedom story from [Physician on Fire](https://www.physicianonfire.com/){: target="_blank"}. PoF works tirelessly as an anesthesiologist. While he loves his job he wished for more vacation time. I think we can all relate to this. Paid vacation time can be used up pretty fast. PoF figured out a way to adjust his schedule to allow for more time away. His freedom story is full of trade-offs. Would you consider doing the same thing so you could enjoy more time away?_
