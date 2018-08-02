@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1024" height="656">
+<rect x="0" y="0" width="1024" height="656" fill="#848a87" />
+<g transform="scale(4.000000) translate(0.5 0.5)">
+<g transform="translate(23.577553 136.707311) rotate(435.239958) scale(29.806113 111.438992)"><ellipse fill="#000000" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(178.923545 64.644785) rotate(29.011110) scale(54.825027 44.536680)"><ellipse fill="#fcffff" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<ellipse fill="#ffffff" fill-opacity="0.501961" cx="23" cy="16" rx="45" ry="45" />
+<g transform="translate(198.087330 0.000000) rotate(114.904560) scale(23.082726 89.462585)"><ellipse fill="#173100" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(41.653872 138.815141) rotate(313.352278) scale(29.069925 66.278100)"><ellipse fill="#000000" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(92.786326 0.000000) rotate(103.319585) scale(11.972409 82.497106)"><ellipse fill="#ffffff" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(250.481368 71.465296) rotate(20.265307) scale(12.333664 24.099914)"><ellipse fill="#000000" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(12 22) rotate(86) scale(11 31)"><rect fill="#000000" fill-opacity="0.501961" x="-0.5" y="-0.5" width="1" height="1" /></g>
+<polygon fill="#140300" fill-opacity="0.501961" points="65,46 5,72 87,77" />
+<polygon fill="#ffffff" fill-opacity="0.501961" points="62.107307,88.259608,81.630469,89.361119,52.101639,107.863681,13.603408,76.212578" />
+</g>
+</svg>

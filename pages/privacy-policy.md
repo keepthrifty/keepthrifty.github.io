@@ -4,7 +4,7 @@ title: Keep Thrifty (WhysWorks LLC) Privacy Policy
 permalink: /privacy-policy/
 image:
   path: /assets/img/thumbs-up.jpg
-  lo-res: /assets/img/thumbs-up-lo-res.svg
+  preload: /assets/img/thumbs-up-preload.svg
 ---
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from Keep Thrifty (keepthrifty.com) (the “Site”).

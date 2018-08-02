@@ -4,6 +4,7 @@ permalink: /thank-you/
 title: Thanks for reaching out!
 image:
   path: /assets/img/thank-you.jpg
+  preload: /assets/img/thank-you-preload.svg
 exclude_from_search: true
 sitemap: false
 ---

@@ -3,8 +3,8 @@
 {%- if page.video.path -%}
   {% include video-embed.html video-link=page.video.path %}
 {%- elsif page.image -%}
-  {%- if page.image.lo-res -%}
-    {%- include image.html path=page.image.path lo-res=page.image.lo-res alt=page.description classes="page__header__image" -%}
+  {%- if page.image.preload -%}
+    {%- include image.html path=page.image.path preload=page.image.preload alt=page.description classes="page__header__image" -%}
   {%- else -%}
     <img class="page__header__image" alt="{{page.title}}" src="{{site.url}}{{page.image.path}}" />
   {%- endif -%}

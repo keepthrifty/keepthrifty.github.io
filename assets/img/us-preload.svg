@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1024" height="680">
+<rect x="0" y="0" width="1024" height="680" fill="#66635b" />
+<g transform="scale(4.000000) translate(0.5 0.5)">
+<ellipse fill="#59ffff" fill-opacity="0.501961" cx="83" cy="23" rx="60" ry="60" />
+<ellipse fill="#f14528" fill-opacity="0.501961" cx="98" cy="142" rx="56" ry="63" />
+<ellipse fill="#1c080f" fill-opacity="0.501961" cx="231" cy="156" rx="78" ry="78" />
+<g transform="translate(139.597001 62.517004) rotate(60.267632) scale(24.896935 46.973000)"><ellipse fill="#f4a589" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(7.331480 83.222183) rotate(2.654724) scale(17.735011 255.000000)"><ellipse fill="#001f2b" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(222.015787 15.374404) rotate(351.675349) scale(66.588073 16.948731)"><ellipse fill="#110c00" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(108.562175 169.000000) rotate(191.577846) scale(49.114594 33.613039)"><ellipse fill="#9c0000" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<ellipse fill="#eeffff" fill-opacity="0.501961" cx="252" cy="72" rx="58" ry="7" />
+<polygon fill="#370700" fill-opacity="0.501961" points="172,119 138,30 134,108" />
+<ellipse fill="#d4b998" fill-opacity="0.501961" cx="119" cy="87" rx="14" ry="55" />
+</g>
+</svg>

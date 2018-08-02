@@ -4,6 +4,7 @@ title: Work With Us
 subtitle: How can we help you?
 image:
   path: /assets/img/us.jpg
+  preload: /assets/img/us-preload.svg
 permalink: /work-with-us/
 redirect_from:
   - /work-with-me/
@@ -16,8 +17,7 @@ We offer a variety of services to help you with your business or brand. See belo
 
 ## Freelance Writing
 
-![]({{site.url}}/assets/img/work-with-us/writing.jpg)
-{: class="image--right"}
+{% include image.html path="/assets/img/work-with-us/writing.jpg" preload="/assets/img/work-with-us/writing-preload.svg" alt="Woman writing in notebook" %}{: class="image--right"}
 
 Jaime and Chris are both available for freelance writing opportunities.
 
@@ -43,8 +43,7 @@ Reach out to us with your project:
 
 ## Calculators for Your Website
 
-![]({{site.url}}/assets/img/work-with-us/computer-calculator.jpg)
-{: class="image--right"}
+{% include image.html path="/assets/img/work-with-us/computer-calculator.jpg" preload="/assets/img/work-with-us/computer-calculator-preload.svg" alt="Computer and calculator on a desk" %}{: class="image--right"}
 
 Do you have a concept for your website that's best explained with an accompanying calculator? Using plugins and other tools to create your own can be a challenge and what happens when something goes wrong?
 
@@ -64,8 +63,7 @@ Reach out to Chris with your project idea here:
 
 ## Sponsored Articles
 
-![]({{site.url}}/assets/img/work-with-us/sponsor.jpg)
-{: class="image--right"}
+{% include image.html path="/assets/img/work-with-us/sponsor.jpg" preload="/assets/img/work-with-us/sponsor-preload.svg" alt="Team of hands together" %}{: class="image--right"}
 
 We provide sponsored articles as a part of our [Freedom Story series]({{site.url}}/freedom-stories), with a particular format. Sponsored articles must highlight a success story of one of your users in how your product or service helped them achieve a dream.
 
