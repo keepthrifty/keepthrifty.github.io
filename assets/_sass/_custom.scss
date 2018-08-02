@@ -53,3 +53,7 @@ main.page {
     border: none !important;
   }
 }
+
+img.lazyload, img.lazyloading {
+  filter: blur(-1px);
+}

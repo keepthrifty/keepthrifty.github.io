@@ -30,6 +30,7 @@ redirect_from:
   - /download-fin-101/
 image:
   path: /assets/img/clean-up.jpg
+  lo-res: /assets/img/clean-up-lo-res.svg
 exclude_from_search: true
 sitemap: false
 ---
