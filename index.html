@@ -5,7 +5,7 @@ exclude_from_search: true
 
 <div class="landing-box">
   <div class="landing-box__image landing-box__image--welcome">
-    <img src="{{site.url}}/assets/img/our-family-vertical.jpg" alt="Chris, Jaime, and their daughters">
+    {% include image.html path="/assets/img/our-family-vertical.jpg" preload="/assets/img/our-family-vertical-preload.svg" alt="Chris, Jaime, and their daughters" %}
   </div>
   <div class="landing-box__message">
     <h2 class="landing-title">Create the freedom you've been missing by living a thrifty life</h2>
@@ -46,6 +46,6 @@ exclude_from_search: true
     </div>
   </div>
   <div class="landing-box__image">
-    <img src="{{site.url}}/assets/img/laptop.jpg" alt="Person working on laptop">
+    {% include image.html path="/assets/img/laptop.jpg" preload="/assets/img/laptop-preload.svg" alt="Person working on laptop" %}
   </div>
 </div>

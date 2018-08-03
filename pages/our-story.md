@@ -5,6 +5,7 @@ subtitle: Chris and Jaime
 permalink: /our-story/
 image:
   path: /assets/img/our-story/family-photo.jpg
+  preload: /assets/img/our-story/family-photo-preload.svg
 redirect_from:
   - /about/
   - /about.html
@@ -18,8 +19,7 @@ We live in the suburbs of Madison, WI with our three daughters. While living the
 
 We met in the Fall of 2004 in the dorms of the UW-Madison campus via a mutual friend. Chris was a fifth year senior at the time, Jaime a sophomore. Within weeks, we went on our first date and have been together ever since.
 
-![Wedding photo of Chris and Jaime](/assets/img/our-story/wedding.jpg)
-{: class="image--left" }
+{% include image.html path="/assets/img/our-story/wedding.jpg" preload="/assets/img/our-story/wedding-preload.svg" alt="Wedding photo of Chris and Jaime" %}{: class="image--left"}
 
 We married in the summer of 2008, welcomed our first daughter __N__ in 2010 and our family became complete with twin girls __A__ & __B__ in 2012. These early years were full of work, sleepless nights, and living in survival mode. Our goal was to just get through each day.
 
@@ -37,8 +37,7 @@ We wanted to have more time as a family, not just evenings and weekends. Weekday
 
 ## Our First Freedom Dream - Visiting all 50 States
 
-![Jaime, Chris, and their daughters on a road trip](/assets/img/our-story/road-trip.jpg)
-{: class="image--left" }
+{% include image.html path="/assets/img/our-story/road-trip.jpg" preload="/assets/img/our-story/road-trip-preload.svg" alt="Jaime, Chris, and their daughters on a road trip" %}{: class="image--left"}
 
 We hadn't traveled much in the past - other than our honeymoon to the Dominican Republic and an anniversary trip to Las Vegas in 2011.
 
@@ -61,8 +60,7 @@ We just have California, Nevada, and Alaska left to visit! It’s amazing what y
 
 ## Our Second Freedom Dream - Taking a Mini-Retirement
 
-![Chris and the girls hiking](/assets/img/our-story/hiking.jpg)
-{: class="image--left" }
+{% include image.html path="/assets/img/our-story/hiking.jpg" preload="/assets/img/our-story/hiking-preload.svg" alt="Chris and the girls hiking" %}{: class="image--left"}
 
 With our marriage healed we continued to dream. We talked about how we wished our day to day life were different. We dreamed of a more laid back life - one where we could walk our kids to school together, pick them up together, and enjoy summer weekdays hiking has a family.
 
@@ -78,8 +76,7 @@ It was a year of self-discovery. We found answers about what was really importan
 
 ## Our Third Freedom Dream - The Little White Shack
 
-![3D rendering of house design](/assets/img/our-story/little-white-shack.png)
-{: class="image--left" }
+{% include image.html path="/assets/img/our-story/little-white-shack.png" preload="/assets/img/our-story/little-white-shack-preload.svg" alt="3D rendering of house design" %}{: class="image--left"}
 
 When Jaime was a little girl, [she dreamed of living in a little white shack]({% post_url 2017/2017-09-19-bring-back-your-childhood-dreams %}). When we sold our home, we didn’t know where we would end up or if we would be able to make this dream a reality. But one month after selling our home, land in the middle of our town came up for sale.
 

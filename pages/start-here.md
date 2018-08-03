@@ -4,6 +4,7 @@ title: Start Here
 subtitle: Where Dreams and Money Meet
 image:
   path: /assets/img/start-here.jpg
+  preload: /assets/img/start-here-preload.svg
 permalink: /start-here/
 redirect_from:
   - /subscribe/
