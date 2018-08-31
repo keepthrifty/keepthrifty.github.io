@@ -124,19 +124,3 @@ As one of my good friends coached me (during one of my more stressful moments in
 We plan to stay in our community in Wisconsin, build our [tiny white shack]({{site.url}}/our-story/#our-third-freedom-dream---the-little-white-shack) and focus on building a life focused on faith, positive family routines, and lots of adventure.
 
 So yes, this year was _absolutely_ worth it. We've got an exciting vision for the future and are so excited for the next chapter in our life!
-
-{% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
-{% capture cutofftime %}{{ '1535760000' }}{% endcapture %}
-{% if nowtime < cutofftime %}
-
-## What's Next
-
-My new job is set to start on August 13th, so we're going to spend the month of August focused on enjoying the last bits of our mini-retirement and getting me started on my new career.
-
-We'll be taking the month off from publishing here on Keep Thrifty (though we will likely still do some writing to get set for September).
-
-Also, we'll send a few updates to our e-mail subscribers throughout the month, so [subscribe now](#subscribe-button) to stay in touch!
-
-Enjoy the rest of your Summer - we'll talk again soon!
-
-{% endif %}
