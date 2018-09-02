@@ -92,7 +92,7 @@ I've got no major regrets. If I could do anything differently, I would have star
 
 I take that no-regret back. I regret not buying a handful of Bitcoins when they were going for $1 apiece or mining them for free in my spare time. Although if I had, I doubt I would have held on this long to see them valued at over $17,000 or whatever the price is at this particular minute.
 
-{% include shared/sponsor-banner.html %}
+
 
 ### What would you say to someone who wants to do what you did?
 

@@ -55,7 +55,7 @@ After that experience, we stopped trading without research and stopped day tradi
 
 In saving for our down payment, our lifestyle changed a lot. We were no longer living paycheck-to-paycheck. It was a great feeling. When we looked at our numbers, we saw that we were on track to save for our down payment in a single year! We couldn’t believe it! And to make it better, we realized that we could stick with our lifestyle change and our future would be full of endless possibilities.
 
-{% include shared/sponsor-banner.html %}
+
 
 ## Life Now
 

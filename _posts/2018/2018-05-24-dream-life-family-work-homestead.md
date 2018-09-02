@@ -53,7 +53,7 @@ Our math determined that my last bonus (in investment management, this is over t
 
 Our retirement savings would stay on autopilot. If my new venture never provided enough to continue to contribute to that account, we would still be able to early retire around the age of 45 if we desired.
 
-{% include shared/sponsor-banner.html %}
+
 
 ## My Worst Case Scenario
 

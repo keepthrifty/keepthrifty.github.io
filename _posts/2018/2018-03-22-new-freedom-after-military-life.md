@@ -79,7 +79,7 @@ I went into the interview confident but nervous. If this position was what I had
 
 I am still in that job today and it has been exactly what I was looking for at this stage of my career. I am well paid, have good benefits, work for a company that cares about my wellbeing, and respects my input!
 
-{% include shared/sponsor-banner.html %}
+
 
 ## Continuing My Freedom Dream
 

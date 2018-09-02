@@ -57,7 +57,7 @@ While my degree is in Math, I’ve found I have a programming mind that loves au
 
 As I look to my future, my hope is to move into entrepreneurship full time. In order to make this a reality, I’m taking action, using some of my free time to learn React JS. This will allow me to follow my calling as a web designer and developer. I know that if I keep taking time each day to invest in my personal development that I’ll find the success I envision.
 
-{% include shared/sponsor-banner.html %}
+
 
 My favorite quote:
 

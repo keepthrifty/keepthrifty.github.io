@@ -55,7 +55,7 @@ We had $38,000 in debt (credit card & car loan, not including mortgage) and we n
 
 While this online tool helped us make progress, we found that it wasn’t flexible enough for us. We would overspend in a category and felt like we were always playing catch-up. We needed to be able to move funds and start fresh each month. While we were able to pay off our $38,000 in debt and start growing our net worth, we still didn’t have a good budgeting system. We knew we could make even more progress if we could figure this out!
 
-{% include shared/sponsor-banner.html %}
+
 
 ## Creating A Solid Financial Foundation
 

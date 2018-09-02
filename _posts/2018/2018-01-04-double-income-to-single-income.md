@@ -86,7 +86,7 @@ I’m not sure the dream ever changed from when we first formed it. It did evolv
 
 Shopping for a house using a budget of about 65% of what you had initially planned to spend, can be a bit frustrating. We kept our sights set on our dream and finally found a house that met our needs.
 
-{% include shared/sponsor-banner.html %}
+
 
 ## Life Now
 

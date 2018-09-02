@@ -46,7 +46,7 @@ After running our little graphic design business for three years, I found my exc
 
 Not only was I ready for a change, we needed to take the steps to make the change we wanted. My husband and I have a deep love for travel, adventure, and freedom. This passion helped me realize we wanted to pursue a location independent business, allowing us to live the kind of life we had always dreamt about.
 
-{% include shared/sponsor-banner.html %}
+
 
 ## Tackling Another Transition
 

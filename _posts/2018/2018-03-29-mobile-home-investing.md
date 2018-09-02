@@ -60,7 +60,7 @@ I now hire people to work in my business instead of doing it all on my own. My f
 
 I love what I do and sharing my experience with others so they can learn from my mistakes. I share my journey on my blog and have written a few [books on mobile home investing](https://amzn.to/2DXxgQy){: target="_blank" rel="nofollow"}! My next venture is to buy land and create my own mobile home park!
 
-{% include shared/sponsor-banner.html %}
+
 
 ## Find Your Entrepreneurial Niche
 

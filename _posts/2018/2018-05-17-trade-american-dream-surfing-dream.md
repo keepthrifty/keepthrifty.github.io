@@ -59,7 +59,7 @@ That became my grand plan, but life is full of unexpected waves. As I was in the
 
 Right around this time, I got the chance to return to an old job as an Environmental Coordinator at a fly-in/fly-out mine. I would work three weeks on (at a remote location in Northern Canada) followed by three weeks off. My employer would cover room and board and most of my travel costs.
 
-{% include shared/sponsor-banner.html %}
+
 
 I had been miserable in this position in the past, but now it seemed like a godsend, even though I was nervous about being pulled back into my old life! I did a little mental accounting and figured I would only need to work for about six months. I decided it was worth it and took the job.
 

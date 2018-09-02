@@ -65,7 +65,7 @@ Keeping his paycheck during this transition was a huge financial boon. His compe
 
 I’m so grateful for how our job situations worked out, but we did have a backup plan. This consisted of finding $10/hour jobs at Bed Bath and Beyond and Home Depot in North Carolina. We could have easily swung our expenses on retail jobs and still have raised our standard of living.
 
-{% include shared/sponsor-banner.html %}
+
 
 ## What About Leaving Family?
 

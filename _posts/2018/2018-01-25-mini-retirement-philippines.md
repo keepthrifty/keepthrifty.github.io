@@ -66,7 +66,7 @@ I’ve also found that a job gives people stability. It’s like a platform whic
 
 I wanted to take a mini retirement for years and it would've been the plan to stay in the UK, however I never pulled the trigger. I think having a partner abroad, pushed me off that cliff. I now had enough of a reason to do it. The location changed to the Philippines and it’s added many more months of retirement than it would’ve had I stayed at home. I believe in the timing of the Universe.
 
-{% include shared/sponsor-banner.html %}
+
 
 ## Life Now
 
