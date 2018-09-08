@@ -9,22 +9,23 @@ description: "tk"
 date: 2018-09-11 6:58:00 -0500
 
 image:
-  path: /assets/img/posts/2018-09-11-mini-retirement-mental-breakdown/depression.jpg
+  path: /assets/img/posts/2018-09-11-mini-retirement-mental-breakdown/hiking.jpg
 pinterest-image: /assets/img/posts/2018-09-11-mini-retirement-mental-breakdown/tk.png
 
 categories: [article]
 
 ---
 
-__TK September Suicide Awareness and Prevention?__
-
 Last week, Jaime shared how she felt during the toughest part of our mini-retirement - [my mental breakdown](% post_url 2018/2018-09-04-finding-faith-money-fading-away %). This week, I'd like to give you my story, what I learned, and a peek into where our life is at now.
 
 ## Getting Lost
 
+![Man on the floor, depressed]({{site.url}}/assets/img/posts/2018-09-11-mini-retirement-mental-breakdown/depression.jpg)
+{: class="image--right" }
+
 By mid-Spring of this year, I had developed a routine for my day. Not a healthy one, mind you, but a routine nonetheless.
 
-I woke every morning at 5:30 am with my mind racing in worry.
+I woke every morning at 5:30 am with my mind racing with worry.
 
 _Where will we live?_
 
@@ -48,7 +49,7 @@ But it wasn't enough for me. I had always craved a chance to run my own business
 
 After a year of strategizing, testing, executing, and pivoting, I came to a realization. __It wasn't going to work.__
 
-The things I needed to do in order to successfully create a full-time income on my own came in conflict with my priorities, my values, or my talents. Every day, I learned more about how hard entrepreneurship is and how, at least for now, it's not a great fit for me.
+The things I needed to do in order to successfully create a full-time income on my own came into conflict with my priorities, my values, or my talents. Every day, I learned more about how hard entrepreneurship is and how, at least for now, it's not a great fit for me.
 
 Where a year ago, I had been a success in the eyes of my family and friends, I now felt like a complete and utter failure.
 
@@ -64,6 +65,9 @@ I had lost all logical thinking. I had lost all hope. I had lost myself.
 
 ## Getting Help
 
+![Man praying]({{site.url}}/assets/img/posts/2018-09-11-mini-retirement-mental-breakdown/praying.jpg)
+{: class="image--left" }
+
 I cannot thank God enough for my wife. Jaime has had her own struggles with depression. Those experiences have equipped her with the tools and knowledge to support me in ways I've never been able to do for her.
 
 She tapped on every shoulder in my support system to give me the reassurance, faith, and validation I needed to get through.
@@ -78,53 +82,64 @@ Through prayer, friendship, medication, therapy, and most of all, my wife, I was
 
 ## God's Hand Working
 
+![Sun setting over beach and ocean]({{site.url}}/assets/img/posts/2018-09-11-mini-retirement-mental-breakdown/sunset.jpg)
+{: class="image--right" }
+
 As I continued in the job search, there was one job opportunity that kept progressing. One opening that kept putting me to the next interview round and getting closer to an offer.
 
 There was just one problem. The job was going to require relocation to Florida (or one of a dozen other states not named Wisconsin).
 
-That requirement was a blessing and a curse. Jaime's been struggling with winter here in the midwest and moving to Florida was an opportunity that could help with her mental state.
+That requirement was a blessing and a curse. Jaime's been struggling with winter here in the Midwest and moving to Florida was an opportunity that could help with her mental state.
 
 But on the flip side, I was so reliant on the support structure here that the thought of moving spiked my anxiety any time it came up. And I love our town. I love our friends, our church, and even our favorite pizza place. I love our schools and the bike trail and the fact that we can be close to family.
 
-The details of the job sounded incredible - a chance to get back to my technical roots and code in the language I used to make [Thrifty](https://thrifty.keepthrifty.com). The team members I met through the interview process were kind and technically savvy. I knew I'd enjoy working with them and would learn a ton. And the job was for a Christian non-profit company - a great way for me to achieve my personal goal of focusing on Jesus more in all parts of my day.
+The details of the job sounded incredible - a chance to get back to my technical roots and code in the language I used to make [Thrifty](https://thrifty.keepthrifty.com). The team members I met during the interview process were both kind and technically savvy. I knew I'd enjoy working with them and would learn a ton. And the job was for a Christian non-profit company - a great way for me to achieve my personal goal of focusing on Jesus more in all parts of my day.
 
-So, I kept interviewing, and kept praying. I prayed for faith and trust in God's plan for our family. I prayed for the ability to give up my thirst for control of the situation. I even prayed for the best of all worlds - to have a great job but maintain the lifestyle here that we have come to love.
+So, I kept interviewing and praying. I prayed for faith and trust in God's plan for our family. I prayed for the ability to give up my thirst for control of the situation. I even prayed for the best of all worlds - to have a great job but maintain the lifestyle here that we have come to love.
 
 It took time. Lots of time. When you're searching for a job, it seems like time moves _so slowly._
 
 But at the right time, __God revealed His plan and answered our prayers.__
 
-The company in Florida gave me an offer; _and they decided to add Wisconsin as a state in their system so I could join the company while staying here._
+The company in Florida gave me an offer, _and they decided to add Wisconsin as a state in their system so I could join the company while staying here._
 
-## The Present and Future
+## The Present, The Future
 
-So, our story of mini-retirement had a happy ending after all. I'm now four weeks into my new job and am _loving it._ I'm learning a ton, laughing a ton (seriously, my co-workers are hilarious), and get up every weekday excited for work.
+![Getting ready to bike with my oldest daughter]({{site.url}}/assets/img/posts/2018-09-11-mini-retirement-mental-breakdown/biking.jpg)
+{: class="image--left" }
 
-The job is remote, giving us the flexibility we've enjoyed over the last year and have dreamt of keeping for the future. I can take a long lunch and go on a bike ride with Jaime and the kids. I can sit at the kitchen table and drink coffee with my wife while reviewing some code. And this November, I can work remotely from Costa Rica so we can visit (all five of us this time) without using any vacation days.
+So, our story of mini-retirement had a happy ending after all. I'm now four weeks into my new job and am _loving it._ I'm learning a ton, laughing a ton (seriously, my co-workers are hilarious), and I get up every weekday excited for work.
+
+The job is remote, giving us the flexibility we've enjoyed over the last year and have dreamt of keeping for the future. I can bike with our oldest daughter to and from school every day (in [true Mustachian style](https://www.mrmoneymustache.com/2011/04/18/get-rich-with-bikes/){: target="_blank"}). I can sit at the kitchen table and drink coffee with my wife while reviewing some code. And this November, I can work remotely from Costa Rica so we can visit (all five of us this time) without using any vacation days.
 
 But beyond the details of my exciting new job, my mental breakdown helped me learn more about myself, life, and faith.
 
 _I learned that I have more people that care about me than I had imagined._
 
-_I've gained perspective on where my value lies and what is valuable to me.__
+_I've gained perspective on where my value lies and what is valuable to me._
 
-__I'm better about giving up my need for control and leaning into God's plans. Letting go and trusting in Him has only ever brought me great things. It's hard to do in the moment, but_ ___awesome___ _to see in action._
+_I'm better about giving up my need for control and leaning into God's plans. Letting go and trusting in Him has only ever brought me great things. It's hard to do in the moment, but_ ___awesome___ _to see in action._
 
-As winter approaches, Jaime and I are talking about our travel plans and layouts for our [little white shack]({{site.url}}/our-story#our-third-freedom-dream---the-little-white-shack). We can see a beautiful life ahead of us and have found our faith strengthened so much after one of the hardest times in our lives. We don't know what God has in store for us, but we're ready to lean in to His plans and see where He takes our family.
+The mental breakdown was a brutal experience, but I'm coming out the other side much stronger. I have more clarity on what's important to me and what I want out of life than I've ever had before. I'm finding more joy in the day-to-day things. I know our future won't be without bumps, but I've got a strong sense that God has us covered; we're going to be ok - great even.
+
+As winter approaches, Jaime and I are talking about our travel plans and layouts for our [little white shack]({{site.url}}/our-story#our-third-freedom-dream---the-little-white-shack). We can see a beautiful life ahead of us and have found our faith strengthened so much after one of the hardest times in our lives. We don't know what God has in store for us, but we're ready to lean into His plans and see where He takes our family.
 
 We'll continue to share our story here, and are so thankful for all of you for joining us in this crazy adventure!
 
 ## If You're Struggling
 
-Some of my words here may have struck a cord with you because you are struggling with your own situation. It may be debt, relationships, job loss, family struggles, or something completely different.
+Some of my words here may have struck a chord with you because you are struggling with your own situation. It may be debt, relationships, job loss, family struggles, or something completely different.
 
-If that's you, I encourage you. _Please reach out for help._
+If that's you, I encourage you: _Please reach out for help._
 
-- If you are feeling suicidal, please call the National Suicide Prevention Lifeline at 1-800-273-8255 or text HOME to 741741.
+- If you are feeling suicidal, please call the National Suicide Prevention Lifeline at __1-800-273-8255__ or _text HOME to 741741._
 - Talk with a friend or loved one and share what you're feeling.
-- Tell your doctor and discuss options for medication and/or therapy
+- Tell your doctor and discuss options for medication and/or therapy.
 - If you attend church, talk with your pastor. If you don't, give one nearby a call and ask if you can talk with someone about struggles you're having. You might be surprised.
 
 You are loved. God loves you and there are people in your life that love you - even if you can't see it right now.
 
-I love you. I want healing for you and I want to pray for you. Even though we may never have met, you are God's child the same as me. [Reach out]({{site.url}}/work-with-us#other-work) - I'm here for you.
+I love you. I want healing for you and I want to pray for you. Even though we may never have met, you are God's child the same as me. [Reach out]({{site.url}}/work-with-us#contact-us) - I'm here for you.
+
+> "For I know the plans I have for you," declares the Lord, "plans to prosper you and not to harm you, plans to give you hope and a future."  
+> <cite>Jeremiah 29:11 (NIV)</cite>
