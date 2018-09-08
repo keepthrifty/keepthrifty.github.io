@@ -4,13 +4,14 @@ layout: post
 author: chris_durheim
 
 title: "Where My Mini-Retirement Mental Breakdown Led Me"
-description: "tk"
+description: "As my mini-retirement was coming to an end, I found myself suffering from severe anxiety, panic attacks, and depression. Here's where it led."
 
 date: 2018-09-11 6:58:00 -0500
 
 image:
   path: /assets/img/posts/2018-09-11-mini-retirement-mental-breakdown/hiking.jpg
-pinterest-image: /assets/img/posts/2018-09-11-mini-retirement-mental-breakdown/tk.png
+
+#pinterest-image: /assets/img/posts/2018-09-11-mini-retirement-mental-breakdown/tk.png
 
 categories: [article]
 
