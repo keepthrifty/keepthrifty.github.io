@@ -17,6 +17,8 @@ categories: [article]
 
 ---
 
+_This blog post is part of the 3rd Annual Suicide Prevention Awareness Month blog tour. If you are feeling suicidal, please call the National Suicide Prevention Lifeline at 1-800-273-8255 or text HOME to 741741._
+
 Last week, Jaime shared how she felt during the toughest part of our mini-retirement - [my mental breakdown](% post_url 2018/2018-09-04-finding-faith-money-fading-away %). This week, I'd like to give you my story, what I learned, and a peek into where our life is at now.
 
 ## Getting Lost
