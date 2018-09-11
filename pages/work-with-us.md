@@ -77,8 +77,8 @@ For pricing and further info, reach out here:
 
 {% include contact-forms/sponsorship.html %}
 
-## Other Work
+## Contact Us
 
-We have experience in other areas as well, such as financial coaching and web design/development. For these or other projects, reach out here:
+If you're looking to get in touch with us for any other reason (even just to say _hi,_ use the form below:)
 
 {% include contact-forms/other-work.html %}
