@@ -17,7 +17,7 @@ categories: [article]
 
 ---
 
-_Note: I wrote this post June 6, 2018 sitting at my computer in the kitchen while my husband was in bed in the middle of a nervous breakdown about our financial future. I needed to put my thoughts to paper. I needed to write down my lack of fear so that I could share it with my husband in the hopes that my faith would lift him up. At the time, we didn’t know what our life would look like on September 4, 2018 - life is good, everything worked out (and we’ll share that part of our journey in our next post). But first - the prequel, the hardship, the darkness before the light:_
+_Note: I wrote this post June 6, 2018 sitting at my computer in the kitchen while my husband was in bed in the middle of a nervous breakdown about our financial future. I needed to put my thoughts to paper. I needed to write down my lack of fear so that I could share it with my husband in the hopes that my faith would lift him up. At the time, we didn’t know what our life would look like on September 4, 2018 - life is good, [everything worked out]({% post_url 2018/2018-09-11-mini-retirement-mental-breakdown %}). But first - the prequel, the hardship, the darkness before the light:_
 
 ## A Naive Little Girl’s Dream
 
