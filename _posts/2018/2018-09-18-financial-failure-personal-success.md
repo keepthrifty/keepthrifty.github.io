@@ -50,7 +50,7 @@ Sure, the finances didn't turn out great. But, on the flip side, I take stock of
 - I found clarity on what I really wanted in a career and found a job I love in a team that I can grow and learn
 - I built a stronger faith in God than I've had in my whole life, now trusting I can lean on Him in any situation
 
-Because the mini-retirement, I'm becoming a better husband, a better father, a better friend, a better engineer, and most importantly, a better child of God.
+Because of the mini-retirement, I'm becoming a better husband, a better father, a better friend, a better engineer, and most importantly, a better child of God.
 
 > {% include tweet-link.html tweet-text="By every measure that actually matters, my mini-retirement was an incredible success." %}
 
@@ -67,12 +67,12 @@ Too often, we view ourselves as failures because we're using the wrong measures 
 
 Success isn't a big house, a fancy car, or an overflowing 401k account. Success isn't financial independence, early retirement, or winning the lottery.
 
-Real success is growth - becoming a better version of yourself. Success is learning what's really important in life so you have the confidence to pursue it. Success is seeing the love around you and the opportunities for love you're not taking advantage of.
+Real success is growth - becoming a better version of yourself. Success is learning what's really important in life so you have the confidence to pursue it. Success is seeing the love you have around you and the opportunities for love you're not taking advantage of.
 
 That kind of success means more. That kind of success is always within your grasp. That kind of success doesn't depend on luck, personality or privilege.
 
 {% include tweet-link.html tweet-text="Success is how you choose to define it." %}
 
-Don't conform to the ways of this world - defining success as money, celebrity, or appearance. Find a deeper definition of success - success that comes from growth, learning, and love.
+Don't conform to the way the world measures success - with money, celebrity, and appearance. Choose a better set of measures - growth, learning, and love.
 
 Go. __Redefine success.__ You'll be surprised to find that you already have it all around you.
