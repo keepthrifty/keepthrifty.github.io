@@ -4,7 +4,7 @@ layout: post
 author: chris_durheim
 
 title: "Will I Ever Be Able to Retire?"
-description: "TK"
+description: "What does it take to know if you'll ever be able to retire? Here's a step-by-step approach to calculate your needs and measure your progress."
 
 date: 2018-10-09 6:58:00 -0500
 
@@ -15,11 +15,7 @@ categories: [article]
 
 ---
 
-The FI (Financial Independence) community is a special bunch. Those of use that have delved into the space strive for enough passive investment income to give us ownership over our time. Once you have enough money to cover your annual expenses, work becomes optional - allowing you to choose the work you do without money as a concern. For many, this dream involves "retiring early" - with some getting there exceptionally early - even in their thirties (see cases [one](https://millennialmoney.com/grant-sabatier/){: target="_blank"}, [two](https://www.mrmoneymustache.com/2011/04/06/meet-mr-money-mustache/){: target="_blank"}, and [three](https://www.madfientist.com/time-has-finally-come/){: target="_blank"}).
-
-And while early retirement is a worthwhile goal, most Americans are far from it. How far? Let's take a look.
-
-## The Stats
+It seems like the world is buzzing these days with talk of financial independence and early retirement. Jaime and I big proponents of the power of financial freedom, but it's healthy to recognize that for many people, it may seem like an impossible dream.
 
 After all, here's what the state of retirement savings looks like for people in the US:
 
@@ -33,19 +29,27 @@ After all, here's what the state of retirement savings looks like for people in 
 
 <div class="caption">Source: <a href="https://www.transamericacenter.org/docs/default-source/resources/center-research/16th-annual/tcrs2015_sr_retirement_throughout_the_ages.pdf" target="_blank">TransAmerica Center for Retirement Studies</a></div>
 
-Is that enough? Most people think they'll need $1,000,000 to retire comfortably. If that's the case, I _highly doubt_ that having $172,000 at age 60 puts someone on-track to comfortably retire with $1,000,000 at age 65.
+Is that enough? Most people think they'll need $1,000,000 to retire comfortably. If that's the case, I _highly doubt_ that having $172,000 at age 60 puts someone on track to comfortably retire with $1,000,000 at age 65.
 
 > {% include tweet-link.html tweet-text="For the majority of Americans, the concern isn't retiring early. Their concern is __retiring ever.__<br />" %}
 
-So how do you know if you'll _ever_ be able to retire?
+If you're trying to answer that question, then this is the guide for you. Let's go through how to figure out if you'll _ever_ be able to retire.
 
 ## Will I Ever Be Able to Retire?
 
-For the purpose of this exercise, we're going to take that question very literally. We're not looking at a lavish retirement with vacations here, folks. We're looking at "getting by" without working. The following sections will help you work through that scenario to get the answer to whether or not you'll ever be able to retire.
+It's not a simple question and there are certainly many ways to look at answering it. Below, I've got an approach (with embedded calculations for __your situation__ along the way) that lets you measure what you'd need to retire and how long it'll take you to get there.
+
+_Disclaimer:_ ___any___ _retirement calculator out there - this one included - operates on a wide variety of assumptions. While these assumptions usually come based on some data about how things have worked out in recent history, there's no guarantee that the future will look the same. Consider this guide an_ ___introduction___ _to retirement calculators. I highly encourage you to look at others as well._
+
+Ok, with that out of the way, let's get started with the first question we need to answer.
 
 ### How Much Will I Spend In Retirement?
 
-The first thing we need to understand is what your annual expenses will look like. In the interest of "getting by", I recommend using the [MIT living wage calculator](http://livingwage.mit.edu/){: target="_blank"} to estimate your annual expenses. Navigate there and find your location (either enter your zip code or navigate to your state and select your county).
+The first thing we need to understand is what your annual expenses will look like. If you've ever [tracked your spending](https://thrifty.keepthrifty.com), you'll likely have an idea of what your spending would look like in retirement.
+
+If you haven't tracked your spending before, you might consider using the [MIT living wage calculator](http://livingwage.mit.edu/){: target="_blank"} to estimate your annual expenses. This won't provide for a lavish retirement with cruises and getaways, but it can help answer the question of whether you could _ever_ retire.
+
+To use the living wage calculator, enter your location (either your zip code or your state/county).
 
 Scroll down to the "Typical Expenses" section and find the row labeled "Required annual income before taxes" at the bottom of the table.
 
@@ -63,9 +67,9 @@ Enter that number here:
   </div>
 </div>
 
-### How Much Do I Need Saved to Retire?
+### How Much Do I Need to Save to Retire?
 
-For the sake of simplicity, we'll use [the 4% rule](https://www.madfientist.com/safe-withdrawal-rate/) to estimate how much money you need to retire. With this rule, you need to save up 25 times your annual expenses in order to retire.
+For the sake of simplicity, we'll use [the 4% rule](https://www.madfientist.com/safe-withdrawal-rate/){: target="_blank"} to estimate how much money you need to retire. With this rule, you need to save up 25 times your annual expenses in order to retire.
 
 Based on the annual expenses you entered earlier, here's what you'd need saved up to retire today:
 
@@ -73,11 +77,11 @@ Based on the annual expenses you entered earlier, here's what you'd need saved u
   <label class="inline-calculator-item__label" id="retirement-target-label">Retirement Target</label>
   <div class="inline-calculator-item__input inline-calculator-item__input--prefixed">
     <i class="prefix">$</i>
-    <input type="number" id="retirement-target" disabled value="934350" />
+    <input type="text" id="retirement-target" disabled value="934350" />
   </div>
 </div>
 
-But unfortunately that doesn't tell us how much you'll need saved in the future. You know how the cost of milk (and everything else) goes up a bit every year? That's what we call [inflation](https://www.thebalance.com/u-s-inflation-rate-history-by-year-and-forecast-3306093){: target="_blank"}. With everything costing more next year than this year, you'll need __more__ saved by next year to retire than you would have needed to retire today.
+But unfortunately, that doesn't tell us how much you'll need saved in the future. You know how the cost of milk (and everything else) goes up a bit every year? That's what we call [inflation](https://www.thebalance.com/u-s-inflation-rate-history-by-year-and-forecast-3306093){: target="_blank"}. With everything costing more next year than this year, you'll need __more__ saved by next year to retire than you would have needed to retire today.
 
 We'll assume inflation is 2.5% every year. If something cost you $10.00 to buy this year, you could expect that inflation to bring the price up to $10.25 by next year.
 
@@ -87,13 +91,13 @@ Here's what inflation would do to your retirement target for next year:
   <label class="inline-calculator-item__label" id="retirement-target-n1-label">Next Year's Retirement Target</label>
   <div class="inline-calculator-item__input inline-calculator-item__input--prefixed">
     <i class="prefix">$</i>
-    <input type="number" id="retirement-target-n1" disabled value="957709" />
+    <input type="text" id="retirement-target-n1" disabled value="957709" />
   </div>
 </div>
 
 Bummer, right? The good news is you can work to "beat" inflation by investing your retirement savings instead of stuffing it under a mattress.
 
-With that in mind, lets take a look at savings and investments.
+With that in mind, let's take a look at savings and investments.
 
 ### When Will I Have Enough Saved to Retire?
 
@@ -111,16 +115,16 @@ With any money set aside, you're already on the way to retire at some point; it 
 
 If you don't have anything set aside for retirement, don't fret. Keep reading and we'll handle that situation later.
 
-For your retirement, let's presume you choose to *invest* your money instead of just putting it under a mattress (or in a low-yield savings account), you can get a return that not only beats inflation, but actually grows beyond that. I won't get into the details on *why* to invest in index funds, but let's say you do and can get an average annual return of 8%.
+For your retirement, let's presume you choose to *invest* your money instead of just putting it under a mattress (or in a low-yield savings account), you can get a return that not only beats inflation but actually grows beyond that. I won't get into the details on *why* to invest in index funds, but let's say you do and can get an average annual return of 8%.
 
-Even without putting any more money in that account, it's going to grow - beating inflation and then some.
+Even without putting any more money into that account, it's going to grow - beating inflation and then some.
 
 In fact, that investment would eventually grow to the point of hitting your retirement number, even if you didn't contribute another penny. This concept in personal finance is called "coasting" or, as I like to call it, [retirement freedom]({% post_url 2017/2017-01-30-introducing-retirement-freedom %})
 
 <div class="inline-calculator-item">
   <label class="inline-calculator-item__label" id="years-to-retirement-label">Coast Years to Retirement</label>
   <div class="inline-calculator-item__input">
-    <input type="number" id="years-to-retirement" disabled value="59" />
+    <input type="text" id="years-to-retirement" disabled value="59" />
   </div>
 </div>
 
@@ -142,7 +146,7 @@ Based on what you've entered so far, your investments would build up for you to 
 <div class="inline-calculator-item">
   <label class="inline-calculator-item__label" id="coast-retirement-age-label">Coast Retirement Age</label>
   <div class="inline-calculator-item__input">
-    <input type="number" id="coast-retirement-age" disabled value="94" />
+    <input type="text" id="coast-retirement-age" disabled value="94" />
   </div>
 </div>
 
@@ -151,14 +155,14 @@ So now, the million dollar question - are you still going to be around at that p
 <div class="inline-calculator-item">
   <label class="inline-calculator-item__label" id="life-expectancy-f-label">Life Expectancy in Years (female)</label>
   <div class="inline-calculator-item__input">
-    <input type="number" id="life-expectancy-f" disabled value="82" />
+    <input type="text" id="life-expectancy-f" disabled value="82" />
   </div>
 </div>
 
 <div class="inline-calculator-item">
   <label class="inline-calculator-item__label" id="life-expectancy-f-label">Life Expectancy in Years (male)</label>
   <div class="inline-calculator-item__input">
-    <input type="number" id="life-expectancy-m" disabled value="78" />
+    <input type="text" id="life-expectancy-m" disabled value="78" />
   </div>
 </div>
 
@@ -193,11 +197,11 @@ With what you put in, here's where you end up:
 <div class="inline-calculator-item">
   <label class="inline-calculator-item__label" id="expected-retirement-age-label">Expected Retirement Age</label>
   <div class="inline-calculator-item__input">
-    <input type="number" id="expected-retirement-age" disabled value="76" />
+    <input type="text" id="expected-retirement-age" disabled value="76" />
   </div>
 </div>
 
-If this age is less than your life expectancy (see above), then you _should_ be on-track to retire assuming you can continue to work and make the investments you entered above!
+If this age is less than your life expectancy (see above), then you _should_ be on track to retire assuming you can continue to work and make the investments you entered above!
 
 <div class="inline-calculator-item">
   <label class="inline-calculator-item__label" id="ever-retire-f-label">Will I Ever Be Able To Retire (female)?</label>
@@ -213,10 +217,27 @@ If this age is less than your life expectancy (see above), then you _should_ be 
   </div>
 </div>
 
-What do you think? If you're not happy with the results, don't worry - not all is lost. The result is based on what you entered above and you've got power to adjust your path.
+What do you think? If you're not happy with the results, don't worry - not all is lost. The result is based on what you entered above and you've got the power to adjust your path.
 
 ## Adjusting Your Path
 
 While this calculator made a lot of assumptions, you still have some flexibility. To accelerate your timeline, increase your income and/or your savings rate in the [How Much Faster Can I Retire If I Invest More](/#how-much-faster-can-i-retire-if-i-spend-more) section. Otherwise, you could reduce your needed spending by changing your expected annual expenses in the [How Much Will I Spend In Retirement?](/#how-much-will-i-spend-in-retirement) section.
+
+## What's Next?
+
+There you have it. Consider this an "entry-level" retirement calculator. There are plenty of others out there to explore as you dig into the details. Many of these will let you tweak the assumptions and try more complex scenarios. Here are a few I recommend you give a shot:
+
+- [When Can I Retire? When Will I Be Financially Independent?](https://esimoney.com/when-can-i-retire-when-will-i-be-financially-independent-a-retirement-calculator-guide/){: target="_blank"} from ESI Money
+- [Early Retirement Calculator](https://millennialmoney.com/early-retirement-calculator/){: target="_blank"} from Millennial Money
+- [Ultimate Retirement Calculator](https://financialmentor.com/calculator/best-retirement-calculator){: target="_blank"} from Financial Mentor
+
+And here are a couple retirement-related calculators I've worked on that might help you think differently about your path to financial freedom:
+
+- [Would You Trade $25 for an Extra Day of Freedom?]({% post_url 2016/2016-09-18-the-price-of-an-extra-day %})
+- [Introducing Retirement Freedom]({% post_url 2017/2017-01-30-introducing-retirement-freedom %})
+- [Annual Savings to Walk Away Calculator](https://mny.millennialmoney.com/calculators/annual_savings_to_walk_away){: target="_blank"}
+- [Savings Rate to Walk Away Calculator](https://mny.millennialmoney.com/calculators/savings_rate_to_walk_away){: target="_blank"}
+
+Happy number-crunching!
 
 <script src="{{site.url}}/assets/js/custom/ever-retire.js" type="text/javascript">

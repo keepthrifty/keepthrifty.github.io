@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
       labelElement.classList.remove("error");
       labelElement.innerHTML = ok_label;
     }
-    return value;
+    return value || 0;
   }
 
   function validateAge(id_tag, ok_label) {
@@ -58,7 +58,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function updateYearResult(id_tag, value, round = "ceil") {
     if (value !== NaN) {
-      if (round == "floor") {
+      if (value < 0) {
+        document.querySelector(`#${id_tag}`).value = "Already!";
+      } else if (round == "floor") {
         document.querySelector(`#${id_tag}`).value = Math.floor(value).toFixed(0);
       } else {
         document.querySelector(`#${id_tag}`).value = Math.ceil(value).toFixed(0);
