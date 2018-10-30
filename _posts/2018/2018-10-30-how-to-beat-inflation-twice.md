@@ -15,7 +15,7 @@ categories: [article]
 
 ---
 
-So, you've figured out whether you'll [ever be able to retire]({% post_url 2018-10-09-will-i-ever-be-able-to-retire}). Now you are itching for that next step - figuring out how to retire early. After hearing all of these amazing stories of people retiring in their 30's and 40's, you want to know the secrets to getting there on your own.
+So, you've figured out whether you'll [ever be able to retire]({% post_url 2018/2018-10-09-will-i-ever-be-able-to-retire %}). Now you are itching for that next step - figuring out how to retire early. After hearing all of these amazing stories of people retiring in their 30's and 40's, you want to know the secrets to getting there on your own.
 
 If you're ready to go there, I'm ready to take you through it. The trick to retiring early is beating inflation. Today we'll go through how to do that with a one-two punch.
 
