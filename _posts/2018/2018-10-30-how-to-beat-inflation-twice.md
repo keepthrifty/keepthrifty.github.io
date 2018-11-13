@@ -75,6 +75,6 @@ Putting these two together lets Mo retire at age 48. What do you think Mo could 
 
 What could you do with an extra 17 years of freedom?
 
-## Coming Up - Learn to Punch
+## Up Next - Learn to Punch
 
-Hopefully this gave you some great motivation around beating inflation so you can improve your financial situation. In a post coming soon, I'll provide deeper details on how exactly to beat inflation with frugality and how exactly to beat inflation with earnings. Stay tuned!
+Hopefully this gave you some great motivation around beating inflation so you can improve your financial situation. Your next step? Check out our post on how exactly to beat inflation with both frugality and earnings: [Earn Like a Boss, Spend Like an Intern]({% post_url 2018/2018-11-13-earn-like-a-boss-spend-like-an-intern %}).
