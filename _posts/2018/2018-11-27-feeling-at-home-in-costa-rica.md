@@ -4,7 +4,7 @@ layout: post
 author: jaime_durheim
 
 title: "Feeling At Home In Costa Rica"
-description: "TK"
+description: "We're back from our second trip to Costa Rica this year and this time we brough the kids!"
 
 date: 2018-11-27 6:58:00 -0500
 
