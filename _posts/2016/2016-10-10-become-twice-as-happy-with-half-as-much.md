@@ -229,7 +229,7 @@ Here's the thinking behind how I got to this wardrobe:
 
 ### Keeping Style ###
 
-If you've been reading this blog, you know that [I'm not exactly a fan of fast fashion]({{ site.url }}{% post_url 2016/2016-06-13-escape-fashion-trap-part-1 %}). That said, I do still want to feel like I look good in the clothes that I wear so I developed a simple strategy.
+If you've been reading this blog, you know that I'm not exactly a fan of fast fashion. That said, I do still want to feel like I look good in the clothes that I wear so I developed a simple strategy.
 
 {% include tweet-link.html tweet-text = "For any item to become a resident of my closet, I ask, 'Would I be willing to wear this every day?'" %}
 

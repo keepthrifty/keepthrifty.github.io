@@ -54,7 +54,7 @@ Our spending this month includes all of the closing costs in here (including the
 
 We have a few "double payments" this month as the July expenses for our apartment life came on July 1st but we prefer to pay our August expenses a few days ahead. Rent and health insurance are the two big culprits here, which together bring our totals up by over $1,000. It'll all balance out in the end, so we'll have to see what normal spending looks like in the future.
 
-If you've been following along on these updates, you might notice a few new categories. As Jaime and I have entered our one-year mini-retirement, we've been developing a new budgeting system to replace [our old one]({% post_url 2016/2016-11-13-how-we-budget-four-branch-system %}) and part of this has been creating new categories in [Thrifty](https://thrifty.keepthrifty.com) for certain expenses that we're budgeting separately.
+If you've been following along on these updates, you might notice a few new categories. As Jaime and I have entered our one-year mini-retirement, we've been developing a new budgeting system to replace our old one and part of this has been creating new categories in [Thrifty](https://thrifty.keepthrifty.com) for certain expenses that we're budgeting separately.
 
 A couple good examples of this are the new categories for date night and pizza/movie night. These are an important part of the values and dreams we want to live out on a regular basis - time together as a couple and time together as a family. Because this is _good_ spending, we want to separate it from our other _Eating Out_ expenses, which tend to be more convenience-based unplanned spending. In all cases, we'll have a budget for each and work to stick within those limits.
 

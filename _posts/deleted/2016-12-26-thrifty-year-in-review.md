@@ -19,12 +19,12 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [dreams & values]
 
-
+published: false
 
 categories: [article]
 ---
 
-We started the year with [a one-word resolution - Thrifty]({{site.url}}{% post_url 2016/2016-01-01-one-word-resolution %}). Did we stick to our resolution? How did we do on our goals and values for this year?
+We started the year with a one-word resolution - Thrifty. Did we stick to our resolution? How did we do on our goals and values for this year?
 
 It's hard to believe how much has happened in the last year. While some of this was planned, much wasn't even on our radar when 2016 kicked off:
 

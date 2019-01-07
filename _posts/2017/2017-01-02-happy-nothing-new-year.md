@@ -35,7 +35,7 @@ categories: [article]
 
 ---
 
-In 2016, we set a [resolution to have a "thrifty" year]({{site.url}}{% post_url 2016/2016-01-01-one-word-resolution %}). This meant being mindful and intentional about where we spent our money and our time. As we kick off 2017, we're going to stretch ourselves even further and attempt something big: __a year of buying nothing new__.
+In 2016, we set a resolution to have a "thrifty" year. This meant being mindful and intentional about where we spent our money and our time. As we kick off 2017, we're going to stretch ourselves even further and attempt something big: __a year of buying nothing new__.
 
 We're not the first to try this - there have been many others - but it's still a big challenge for any family to take on. Read on to learn why we're doing this, how we're going to make it work, and what the rules (and exceptions) will be for our _Nothing New Year_ of 2017.
 

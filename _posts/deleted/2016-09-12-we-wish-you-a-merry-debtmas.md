@@ -20,6 +20,8 @@ tags: [money]
 
 rockstar: true
 
+published: false
+
 categories: [article]
 ---
 

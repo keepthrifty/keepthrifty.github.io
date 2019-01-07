@@ -50,7 +50,7 @@ _Nope_
 
 A big chunk of this was us doing one of our favorite things - road tripping! We had an 8-day trip from home in Madison, Wisconsin to Hilton Head Island, South Carolina. Hilton Head Island is one of my parents' favorite places to visit and we had never been. When they told us they'd be down there for 6 weeks this winter, we knew it would be a great chance to check it out and spend some extra time with my family.
 
-Despite all five of us catching a cold, we had a great time on the trip. We got three days on the beach, lots of time exploring the island with my parents, and we knocked three more states off our list (we're up to 31 now). As always, there were challenges ([like last summer's trip]({% post_url 2016/2016-07-06-roadtrip-recap %})) but it was a great experience - lots of memories!
+Despite all five of us catching a cold, we had a great time on the trip. We got three days on the beach, lots of time exploring the island with my parents, and we knocked three more states off our list (we're up to 31 now). As always, there were challenges, but it was a great experience - lots of memories!
 
 ![Our three kids at the beach]({{site.url}}/assets/img/posts/2017-03-06-nothing-new-year-month-two-update/hilton-head-island-beach.jpg)
 

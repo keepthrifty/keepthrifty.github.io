@@ -18,6 +18,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title.html
 tags: [minimalism]
 
+published: false
+
 categories: [article]
 ---
 

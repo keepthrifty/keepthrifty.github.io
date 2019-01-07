@@ -17,6 +17,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title.html
 tags: [dreams & values]
 
+published: false
+
 categories: [article]
 ---
 

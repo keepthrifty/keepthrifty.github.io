@@ -90,7 +90,7 @@ Pretty bland, but we're hoping to continue to crush this one down with a goal of
 
 ### Travel: $4,957.55 ##
 
-Most of this was our [road trip][road-trip-post] from the summer though we did have one or two smaller trips thrown in (weekends out of the house).
+Most of this was our road trip from the summer though we did have one or two smaller trips thrown in (weekends out of the house).
 
 This is something we plan to increase in the future as we cut spending elsewhere. We love traveling together and hope we can make it more frequent throughout our lives.
 
@@ -126,7 +126,7 @@ Our twins were in preschool this last year which had a tuition cost. That said, 
 
 ### Clothing/Shoes: $2,430.20 ($203 per month) ##
 
-This one can probably come down a bit, especially based on everything we've [learned about fashion][fashion-post]. My wife came up with a great idea for an "approved shopping list" for clothes which would identify the _only_ clothes we're allowed to buy in the next year outside of replacements for items that have worn out.
+This one can probably come down a bit, especially based on everything we've learned about fashion. My wife came up with a great idea for an "approved shopping list" for clothes which would identify the _only_ clothes we're allowed to buy in the next year outside of replacements for items that have worn out.
 
 Check back on the site here - I imagine we'll have a post on the approved shopping list at some point in the near future :)
 
@@ -221,10 +221,6 @@ If you haven't been tracking your finances, I encourage you to sign up for [Thri
 {: target="_blank"}
 
 [payoff-mortgage-post]: {{ site.url }}{% post_url 2016/2016-04-10-how-we-saved-on-our-mortgage %}
-
-[road-trip-post]: {{ site.url }}{% post_url 2016/2016-07-06-roadtrip-recap %}
-
-[fashion-post]: {{ site.url }}{% post_url 2016/2016-06-13-escape-fashion-trap-part-1 %}
 
 [engagement-ring-post]: {{ site.url }}{% post_url 2016/2016-03-23-engagement-ring-sold %}
 

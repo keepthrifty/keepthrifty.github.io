@@ -86,7 +86,7 @@ I want my kids to grow up knowing how loved they are and with all the support th
 
 ### Blogger ###
 
-When I look back at [my first blog post]({{ site.url }}{% post_url 2016/2016-01-01-one-word-resolution %}), I'm not exactly filled with pride and joy. It's not a terrible post, but I also don't feel that it is very inspiring or motivational.
+When I look back at my first blog post, I'm not exactly filled with pride and joy. It's not a terrible post, but I also don't feel that it is very inspiring or motivational.
 
 That said, it's true to who I was when I wrote it.
 

@@ -16,6 +16,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title.html
 tags: [dreams & values]
 
+published: false
+
 categories: [article]
 ---
 Most resolutions are failures. More and more are rebelling and going to something simpler, something cleaner — a single “[focus word][focus-word]” for the year.

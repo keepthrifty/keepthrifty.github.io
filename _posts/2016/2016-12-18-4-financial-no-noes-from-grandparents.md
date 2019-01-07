@@ -63,7 +63,7 @@ There is a running joke in my family that my grandpa never went inside a clothin
 
 In my family, if we had a hole in the pants, we got a patch job; if they were too long, my mom would hem them up.  I had hand-me-downs all of my life.  My parents refused to spend a lot of money on our clothes, _and you don’t have to either._
 
-It makes sense to buy new clothes every once in a while; I get it.  But collectively, [we all spend __way too much__ on brand new clothes]({{site.url}}{% post_url 2016/2016-06-13-escape-fashion-trap-part-1 %}).  Even if my grandpa did go inside a clothing store, I can promise you that it wasn’t a store that sold brand new clothes.
+It makes sense to buy new clothes every once in a while; I get it.  But collectively, we all spend __way too much__ on brand new clothes).  Even if my grandpa did go inside a clothing store, I can promise you that it wasn’t a store that sold brand new clothes.
 
 * __Alternative__: Go check out garage sales or your local Goodwill.  You can find awesome, gently used clothes that are incredibly cheap.  Also, consider learning how to sew.  Stretch your current clothes out until you literally can’t wear them anymore!  
 

@@ -103,7 +103,7 @@ So, how did we do?
 
 All of our new purchases this month (socks and remodeling) fit on the exceptions list - so we're still meeting our goal.
 
-In all, we were fortunate that this crazy month didn't really have an impact on our day-to-day finances because [the way we budget]({% post_url 2016/2016-11-13-how-we-budget-four-branch-system %}) builds these kinds of situations in. We had money saved up for our renovations, we drew from our HSA to cover our healthcare bills, and we used some of our emergency fund to cover the furnace.
+In all, we were fortunate that this crazy month didn't really have an impact on our day-to-day finances because the way we budget builds these kinds of situations in. We had money saved up for our renovations, we drew from our HSA to cover our healthcare bills, and we used some of our emergency fund to cover the furnace.
 
 What's next? I wish I could predict our spending will drop but based on our ambitious strategy change, I think we're in for a sharp increase in spending in the next few months.
 

@@ -21,6 +21,8 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [minimalism]
 
+published: false
+
 categories: [article]
 ---
 

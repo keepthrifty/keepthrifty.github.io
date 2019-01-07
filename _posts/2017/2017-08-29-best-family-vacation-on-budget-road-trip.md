@@ -160,7 +160,7 @@ Here's an example from our most recent trip:
 - Drive to hotel (~15 minutes)
 - __Stop__ at hotel
 
-In total, we target no more than 7.5 hours of driving a day. We learned this the hard way on [our trip to the Pacific Northwest]({% post_url 2016/2016-07-06-roadtrip-recap %}) where we were in the car 8-9 hours each day. If you think pushing past your limit on "travel" days will be worth it for getting to your destination sooner, you're probably wrong. Restless kids and anxious adults make the trip a lot rougher.
+In total, we target no more than 7.5 hours of driving a day. We learned this the hard way on our trip to the Pacific Northwest where we were in the car 8-9 hours each day. If you think pushing past your limit on "travel" days will be worth it for getting to your destination sooner, you're probably wrong. Restless kids and anxious adults make the trip a lot rougher.
 
 Don't feel obligated to follow the schedule _every day_; it's just a guide you can use for some structure. If you find that you need to have a longer driving day one day, shorten the next one. If you plan to spend a day and a half at a national park, figure out what portion of the daily schedule applies.
 

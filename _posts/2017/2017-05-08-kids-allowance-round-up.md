@@ -95,7 +95,7 @@ Laura from __Savvy Family Finance__ goes a step further by including another cat
 
 When I was in early middle school, my parents gave me an allowance based on the _Envelope Budgeting System_. I had a set allowance for each category - some _wants_ (i.e. clothing), some _needs_ (i.e. awesome CDs from the 1990's), and an envelope for savings as well. There was a fixed amount that went in each week and I wasn't allowed to shuffle money between envelopes. This helped me to understand how to use budgeting to keep my finances aligned with my goals.
 
-It also painfully highlighted my [lack of interest in clothing]({% post_url 2016/2016-06-13-escape-fashion-trap-part-1 %}). At one point my clothing envelope was overflowing with $20 bills to the point that my parents gently encouraged me to finally replace some of my old shirts and pants.
+It also painfully highlighted my lack of interest in clothing. At one point my clothing envelope was overflowing with $20 bills to the point that my parents gently encouraged me to finally replace some of my old shirts and pants.
 
 ## What Age to Start Giving Kids an Allowance
 

@@ -37,7 +37,7 @@ Some of the more interesting demographic differences the paper surfaced include:
 
 ## Experiences All the Way, Right? #
 
-Our family just got back from our [annual road trip][roadtrip-post], where we spent 12 days traveling the northwest United States and dropped about $3400. Would I trade that for a 75-inch, 4K ultra HD flatscreen?
+Our family just got back from our annual road trip, where we spent 12 days traveling the northwest United States and dropped about $3400. Would I trade that for a 75-inch, 4K ultra HD flatscreen?
 
 _Not a chance_
 
@@ -113,8 +113,6 @@ It pays to hear different viewpoints and understand how different people live, b
 
 [thrifty-link]: https://thrifty.keepthrifty.com
 {: target="_blank"}
-
-[roadtrip-post]: {{ site.url }}{% post_url 2016/2016-07-06-roadtrip-recap %}
 
 [gruen-transfer]: https://m.signalvnoise.com/the-gruen-transfer-getting-your-business-noticed-6b0c526bac5d#.h5lvxsj7i
 {: target="_blank"}

@@ -25,7 +25,7 @@ related-posts: [
 permalink: /:year/:month/:day/:title/
 tags: [money]
 
-
+published: false
 
 categories: [article]
 ---

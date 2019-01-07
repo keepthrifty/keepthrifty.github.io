@@ -63,7 +63,7 @@ We added everything up for a 12 month period and decided on our budget for the w
 
 ## Breaking It Down
 
-Our budgeting is based on [the four branch budgeting system]({% post_url 2016/2016-11-13-how-we-budget-four-branch-system %}). Here’s how we did it:
+Here’s how we did it:
 
 Expenses come in all different shapes and sizes. Some things are weekly, bi-weekly, monthly, quarterly, and annually (which can be pretty random). This can make budgeting a mess, but we figured out a way to make sense of it all.
 

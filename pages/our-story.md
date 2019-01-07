@@ -51,7 +51,7 @@ We’ve now visited 47 states:
 
 - Out to Arizona for a wedding
 - Down to Florida to meet Disney princesses
-- [Out West to visit some National Parks and the Pacific coast]({% post_url 2016/2016-07-06-roadtrip-recap %})
+- Out West to visit some National Parks and the Pacific coast
 - Southeast to Hilton Head Island, SC to vacation with family in the winter
 - To the East Coast, from driving in Manhattan to hiking in New Hampshire
 - To Hawaii, experiencing the [aloha spirit]({% post_url 2018/2018-02-13-aloha-minimalism %})

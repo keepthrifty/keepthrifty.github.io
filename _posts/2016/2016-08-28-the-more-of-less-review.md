@@ -79,7 +79,7 @@ Here's an actual template from the book:
 >
 > Based on my decision, I will either get rid of those possessions permanently and not miss them, or I will integrate them back into my life and feel comfortable with that choice.
 
-We [used this methodology in our house][living-with-less-post] before reading Joshua's book so it's great to see this here as well. I can personally attest to the amazing, freeing feeling you get when you realize the self-imposed boundaries and limits that you can get rid of.
+We used this methodology in our house before reading Joshua's book so it's great to see this here as well. I can personally attest to the amazing, freeing feeling you get when you realize the self-imposed boundaries and limits that you can get rid of.
 
 Some examples of what we've done:
 
@@ -119,5 +119,3 @@ ___To get your own copy, here's a [link][the-more-of-less-amazon]___
 
 [the-hope-effect]: http://hopeeffect.com/
 {: target="_blank"}
-
-[living-with-less-post]: {{ site.url }}{% post_url 2016/2016-01-20-living-with-less %}

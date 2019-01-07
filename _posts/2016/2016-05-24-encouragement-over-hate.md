@@ -46,7 +46,7 @@ From there, remember that you can trust yourself - you know what's important to 
 
 ## You're not alone #
 
-My experience since [launching this blog][one-word-resolution-post] has been overwhelmingly positive from the online community.
+My experience since launching this blog has been overwhelmingly positive from the online community.
 
 Readers and fellow bloggers have put resoundingly positive comments on the posts here either expressing words of support or asking respectful, intelligent questions in response.
 
@@ -117,8 +117,6 @@ You don't have to have all of the answers right this minute and you very likely 
 That said, you're on the right track and you'll accomplish great things if you keep focusing on moving toward your goals.
 
 _Any other thoughts on dealing with the naysayers and haters? Leave a comment below or find me on [Twitter][twitter-link] with your thoughts!_
-
-[one-word-resolution-post]: {{ site.url }}{% post_url 2016/2016-01-01-one-word-resolution %}
 
 [romans-2-12]: https://www.biblegateway.com/passage/?search=Romans+12&version=NIV
 {: target="_blank"}

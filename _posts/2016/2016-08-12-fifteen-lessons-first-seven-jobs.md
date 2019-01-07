@@ -190,7 +190,7 @@ Then everyone left.
 
 They all got full-time jobs and that just left me to do the work.
 
-Eventually the temp agency found two more people who could come in but the dynamic was completely different. Neither seemed to have an interest in talking about much other than fashion (which [isn't exactly my cup of tea][fashion-trap]).
+Eventually the temp agency found two more people who could come in but the dynamic was completely different. Neither seemed to have an interest in talking about much other than fashion (which isn't exactly my cup of tea).
 
 On top of that, one didn't understand the concept of alphabetizing and I spent most of the summer coaching her on where the files went.
 
@@ -254,5 +254,3 @@ Search for a challenge; search for purpose; search for a chance to work on your 
 [cigarette-butts]: {{ site.url }}{{ page.image-folder }}/cigarette-butts.jpg
 [storage-units]: {{ site.url }}{{ page.image-folder }}/storage-units.jpg
 [parking-lot]: {{ site.url }}{{ page.image-folder }}/parking-lot.jpg
-
-[fashion-trap]: {{ site.url }}{% post_url 2016/2016-06-13-escape-fashion-trap-part-1 %}
