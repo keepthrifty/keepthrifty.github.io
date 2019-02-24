@@ -4,7 +4,7 @@ layout: post
 author: jaime_durheim
 
 title: "Our 2019 Spending Plan"
-description: ""
+description: "We want to align our finances to our values. Here's how we plan our spending in 2019 to do exactly that."
 
 date: 2019-02-26 6:58:00 -0500
 
