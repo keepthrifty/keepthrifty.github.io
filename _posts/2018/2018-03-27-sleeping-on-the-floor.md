@@ -152,7 +152,7 @@ We tried sleeping on our futon couch. Jaime's back didn't get any better and min
 
 We tried sleeping on a foam mat on the floor. Jaime's back improved a bit, but it still wasn't better. My back handled the foam mat better, but it still wasn't as good as being directly on the floor.
 
-Then, we stumbled on a listing on Freecycle for a [queen-sized Japanese roll-out sleeping mat](http://amzn.to/2HVFtXC){: target="_blank" rel="nofollow"}. I'd been wanting to buy one once our [Buy Nothing New Year]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) was over so I was thrilled to see this one listed for free.
+Then, we stumbled on a listing on Freecycle for a [queen-sized Japanese roll-out sleeping mat](http://amzn.to/2HVFtXC){: target="_blank" rel="nofollow"}. I'd been wanting to buy one once our [Buy Nothing New Year]({% post_url 2019/2019-03-12-buy-nothing-new-challenge %}) was over so I was thrilled to see this one listed for free.
 
 I e-mailed the poster and we got lucky that she chose to give it to us for free. We started using it and it was amazing.
 

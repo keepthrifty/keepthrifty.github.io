@@ -32,7 +32,7 @@ popular: true
 
 ---
 
-Earlier this year, we experienced a culinary tragedy - __our pizza cutter broke__. Our initial reaction was to go out and buy a replacement, but we were in the middle of our [Nothing New Year challenge]({% post_url 2017/2017-01-02-happy-nothing-new-year %}) so we held off. A few days passed, then a week, then a month. We hadn't replaced the pizza cutter and somehow, _amazingly_, we were still surviving.
+Earlier this year, we experienced a culinary tragedy - __our pizza cutter broke__. Our initial reaction was to go out and buy a replacement, but we were in the middle of our [Nothing New Year challenge]({% post_url 2019/2019-03-12-buy-nothing-new-challenge %}) so we held off. A few days passed, then a week, then a month. We hadn't replaced the pizza cutter and somehow, _amazingly_, we were still surviving.
 
 The truth was, we didn't really use the pizza cutter all that often. It only came out when we had take-and-bake pizza or made quesadillas and neither of those had made the meal plan in a while.
 

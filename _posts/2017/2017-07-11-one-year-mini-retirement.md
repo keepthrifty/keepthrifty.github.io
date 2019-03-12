@@ -52,7 +52,7 @@ I was first introduced to Financial Independence (FI) by [Mr. Money Mustache](ht
 
 We cultivated a sense of financial discipline - remembering that our bigger life goals were more important than the temporary high of consumerist purchases. We automated our savings and we stopped shopping at stores that always seem to have a receipt of $100 or more (_\*cough TARGET cough\*_). We focused on our needs over our wants - remembering that what we _really_ wanted was bigger and better than some kitschy serving platter.
 
-With what we saved, we aggressively [paid down our mortgage]({% post_url 2016/2016-04-10-how-we-saved-on-our-mortgage %}). We pretended raises and promotions didn't happen, [redirecting our income increases to paying off our debt]({% post_url 2016/2016-01-15-prepaying-mortgage-trick %}). This year, we took on the big challenge of trying to go [a whole year buying nothing new]({% post_url 2017/2017-01-02-happy-nothing-new-year %}).
+With what we saved, we aggressively [paid down our mortgage]({% post_url 2016/2016-04-10-how-we-saved-on-our-mortgage %}). We pretended raises and promotions didn't happen, [redirecting our income increases to paying off our debt]({% post_url 2016/2016-01-15-prepaying-mortgage-trick %}). This year, we took on the big challenge of trying to go [a whole year buying nothing new]({% post_url 2019/2019-03-12-buy-nothing-new-challenge %}).
 
 The outcome is predictable and awesome: we saw our debt come down, our investment account balances go up. We were on our way.
 

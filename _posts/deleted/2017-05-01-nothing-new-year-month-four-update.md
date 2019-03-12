@@ -1,4 +1,9 @@
 ---
+redirect_to:
+  - /buy-nothing-new-challenge/
+
+published: false
+
 layout: post
 
 author: chris_durheim
@@ -36,7 +41,7 @@ categories: [article]
 
 ---
 
-We kicked off this year with a goal to [buy nothing new]({% post_url 2017/2017-01-02-happy-nothing-new-year %}). Last month, we made a big decision - to finish up our home updates and put our house on the market. This month, we worked on getting our remodeling done while also celebrating our twins' birthday. It was a crazy busy month!
+We kicked off this year with a goal to [buy nothing new]({% post_url 2019/2019-03-12-buy-nothing-new-challenge %}). Last month, we made a big decision - to finish up our home updates and put our house on the market. This month, we worked on getting our remodeling done while also celebrating our twins' birthday. It was a crazy busy month!
 
 Here's a look at our finances for the month, our progress on the nothing new year goal, and our progress on paying off our last debt - our mortgage.
 
@@ -152,7 +157,7 @@ What I'm really excited for is to see how our finances change once we're finally
 
 ## Check Out All the Updates
 
-_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2019/2019-03-12-buy-nothing-new-challenge %}) to see how we did._
 
 _Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month Five Update]({% post_url 2017/2017-06-05-nothing-new-year-month-five-update %})._
 

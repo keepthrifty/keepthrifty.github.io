@@ -1,4 +1,9 @@
 ---
+redirect_to:
+  - /buy-nothing-new-challenge/
+
+published: false
+
 layout: post
 
 author: chris_durheim
@@ -32,7 +37,7 @@ categories: [article]
 
 ---
 
-We kicked off this year with a goal to [buy nothing new]({% post_url 2017/2017-01-02-happy-nothing-new-year %}). We're now through our second month and it's accountability time. Here's a look at our finances for the month, our progress on the nothing new year goal, and how we're doing on paying off our mortgage by 2020.
+We kicked off this year with a goal to [buy nothing new]({% post_url 2019/2019-03-12-buy-nothing-new-challenge %}). We're now through our second month and it's accountability time. Here's a look at our finances for the month, our progress on the nothing new year goal, and how we're doing on paying off our mortgage by 2020.
 
 By buying nothing new, we hope to reduce our impact on our bank accounts _and_ the environment. Let's start with an overview of our spending for this month.
 
@@ -127,7 +132,7 @@ It was an exciting month - a road trip, my birthday, and lots of fun projects. W
 
 ## Check Out All the Updates
 
-_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2019/2019-03-12-buy-nothing-new-challenge %}) to see how we did._
 
 _Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month Three Update]({% post_url 2017/2017-04-03-nothing-new-year-month-three-update %})._
 

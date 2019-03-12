@@ -1,4 +1,9 @@
 ---
+redirect_to:
+  - /buy-nothing-new-challenge/
+
+published: false
+
 layout: post
 
 author: chris_durheim
@@ -36,7 +41,7 @@ categories: [article]
 
 ---
 
-We're officially halfway through our [year-long challenge to buy nothing new]({% post_url 2017/2017-01-02-happy-nothing-new-year %})! While we've had some hiccups, we're still buying way less new stuff and we're feeling good about our progress. Our life of craziness continues - over this last weekend, we [downsized into our apartment]({% post_url 2017/2017-06-27-minimalist-moving %}), dropping our living space by a third. On Wednesday, we are due to close on selling our house , which will finally bring us to complete debt freedom.
+We're officially halfway through our [year-long challenge to buy nothing new]({% post_url 2019/2019-03-12-buy-nothing-new-challenge %})! While we've had some hiccups, we're still buying way less new stuff and we're feeling good about our progress. Our life of craziness continues - over this last weekend, we [downsized into our apartment]({% post_url 2017/2017-06-27-minimalist-moving %}), dropping our living space by a third. On Wednesday, we are due to close on selling our house , which will finally bring us to complete debt freedom.
 
 We've got a lot of changes ahead, including one really big one that I'm excited to announce next week. Stay tuned :)
 
@@ -138,7 +143,7 @@ We'll keep doing our best at the nothing new year and try to apply what we learn
 
 ## Check Out All the Updates
 
-_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2019/2019-03-12-buy-nothing-new-challenge %}) to see how we did._
 
 _Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month Seven Update]({% post_url 2017/2017-08-01-nothing-new-year-month-seven-update %})._
 
