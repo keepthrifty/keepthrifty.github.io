@@ -1,4 +1,9 @@
 ---
+redirect_to:
+  - /buy-nothing-new-challenge/
+
+published: false
+
 layout: post
 
 author: chris_durheim
@@ -39,7 +44,7 @@ affiliate-link: true
 
 ---
 
-We made it! We're officially through our [Nothing New Year]({% post_url 2017/2017-01-02-happy-nothing-new-year %}) challenge and it's been a wild ride. We were far from perfect, but that doesn't mean that the challenge was a failure.
+We made it! We're officially through our [Nothing New Year]({% post_url 2019/2019-03-12-buy-nothing-new-challenge %}) challenge and it's been a wild ride. We were far from perfect, but that doesn't mean that the challenge was a failure.
 
 I consider it a success because it definitely made a positive impact on our finances and our environmental footprint - and we learned a ton!
 

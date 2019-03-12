@@ -28,7 +28,7 @@ Just ask Cait Flanders.
 
 Cait's book, _[The Year of Less](https://amzn.to/2MZdrOs){: target="_blank" rel="nofollow"}_ chronicles her journey through a __one-year shopping ban__ (which eventually extended to two years) - sharing her mindset, doubts, missteps, and triumphs.
 
-Cait's shopping ban was such an inspiration for us, that it led to our own [Nothing New Year Challenge]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}), which permanently changed how we view consumerism, money, and what's important in life.
+Cait's shopping ban was such an inspiration for us, that it led to our own [Nothing New Year Challenge]({% post_url 2019/2019-03-12-buy-nothing-new-challenge %}), which permanently changed how we view consumerism, money, and what's important in life.
 
 But don't think this book is just about the shopping ban - that's just one piece of Cait's much larger story. She opens up about her history with addiction, family issues, career questions, and ultimately shares her pathway to self-discovery. Cait's willingness to be vulnerable is refreshing in a world of carefully curated Facebook feeds and picture-perfect Instagram filters.
 

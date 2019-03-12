@@ -1,4 +1,9 @@
 ---
+redirect_to:
+  - /buy-nothing-new-challenge/
+
+published: false
+
 layout: post
 
 author: chris_durheim
@@ -36,7 +41,7 @@ categories: [article]
 
 ---
 
-It's been another interesting month in our pursuit of making it through the year [without buying anything new]({% post_url 2017/2017-01-02-happy-nothing-new-year %}). To say that we have a lot going on is an understatement, but we're still doing our best to keep on-track :)
+It's been another interesting month in our pursuit of making it through the year [without buying anything new]({% post_url 2019/2019-03-12-buy-nothing-new-challenge %}). To say that we have a lot going on is an understatement, but we're still doing our best to keep on-track :)
 
 This month, we:
 
@@ -157,7 +162,7 @@ Hope your own personal challenges are going well this year!
 
 ## Check Out All the Updates
 
-_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2019/2019-03-12-buy-nothing-new-challenge %}) to see how we did._
 
 _Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month Six Update]({% post_url 2017/2017-07-03-nothing-new-year-month-six-update %})._
 

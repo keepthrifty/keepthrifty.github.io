@@ -1,4 +1,9 @@
 ---
+redirect_to:
+  - /buy-nothing-new-challenge/
+
+published: false
+
 layout: post
 
 author: chris_durheim
@@ -150,7 +155,7 @@ I'm excited for what the rest of this year holds - the possibilities for our fam
 
 ## Check Out All the Updates
 
-_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2018/2018-01-02-nothing-new-year-wrap-up %}) to see how we did._
+_We've reached the end of our Nothing New Year Challenge. It's been a wild ride and our life has drastically changed this year. Be sure to check out our [Nothing New Year Wrap Up]({% post_url 2019/2019-03-12-buy-nothing-new-challenge %}) to see how we did._
 
 _Otherwise, if you want to read through the month-by-month updates, continue on to our [Nothing New Year Month Nine Update]({% post_url 2017/2017-10-03-nothing-new-year-month-nine-update %})._
 

@@ -18,7 +18,7 @@ affiliate-link: true
 
 ---
 
-Last year, we published regular spending reports as a part of our [Nothing New Year]({% post_url 2017/2017-01-02-happy-nothing-new-year %}). While the Nothing New Year is over, we'll still be publishing monthly spending reports with a few tweaks. Let's get started!
+Last year, we published regular spending reports as a part of our [Nothing New Year]({% post_url 2019/2019-03-12-buy-nothing-new-challenge %}). While the Nothing New Year is over, we'll still be publishing monthly spending reports with a few tweaks. Let's get started!
 
 Money can be a taboo topic, but we think that's silly. We've found a ton of value in seeing how other families are managing their money and we want to provide the same back to the community. With that, here's a deep dive into our January 2018 spending.
 
