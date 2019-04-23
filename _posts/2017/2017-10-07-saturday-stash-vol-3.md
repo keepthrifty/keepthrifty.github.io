@@ -39,18 +39,6 @@ I love a good analogy, so I'm excited to share this one from Ty at [Get Rich Qui
 
 In it, the actuary explains why pull-ups are the physical equivalent of the pursuit of financial independence. Not sure how? Check out his take on why you should [pull yourself up financially and physically](https://www.getrichquickish.net/2017/10/pull-yourself-up.html).
 
-## Live Your Retirement Today
-
-> Don't Put Off to Tomorrow What You Can Do Today
->
-> <cite>Benjamin Franklin</cite>
-
-If Ben Franklin, the original personal finance blogger, says it, you should probably listen.
-
-Mrs. [Adventure Rich](https://www.adventurerich.com) wrote a great article this week applying Ben's thinking to a topic near and dear to all of us - our retirement.
-
-We're trying to live our retirement today by taking a mini-retirement, but Mrs. Adventure Rich outlines great ways in which she's living her retirement while still working. Check out her article on how to [live your retirement today](https://www.adventurerich.com/live-retirement-today/).
-
 ## What Would You Do If You Lost Your Wedding Ring Diamond?
 
 We have our own story about my wife's ring (_you know, the one where [she sold it]({% post_url 2016/2016-03-23-engagement-ring-sold %})_), and I really recommend you check this one from [Love Liberty Shelter](http://www.lovelibertyshelter.com) out.

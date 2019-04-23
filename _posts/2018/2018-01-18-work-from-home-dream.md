@@ -18,7 +18,7 @@ categories: [freedom-story]
 
 ---
 
-_We are excited to introduce you to Mrs. AR from [Adventure Rich](https://www.adventurerich.com/){: target="_blank"}. Working from home can seem like the ultimate dream - no commute can free up a lot of time! Mrs. AR thought so too. Not only does she share how she made this a reality, but shares the challenges of working from home with us and how she created solutions that work for her. Here is her awesome story:_
+_We are excited to introduce you to Mrs. AR from Adventure Rich (unfortunately no longer online). Working from home can seem like the ultimate dream - no commute can free up a lot of time! Mrs. AR thought so too. Not only does she share how she made this a reality, but shares the challenges of working from home with us and how she created solutions that work for her. Here is her awesome story:_
 
 ## Backstory
 
@@ -47,19 +47,19 @@ When he received a job offer near my family in Michigan, we suddenly had a poten
 ![]({{site.url}}/assets/img/posts/2018-01-18-work-from-home-dream/bright-desk.jpg)
 {: class="image--left"}
 
-I guess for me, the first phase of planning took place as my husband and I looked for jobs in other locations.  We primarily focused on looking for a job for him, knowing I may have an opportunity to work remote.  Once he found and applied for a job, I took the leap of approaching my employer to [negotiate a remote office arrangement](https://www.adventurerich.com/negotiating-work-remote/){: target="_blank"}.  After a few weeks of discussions (in which time my husband received his job offer!), my employer agreed to allow me to work remotely and we packed our bags for a cross-country move!  
+I guess for me, the first phase of planning took place as my husband and I looked for jobs in other locations.  We primarily focused on looking for a job for him, knowing I may have an opportunity to work remote.  Once he found and applied for a job, I took the leap of approaching my employer to negotiate a remote office arrangement.  After a few weeks of discussions (in which time my husband received his job offer!), my employer agreed to allow me to work remotely and we packed our bags for a cross-country move!  
 
 During this time, we went through many phases of planning on the financial side.  We modeled various scenarios based on the cost of living in the potential locations and the various salary levels we might be at.  Excel and comparison lists (oh, and pros-cons lists) became my best friend during this time!  
 
 ### What challenges did you face along the way and how did you push through?
 
-The initial hurdle in moving to a work remote arrangement was getting approval from my management.  Once that was in place, I had a new set of challenges… [making a home office environment actually work](https://www.adventurerich.com/working-remotely-key-components-success/){: target="_blank"}!
+The initial hurdle in moving to a work remote arrangement was getting approval from my management.  Once that was in place, I had a new set of challenges… making a home office environment actually work!
 
 My biggest adjustment and challenge was learning how to balance and separate home and office life when they both took place under the same roof.  I had to dedicate a desk in a room with a door for “work only” purposes so that I can “go to work” each day and leave the house behind.  And when I am done for the day, I have to “go home” and avoid checking email late into the evening or being constantly “on”.  It has taken some tweaking throughout the year, but I am now in a good rhythm and schedule that works well for our life.
 
 ### How did your dream evolve or change as you worked towards your goal?
 
-In a way, the dream didn’t evolve too much.  I had a fuzzy idea of what I would like about working remotely, but that became more clear after I began discussing the option with my management.  It went from a vague image to a sharp, clear picture of [what I would need to do](https://www.adventurerich.com/working-remotely-key-components-success/){: target="_blank"} to make a remote arrangement work well.  
+In a way, the dream didn’t evolve too much.  I had a fuzzy idea of what I would like about working remotely, but that became more clear after I began discussing the option with my management.  It went from a vague image to a sharp, clear picture of what I would need to do to make a remote arrangement work well.  
 
 
 
@@ -76,7 +76,7 @@ One thing that surprised me quite a bit was my need for social interaction.  Sur
 
 ### Do you have any regrets or things you would do differently?
 
-I don’t think I have regrets, but I do miss aspects of the office and I have to remind myself of the [great benefits of working remotely](https://www.adventurerich.com/perks-of-working-remote/){: target="_blank"} at times.  Working from home can be lonely and isolating, but it has been an incredibly positive change overall.
+I don’t think I have regrets, but I do miss aspects of the office and I have to remind myself of the great benefits of working remotely at times.  Working from home can be lonely and isolating, but it has been an incredibly positive change overall.
 
 ### What would you say to someone who wants to do what you did?
 
@@ -97,7 +97,7 @@ Oh, so many freedom dreams!  At the moment, I love my job and my situation worki
 
 ### How are you planning on achieving this new dream?
 
-Right now, being in a sound financial scenario is the best way for my husband and I to ensure our dream of being flexible and being able to make the best decision for our life separate from the strict dollars and cents considerations.  To that end, we work hard to automate our savings, invest wisely, and live below our means in order to [create the option to seize opportunities](https://www.adventurerich.com/money-options/){: target="_blank"} that may come our way in the future!  
+Right now, being in a sound financial scenario is the best way for my husband and I to ensure our dream of being flexible and being able to make the best decision for our life separate from the strict dollars and cents considerations.  To that end, we work hard to automate our savings, invest wisely, and live below our means in order to [create the option to seize opportunities](https://mymoneywizard.com/choose-money-adventure-4-paths-financial-independence/){: target="_blank"} that may come our way in the future!  
 
 ___Thank you to Mrs. AR for sharing her story. We love that she is able create a work life balance by “going to work” and “going home” while working from home. We also love  the advice to experiment with working from home! It can be a great way to get an employer on board and allow to you try it out! We wish Mrs. AR and her family the best and look forward to seeing what the future brings in their journey.___
 
