@@ -13,12 +13,12 @@ image:
 
 categories: [article]
 
-affiliate-link: false
+affiliate-link: true
 ---
 
 Have you ever vacationed with your entire family in a single house?  I’ve always told Chris that I think the best time to spend with extended family would be in a neutral setting at a neutral time (no holidays please). This idea became a reality when my mom surprised us with an amazing gift.
 
-My mom and aunts recently sold my grandparents’ house. With my mom’s portion of the sale she decided to take her family on a vacation. We joined my parents, two sisters and their husbands and kiddos in a [beautiful three story home](https://www.vrbo.com/1379550){: target="_blank" rel="nofollow" } with a pool right on Bradenton Beach, FL. My Nana loved nothing more than being with all of her family so it was a wonderful way to honor her and my grandpa.
+My mom and aunts recently sold my grandparents’ house. With my mom’s portion of the sale she decided to take her family on a vacation. We joined my parents, two sisters and their husbands and kiddos in a [beautiful three story home](http://www.tkqlhce.com/click-8745370-10697641?url=https%3A%2F%2Fwww.vrbo.com%2F1379550){: target="_blank" rel="nofollow" } with a pool right on Bradenton Beach, FL. My Nana loved nothing more than being with all of her family so it was a wonderful way to honor her and my grandpa.<img src="http://www.lduhtrp.net/image-8745370-10697641" width="1" height="1" border="0"/>
 
 ## Anna Maria Island, Florida
 
