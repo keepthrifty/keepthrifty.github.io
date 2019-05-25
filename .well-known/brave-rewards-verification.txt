@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: keepthrifty.com
-Token: 72d3c21c7a4a2b427381243e8b6d59a149145528cfa4d9cd563f42b10c109a37
