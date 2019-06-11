@@ -4,7 +4,7 @@ layout: post
 author: chris_durheim
 
 title: "What Are You Optimizing For?"
-description: "TK"
+description: "Optimization is great...unless you're optimizing for the wrong stuff"
 
 date: 2019-06-11 6:58:00 -0500
 
