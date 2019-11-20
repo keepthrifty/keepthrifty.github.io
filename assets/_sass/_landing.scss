@@ -14,7 +14,7 @@
   p {
     font-size: 1.1rem;
     font-weight: 300;
-    text-align: justify;
+    text-align: center;
   }
   @media screen and (max-width: 700px) {
     h2.landing-title {
@@ -62,6 +62,7 @@
 }
 
 .landing-box__message {
+  text-align: center;
   padding: 1rem 3rem;
   flex: 3 3 10rem;
   @media screen and ( max-width: $screen-m ) {
@@ -149,4 +150,9 @@ div.latest-content__links {
     color: $meta-color;
     text-transform: uppercase;
   }
+}
+
+.bordered {
+  border: 1px solid lightgray;
+  border-radius: 2rem;
 }

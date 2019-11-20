@@ -24,28 +24,26 @@
 }
 
 .footer-row__element {
-  flex: 1 0 18rem;
+  flex: 0 0 100%;
   color: $meta-color;
   padding: 0 2rem;
 }
 
+
+#find-us-on {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  h3, a {
+    flex: 0 0 auto;
+    margin: 0 2rem;
+  }
+}
 
 .copyright {
   margin-top: 2rem;
   font-weight: 300;
   .meta-header {
     font-size: 1rem;
-  }
-}
-
-@media screen and ( max-width: $screen-m ) {
-  .collapse-order-1 {
-    order: 1;
-  }
-  .collapse-order-2 {
-    order: 2;
-  }
-  .collapse-order-3 {
-    order: 3;
   }
 }

@@ -28,18 +28,6 @@ We've got [articles](/articles/) and [success stories](/freedom-stories/) to hel
 
 We've also created a [money tracking app](https://thrifty.keepthrifty.com) to help you take control of your finances and make those dreams a reality.
 
-## How to Connect With Us
-
-We love connecting with our readers and we hope to build a supportive community of like-minded dreamers.
-
-We'd love to connect with you! You can [send us a note](/work-with-us/) or find us on [Twitter](https://www.twitter.com/keepthrifty/).
-
-But the __best__ way to connect with us is to join our email list.
-
-You'll get a personal update and link whenever we publish a new article, story, or video and we'll occasionally send you special subscriber-only content and invitations.
-
-{% include components/subscribe-form.html modal-id=304007 center-button=true buffer-button=true %}
-
 ## Diving In
 
 Are you ready to dive in? _Great!_

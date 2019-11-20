@@ -1,6 +1,9 @@
-{%- if page.include-subscribe -%}
-{% include components/subscribe-form.html modal-id=307007%}
-{%- endif -%}
 {% include page/page-share.html %}
+
+{%- if page.include-subscribe -%}
+<div class="bordered">
+{% include components/cta-big.html %}
+</div>
+{%- endif -%}
 
 {% include shared/comments.html %}

@@ -117,7 +117,7 @@ h2.page__title--subtitle {
 /* POST BODY */
 
 .page__body {
-  margin: 0 auto 2rem;
+  margin: 0 auto;
   padding: 0 2rem;
   @media screen and (max-width: $screen-s) {
     padding: 0 1rem;
@@ -312,7 +312,7 @@ footer.page__footer {
 .post-nav {
   display: block;
   width: 16rem;
-  margin: 3rem auto 1rem;
+  margin: 0 auto;
   p {
     text-align: center;
   }
