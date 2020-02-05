@@ -18,7 +18,7 @@ categories: [freedom-story]
 
 ---
 
-_We are excited to introduce you to Rich from [PF Geeks](http://www.pfgeeks.com/about-us/){: target="_blank"}. Marriage is awesome, but it comes with a lot of challenges. One of those challenges tends to be finances, especially if one is a saver and one a spender. This can lead to a lot of frustration until you get on the same page. Rich shares his journey in becoming a financial team with his wife so they could accomplish their goals._
+_We are excited to introduce you to Rich from [PF Geeks](http://www.pfgeeks.com/about-us/){: target="_blank"} and [Meal Prepify](https://mealprepify.com/){: target="_blank"}. Marriage is awesome, but it comes with a lot of challenges. One of those challenges tends to be finances, especially if one is a saver and one a spender. This can lead to a lot of frustration until you get on the same page. Rich shares his journey in becoming a financial team with his wife so they could accomplish their goals._
 
 ## Backstory
 
