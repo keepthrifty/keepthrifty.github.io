@@ -6,21 +6,13 @@
   </div>
   <div class="brand-bar__icons">
     <ul class="brand-bar__icon-list">
+      <li class="brand-bar__icon-item"><form action="{{ '/search/' | relative_url }}" class="search-form">
+        <input type="text" name="q" class="search-form__input">
+      </form></li>
       <li class="brand-bar__icon-item"><a href="https://www.twitter.com/keepthrifty" class="brand-bar__icon twitter-hover">
         <span class="sr-only">Find us on Twitter</span>
         <i aria-hidden="true" class="fa fa-twitter"></i>
       </a></li>
-      <li class="brand-bar__icon-item"><a href="https://www.pinterest.com/keepthrifty/" class="brand-bar__icon pinterest-hover">
-        <span class="sr-only">Find us on Pinterest</span>
-        <i aria-hidden="true" class="fa fa-pinterest-p"></i>
-      </a></li>
-      <li class="brand-bar__icon-item"><a href="https://www.facebook.com/keepthrifty/" class="brand-bar__icon facebook-hover">
-        <span class="sr-only">Find us on Facebook</span>
-        <i aria-hidden="true" class="fa fa-facebook"></i>
-      </a></li>
-      <li class="brand-bar__icon-item"><form action="{{ '/search/' | relative_url }}" class="search-form">
-        <input type="text" name="q" class="search-form__input">
-      </form></li>
     </ul>
   </div>
 </div>
